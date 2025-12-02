@@ -1,0 +1,633 @@
+Kingdom Death: Monster
+A Collection of Designer Notes
+The following information was originally culled from forums and the Kingdom Death: Monster Kickstarter pages by
+aredman and Götz Kirchhauser and originally edited by Ashan. Further notes were compiled with final organizing and
+editing by Victor Garrison. This is a fan document and is not intended to be perceived as an official Kingdom Death release.
+Part I: Kingdom Death: Monster Game Play Comments and Notes
+Game Play
+The design "vision" if you will, is that in a single game session you will have 1 hunt phase ,1
+showdown phase ( fight ) & 1 settlement phase. Spanning about 30-90 mins depending on what
+happens and how long your gaming group takes. We personally game for extended periods of time and
+usually do 1-3 sessions in total. It's a campaign so your looking at a minimum of around 15-20 sessions
+in total to take down the boss, but there are a lot of built in variables that can greatly extend or shorten
+this overall estimate.
+There are no dungeons, with doors and rooms in the traditional sense. There is a bit of random
+exploring while you "hunt" a target, but that is done with dice rolls and a table based on the creature
+you are currently hunting. The board is pretty much an arena, with some exceptions on how different
+monsters interact with it. Some will fly, drag players around, hide, etc.
+Currently yes, you will only be fighting one monster at a time. There may in the future be monsters
+which have several parts or characters, but for now I am focusing on the core "boss" concept.
+The settlement/civ part of the game is basically the "shop & manage" phase. The board is not needed
+and instead you use information tiles and innovation cards that express what you can do, build, visit
+etc. If you are familiar with warhammer quest, imagine the settlement phase with modular locations
+and a bit more depth connecting everything.
+I've had many backers request that the locations be made into tiles or little physical houses and while I
+must admit I am totally charmed by this idea I don't want to complicate the civ part of the game and
+require building positions etc, etc.
+Not crazy about tokens or token tracks. They are the kinda thing where once you have loads of em, you
+forget to move them or worse yet lose the token and up using scrap paper or a dice anyway. To keep
+things simple, the game does not have any derived stats and everything is basically gear based.
+The "settlement" consists of several 4"x8" heavy cards (might make them tiles), each representing a
+location. You begin with just 3. The card itself has all the rules of what you can do at the location, what
+stuff you can craft or what special rules happen when a survivor interacts with it. Generally speaking,
+
+you can craft freely from any location, but only participate in a single endeavor (a locations special
+property) once a settlement phase. This really helps streamline things.
+Exactly how you use the armor kits is up to you as a hobbyist. I looked into plastic snap options and
+determined it would end up being more restrictive and also greatly limit the design of each part. I
+provide the parts, you decide how best to utilize them. All of the models in the game box are needed to
+play, any doubling up or extra sets are purely bonus figures.
+There will be a story section with important events that can trigger during the game play. These will
+lead you to the ultimate goal of confronting the Watcher, the last boss monster of the campaign. The
+game can still continue past this point if you wish to "get every upgrade / little detail possible" but it
+makes for a good natural ending. The game can also be played without the story events in a… lets just
+see what happens sort of way.
+Win Conditions
+You lose if all your survivors die. You 'win' if at least one of your survivors lives past the last boss
+which at this point can either be The Watcher or the Dragon King. But as has been stated previously,
+getting up to and defeating the last boss isn't going to be a cakewalk. It will take prepping your
+survivors correctly, a well upgraded settlement and some luck before you'll have a chance, however
+small it may be.
+The whole idea is the concept of humans 'surviving' to struggle to make an existence in a nightmarish
+world dominated by monsters that would have no qualms about eating them or using them as foot rests.
+Survivors
+While a survivor can live thru multiple game sessions and rack up certain bonuses(for example crazy
+blind john, who is really great at fighting lions!), they are not as important as making sure your entire
+settlement endures from generation from generation.
+90% of the stats / abilities come from gear which can be taken from fallen survivors and passed thru
+generations. Having a clean slate survivor is often great, because he won't be missing any limbs or have
+any disorders!
+Actually... you do get +1 survival point for naming a survivor! Survival points let you dodge an attack
+that might have killed you, let you activate a piece of gear a second time and sometimes are used for
+special maneuvers. Names are also a great way to get attached to survivors before they die!
+The Gear System
+The Gear System is a 3x3 grid, and the gear cards are square. Essentially granting you 9 slots to be as
+creative as you like with. Wanna be a crazy naked guy covered in monster grease, lucky charms and
+trinkets? You got it. Wanna be a armored powerhouse relying just on your favorite weapon? Done. That
+is of course provided you craft the gear required for your builds. I designed the system to reward
+experimentation and to be organic. In some cases what people might consider "low level gear" from
+easier to kill monsters might be more viable then "high level" gear from harder monsters. I personally
+do not like games that have a smooth and easy level advancement to follow. With an organic system,
+you might feel on top of the world one game and the next get your teeth knocked out. It also fits the
+overall theme of the game more than a strict level up system that scales along with you.
+
+Gear cards can be combined for a different use. The cloth gear card and the sharp stone gear card
+(Those two seem to be every survivors starting equipment) can be combined into a crude sling - so you
+actually have a ranged weapon at your disposal right from the beginning.
+Each survivor can equip up to nine gear cards, arranged in a 3x3 grid. Some cards have colored areas
+(tabs?) on one or more sides. If adjacent cards have the same colour on the corresponding edge, a
+conditional benefit would be granted. For example, a monster tooth necklace would grant +1 strength if
+its red tab was completed, and the lucky charm would grant +1 luck if its blue tab was completed.
+However, depending on what gear you have, you will have to arrange the grid to maximize benefits,
+optimizing your gear for that particular encounter.
+You can have as many "weapon" type gear cards as you can fit in your 9 slots. Normally you can only
+activate one piece of gear per turn. But there are many ways to gain more gear activation's. By default
+you can spend a survival point and take an extra move or gear activation. There is also a piece of gear
+that when activated, allows you to activate weapon type gear that is on its left and right side. So for a
+single gear activation, you can attack with two weapons! This is a powerful combo tho, and basically
+takes up 3 slots of your total 9 slots in a horizontal line. The game design naturally limits how many
+powerful combos you can fit into your gear load out. So its sort of like a puzzle.
+When an area of the body is struck, the gear on that part of the body is not destroyed. It's assumed you
+later auto repair it at the settlement, as anything else is too much annoying book keeping that does not
+really add much immersion. There are of course exceptions to this general rule, but they are rare.
+Gear is also not limited to just weapons. A Fecal Salve can be applied to make yourself not a threat, a
+whisper harp can be strummed to remove a mood card and a Rawhide Drum can be beat to negate
+damage from intimidation attacks like roars or stare downs.
+
+The Gear In Play:
+• There seem to be 4 types of gear: armour, weapons, shields and trinkets (that's what I call
+them).
+• There seem to be different classes of weapons e.g. dagger and sword, as well as ranged
+weapons.
+• It is unknown if there is a limit on how many weapons a survivor may carry.
+• There are 5 locations for armor: arms, legs, torso, waist and head.
+• Presumably only one piece of armour can be worn per location.
+• There seems to be no limit to trinkets (other than the maximum of 9 gear cards).
+• Presumably, a survivor can use only one shield.
+• Adam stated that the items in a survivors possession auto repair after a showdown--
+HOWEVER, there are items that are labeled as frail. These items can be destroyed in an
+encounter. After a showdown roll a D10. If you fail the roll specified on the gear card the item
+is destroyed (discard the gear card).
+Resources...
+There were said to be two different kinds of resources: basic and monster-specific. Examples for basic
+resources: hide, bone, monster organ. Example for monster specific resources: white fur (from the
+white lion).
+Some armor is more about spiritualism and a sense of "becoming" the beast. The dragon king armor for
+example, has an exposed chest on both the male & female because they are imitating the creature itself,
+which has an exposed chest.
+There Are Several Things That Can Be Done With Resources:
+1. Consumables (e.g. Monster Organ - 10% chance of catching a parasite + ??)
+2. Craft gear with them
+3. Upgrade/build settlement locations
+4. Trade them in for innovation cards at Lantern Hoard settlement locations
+5. Broken lanterns can be harvested for scrap metal, once you've built a foundry and have a decent
+way of purifying it. Metal is super limited and usually unless it's found or given to the
+settlement, you just won't have it.
+Skills / Settlements:
+The basic game comes at least with:
+Lantern Hoard: kind of hard to read but it seems you can trade resources for innovation here.
+Organ Grinder: seems to be the most basic craft - fashions trinkets out of organs and sometimes one
+other resource. Location is upgradable.
+Skin Worker: fashions 5 different pieces of rawhide armour out of one hide each as well as a weapon
+(whip) and a trinket (drum) out of one hide and one bone each. Location is upgradable.
+
+Bone Smith: fashions 3 different hand to hand weapons, one ranged weapon and one piece of armour
+(skull helmet) out of bone (and in some cases one other resource). Location is upgradable. Interesting:
+The helmet can be fashioned out of either 2x bone or one skull.
+Leather Worker: can produce leather (hard to read but presumably out of skin resources), can
+fashion 5 different pieces of leather armour out of leather (and in some cases other resources), as well
+as a shield, a weapon and a trinket. Appears not to be upgradable.
+Catarium: this is where armour and other equipment is crafted out of lion specific resources. Again,
+we get 5 pieces of Lion Armour and 8 weapons/trinkets. Appears not to be upgradable.
+
+Monster AI Deck
+Monsters have around 25+ AI cards and 25+ hit location cards each. Monsters have 3 difficulty levels
+that are made up of a combination of these cards. So each monster kinda ends up with its own
+personality when you go to fight it. You might end up with a lion that growls and jumps around a lot
+one day, then a lion that is short tempered and likes to drag its prey away from the group on the next.
+Yes, when an AI card is used its discarded face up next to the AI pile. When the monster can no longer
+draw an AI card, shuffle up his discard and draw a fresh card from the top.
+However, when an AI card is removed as a wound. It's set to the side face down so you don't know for
+sure which of its cards you have removed. Certain gear and in game skills will interact with the
+monsters AI deck so you can remove problem cards early on or take appropriate counter measures for
+its upcoming actions.
+I asked myself; what happens if the last card in the AI deck is a mood card? Well, the mood card is
+played as per normal and stays in play. It still does count as a wound until it is discarded from play. The
+Monster then uses a desperation attack that is printed on its stat card. If the mood card is removed from
+play for any reason, the monster dies. So, in the example from the game play video, let's assume the
+enraged card was the lions last AI card. Had he killed that poor survivor with his desperation attack, he
+would have met the discard conditions for that mood card and also have killed himself in the process.
+KD - Showdown
+You can : move, use survival points, gain positioning advantages, potentially interact with two different
+decks that effect the monster, cause persistent injuries, play dead, interact with terrain, hide behind
+other survivors etc etc etc
+This mechanic was inspired by watching boxing matches. As the two opponents constantly try to out
+wit each others movements and gain a rhythm advantage. When a boxer attacks, he drops his guard and
+depending on how he and his opponent are moving, he might end up taking a face first counter punch,
+hitting an elbow painfully, luckily striking the underside of the chin or maybe landing a solid body
+blow. The hit location deck abstractly represents the chaos of combat and myself and play testing
+groups have found it to be both incredibly fun and exciting.
+It's a lot more organic and feels like more of a fight. Then say a typical video game rpg where you have
+a single physical attack option and simply deal consistent damage.
+Hide from a monster? There are certain things that make you count as not a threat, but hiding from a
+monster... they are superior beings It would more likely ignore you because your an insect. But it still
+KNOWS where you are. That is a key difference between KD:M and other game systems, these
+creatures are not just simple beasts.
+The Game Board
+Right now I have a 2'x3' board illustrated but not painted. The entire thing was unique and was put
+together the extremely talented artist that handles the majority of the concept art. ( Not the Pinup Stuff )
+I plan on having it printed and mounted to a proper foldable game board so that you can use it when its
+time for a showdown with a monster! I can also so it being used for any popular grid based game as a
+
+board, however I will mention that the squares are a little larger then 1". I prefer the extra room and it
+doesn't feels better from a design standpoint when a model can fit in a square with a little breathing
+room. Your more "in it" then kinda on it.
+The Story System
+The story system is tricky to describe, it is a collection of folk stories and more major events that may
+or may not happen. The "True Story", is you and your friends sitting down to play and it ends either
+when you are wiped out, defeat the watcher or decide to close the campaign out.
+A fully interactive novel is way too heavy for a tabletop game, it would also distract from the real goal
+of telling a shared story through game play.
+It's not a singular story, with a beginning middle and an end. It is a collection of "major events" that can
+happen during the settlement's period of existence. So there is no path to follow or not follow, the path
+is you and your friends playing the game. For example, based on the choices you make In one
+campaign, the Kings Hand may visit the settlement, while in another campaign he might not. While its
+arrival and unfolding events might affect your settlement in a permanent fashion, it is not a requirement
+to finish the game.
+The problem I have with fixed scenarios is that they don't feel fresh for very long. After the initial
+excitement of learning the scenario and running it, it's usually does not offer much replay. When I was
+in the early design phases of Monster, I wanted to ensure that the game was more of an experience and
+less "10 scenarios" in a book that were fun once.
+A great throwback example of this is Hero Quest, with its limited scenarios vs Warhammer quest which
+could be played 100% randomized. The design conclusion I came to is what I feel to be a more modern
+combination of both of these amazing game experience types.
+
+There is a storybook that comes with the game, depending on financial/printing realities it might just
+simply become a part of the rulebook, but the hope is to have it a fully independent book. The
+storybook is designed to be your starting point in KDM and the first few pages will have the
+introduction story that is in the game pitch video.
+Directly after being introduced to the starting survivors you will be lead into the first "showdown" that
+will give a quick introduction to the game rules. You will learn by going through the battle. The story
+then continues bringing us to the settlement and going over how to use the resource cards you earned
+from the battle.
+At this point, that is where the story leaves you. Nestled right up against the dawn of your civilization.
+From here you will play and make your own choices until the game system prompts you to re-open the
+story book for a "story event".
+Gameplay will then proceed, directing you to major "story events" when appropriate. They are
+triggered in a wide variety of the ways and some of the events themselves have multiple outcomes. The
+"story" of your settlement and survival will be a combination of the experience you have playing the
+game, major story events and most importantly the decisions and outcomes of the many pivotal
+moments that develop during game play. Keep in mind that many of these story events are not essential
+to completing the game and you may have a campaign that ends up only ever touching on a few!
+That is essential to the "campaign mode" of the game and is it designed with the intent of being a
+repayable sandbox. It's not really possible to see all the content in a single play through and between
+gaming groups the overall experience should be quite different.
+Some stretch goals have introduced another game type within the game that I am pretty excited about. I
+couldn't fit them into the initial scope so I am pleased that we were able to add them. These are the one
+shot challenge scenarios. These are planned to be designed more like a puzzle. You will start with very
+specific conditions and will need to work towards an objective to win. It might range from a "kill this
+monster, with this exact gear and here is its exact AI deck". Or it might be a longer single shot giving
+you a certain number of lantern years ( the in-game time unit ) to topple a challenge.
+I feel very strongly that a proper story is "shown" instead of just told. In game terms to me, that means
+it's something you experience in game, instead of just reading a few pages in a rulebook. The game is
+designed so you will learn more about the story as its happening to you. That is of course, unless you
+are the type that likes to skip ahead and reads everything beforehand! Thankfully doing so will not
+spoil everything as it will only reveal what can possibly happen instead of what WILL happen.
+Kingdom Death : Monster is a love song to the types of games myself and my gaming group adore the
+most. It is a game that has been slowly coming to life thanks to years of hard work, the hands of many
+talented artists and the support of fans, hobbyists, collectors and friends. A fact: this is not a mass
+market project, nor is the game intended to be mass market and it might never go into major
+distribution. There are lots of reasons for this and I would be happy to get into them at another time and
+another place.
+A 5 minute gameplay explanation video is very long to simply cover a single phase of a game. As much
+as I'd love to cover all 25 of a creatures AI cards, along with the various combinations that can happen
+as they are played, and a set of 4 survivors each with a full load out of 9 gear cards, I struggle to see
+that as an effective way to manage my or the viewers time. I do still want to touch upon all of that and
+
+give a better view of all that can happen outside of what was highlighted in the gameplay video. But it
+is certainly a challenge!
+Monsters and Combat
+Every monster is quite unique and a tremendous amount of time and effort has gone into providing
+each one with their own flavour. For example, the Lion has an isolate prey AI card, where he will drag
+knocked down survivors away from the group. And survivors themselves get powerful survival points,
+which can be used to dodge, move at any time, gain another gear activation or in some cases are
+required for special manoeuvres.
+When I was working on the basics of the combat system, I had a few major essentials for a combat that
+supported a game that is essentially about cooperation, survival, tools and human tenacity from
+generation to generation.
+No Sure Bets, for example the idea of "I am level 20 you are lvl 1, I win GTFO", doesn't exist.
+Knowledge is Power - Both what you know about fighting the monster and how the survivor is geared
+can make a big difference. The lion has a particularly dangerous head chomp AI card, if a survivor has
+an insight ability he might be able to keep peeking the deck for it. Or an opportunity might arise when
+the lions jaw is struck, a critical on this location would ruin the lions mouth and change the effect of the
+head chomp AI card. Critical hits are not just limited to pure luck rolls, but it all depends on the gear of
+the survivor, the settlement, and how the battle unfolds.
+There is also a survival point system I left out of the video because I was worried about over
+complicating the explanation. A survival point lets you take another action and you can use them
+whenever you want. If a monster hits you, you could use a survival point to move out of the way. Or
+you could use a point to activate a piece of gear a second time. Survival points are limited and do not
+regenerate from game to game. So its crucial to manage them.
+I wanted an actual challenge - I will get a little personal here. I find most games to be either painfully
+easy or worse yet, give me endless duplicated content to grind thru in order to make progress. The
+default difficulty of this game will be hard. Unless your group is filled with game geniuses your first
+settlement will fail, you will not make it thru to the end in a single campaign and a lot of survivors will
+die. I understand a lot of people and groups do not enjoy this and I will design a much easier setting for
+them.
+But for me? I want it to kick my teeth in, I want the game to get my hopes up high only to grind the life
+out of my poor survivors and leave them helpless in the darkness, endless monsters closing in on them
+only for the S**T to hit the fan and everyone to just start flipping their garbage. That moment when
+your group takes down a lvl 3 phoenix, when you planned and crafted a specific gear list, risked life,
+limb, sanity and... you managed to pull it off? You'll always remember that group of survivors, those
+baddasses that despite the odds came back home and the sting on your hand from all the high fives will
+warm your memory for years to come!
+That brief, vibrant spark in the darkness you'll share with friends is the true design purpose, and has
+been the single most motivating factor behind the project itself.
+Without risk there is no reward.
+The game very much embodies that.
+
+The confrontations with monsters are indeed more like boss fights and there is no dungeon crawl aspect
+to this game. We found during early play testing that dungeon crawl + boss fight + settlement + hunt
+phase + crafting was just too much. It became tedious as we always ended up having to un build the
+dungeon when it came to the boss fight and really that's what everyone was excited about anyway. In
+order to deliver a more focused product that avoided drag a room based dungeon exploration was
+removed and instead the settlement / innovation system got more attention.
+The game will come with a static but gorgeous 2'x3' battle board. And each monster has a few unique
+"terrain" or "terrain" like features that will be added to the board when you encounter them. We found
+that this was the best way to handle it and it kept the focus where I wanted it. On the thrill of a single
+big challenge.
+In regards to traps and abilities that manipulate both the board and the monster, all I can say is yes
+those do exist!
+Lore, miniatures, flavor text, tiles, art are not limited to just theme. They are to me essential parts of the
+game experience. This also includes the game rules themselves which all work together, several
+instruments in a band to create a unique symphony.
+Games are made from more then just pure rules and the more detailed the rules become and the further
+away they are from the other components the more it becomes a detailed simulation and not a game.
+This is of course my opinion. There is no "theme" in poker and it is a game and not a simulation.
+However there is a long standing romance that brings more to the table then just number crunching and
+card draws. That "extra" component is what I am most obsessed with capturing.
+In Kingdom Death combat is structured to fit the feeling of the game. There is indeed a targeting
+mechanic survivors can gain access to and the choices you have during combat while deep, does
+depend mostly on the gear you bring into the fight with you. Man innovates, man learns, man creates
+tools.
+I had no desire to create a hyper detailed combat simulation wherein a limitless realm of possibilities
+was open. That type of game is better served with a human game master, which this game does not
+have. I wanted to de-humanize the experience and the lack of a human player controlling the monsters
+lends to the "extra" feeling you get when everyone is in the same boat and you can't be positive what
+will happen next.
+Multi Boss Game Play?
+Multi Boss stuff might be written into the book, but it would be for advanced players or "one-shot"
+challenge scenarios. Just like dungeon crawls where you can simply end up with TOO MUCH to keep
+track of, I wanted to keep the focus very isolated and clean for the core game play.
+On the monsters turn, draw an AI card and refer to it's cards in play.
+On the survivors turn, examine your current gear which will all be right in front of you (each survivor
+has 9 gear slots, each piece of gear is represented by a 2"x2" card). I want to keep referring to the
+rulebook during combat to an absolute minimum as it slows down game play and disrupts game play
+immersion.
+
+Concerning The Non-Game Component Pin-Up Miniatures
+The pinups are not part of the game world. I really need to untangle this at some point. It is tricky!
+They are alternates and pieces of art.
+I won't beat this to death since everyone else jumped in on it, but yes. The Pinups are separate from the
+game world. They were inspired by the american classic pinups from the 40's, 50's & 60's. I give the
+artist that I work with on them a ton of creative freedom so a lot of his personal views on pinups come
+thru in the designs.
+The pinups in all honesty have played a very critical role helping the project gain momentum and
+despite them not being "cannon" I won't be turning my back on a single one. They are what they are, to
+those that it offends I apologize, but that is all I can offer in respect to the artists whom pour so much
+effort into the art and their physically sculpted incarnation. They are more art to me then anything else,
+but I guess a lot of the project is like that!
+Now, in regards to the normal non pinup woman, the proportions were exaggerated a bit to make them
+more easily identifiable from their male counterparts on the table top. So there is a definite design
+choice there. There is also a game world reason, being that the original humans in the game were made
+in a certain image by something. I don't want to give out spoilers so I won't say any more.
+As you all can see, there's quite a bit of information, if you only look hard enough.
+Part II: Kingdom Death : Lore Compilation
+The World
+Kingdom Death is an exploration of a world wherein the focus is on the relationships between humans
+& monsters. Further development upon this core concept lead us to discover that humans are not the
+dominant race and thus there is very little human recorded history.
+In the world humans are seen by monsters as simply another type of monster. Depending on the
+monster or entity their viewpoint on humans can be vastly different. Some might require them for food,
+others drawn to a particular emotion they exhibit, some even fearing humans ability to quickly
+procreate learn and create tools.
+Humans do not have a special place in Kingdom Death. They do not have “souls” that other monsters
+lack, nor any specific ability or lack thereof. What does make them “special” is our own perspective
+and that they are the window in which we can hopefully experience and explore a world that is very
+unlike our own.
+I am pretty obsessed with how stories are told and with Kingdom Death I wanted to look at things from
+a different perspective then the usual. The world is quite large and we are just seeing small isolated
+facets of it. There are many entities and gods that are far beyond human understanding, but I feel its
+important to still "show" things from a human perspective and to not just "tell". There is no singular
+ruler over all the lands, The Golden Entity is merely the entity that rules the Holy Lands. It is vain but
+
+has no mortal shell and the lands are an extension of its will using humans ( not quite as slaves ) to
+create its bizarre empire of self appeasement. The Wet Nurse is a sterile entity, it can neither create or
+host life. It's sole purpose is to raise human children and pass nutrients that chemically program
+different type of workers in the society. There is no free will, nor can these people be freed. Hence why
+I do not call them slaves. I am calling the area Monster takes place as "The Kings Land", but that is just
+a name I use to describe it to myself. The reasons for the stone faced floor and the perpetual darkness
+might be revealed thru the game or in an expansion. I love stories, and to show glimpses of this odd
+world. But I am afraid when it comes to "tell", I am very cautious!
+The survivors have an abstract concept of time and record it as the strange lanterns naturally die. In the
+game they are called "Lantern Years".
+There are monsters in the KD world that eat maps, specifically. You would run the risk of inviting such
+a thing to your home, which would be bad!
+The human cultures on Kingdom Death are not advanced enough to figure out the planets shape. think
+of it more like... an organism that is being invaded by several viruses at once. most of what humans see
+and perceive is false so it is quite likely that if there is a moon, it's actually something far from what we
+consider it to be.
+The Twilight Knight
+The Twilight Knights order once protected the recorded knowledge of humanity in Kingdom Death.
+Now in shambles, the Twilight Knights, with their archivists, struggle to keep the tiny flame of
+knowledge alive.
+Initiates to the Twilight Knight order are permanently altered to protect their minds from the horrors
+they use face in their quest. Detached and unfeeling, they are prepared to pay any cost to salvage and
+protect the valuable records of wisdom that remain in the world.
+The Twilight Order
+
+Stories lament the fall of the Grand Library in hushed tones. The surviving archivists and their sworn
+knights fled clutching precious armfuls, all that remains of the knowledge assembled by humanity.
+Today the Twilight Order is scattered, working in isolated pairs to do and record what little good they
+can.
+Mind Locked
+How a man becomes a Twilight Knight is not well known, even within the order. The "initiation" alters
+the mind, locking it to protect the knight from the incomprehensible abominations that he must face
+with a steady sword. Their mind does not truly rest, preventing knights from absorbing the horrors that
+would cripple others. The process robs them of the quietude of dreams.
+How They Play
+A Twilight Knight is an expert swordsmen and a surprisingly sturdy melee fighter. High sanity
+combined with trained and tempered will can thwart most psychological attacks and makes sure they
+do what they need to: dish out punishment at a consistent rate.
+The Twilight Knight is very special figure. It was the first character to be conceived for the project and
+the first glimmer of the Kingdom Death world.
+Art : Yasmine Putri Sculpture : Yannick Hennebo
+The Kings Hand
+The Kings Hand are the King's highest ranking guard. They see through the eyes of every Kingsmen
+that patrols the King's territory. The Hands are highly intelligent master swordsmen.
+The King's Hand is sculpted by Thomas David Based on concept art by Yasmine Putri.
+
+The Lion Knight
+Three brother generals command the vast armies of the Golden Entities domain. Each imbued with a
+different temperament and a strong will of their own. The middle brother is the most attached to the
+human industry and artistry. He cultivates a courtly civilized appearance and graceful swordsmanship,
+surrounding himself with human thralls allowing them to enjoy their short tragic existence in his
+awesome presence.
+The Lion Knight Expansion introduces the first Monster that can sometimes directly help the
+Survivors. The entity is obsessed with humans and finds great value in their often primitive artisan
+crafts. A settlement that has a high level of art & dance may find random gifts and education sessions,
+while a more war oriented settlement might evoke his wrath. The Lion Knight is a strange entity and
+finds no beauty in tools of war.
+Survivor
+Hunted as prey, herded and domesticated as draft animals, humans occupy a low rung on the food chain
+of Kingdom Deaths many strange ecosystems. Often living unawares of their purpose, occasionally,
+
+nightmarish trauma will snap an ignorant human from their delusion of safety. These survivors are
+often shaped by the particular events that tears the veil from their eyes; some driven by vengeance,
+grief, curiosity, or insanity, they share a desperate desire to persist despite the horror of their newly
+discovered reality. Survivors are marked by the artifacts they create from the ordeal that put them on
+their new path.
+Female - Concept : Lokman Lam Sculpture : Thomas David
+Male - Concept and Sculpture: Raul Garcia Latorre
+Kings Men
+The Kings Men herald the appearance of powerful entities such as the Scribe and the King. From a
+distance the strangely fashioned lantern halberds are glowing harbingers of the mountainous King
+lumbering behind.
+Concept artwork by Yasmine Putri Sculpted by Thomas David.
+The Man-Hunter
+The Man Hunter is a nemesis monster. If you add him to your campaign not only will he show up at
+your settlement for his nefarious reasons he will also sometimes track a particular Survivor, to
+
+represent this he has a few special event cards that get scattered into various places. If your really
+unlucky he might even show up while your fighting another monster! ( don't worry he'll either just kill
+you outright or wait his turn... )
+Sculpted by Juan Navarro Perez Artwork by Danny Cruz
+The Dragon King
+The Dragon King changes the game in a huge way, as you can begin a settlement from scratch... under
+the dragons kings rule! I don't want to spoil to much but this new starting point will offer a a whole
+new way to experience the game and will change how you encounter the existing monsters and in some
+cases, your relationship with them.
+Another fun little detail I wanted to share, (and i will just say this in plain english) he is radioactive!
+Instead of a breath attack the monster can control radiation levels in a radius around him reducing foes
+to a smoldering, dry heap in a mere instant! So basically... you are his ramen noodles and you have the
+option of starting your struggle right under his terrible might! It's such a depressing fate its down right
+EXCITING me to talk about it!
+The Gorm
+The lure is actually an evoled testicle that has grown out on a specialized stalk. Common bacteria in the
+air cause the exposed testicle to glow.
+Gorm lives to feed. Eating bring Gorms to a euphoric state. Accordingly, they have developed
+
+incredibly extensive and specialized consumption and digestive organs. The fleshy walls of its mouth
+allow it to constrict and suffocate difficult prey....consuming human waste stored inside the bowels of a
+living person is a particularly delicate ecstasy for Gorms....
+Sometimes Gorms will hold hands ( the small ones protruding from their mouths ) or stick their bulbs
+into each others mouths to signify affection....
+The White Lion
+Huge terrifying lions with a strange human curiosity and human hands. Their white fur shines with
+flecks of gold when the sunlight hits them directly, a strange contrast to their bloated and sad faces.
+They are a dominant predator in the holy lands and have become a symbol of inspiration and beauty for
+the entity that resides over all. Occasionally they are trained and kept as partners by Man-Hunters.
+Conceived by Caitlin Hackett and realized in 3D by Stephanie Alison Everett
+Spidicules
+- Can vibrate at a high frequency making him near invisible to the human eye!
+- Sometimes will hide in human settlements
+- Venom will instantly kill a survivor when it enters their bloodstream!
+- Can use a human corpse to trick survivors
+- Yes you can chop off all 8 limbs
+- Can have babies, lots of them!
+
+The Dung Beetle Knight
+The Dung Beetle knight is a beetle that evolved from the unique otherworldly bacteria found in
+phoenix droppings. The phoenix has slight domain over time itself and it's droppings are super special.
+The Knight is quite keen and makes for a very dangerous foe. It's large food collecting ball crushes
+bones and armor with ease and he is capable of quickly burrowing thru the stone floor, sometimes
+dragging its victims with it.
+Having a high culinary level will attract these strange creatures to your settlement as the bowels of
+humans whom have ingested a large variety of food are some of its favorite snacks. Kingdom Death is
+very much the "animal planet" of a nightmare world and even a bottom feeder like the Dung Beetle
+knight is a deadly and powerful advisory for the human settlement.
+Agriculture innovations DO come with the Dung Beetle Knight. There is no sunlight and things don't
+normally grow. However using some of the dung beetle knights resource cards this development can be
+added to the settlement. Reproduction is quite different and thankfully humans don't need sunlight to
+make that happen!
+The Sunstalker
+Sunstalkers are creatures that manipulate and swim through light, shifting the colors of the spectrum at
+their whim. A tribe of humans began to worship a very ancient Sunstalker as the sun itself when it
+
+stepped down from the sky to rest on a mountain top. Countless generations and centuries have past
+and a strange human & monster relationship has emerged. The human culture tends to the young
+spawn, feeding it with a combination of food and ritual sacrifice. Only the fairest of maidens are
+selected for the horrifying honor of being a caretaker and not many survive the creatures period of
+infancy.
+The Sunstalker is a monster that can "swim" through light. A known technique to hunt these dangerous
+entity is to travel with a strongly dyed piece of fabric and monitor it closely for strange color shifts and
+desaturation patterns. Ancient Sunstalkers will sleep for centuries at a time, floating high in the sky and
+pulse with vibrant rays of light as they slowly and deeply breath.
+In an attempt to create a lasting relationship between the human and monster, the child of a mighty sun
+warrior is umbilically attached to the young sunstalker. A highly dangerous practice that occasionally
+results in a symbiotic link between man and monster. Sometimes the human child gaining some of the
+creatures strange ability to manipulate light.
+Savior
+Saviors are undaunted heroes, single minded and suicidally reckless in their quest to make a change in
+mankind's horrible existence. This meteoric existence ensures their lifespan will be short but bright.
+Burning Brightest
+The Saviors unwavering guiding star is a shared destiny to change the world for the better. Their eyes
+constantly open to the tormented existence of others, they dedicate the whole of their being to others.
+Each act of heroism intoxicates the Saviors, delirious from the heady realization of their higher purpose
+they are emboldened to greater risks to their own safety. Saviors seek to symbolize hope in a dark and
+
+drab world, often adopting bright bizarre garb to match their stations as self-appointed heroes of
+mankind.
+Dreamers with Blackened Feet
+In their dreams Saviors travel to an entity they call the Ethereal Dreamer. Nightly, they trudge through
+the twisting scape of the world's collective nightmares seeking the Dreamer's secrets of power and
+magic. Over time their dream pilgrimage leaves the Savior threadbare; their feet become sooty and
+gnarled , their faces sallow with deep shadows under their eyes. Saviors who exceed their expected
+lifespan eventually begin to fade bit by bit, devoured by the dream world that once empowered them.
+How They Play
+Saviors are easy to play but hard to maintain. They have a wealth of useful abilities and last second
+miracles that can save a party from wiping out... but relying too heavily on them can greatly shorten the
+lifespan and max level of a savior.
+Concept : Yasmine Putri Sculpture : Sylvain Quirion
+Selected Lore of Characters Not Appearing In KD:Monster
+The White Speaker
+White Speakers are cannon to the game world. They are hyper sensitive story keepers, that share
+knowledge thru generations by very strict oral traditions. There are 3 stories each White Speaker knows
+and they empower them with their most defining traits. The story of death, which allows them to stop
+aging, the story of blood, which gives them blood manipulation and the story of the body which grants
+them physical hyper sensitivity. Knowledge in Kingdom Death is dangerous. White Speakers hold a
+great amount of information that is layered in riddles and verse. The way things feel, the subtle shifts in
+the atmosphere and the way things smell can all give the white speaker clues to untangling a repressed
+story and gaining knowledge that is crucial to the current situation.
+White Speakers are prone to seizures when chunks of information become too much for them to
+comprehend all at once. Their ceremonial outfit is often used to restrain them from damaging
+themselves.
+Tall strong women who's ferocity is only matched by their deep mystery. Through sadistic rituals and
+dangerous story telling traditions they balance the twisted nature of kingdom death and can manipulate
+the "other" through unique blood techniques.
+Speaker Cult
+Veils worn by the devotees represent a past shrouded in guilt and secrets. The White Speaker cults are
+forbidding, rituals of blood and delirious narration keep most people clear. The number of White
+Speaker remains constant, as one dies another is initiated; too few and they would disappear and too
+many might create a blood frenzy that the speakers fear they could not control.
+The Chanting Ritual
+White speakers power is rooted in the names and tales of things. Elder speakers share stories with
+young listeners bound in chains. The secrets and lore she chants drive them into violent twisted
+seizures as they try to absorb the words of power. Speakers learn in layers and riddles to protect their
+mind from dismantling under the weight of what they know.
+How They Play
+
+White Speakers offer tactical diversity. Effective in melee and at range, but lacking armor. However,
+their ability to change what "stories" they have on tongue opens a wealth of options. Blood transferring,
+scab armor and stopping the flow of blood to monster hearts are some examples.
+The game world is intended to be mature and has many mature themes. The White Speaker is currently
+the only female character that embodies themes such as sex and power. I can't comment on if there will
+be more in the future.
+White Speaker Nico
+Long ago, the White Speaker cult's savagery threatened the few enclaves of human civilization. The
+Order of Twilight Knights rose up nearly destroying the cult. Now, small covens of White Speakers can
+be found meeting in abandoned places, sharing the secrets of their blood magic, passed on from one
+White Speaker to another through intricate tales, whispered and screamed in frenzied, transcendental
+rituals.
+Forsaker
+The Forsaker has lost so much that his perspective has been skewed beyond repair. They see nothing
+but darkness and suffering, accordingly, they have abandoned their own humanity to better suit the
+struggle they see all around them. Ruthless, and fueled by despair, the berserk state of the Forsaker is
+dangerous to friend and foe alike.
+A Forsaker's fury is so consuming and violent that they often fix their weapons with rope or chain to
+their hands in anticipation of succumbing to their mindless rage.dreams.
+How They Play
+Lacking finesse and magical abilities, the Forsaker makes up for their tactical inflexibility with raw
+power. Wait for their mind to snap, then throw them towards the biggest thing on the board!
+Preacher
+Standing over his fallen companions hoarsely crying devotions over the screams of battle. As terror
+extinguishes hope, the questionable dogmas begin to make sense, inspiring the wretched to feats of
+reckless strength and steadfastness.
+The Gods of Men
+The world is abjectly cruel to men, grinding its few survivors without mercy. No god exist to hear
+people's cries for salvation. When Preachers find their faith they merely slip into madness and the gods
+of their dogmas are results of their divine delusion. The short and harsh life of survivors rarely allows
+Preachers to form organized religions so their beliefs tend to vary wildly. Regardless of what gods a
+preacher worships, he draws power from the bottomless faith in those delusions.
+Force of Charisma
+A preacher is a fanatic. Capable of sharing the uncompromising force of their beliefs with others who
+teeter on the brink of despair and destruction. With meaningless relics and words, the Preacher
+whispers in the ears of the hopeless who are deranged enough to receive his encouragement. To those
+susceptible minds, a Preacher's rotgut feels like salve to a gaping wound.
+
+How They Play
+A Preacher is actually incapable of restoring any life or sanity points. In fact, they become more
+effective the closer the group is to destruction! Capable of dealing high bursts of damage and
+bestowing a variety of buffs, a Preacher requires a bit of group sanity management for maximum
+effectiveness.
+Great Game Hunters
+Great Game Hunters are a character class for Kingdom Death. They come from the largest standing
+human city. Great Game Hunters venture beyond the safety of the city gates to win fame and fortune on
+behalf of the bickering noble houses that control the city. Rich with finery and honed weapons, they
+confidently stride into the unknown, often never to return.
+The Scribe
+The Scribe is the power behind the Kings and their armies. To men, he is a god made flesh, appearing
+in repose atop his throne with his tome hoisted by a grotesque tableau of slaves. In his book his words
+are writ into reality, sewing the seeds of small human settlements into existence with the stroke of his
+quill. Once the humans grow and reproduce the Scribe will return to harvest his crop.
+Art : Yasmine Putri
+Sculpture : Jacques-Alexandre Gillois
+The Forge God
+The Forge God minds the furnaces of the Holy Lands, a massive creature who's very pores produce the
+holy steel that the edifices of the Holy Lands are made of. He is consumed by the desire for perfection
+in his works, the Mothers, Grandmothers and White Knights are his personal masterworks.
+Art : Danny Cruz Sculpture : Allan Carrasco
+Grandmother
+Few chosen victims survive the treatment of raw god metal that prepares a womb to withstand and
+nurture the ghastly cocktail that gives rise to the monsters of the Holy Lands. The truly holy mothers
+are beatified as Grand Mothers, transformed into creatures embodying the maternal life-giving ideal of
+the Entity. These special few give birth to the Entity's most precious children, the massive winged
+Blessed Ones. The Grand Mother's womb is braced heavy ornate gut plates. Within, a hostile furnace of
+creation churns. She has a mouthed cord growing from her belly that devours male organs of her mates
+to better the chances of divine conception.
+The Grand Mother is a rare, horrifying foe, possessing a master the Other and protected by the watchful
+eye of the Entity itself.
+The Illuminated Lady
+The Illuminated Lady appears to survivors hopelessly lost in the darkness. A nude figure glowing softly
+by the light of her lantern, other lanterns grow dim as she nears. Her presence fills survivors with
+comfort and serenity and she will guide them into the darkness never to be found again. Some joke
+meeting her is a kinder end than most.
