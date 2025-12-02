@@ -1,6 +1,12 @@
 /**
  * Entry Generator - AI-powered lore entry creation
  * Generates high-quality lore entries matching the existing format
+ * 
+ * Now supports specialized entry types:
+ * - Monsters (with gear, AI cards, events)
+ * - Gear cards (with stats, keywords, affinities)
+ * - AI cards (with targeting, effects)
+ * - Hunt events (with roll tables)
  */
 
 import fs from 'fs';
@@ -12,9 +18,11 @@ import {
   loadConfig,
   PendingEntry,
 } from './agent-core';
-import { SourceFile, getAllSourceFiles } from './entity-discovery';
+import { SourceFile, getAllSourceFiles, ExtractedEntity } from './entity-discovery';
 import { matchImagesForEntity, MatchedImage } from './image-analyzer';
 import { addCitation, getNextCitationRange } from './citation-manager';
+import { extractContent, GearCard, AICard, HuntEvent } from './content-extractors';
+import { findRelationshipsForEntity, generateConnectionsSection } from './relationship-mapper';
 
 const SOURCES_PATH = path.join(process.cwd(), 'docs', 'lore', 'sources');
 
@@ -542,17 +550,32 @@ function buildFullMarkdown(entry: PendingEntry): string {
   // Build clean frontmatter - only include valid keys
   const validKeys = [
     'title', 'category', 'type', 'expansion', 'confidence', 
-    'sources', 'images', 'lastUpdated', 'generatedBy'
+    'sources', 'images', 'lastUpdated', 'generatedBy',
+    'detailLevel', 'hasGearInfo', 'hasAICards', 'hasEvents', 'lastExpanded',
+    'published'
   ];
   
   let frontmatter = '---\n';
   
   // Add string fields
-  for (const key of ['title', 'category', 'type', 'expansion', 'confidence', 'lastUpdated', 'generatedBy']) {
+  for (const key of ['title', 'category', 'type', 'expansion', 'confidence', 'lastUpdated', 'generatedBy', 'lastExpanded']) {
     const value = entry.frontmatter[key];
     if (value && typeof value === 'string') {
       frontmatter += `${key}: "${value}"\n`;
     }
+  }
+  
+  // Add boolean fields
+  for (const key of ['hasGearInfo', 'hasAICards', 'hasEvents', 'published']) {
+    const value = entry.frontmatter[key];
+    if (typeof value === 'boolean') {
+      frontmatter += `${key}: ${value}\n`;
+    }
+  }
+  
+  // Add detailLevel
+  if (entry.frontmatter.detailLevel) {
+    frontmatter += `detailLevel: ${entry.frontmatter.detailLevel}\n`;
   }
   
   // Add sources if present
@@ -584,5 +607,379 @@ function buildFullMarkdown(entry: PendingEntry): string {
   frontmatter += '---\n\n';
   
   return frontmatter + entry.content;
+}
+
+// =============================================================================
+// SPECIALIZED ENTRY GENERATORS
+// =============================================================================
+
+/**
+ * Generate an entry specifically for a gear card
+ */
+export async function generateGearEntry(
+  gear: GearCard,
+  apiKey: string
+): Promise<PendingEntry | null> {
+  const frontmatter: Record<string, unknown> = {
+    title: gear.name,
+    category: 'gear',
+    type: gear.type,
+    expansion: gear.expansion,
+    confidence: 'confirmed',
+    lastUpdated: new Date().toISOString().split('T')[0],
+    generatedBy: 'agent',
+    published: true,
+    detailLevel: 'comprehensive',
+    hasGearInfo: true,
+  };
+
+  // Build stats section
+  let statsSection = '';
+  if (gear.stats.speed || gear.stats.accuracy || gear.stats.strength) {
+    statsSection = `
+| Speed | Accuracy | Strength |
+|-------|----------|----------|
+| ${gear.stats.speed || '-'} | ${gear.stats.accuracy || '-'} | ${gear.stats.strength || '-'} |
+`;
+  }
+  if (gear.stats.armor || gear.stats.evasion) {
+    statsSection += `
+**Armor:** ${gear.stats.armor || '-'}  
+**Evasion:** ${gear.stats.evasion || '-'}
+`;
+  }
+
+  // Build keywords section
+  const keywordsSection = gear.keywords.length > 0
+    ? `**Keywords:** ${gear.keywords.join(', ')}`
+    : '';
+
+  // Build affinity section
+  let affinitySection = '';
+  if (gear.affinities.red || gear.affinities.blue || gear.affinities.green) {
+    const colors = [];
+    if (gear.affinities.red) colors.push(`Red x${gear.affinities.red}`);
+    if (gear.affinities.blue) colors.push(`Blue x${gear.affinities.blue}`);
+    if (gear.affinities.green) colors.push(`Green x${gear.affinities.green}`);
+    affinitySection = `**Affinities:** ${colors.join(', ')}`;
+  }
+
+  const content = `# ${gear.name}
+
+**Category:** Gear  
+**Type:** ${gear.type.charAt(0).toUpperCase() + gear.type.slice(1)}${gear.weaponType ? ` (${gear.weaponType})` : ''}${gear.armorLocation ? ` - ${gear.armorLocation}` : ''}  
+**Expansion:** ${gear.expansion}
+
+---
+
+## Overview
+
+${gear.name} is a ${gear.type} from the ${gear.expansion} expansion.
+
+## Stats
+${statsSection || '*No combat stats*'}
+
+${keywordsSection}
+
+${affinitySection}
+
+## Effect
+
+${gear.effect || '*No special effect*'}
+
+${gear.activation ? `### Activation\n${gear.activation}` : ''}
+${gear.special ? `### Special\n${gear.special}` : ''}
+
+## Source
+
+- [${gear.sourceFile}](${gear.sourceFile})
+`;
+
+  const pending = await addPendingEntry({
+    entityId: `gear-${Date.now()}`,
+    entityName: gear.name,
+    content,
+    frontmatter,
+    sourceFiles: [gear.sourceFile],
+    images: [],
+    citations: [],
+    connections: [],
+    confidence: 'confirmed',
+  });
+
+  return pending;
+}
+
+/**
+ * Generate an entry specifically for an AI card
+ */
+export async function generateAICardEntry(
+  ai: AICard,
+  apiKey: string
+): Promise<PendingEntry | null> {
+  const frontmatter: Record<string, unknown> = {
+    title: `${ai.monster} - ${ai.name}`,
+    category: 'ai_card',
+    type: ai.phase,
+    monster: ai.monster,
+    confidence: 'confirmed',
+    lastUpdated: new Date().toISOString().split('T')[0],
+    generatedBy: 'agent',
+    published: true,
+    detailLevel: 'comprehensive',
+    hasAICards: true,
+  };
+
+  const content = `# ${ai.name}
+
+**Monster:** ${ai.monster}  
+**Phase:** ${ai.phase.charAt(0).toUpperCase() + ai.phase.slice(1)}
+
+---
+
+## Overview
+
+${ai.name} is a${ai.phase === 'advanced' ? 'n' : ''} ${ai.phase} AI card for the ${ai.monster}.
+
+## Stats
+
+| Speed | Accuracy | Damage |
+|-------|----------|--------|
+| ${ai.speed} | ${ai.accuracy} | ${ai.damage} |
+
+## Targeting
+
+**Primary:** ${ai.targeting.primary}  
+${ai.targeting.fallback ? `**Fallback:** ${ai.targeting.fallback}` : ''}  
+${ai.targeting.noTarget ? `**No Target:** ${ai.targeting.noTarget}` : ''}
+
+## Effects
+
+${ai.effects.map(e => `- ${e}`).join('\n')}
+
+${ai.trigger ? `### Trigger\n${ai.trigger}` : ''}
+
+${ai.failure ? `### On Failure (Gimped)\n${ai.failure}` : ''}
+
+## Source
+
+- [${ai.sourceFile}](${ai.sourceFile})
+`;
+
+  const pending = await addPendingEntry({
+    entityId: `ai-${Date.now()}`,
+    entityName: `${ai.monster} - ${ai.name}`,
+    content,
+    frontmatter,
+    sourceFiles: [ai.sourceFile],
+    images: [],
+    citations: [],
+    connections: [{ name: ai.monster, relationship: 'AI card for' }],
+    confidence: 'confirmed',
+  });
+
+  return pending;
+}
+
+/**
+ * Generate an entry specifically for a hunt event
+ */
+export async function generateHuntEventEntry(
+  event: HuntEvent,
+  apiKey: string
+): Promise<PendingEntry | null> {
+  const frontmatter: Record<string, unknown> = {
+    title: `Hunt Event ${event.number}: ${event.name}`,
+    category: 'hunt_event',
+    type: 'Hunt Event',
+    eventNumber: event.number,
+    confidence: 'confirmed',
+    lastUpdated: new Date().toISOString().split('T')[0],
+    generatedBy: 'agent',
+    published: true,
+    detailLevel: 'comprehensive',
+    hasEvents: true,
+  };
+
+  // Build roll table
+  let rollTable = '';
+  if (event.rolls.length > 0) {
+    rollTable = `
+| Roll | Result |
+|------|--------|
+${event.rolls.map(r => `| ${r.range} | ${r.result} |`).join('\n')}
+`;
+  }
+
+  const content = `# Hunt Event ${event.number}: ${event.name}
+
+**Category:** Hunt Event  
+**Number:** ${event.number}  
+${event.pageNumber ? `**Rulebook Page:** ${event.pageNumber}` : ''}
+
+---
+
+## Overview
+
+${event.description}
+
+## Roll Results
+${rollTable || '*No roll table for this event*'}
+
+${event.conditions ? `## Conditions\n${event.conditions.join(', ')}` : ''}
+
+${event.requirements ? `## Requirements\n${event.requirements.join(', ')}` : ''}
+
+## Source
+
+- [${event.sourceFile}](${event.sourceFile})
+`;
+
+  const pending = await addPendingEntry({
+    entityId: `event-${Date.now()}`,
+    entityName: `Hunt Event ${event.number}: ${event.name}`,
+    content,
+    frontmatter,
+    sourceFiles: [event.sourceFile],
+    images: [],
+    citations: [],
+    connections: [],
+    confidence: 'confirmed',
+  });
+
+  return pending;
+}
+
+/**
+ * Generate entries from a batch of extracted content
+ */
+export async function generateEntriesFromExtractedContent(
+  extractions: Map<string, ReturnType<typeof extractContent>>,
+  apiKey: string,
+  options?: {
+    maxEntries?: number;
+    includeGear?: boolean;
+    includeAICards?: boolean;
+    includeEvents?: boolean;
+  }
+): Promise<PendingEntry[]> {
+  const entries: PendingEntry[] = [];
+  const maxEntries = options?.maxEntries || 25;
+  
+  for (const [key, extraction] of extractions) {
+    if (entries.length >= maxEntries) break;
+    
+    switch (extraction.type) {
+      case 'gear_card':
+        if (options?.includeGear !== false) {
+          const gearEntry = await generateGearEntry(extraction.data, apiKey);
+          if (gearEntry) entries.push(gearEntry);
+        }
+        break;
+        
+      case 'ai_card':
+        if (options?.includeAICards !== false) {
+          const aiEntry = await generateAICardEntry(extraction.data, apiKey);
+          if (aiEntry) entries.push(aiEntry);
+        }
+        break;
+        
+      case 'hunt_event':
+        if (options?.includeEvents !== false) {
+          for (const event of extraction.data) {
+            if (entries.length >= maxEntries) break;
+            const eventEntry = await generateHuntEventEntry(event, apiKey);
+            if (eventEntry) entries.push(eventEntry);
+          }
+        }
+        break;
+    }
+  }
+  
+  return entries;
+}
+
+/**
+ * Enhance a monster entry with gear, AI cards, and events
+ */
+export async function enhanceMonsterEntry(
+  monsterName: string,
+  existingContent: string,
+  apiKey: string
+): Promise<string | null> {
+  // Find relationships
+  const relationships = findRelationshipsForEntity(monsterName);
+  
+  // Generate connections section
+  const connectionsSection = generateConnectionsSection(monsterName);
+  
+  // Build gear section if gear found
+  let gearSection = '';
+  if (relationships.relatedGear.length > 0) {
+    gearSection = '\n## Related Gear\n\n';
+    for (const gear of relationships.relatedGear) {
+      gearSection += `### ${gear.name}\n`;
+      gearSection += `**Type:** ${gear.type}`;
+      if (gear.keywords.length > 0) gearSection += ` | **Keywords:** ${gear.keywords.join(', ')}`;
+      gearSection += '\n\n';
+      if (gear.effect) gearSection += `${gear.effect.slice(0, 200)}...\n\n`;
+    }
+  }
+  
+  // Build AI cards section if found
+  let aiSection = '';
+  if (relationships.relatedAICards.length > 0) {
+    aiSection = '\n## AI Cards\n\n';
+    
+    // Group by phase
+    const byPhase = { basic: [] as AICard[], advanced: [] as AICard[], legendary: [] as AICard[], special: [] as AICard[] };
+    for (const card of relationships.relatedAICards) {
+      byPhase[card.phase].push(card);
+    }
+    
+    for (const [phase, cards] of Object.entries(byPhase)) {
+      if (cards.length === 0) continue;
+      aiSection += `### ${phase.charAt(0).toUpperCase() + phase.slice(1)}\n\n`;
+      aiSection += '| Card | Speed | Accuracy | Damage |\n';
+      aiSection += '|------|-------|----------|--------|\n';
+      for (const card of cards) {
+        aiSection += `| ${card.name} | ${card.speed} | ${card.accuracy} | ${card.damage} |\n`;
+      }
+      aiSection += '\n';
+    }
+  }
+  
+  // Build events section if found
+  let eventsSection = '';
+  if (relationships.relatedEvents.length > 0) {
+    eventsSection = '\n## Related Hunt Events\n\n';
+    for (const event of relationships.relatedEvents.slice(0, 5)) {
+      eventsSection += `- **${event.number}: ${event.name}** - ${event.description.slice(0, 100)}...\n`;
+    }
+  }
+  
+  // If nothing to add, return null
+  if (!gearSection && !aiSection && !eventsSection && !connectionsSection) {
+    return null;
+  }
+  
+  // Find insertion point (before ## Sources or at end)
+  let insertionPoint = existingContent.lastIndexOf('## Sources');
+  if (insertionPoint === -1) {
+    insertionPoint = existingContent.lastIndexOf('---');
+  }
+  if (insertionPoint === -1) {
+    insertionPoint = existingContent.length;
+  }
+  
+  // Insert new sections
+  const before = existingContent.slice(0, insertionPoint).trim();
+  const after = existingContent.slice(insertionPoint);
+  
+  const enhancedContent = `${before}
+${gearSection}${aiSection}${eventsSection}${connectionsSection}
+${after}`;
+  
+  return enhancedContent;
 }
 

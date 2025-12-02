@@ -1,10 +1,14 @@
 /**
  * Entry Scanner - Detects quality issues in existing lore entries
  * Scans entries for missing citations, broken links, formatting issues, etc.
+ * 
+ * Now includes link and YAML validation via link-fixer and frontmatter-fixer.
  */
 
 import fs from 'fs';
 import path from 'path';
+import { findBrokenLinks as findBrokenLinksDetailed, BrokenLink } from './link-fixer';
+import { findFrontmatterIssues, FrontmatterIssue } from './frontmatter-fixer';
 
 const LORE_PATH = path.join(process.cwd(), 'docs', 'lore');
 
@@ -19,6 +23,11 @@ export interface ScanIssue {
     | 'uncited_sources'
     | 'unmarked_speculation'
     | 'broken_link'
+    | 'wiki_style_link'      // NEW: [[text]] links
+    | 'bare_bracket_link'    // NEW: [text] without path
+    | 'malformed_yaml'       // NEW: Quoted arrays, etc.
+    | 'missing_published'    // NEW: Missing published field
+    | 'missing_detail_level' // NEW: Missing detailLevel field
     | 'missing_overview'
     | 'no_confidence_level'
     | 'outdated_format';
@@ -256,42 +265,94 @@ function checkSpeculation(content: string): ScanIssue[] {
 }
 
 /**
- * Check for broken internal links
+ * Check for broken internal links using the detailed link fixer
  */
 function checkBrokenLinks(content: string, filePath: string): ScanIssue[] {
   const issues: ScanIssue[] = [];
   
-  // Find markdown links
-  const linkPattern = /\[([^\]]+)\]\(([^)]+)\)/g;
-  let match;
+  // Use the detailed link fixer for comprehensive detection
+  const brokenLinks = findBrokenLinksDetailed(content, filePath);
   
-  while ((match = linkPattern.exec(content)) !== null) {
-    const linkText = match[1];
-    const linkPath = match[2];
+  for (const link of brokenLinks) {
+    let issueType: ScanIssue['type'] = 'broken_link';
+    let severity: ScanIssue['severity'] = 'medium';
     
-    // Skip external links
-    if (linkPath.startsWith('http://') || linkPath.startsWith('https://')) {
-      continue;
+    // Map link types to issue types
+    switch (link.type) {
+      case 'wiki_style':
+        issueType = 'wiki_style_link';
+        severity = 'high'; // Wiki links won't render at all
+        break;
+      case 'bare_bracket':
+        issueType = 'bare_bracket_link';
+        severity = 'high'; // Bare brackets won't render as links
+        break;
+      case 'missing_file':
+        issueType = 'broken_link';
+        severity = 'medium';
+        break;
+      case 'invalid_path':
+        issueType = 'broken_link';
+        severity = 'medium';
+        break;
     }
     
-    // Skip anchor links
-    if (linkPath.startsWith('#')) {
-      continue;
+    issues.push({
+      type: issueType,
+      severity,
+      description: `${link.type.replace(/_/g, ' ')}: ${link.original}`,
+      line: link.line,
+      suggestion: link.suggestedFix || 'Fix or remove the broken link',
+    });
+  }
+  
+  return issues;
+}
+
+/**
+ * Check for YAML frontmatter issues using the detailed frontmatter fixer
+ */
+function checkYAMLIssues(content: string): ScanIssue[] {
+  const issues: ScanIssue[] = [];
+  
+  // Use the detailed frontmatter fixer
+  const fmIssues = findFrontmatterIssues(content);
+  
+  for (const fmIssue of fmIssues) {
+    let issueType: ScanIssue['type'] = 'malformed_yaml';
+    let severity: ScanIssue['severity'] = 'medium';
+    
+    switch (fmIssue.type) {
+      case 'quoted_array':
+        issueType = 'malformed_yaml';
+        severity = 'high'; // Breaks YAML parsing
+        break;
+      case 'missing_published':
+        issueType = 'missing_published';
+        severity = 'medium';
+        break;
+      case 'missing_detail_level':
+        issueType = 'missing_detail_level';
+        severity = 'low';
+        break;
+      case 'invalid_yaml':
+        issueType = 'malformed_yaml';
+        severity = 'high';
+        break;
+      case 'missing_frontmatter':
+        issueType = 'missing_frontmatter';
+        severity = 'high';
+        break;
     }
     
-    // Resolve relative path
-    const currentDir = path.dirname(filePath);
-    const resolvedPath = path.resolve(currentDir, linkPath);
-    
-    // Check if file exists
-    if (!fs.existsSync(resolvedPath)) {
-      issues.push({
-        type: 'broken_link',
-        severity: 'low',
-        description: `Broken link: "${linkText}" -> ${linkPath}`,
-        suggestion: 'Fix or remove the broken link',
-      });
-    }
+    issues.push({
+      type: issueType,
+      severity,
+      description: fmIssue.field 
+        ? `${fmIssue.type.replace(/_/g, ' ')}: ${fmIssue.field}`
+        : fmIssue.type.replace(/_/g, ' '),
+      suggestion: fmIssue.suggestedValue || undefined,
+    });
   }
   
   return issues;
@@ -382,20 +443,30 @@ export function scanEntry(filePath: string): ScannedEntry {
   // Collect all issues
   const issues: ScanIssue[] = [
     ...checkFrontmatter(content),
+    ...checkYAMLIssues(content),    // NEW: Detailed YAML checks
     ...checkCitations(content),
     ...checkSourcesSection(content),
     ...checkSpeculation(content),
-    ...checkBrokenLinks(content, filePath),
+    ...checkBrokenLinks(content, filePath),  // Uses detailed link checker
     ...checkStructure(content),
   ];
+  
+  // Dedupe issues by type + description
+  const seen = new Set<string>();
+  const deduped = issues.filter(issue => {
+    const key = `${issue.type}:${issue.description}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
   
   return {
     filePath,
     fileName,
     entryName,
     category,
-    issues,
-    score: calculateScore(issues),
+    issues: deduped,
+    score: calculateScore(deduped),
     lastScanned: new Date().toISOString(),
   };
 }

@@ -70,7 +70,7 @@
     "priority": 2,
     "id": "entity-1764695925955-yrdh2r",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Twilight Knights",
@@ -84,7 +84,7 @@
     "priority": 1,
     "id": "entity-1764695925955-9mtuyf",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Hooded Knight",
@@ -98,7 +98,7 @@
     "priority": 1,
     "id": "entity-1764695925956-05ho5y",
     "discoveredAt": "2025-12-02T17:18:45.956Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Tattered Parcel",
@@ -112,7 +112,7 @@
     "priority": 1,
     "id": "entity-1764695925956-9kyu90",
     "discoveredAt": "2025-12-02T17:18:45.956Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Dormant Twilight Cloak",
@@ -714,7 +714,7 @@
     "priority": 3,
     "id": "entity-1764695925962-as0xec",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "generating"
+    "status": "pending_review"
   },
   {
     "name": "Bloody Sword of Deadrock",
@@ -728,7 +728,7 @@
     "priority": 3,
     "id": "entity-1764695925962-rp56nx",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Deadrock",
@@ -756,7 +756,7 @@
     "priority": 3,
     "id": "entity-1764695925963-rs2rz9",
     "discoveredAt": "2025-12-02T17:18:45.963Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Romantic Adventurer",
@@ -770,7 +770,7 @@
     "priority": 3,
     "id": "entity-1764695925963-dzutin",
     "discoveredAt": "2025-12-02T17:18:45.963Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Screaming Hoarder",
@@ -784,7 +784,7 @@
     "priority": 3,
     "id": "entity-1764695925963-fs64vm",
     "discoveredAt": "2025-12-02T17:18:45.963Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Cockroach Queen",
@@ -798,7 +798,7 @@
     "priority": 3,
     "id": "entity-1764695925963-i7jkxw",
     "discoveredAt": "2025-12-02T17:18:45.963Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Nightmare Adam",
@@ -812,7 +812,7 @@
     "priority": 3,
     "id": "entity-1764695925963-det5h0",
     "discoveredAt": "2025-12-02T17:18:45.963Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Anna, Gourmet Hunter",
@@ -826,7 +826,7 @@
     "priority": 3,
     "id": "entity-1764695925963-cxfv93",
     "discoveredAt": "2025-12-02T17:18:45.963Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Sci-Fi Aya",
@@ -840,7 +840,7 @@
     "priority": 3,
     "id": "entity-1764695925964-jpfzir",
     "discoveredAt": "2025-12-02T17:18:45.964Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Neko Twilight Knight",
@@ -854,7 +854,7 @@
     "priority": 3,
     "id": "entity-1764695925964-2pfxl6",
     "discoveredAt": "2025-12-02T17:18:45.964Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Wanderers",
@@ -896,7 +896,7 @@
     "priority": 3,
     "id": "entity-1764698885190-nn9xho",
     "discoveredAt": "2025-12-02T18:08:05.190Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "The Hand",
@@ -1008,7 +1008,7 @@
     "priority": 3,
     "id": "entity-1764698885199-zh46x3",
     "discoveredAt": "2025-12-02T18:08:05.199Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Champion of the Goblin",
@@ -1022,7 +1022,7 @@
     "priority": 3,
     "id": "entity-1764698885199-6zf2cd",
     "discoveredAt": "2025-12-02T18:08:05.199Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Romantic Leyline Walker",
@@ -1036,7 +1036,7 @@
     "priority": 3,
     "id": "entity-1764698885199-azkaic",
     "discoveredAt": "2025-12-02T18:08:05.199Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Squires of the Citadel",
@@ -1162,7 +1162,7 @@
     "priority": 3,
     "id": "entity-1764700298700-78pxba",
     "discoveredAt": "2025-12-02T18:31:38.700Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Scout System",
@@ -1288,7 +1288,7 @@
     "priority": 3,
     "id": "entity-1764700298703-pf6p0m",
     "discoveredAt": "2025-12-02T18:31:38.703Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Spidicules",
@@ -1361,7 +1361,7 @@
     "priority": 3,
     "id": "entity-1764700298706-f3cb48",
     "discoveredAt": "2025-12-02T18:31:38.706Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Roaring Harmonica",
@@ -1431,7 +1431,7 @@
     "priority": 3,
     "id": "entity-1764700298707-17uc7y",
     "discoveredAt": "2025-12-02T18:31:38.707Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Serpentine Tailbone",
@@ -1515,6 +1515,20 @@
     "priority": 3,
     "id": "entity-1764700637465-nr2r82",
     "discoveredAt": "2025-12-02T18:37:17.465Z",
+    "status": "pending_review"
+  },
+  {
+    "name": "The Citadel",
+    "type": "location",
+    "subType": null,
+    "brief": "The Black Knight's domain, now in claustrophobic ruins atop an inverted mountain. Home to the secretive squires who scurry in its shadows.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764702522198-e0u4qo",
+    "discoveredAt": "2025-12-02T19:08:42.198Z",
     "status": "queued"
   }
 ]

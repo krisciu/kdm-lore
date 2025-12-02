@@ -1,19 +1,20 @@
 # KDM Lore Sources - Status Tracker
-Last Updated: 2025-12-02 (Session 4 - Cleanup & Consolidation)
+Last Updated: 2025-12-02 (Session 5 - OCR Complete + Scraping Analysis)
 
 ## 📊 COLLECTION SUMMARY
 
 | Category | Count | Notes |
 |----------|-------|-------|
-| **Shop Products** | 194 | Unique products from shop |
-| **Newsletters** | 12 | KDU #97-109 |
+| **Shop Products** | 172 | Unique products from shop |
+| **Newsletters** | 11 | KDU #97, 99, 101-109 |
+| **Kickstarter Updates** | 67 | #117-134 + older posts |
+| **Kickstarter Images** | 677 | From various updates |
 | **Rulebook Text** | 277 | Extracted from core 1.6 |
 | **Rulebook Images** | 2,825 | Card art, UI, sprites |
 | **Newsletter Images** | 141 | Banners and content |
-| **Shop Images** | 89 | Product photos |
+| **OCR Results** | 398 | Processed image texts |
 | **Research Files** | 17 | Existing curated lore |
-| **Lore Extracted** | 4 | Story events, quotes, worldbuilding |
-| **TOTAL FILES** | ~580 | 3.5GB total |
+| **TOTAL FILES** | ~4,500+ | 3.5GB+ total |
 
 ---
 
@@ -78,27 +79,34 @@ sources/
 
 ## ❌ STILL NEEDED
 
-### High Priority
-| Source | Notes |
-|--------|-------|
-| KDU #100 | November 2024 |
-| KDU #90-96 | 2024 newsletters |
-| Gambler's Chest Details | Full product description |
-| Kickstarter Updates | All campaign updates |
+### High Priority (Difficult - Requires Auth/Manual)
+| Source | Count | Notes |
+|--------|-------|-------|
+| **Kickstarter #1-116** | 116 updates | Blocked by Kickstarter (403/auth required) |
+| **Newsletters #1-96** | 96 issues | Email-only, need Wayback Machine |
+| **Newsletter #98, #100** | 2 issues | Links broken, need archives |
 
 ### Medium Priority
 | Source | Notes |
 |--------|-------|
-| Expansion Rulebooks | DK, Sunstalker, etc. |
-| Card Text | AI cards, Hunt Events |
-| Story Event Full Text | Complete narrative |
+| Expansion Rulebooks | DK, Sunstalker, Lion God, etc. |
+| Remaining Image OCR | ~170 images (large files) |
+| Story Event Full Text | Complete narrative passages |
 
 ### Low Priority
 | Source | Notes |
 |--------|-------|
-| KDU #1-89 | Historical newsletters |
-| Pinup Lore | Character backgrounds |
-| Community Theories | Reddit, BGG |
+| Pinup Lore | Character backgrounds from product pages |
+| Community Theories | Reddit, BGG discussions |
+| Convention Reveals | GenCon, PAX exclusive info |
+
+### ⚠️ Scraping Challenges
+- **Kickstarter**: Blocks headless browsers (403), requires login for older posts
+- **Newsletters**: Email-only distribution, no public archive
+- **Solutions**: 
+  1. Wayback Machine for archived pages
+  2. Manual copy-paste for authenticated content
+  3. RSS feed for recent updates (already using)
 
 ---
 

@@ -2,8 +2,18 @@
   "schedule": {
     "intervalMinutes": 60,
     "maxEntriesPerRun": 25,
+    "maxRunTimeMinutes": 30,
+    "maxTokenBudget": 100000,
     "apiDelayMs": 1500,
-    "reviewScanIntervalHours": 24
+    "reviewScanIntervalHours": 24,
+    "staleThresholdDays": 30,
+    "priorityWeights": {
+      "fix_broken": 10,
+      "review_quality": 5,
+      "expand_basic": 3,
+      "update_stale": 2,
+      "generate_new": 1
+    }
   },
   "ai": {
     "model": "claude-opus-4-5-20251101",

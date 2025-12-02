@@ -25,11 +25,16 @@ export interface SourceFile {
 
 export interface ExtractedEntity {
   name: string;
-  type: 'monster' | 'character' | 'faction' | 'location' | 'concept' | 'item' | 'event';
+  type: 'monster' | 'character' | 'faction' | 'location' | 'concept' | 'item' | 'event' | 'gear' | 'ai_card' | 'hunt_event' | 'story_event' | 'fighting_art' | 'disorder' | 'settlement_location';
   subType?: string;
   brief: string;
   quotes: string[];
   sourceSection?: string;
+  // New fields for specialized content
+  contentType?: 'gear_card' | 'ai_card' | 'hunt_event' | 'story_event' | 'rulebook_page' | 'newsletter' | 'general';
+  stats?: Record<string, unknown>;
+  keywords?: string[];
+  expansion?: string;
 }
 
 // =============================================================================
@@ -43,17 +48,51 @@ export function getAllSourceFiles(): SourceFile[] {
   const files: SourceFile[] = [];
   
   const sourceDirectories = [
+    // EXISTING: Official site shop pages
     { dir: 'official-site/shop', type: 'shop' as const },
     { dir: 'official-site/shop/core-game', type: 'shop' as const },
     { dir: 'official-site/shop/quarry-expansions', type: 'shop' as const },
     { dir: 'official-site/shop/nemesis-expansions', type: 'shop' as const },
     { dir: 'official-site/shop/gameplay-expansions', type: 'shop' as const },
+    
+    // EXISTING: Rulebooks
     { dir: 'rulebooks/core-1.6', type: 'rulebook' as const },
     { dir: 'rulebooks/lore-extracted', type: 'rulebook' as const },
+    
+    // EXISTING: News and guides
     { dir: 'official-site/news/2024', type: 'newsletter' as const },
     { dir: 'official-site/news/2025', type: 'newsletter' as const },
     { dir: 'official-site/guides', type: 'community' as const },
     { dir: 'existing-research', type: 'community' as const },
+    
+    // NEW: Core rulebook OCR (277 pages with hunt events, story events, rules)
+    { dir: 'rulebooks/extracted/core', type: 'rulebook' as const },
+    
+    // NEW: Kickstarter updates (67 official updates with lore reveals)
+    { dir: 'kickstarter/updates', type: 'newsletter' as const },
+    
+    // NEW: Kickstarter OCR'd images (150+ images with text)
+    { dir: 'kickstarter/ocr', type: 'newsletter' as const },
+    
+    // NEW: OCR'd expansion cards (gear, AI cards, events)
+    { dir: 'ocr-results/images-expansions-of-death', type: 'rulebook' as const },
+    { dir: 'ocr-results/images-gamblers-chest', type: 'rulebook' as const },
+    { dir: 'ocr-results/images-game-assets', type: 'rulebook' as const },
+    { dir: 'ocr-results/images-game-content', type: 'rulebook' as const },
+    { dir: 'ocr-results/images-heirlooms', type: 'rulebook' as const },
+    
+    // NEW: Newsletter and miscellaneous OCRs
+    { dir: 'ocr-results/images-newsletters', type: 'newsletter' as const },
+    { dir: 'ocr-results/images-rulebook-pages', type: 'rulebook' as const },
+    { dir: 'ocr-results/images-miscellaneous', type: 'community' as const },
+    { dir: 'ocr-results/images-shop', type: 'shop' as const },
+    
+    // NEW: Existing research subdirectories
+    { dir: 'existing-research/monsters', type: 'community' as const },
+    { dir: 'existing-research/characters', type: 'community' as const },
+    { dir: 'existing-research/locations', type: 'community' as const },
+    { dir: 'existing-research/factions', type: 'community' as const },
+    { dir: 'existing-research/rules', type: 'community' as const },
   ];
   
   for (const { dir, type } of sourceDirectories) {

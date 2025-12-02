@@ -75,8 +75,8 @@ export async function GET(request: NextRequest) {
     switch (action) {
       case 'status': {
         const status = await safeCall(getAgentStatus, {
-          state: { status: 'idle', lastRun: null, nextRun: null, lastScan: null, currentTask: null, error: null, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0 }, history: [] },
-          config: { schedule: { intervalMinutes: 60, maxEntriesPerRun: 25, apiDelayMs: 1500 }, ai: { model: 'claude-opus-4-5-20251101', maxTokens: 4096, temperature: 0.7 }, sources: { priority: ['shop', 'rulebook', 'newsletter', 'community'], imageDirectories: [] } },
+          state: { status: 'idle', lastRun: null, nextRun: null, lastScan: null, lastHealthCheck: null, currentTask: null, currentTaskType: null, error: null, healthScore: 100, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0, entriesFixed: 0, entriesExpanded: 0 }, history: [] },
+          config: { schedule: { intervalMinutes: 60, maxEntriesPerRun: 25, maxRunTimeMinutes: 30, maxTokenBudget: 100000, apiDelayMs: 1500, staleThresholdDays: 30, priorityWeights: { fix_broken: 10, review_quality: 5, expand_basic: 3, update_stale: 2, generate_new: 1 } }, ai: { model: 'claude-opus-4-5-20251101', maxTokens: 16000, temperature: 0.7 }, sources: { priority: ['shop', 'rulebook', 'newsletter', 'community'], imageDirectories: [] } },
           queue: { discovered: 0, queued: 0, generating: 0, pendingReview: 0 },
           reviewQueue: { total: 0, queued: 0, reviewing: 0 },
           storageMode: 'file' as const,
@@ -121,7 +121,7 @@ export async function GET(request: NextRequest) {
       }
 
       case 'history': {
-        const state = await safeCall(loadState, { history: [], stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0 }, status: 'idle', lastRun: null, nextRun: null, lastScan: null, currentTask: null, error: null });
+        const state = await safeCall(loadState, { history: [], stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0, entriesFixed: 0, entriesExpanded: 0 }, status: 'idle', lastRun: null, nextRun: null, lastScan: null, lastHealthCheck: null, currentTask: null, currentTaskType: null, error: null, healthScore: 100 });
         return NextResponse.json({ 
           runs: state.history || [],
           stats: state.stats || {},
@@ -138,7 +138,7 @@ export async function GET(request: NextRequest) {
       }
 
       case 'scan-status': {
-        const state = await safeCall(loadState, { lastScan: null, status: 'idle', lastRun: null, nextRun: null, currentTask: null, error: null, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0 }, history: [] });
+        const state = await safeCall(loadState, { lastScan: null, lastHealthCheck: null, status: 'idle', lastRun: null, nextRun: null, currentTask: null, currentTaskType: null, error: null, healthScore: 100, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0, entriesFixed: 0, entriesExpanded: 0 }, history: [] });
         const needsScan = await shouldRunScan();
         const reviewStats = await safeCall(getReviewQueueStats, { total: 0, queued: 0, reviewing: 0, completed: 0, byCategory: {}, byIssueType: {} });
         return NextResponse.json({
@@ -149,7 +149,7 @@ export async function GET(request: NextRequest) {
       }
 
       case 'config': {
-        const config = await safeCall(loadConfig, { schedule: { intervalMinutes: 60, maxEntriesPerRun: 3, apiDelayMs: 2000 }, ai: { model: 'claude-opus-4-5-20251101', maxTokens: 4096, temperature: 0.7 }, sources: { priority: ['shop', 'rulebook', 'newsletter', 'community'], imageDirectories: [] } });
+        const config = await safeCall(loadConfig, { schedule: { intervalMinutes: 60, maxEntriesPerRun: 25, maxRunTimeMinutes: 30, maxTokenBudget: 100000, apiDelayMs: 1500, staleThresholdDays: 30, priorityWeights: { fix_broken: 10, review_quality: 5, expand_basic: 3, update_stale: 2, generate_new: 1 } }, ai: { model: 'claude-opus-4-5-20251101', maxTokens: 16000, temperature: 0.7 }, sources: { priority: ['shop', 'rulebook', 'newsletter', 'community'], imageDirectories: [] } });
         return NextResponse.json(config);
       }
 
@@ -613,6 +613,107 @@ export async function POST(request: NextRequest) {
             error: saveResult.error,
           }, { status: 500 });
         }
+      }
+
+      case 'bulk-fix': {
+        // Bulk fix broken links and malformed YAML across all entries
+        const { dryRun = true, fixLinks = true, fixYAML = true } = body;
+        
+        await updateState({ 
+          status: 'running', 
+          currentTask: dryRun ? 'Previewing bulk fixes...' : 'Applying bulk fixes...'
+        });
+
+        try {
+          // Import fixers dynamically to avoid circular deps
+          const { fixAllLinks, generateValidationReport } = await import('@/lib/link-fixer');
+          const { fixAllFrontmatter, generateFrontmatterReport } = await import('@/lib/frontmatter-fixer');
+          
+          const results: {
+            links?: { filesFixed: number; linksFixed: number; report?: unknown };
+            yaml?: { filesFixed: number; issuesFixed: number; report?: unknown };
+          } = {};
+          
+          if (fixLinks) {
+            if (dryRun) {
+              const report = generateValidationReport();
+              results.links = {
+                filesFixed: 0,
+                linksFixed: 0,
+                report: {
+                  filesWithIssues: report.filesWithIssues,
+                  totalBrokenLinks: report.totalBrokenLinks,
+                  byType: report.byType,
+                },
+              };
+            } else {
+              const linkResult = fixAllLinks();
+              results.links = {
+                filesFixed: linkResult.filesFixed,
+                linksFixed: linkResult.linksFixed,
+              };
+            }
+          }
+          
+          if (fixYAML) {
+            if (dryRun) {
+              const report = generateFrontmatterReport();
+              results.yaml = {
+                filesFixed: 0,
+                issuesFixed: 0,
+                report: {
+                  filesWithIssues: report.filesWithIssues,
+                  totalIssues: report.totalIssues,
+                  byType: report.byType,
+                },
+              };
+            } else {
+              const yamlResult = fixAllFrontmatter();
+              results.yaml = {
+                filesFixed: yamlResult.filesFixed,
+                issuesFixed: yamlResult.issuesFixed,
+              };
+            }
+          }
+          
+          await updateState({ status: 'idle', currentTask: null });
+          
+          // Update stats if we actually fixed things
+          if (!dryRun) {
+            const state = await loadState();
+            const totalFixed = (results.links?.filesFixed || 0) + (results.yaml?.filesFixed || 0);
+            state.stats.entriesFixed = (state.stats.entriesFixed || 0) + totalFixed;
+            await updateState({ stats: state.stats });
+          }
+          
+          return NextResponse.json({
+            success: true,
+            dryRun,
+            results,
+          });
+        } catch (error) {
+          await updateState({ status: 'error', error: String(error) });
+          throw error;
+        }
+      }
+
+      case 'scheduler-stats': {
+        // Get task scheduler statistics
+        const { getSchedulerStats, analyzeCompendiumHealth } = await import('@/lib/task-scheduler');
+        
+        const health = await analyzeCompendiumHealth();
+        const stats = await getSchedulerStats();
+        
+        return NextResponse.json({
+          success: true,
+          health,
+          pendingTasks: stats.pendingTasks,
+          nextBatch: {
+            taskCount: stats.nextBatch.tasks.length,
+            estimatedTokens: stats.nextBatch.totalEstimatedTokens,
+            taskCounts: stats.nextBatch.taskCounts,
+          },
+        });
       }
 
       default:

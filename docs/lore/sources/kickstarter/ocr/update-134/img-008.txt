@@ -1,0 +1,40 @@
+(|
+2 Heirloom Hood
+item, cloth
+id Es 2,
+4 Sal A
+[A
+a 5g 1
+J Le aw la
+A <
+rE
+Accessory
+The first time you are hit each round, roll
+1d10 and add your permanent speed.
+On an 8+, ignore the hit.
+[1]
+© Sword of Sovereignty
+2 weapon, melee, finesse, sword
+6+) a
+2 th
+Sy re
+\ ili 7 y
+NY i 1
+Your first wound attempt with this each
+round has additional luck equal to your
+permanent strength.
+(—
+Hunting Harrier
+item, creature, lantern
+\ i")
+a
+al NE
+ANTI
+Jn x
+fi \
+\ i
+» vz
+At the start of your act, reveal the top one @ and
+put them back in any order. Increase the number
+of @ revealed by your permanent accuracy.
+[1]

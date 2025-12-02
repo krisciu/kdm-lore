@@ -111,7 +111,7 @@
     "score": 30,
     "id": "review-1764699814437-o1m84o",
     "queuedAt": "2025-12-02T18:23:34.437Z",
-    "status": "reviewing"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/02-factions/twilight-order.md",
@@ -201,7 +201,7 @@
     "score": 45,
     "id": "review-1764699814438-8r7tc4",
     "queuedAt": "2025-12-02T18:23:34.438Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/02-factions/white-speakers.md",
@@ -249,7 +249,7 @@
     "score": 50,
     "id": "review-1764699814438-2j2meh",
     "queuedAt": "2025-12-02T18:23:34.438Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/03-locations/before-the-wall.md",
@@ -297,7 +297,7 @@
     "score": 50,
     "id": "review-1764699814438-hwojm2",
     "queuedAt": "2025-12-02T18:23:34.438Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/03-locations/plain-of-faces.md",
@@ -345,7 +345,7 @@
     "score": 50,
     "id": "review-1764699814438-pzx6tx",
     "queuedAt": "2025-12-02T18:23:34.438Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/black-knight-expansion.md",
@@ -393,7 +393,7 @@
     "score": 50,
     "id": "review-1764699814438-bm30ua",
     "queuedAt": "2025-12-02T18:23:34.438Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/dragon-king-expansion-1-6.md",
@@ -441,7 +441,7 @@
     "score": 50,
     "id": "review-1764699814439-epqxg7",
     "queuedAt": "2025-12-02T18:23:34.439Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/dung-beetle-expansion-1-6.md",
@@ -489,7 +489,7 @@
     "score": 50,
     "id": "review-1764699814439-9e9cc6",
     "queuedAt": "2025-12-02T18:23:34.439Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/endemic-life.md",
@@ -537,7 +537,7 @@
     "score": 50,
     "id": "review-1764699814439-3x5bk3",
     "queuedAt": "2025-12-02T18:23:34.439Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/expansion-of-death-vol-1-6.md",
@@ -585,7 +585,7 @@
     "score": 50,
     "id": "review-1764699814440-mmjo1g",
     "queuedAt": "2025-12-02T18:23:34.440Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/flower-knight-expansion-1-6.md",
@@ -633,7 +633,7 @@
     "score": 50,
     "id": "review-1764699814440-1ounw3",
     "queuedAt": "2025-12-02T18:23:34.440Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/frogdog-expansion.md",
@@ -681,7 +681,7 @@
     "score": 50,
     "id": "review-1764699814440-0mx5fo",
     "queuedAt": "2025-12-02T18:23:34.440Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/gorm-expansion-1-6.md",
@@ -729,7 +729,7 @@
     "score": 50,
     "id": "review-1764699814440-eqh5vz",
     "queuedAt": "2025-12-02T18:23:34.440Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/kds-slenderman-expansion.md",
@@ -777,7 +777,7 @@
     "score": 50,
     "id": "review-1764699814440-3lshm0",
     "queuedAt": "2025-12-02T18:23:34.440Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/kds-sunstalker-expansion.md",
@@ -825,7 +825,7 @@
     "score": 50,
     "id": "review-1764699814441-odo5hl",
     "queuedAt": "2025-12-02T18:23:34.441Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/lagomorph-incubation.md",
@@ -873,7 +873,7 @@
     "score": 50,
     "id": "review-1764699814441-fg6ok8",
     "queuedAt": "2025-12-02T18:23:34.441Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/lion-god-expansion-1-6.md",
@@ -921,7 +921,7 @@
     "score": 50,
     "id": "review-1764699814441-83vwni",
     "queuedAt": "2025-12-02T18:23:34.441Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/lion-knight-expansion-1-6.md",
@@ -969,7 +969,7 @@
     "score": 50,
     "id": "review-1764699814442-9lyviw",
     "queuedAt": "2025-12-02T18:23:34.442Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/pariah-expansion.md",
@@ -1017,7 +1017,7 @@
     "score": 50,
     "id": "review-1764699814442-7m7yw9",
     "queuedAt": "2025-12-02T18:23:34.442Z",
-    "status": "queued"
+    "status": "pending_approval"
   },
   {
     "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/phobia-the-hunt.md",

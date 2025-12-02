@@ -32,8 +32,15 @@ interface MarkdownFrontmatter {
   source?: string;
   // Quality/publishing fields
   generatedBy?: string;
-  published?: string;
+  published?: string | boolean;
   confidence?: string;
+  // Detail tracking fields (for agent expansion)
+  detailLevel?: 'basic' | 'moderate' | 'comprehensive';
+  hasGearInfo?: boolean;
+  hasAICards?: boolean;
+  hasEvents?: boolean;
+  lastExpanded?: string;
+  lastUpdated?: string;
 }
 
 // ParsedMarkdown interface - for future use with full document parsing
@@ -77,7 +84,12 @@ function parseFrontmatter(content: string): { frontmatter: MarkdownFrontmatter; 
         
         // Map YAML keys to our frontmatter structure
         if (key && value) {
-          (frontmatter as Record<string, string>)[key] = value;
+          // Handle boolean values
+          if (value === 'true' || value === 'false') {
+            (frontmatter as Record<string, unknown>)[key] = value === 'true';
+          } else {
+            (frontmatter as Record<string, string>)[key] = value;
+          }
         }
       }
     }
@@ -241,13 +253,16 @@ function extractTags(content: string, frontmatter: MarkdownFrontmatter): string[
  */
 function isPublishableEntry(content: string, frontmatter: MarkdownFrontmatter, summary: string): boolean {
   // Skip if explicitly marked as unpublished
-  if (frontmatter.published === 'false') return false;
+  if (frontmatter.published === 'false' || frontmatter.published === false) return false;
   
   // Explicitly published entries are always shown
-  if (frontmatter.published === 'true') return true;
+  if (frontmatter.published === 'true' || frontmatter.published === true) return true;
   
   // Agent-generated entries are quality checked
   if (frontmatter.generatedBy === 'agent') return true;
+  
+  // Entries with moderate or comprehensive detail level are shown
+  if (frontmatter.detailLevel === 'moderate' || frontmatter.detailLevel === 'comprehensive') return true;
   
   // Skip if explicitly marked as draft, product, or research-notes
   if (frontmatter.status === 'draft' || frontmatter.status === 'product' || 

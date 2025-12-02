@@ -16,9 +16,19 @@ import { storage, STORAGE_KEYS, isUsingKV } from './storage';
 export interface AgentConfig {
   schedule: {
     intervalMinutes: number;
-    maxEntriesPerRun: number;
+    maxEntriesPerRun: number;      // DEPRECATED - use maxRunTimeMinutes
+    maxRunTimeMinutes: number;      // NEW: Time-based budget
+    maxTokenBudget: number;         // NEW: Token-based budget
     apiDelayMs: number;
     reviewScanIntervalHours?: number;
+    staleThresholdDays: number;     // NEW: Days before entry is "stale"
+    priorityWeights: {              // NEW: Task type weights
+      fix_broken: number;
+      review_quality: number;
+      expand_basic: number;
+      update_stale: number;
+      generate_new: number;
+    };
   };
   ai: {
     model: string;
@@ -36,8 +46,11 @@ export interface AgentState {
   lastRun: string | null;
   nextRun: string | null;
   lastScan: string | null;
+  lastHealthCheck: string | null;  // NEW: When health was last calculated
   currentTask: string | null;
+  currentTaskType: string | null;  // NEW: Task type being executed
   error: string | null;
+  healthScore: number;             // NEW: 0-100 compendium health
   stats: {
     totalRuns: number;
     entitiesDiscovered: number;
@@ -45,6 +58,8 @@ export interface AgentState {
     entriesApproved: number;
     entriesRejected: number;
     entriesReviewed: number;
+    entriesFixed: number;          // NEW: Broken entries fixed
+    entriesExpanded: number;       // NEW: Basic entries expanded
   };
   history: AgentRunLog[];
 }
@@ -57,6 +72,16 @@ export interface AgentRunLog {
   discovered: number;
   generated: number;
   reviewed: number;
+  fixed: number;           // NEW: Broken entries fixed
+  expanded: number;        // NEW: Basic entries expanded
+  tokensUsed: number;      // NEW: API tokens consumed
+  taskBreakdown: {         // NEW: What tasks were done
+    fix_broken: number;
+    review_quality: number;
+    expand_basic: number;
+    update_stale: number;
+    generate_new: number;
+  };
   errors: string[];
 }
 
@@ -79,7 +104,7 @@ export interface ReviewQueueEntry {
 export interface DiscoveredEntity {
   id: string;
   name: string;
-  type: 'monster' | 'character' | 'faction' | 'location' | 'concept' | 'item' | 'event';
+  type: 'monster' | 'character' | 'faction' | 'location' | 'concept' | 'item' | 'event' | 'gear' | 'ai_card' | 'hunt_event' | 'story_event' | 'fighting_art' | 'disorder' | 'settlement_location';
   subType?: string;
   brief: string;
   sourceFiles: string[];
@@ -112,12 +137,23 @@ export interface PendingEntry {
 const DEFAULT_CONFIG: AgentConfig = {
   schedule: {
     intervalMinutes: 60,
-    maxEntriesPerRun: 3,
-    apiDelayMs: 2000,
+    maxEntriesPerRun: 25,          // DEPRECATED - kept for backwards compatibility
+    maxRunTimeMinutes: 30,          // NEW: Run for up to 30 minutes
+    maxTokenBudget: 100000,         // NEW: Up to 100k tokens per run
+    apiDelayMs: 1500,
+    reviewScanIntervalHours: 24,
+    staleThresholdDays: 30,         // Entries older than 30 days are stale
+    priorityWeights: {
+      fix_broken: 10,               // Highest priority
+      review_quality: 5,
+      expand_basic: 3,
+      update_stale: 2,
+      generate_new: 1,              // Lowest priority
+    },
   },
   ai: {
     model: 'claude-opus-4-5-20251101',
-    maxTokens: 4096,
+    maxTokens: 16000,
     temperature: 0.7,
   },
   sources: {
@@ -135,8 +171,11 @@ const DEFAULT_STATE: AgentState = {
   lastRun: null,
   nextRun: null,
   lastScan: null,
+  lastHealthCheck: null,
   currentTask: null,
+  currentTaskType: null,
   error: null,
+  healthScore: 100,
   stats: {
     totalRuns: 0,
     entitiesDiscovered: 0,
@@ -144,6 +183,8 @@ const DEFAULT_STATE: AgentState = {
     entriesApproved: 0,
     entriesRejected: 0,
     entriesReviewed: 0,
+    entriesFixed: 0,
+    entriesExpanded: 0,
   },
   history: [],
 };
@@ -443,6 +484,16 @@ export async function startRun(): Promise<AgentRunLog> {
     discovered: 0,
     generated: 0,
     reviewed: 0,
+    fixed: 0,
+    expanded: 0,
+    tokensUsed: 0,
+    taskBreakdown: {
+      fix_broken: 0,
+      review_quality: 0,
+      expand_basic: 0,
+      update_stale: 0,
+      generate_new: 0,
+    },
     errors: [],
   };
   

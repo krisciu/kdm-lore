@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T18:43:58.340Z",
-  "nextNumber": 856,
+  "lastUpdated": "2025-12-02T19:18:37.852Z",
+  "nextNumber": 1131,
   "citations": [
     {
       "id": "cit-1764695953428",
@@ -881,6 +881,556 @@
       "topic": "Murderer",
       "dateAdded": "2025-12-02T18:43:58.340Z",
       "quality": "official"
+    },
+    {
+      "id": "cit-1764701073696",
+      "range": "[856-860]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Bowmaster of Deadrock",
+      "dateAdded": "2025-12-02T18:44:33.696Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764701101461",
+      "range": "[861-865]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Bloody Sword of Deadrock",
+      "dateAdded": "2025-12-02T18:45:01.461Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764701128660",
+      "range": "[866-870]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Dark Eye",
+      "dateAdded": "2025-12-02T18:45:28.660Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764701153065",
+      "range": "[871-875]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Romantic Adventurer",
+      "dateAdded": "2025-12-02T18:45:53.065Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764701181644",
+      "range": "[876-880]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Screaming Hoarder",
+      "dateAdded": "2025-12-02T18:46:21.644Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702554619",
+      "range": "[881-885]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Cockroach Queen",
+      "dateAdded": "2025-12-02T19:09:14.619Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702554620",
+      "range": "[886-890]",
+      "source": "deathmas-cockroach-queen-painters-scale",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/deathmas-cockroach-queen-painters-scale.txt",
+      "topic": "Cockroach Queen",
+      "dateAdded": "2025-12-02T19:09:14.621Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702554621",
+      "range": "[891-895]",
+      "source": "deathmas-cockroach-queen",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/deathmas-cockroach-queen.txt",
+      "topic": "Cockroach Queen",
+      "dateAdded": "2025-12-02T19:09:14.621Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702583669",
+      "range": "[896-900]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Nightmare Adam",
+      "dateAdded": "2025-12-02T19:09:43.669Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702583669",
+      "range": "[901-905]",
+      "source": "update-2568905",
+      "type": "newsletter",
+      "path": "kickstarter/updates/update-2568905.txt",
+      "topic": "Nightmare Adam",
+      "dateAdded": "2025-12-02T19:09:43.669Z",
+      "quality": "implied"
+    },
+    {
+      "id": "cit-1764702583669",
+      "range": "[906-910]",
+      "source": "update-2832920",
+      "type": "newsletter",
+      "path": "kickstarter/updates/update-2832920.txt",
+      "topic": "Nightmare Adam",
+      "dateAdded": "2025-12-02T19:09:43.669Z",
+      "quality": "implied"
+    },
+    {
+      "id": "cit-1764702610172",
+      "range": "[911-915]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Anna, Gourmet Hunter",
+      "dateAdded": "2025-12-02T19:10:10.172Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702638807",
+      "range": "[916-920]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Sci-Fi Aya",
+      "dateAdded": "2025-12-02T19:10:38.807Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702638808",
+      "range": "[921-925]",
+      "source": "update-1749527",
+      "type": "newsletter",
+      "path": "kickstarter/updates/update-1749527.txt",
+      "topic": "Sci-Fi Aya",
+      "dateAdded": "2025-12-02T19:10:38.808Z",
+      "quality": "implied"
+    },
+    {
+      "id": "cit-1764702638808",
+      "range": "[926-930]",
+      "source": "update-1750349",
+      "type": "newsletter",
+      "path": "kickstarter/updates/update-1750349.txt",
+      "topic": "Sci-Fi Aya",
+      "dateAdded": "2025-12-02T19:10:38.808Z",
+      "quality": "implied"
+    },
+    {
+      "id": "cit-1764702667497",
+      "range": "[931-935]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Neko Twilight Knight",
+      "dateAdded": "2025-12-02T19:11:07.497Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702703705",
+      "range": "[936-940]",
+      "source": "before-the-wall",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/before-the-wall.txt",
+      "topic": "Aya",
+      "dateAdded": "2025-12-02T19:11:43.705Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702703705",
+      "range": "[941-945]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Aya",
+      "dateAdded": "2025-12-02T19:11:43.705Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702703706",
+      "range": "[946-950]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Aya",
+      "dateAdded": "2025-12-02T19:11:43.706Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702732328",
+      "range": "[951-955]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Shadowstalker",
+      "dateAdded": "2025-12-02T19:12:12.328Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702760278",
+      "range": "[956-960]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Champion of the Goblin",
+      "dateAdded": "2025-12-02T19:12:40.278Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702791815",
+      "range": "[961-965]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Romantic Leyline Walker",
+      "dateAdded": "2025-12-02T19:13:11.815Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702821365",
+      "range": "[966-970]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Axerman Family",
+      "dateAdded": "2025-12-02T19:13:41.365Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702865129",
+      "range": "[971-975]",
+      "source": "indomitable-survivor-poison-partisan-ritika",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "topic": "Ritika",
+      "dateAdded": "2025-12-02T19:14:25.129Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702865130",
+      "range": "[976-980]",
+      "source": "poison-partisan-ritika",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/poison-partisan-ritika.txt",
+      "topic": "Ritika",
+      "dateAdded": "2025-12-02T19:14:25.130Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702865130",
+      "range": "[981-985]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Ritika",
+      "dateAdded": "2025-12-02T19:14:25.130Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702865131",
+      "range": "[986-990]",
+      "source": "indomitable-survivors-bundle",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "topic": "Ritika",
+      "dateAdded": "2025-12-02T19:14:25.131Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702895089",
+      "range": "[991-995]",
+      "source": "indomitable-survivor-roaring-harmonica-kale",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt",
+      "topic": "Kale",
+      "dateAdded": "2025-12-02T19:14:55.089Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702895089",
+      "range": "[996-1000]",
+      "source": "indomitable-survivor-tachyon-nodachi-rubi",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "topic": "Kale",
+      "dateAdded": "2025-12-02T19:14:55.089Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702895090",
+      "range": "[1001-1005]",
+      "source": "roaring-harmonica-kale",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/roaring-harmonica-kale.txt",
+      "topic": "Kale",
+      "dateAdded": "2025-12-02T19:14:55.090Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702895090",
+      "range": "[1006-1010]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Kale",
+      "dateAdded": "2025-12-02T19:14:55.090Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702895091",
+      "range": "[1011-1015]",
+      "source": "basara",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/basara.txt",
+      "topic": "Kale",
+      "dateAdded": "2025-12-02T19:14:55.091Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702936151",
+      "range": "[1016-1020]",
+      "source": "indomitable-survivor-tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "topic": "Tyrant Slayer Scarlet",
+      "dateAdded": "2025-12-02T19:15:36.151Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702936152",
+      "range": "[1021-1025]",
+      "source": "tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/tyrant-slayer-scarlet.txt",
+      "topic": "Tyrant Slayer Scarlet",
+      "dateAdded": "2025-12-02T19:15:36.152Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702936153",
+      "range": "[1026-1030]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Tyrant Slayer Scarlet",
+      "dateAdded": "2025-12-02T19:15:36.153Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702936153",
+      "range": "[1031-1035]",
+      "source": "indomitable-survivors-bundle",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "topic": "Tyrant Slayer Scarlet",
+      "dateAdded": "2025-12-02T19:15:36.153Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702980238",
+      "range": "[1036-1040]",
+      "source": "indomitable-survivor-tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "topic": "Scarlet",
+      "dateAdded": "2025-12-02T19:16:20.238Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702980238",
+      "range": "[1041-1045]",
+      "source": "tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/tyrant-slayer-scarlet.txt",
+      "topic": "Scarlet",
+      "dateAdded": "2025-12-02T19:16:20.238Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702980239",
+      "range": "[1046-1050]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Scarlet",
+      "dateAdded": "2025-12-02T19:16:20.239Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764702980239",
+      "range": "[1051-1055]",
+      "source": "indomitable-survivors-bundle",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "topic": "Scarlet",
+      "dateAdded": "2025-12-02T19:16:20.239Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703017947",
+      "range": "[1056-1060]",
+      "source": "10th-anniversary-survivors",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "topic": "Seed Patterns",
+      "dateAdded": "2025-12-02T19:16:57.947Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703017948",
+      "range": "[1061-1065]",
+      "source": "frogdog-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "topic": "Seed Patterns",
+      "dateAdded": "2025-12-02T19:16:57.948Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703017948",
+      "range": "[1066-1070]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Seed Patterns",
+      "dateAdded": "2025-12-02T19:16:57.948Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703017948",
+      "range": "[1071-1075]",
+      "source": "survivors-of-death-1",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/survivors-of-death-1.txt",
+      "topic": "Seed Patterns",
+      "dateAdded": "2025-12-02T19:16:57.948Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703053458",
+      "range": "[1076-1080]",
+      "source": "allison-the-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/allison-the-twilight-knight.txt",
+      "topic": "Twilight Knights",
+      "dateAdded": "2025-12-02T19:17:33.458Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703053460",
+      "range": "[1081-1085]",
+      "source": "allison-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/miniatures/allison-twilight-knight.txt",
+      "topic": "Twilight Knights",
+      "dateAdded": "2025-12-02T19:17:33.460Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703053460",
+      "range": "[1086-1090]",
+      "source": "the-twilight-order",
+      "type": "community",
+      "path": "existing-research/factions/the-twilight-order.txt",
+      "topic": "Twilight Knights",
+      "dateAdded": "2025-12-02T19:17:33.460Z",
+      "quality": "community"
+    },
+    {
+      "id": "cit-1764703053460",
+      "range": "[1091-1095]",
+      "source": "white-speakers",
+      "type": "community",
+      "path": "existing-research/factions/white-speakers.txt",
+      "topic": "Twilight Knights",
+      "dateAdded": "2025-12-02T19:17:33.460Z",
+      "quality": "community"
+    },
+    {
+      "id": "cit-1764703085420",
+      "range": "[1096-1100]",
+      "source": "allison-the-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/allison-the-twilight-knight.txt",
+      "topic": "Hooded Knight",
+      "dateAdded": "2025-12-02T19:18:05.420Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703085421",
+      "range": "[1101-1105]",
+      "source": "allison-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/miniatures/allison-twilight-knight.txt",
+      "topic": "Hooded Knight",
+      "dateAdded": "2025-12-02T19:18:05.421Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703085421",
+      "range": "[1106-1110]",
+      "source": "kingslayer-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/kingslayer-twilight-knight.txt",
+      "topic": "Hooded Knight",
+      "dateAdded": "2025-12-02T19:18:05.421Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703085422",
+      "range": "[1111-1115]",
+      "source": "FULL-RULEBOOK",
+      "type": "rulebook",
+      "path": "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "topic": "Hooded Knight",
+      "dateAdded": "2025-12-02T19:18:05.422Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703117849",
+      "range": "[1116-1120]",
+      "source": "allison-the-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/allison-the-twilight-knight.txt",
+      "topic": "Tattered Parcel",
+      "dateAdded": "2025-12-02T19:18:37.849Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703117850",
+      "range": "[1121-1125]",
+      "source": "allison-twilight-knight",
+      "type": "shop",
+      "path": "official-site/shop/miniatures/allison-twilight-knight.txt",
+      "topic": "Tattered Parcel",
+      "dateAdded": "2025-12-02T19:18:37.850Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764703117852",
+      "range": "[1126-1130]",
+      "source": "03-story-events-ocr",
+      "type": "community",
+      "path": "existing-research/rules/03-story-events-ocr.txt",
+      "topic": "Tattered Parcel",
+      "dateAdded": "2025-12-02T19:18:37.852Z",
+      "quality": "community"
     }
   ]
 }

@@ -1,54 +1,53 @@
 ---
 title: "New Monsters (2025)"
-status: "draft"
+category: "monster"
 type: "research-notes"
-published: "false"
+confidence: "speculative"
+expansion: "Various"
+sources: ["official-site/shop/gamblers-chest-expansion.txt", "official-site/shop/gameplay-expansions/campaigns-of-death.txt", "official-site/shop/batch-scraped/survivors-of-death-1.txt"]
+lastUpdated: "2025-12-02"
+generatedBy: "agent-review"
+published: false
 ---
 
 # New Monsters (2025)
 
 > **Research Status:** Active - Updated December 2025
-
-This document tracks newly announced and released monsters for Kingdom Death: Monster.
+> **Note:** Many claims in this document reference newsletter sources not available for verification. Claims are marked accordingly.
 
 ---
 
-## Recently Released
+## Overview
+
+This document tracks newly announced and released monsters for Kingdom Death: Monster, including recent releases and long-awaited content from the Kickstarter era. The 2025 releases appear to introduce seasonal themes and new environment types (speculative), while confirmed upcoming content includes monsters from the Gambler's Chest expansion.
+
+---
+
+## Recently Released (Unverified)
+
+> **Note:** The following monsters are reported from newsletter sources not available in the current source archive. Treat details as unverified until confirmed.
 
 ### Rain Stalker
 
 > *"It emerges during the first moments of spring, wearing false faces and seeking familiar prey."*
 
-**Release:** March 2025  
+**Release:** March 2025 (unverified)  
 **Type:** Quarry  
-**Status:** Available
+**Status:** Reported Available
 
 #### Description
-The Rain Stalker is a creature that emerges during the rainy season:
-- Characterized by "false faces" - deceptive features
-- Relentless pursuit behavior
-- Tied to seasonal/weather elements
+The Rain Stalker is reportedly a creature that emerges during the rainy season (unverified):
+- Characterized by "false faces" - deceptive features (speculative)
+- Relentless pursuit behavior (speculative)
+- Tied to seasonal/weather elements (speculative)
 
 #### Lore Significance
-- First monster tied to weather/seasons
-- Introduces new hunt dynamics
-- May connect to broader world-building about climate in Kingdom Death
+- First monster tied to weather/seasons (speculative)
+- May introduce new hunt dynamics (speculative)
+- May connect to broader world-building about climate in Kingdom Death (speculative)
 
-##
----
-
-## Related Images
-
-- `official-site/images/shop/core-game-core-game-monsters-0000-layer-9-1024x1024.jpg` (shop)
-- `official-site/images/shop/core-game-core-game-monsters-0001-layer-4-1024x1024.jpg` (shop)
-- `official-site/images/shop/core-game-core-game-monsters-0002-layer-7-1024x1024.jpg` (shop)
-- `official-site/images/shop/core-game-core-game-monsters-0003-layer-6-1024x1024.jpg` (shop)
-- `official-site/images/shop/core-game-core-game-monsters-0004-layer-3-1024x1024.jpg` (shop)
-
-*Note: Images are stored in the sources directory. Use the image index for full metadata.*
-
-## Source
-- [KDU Newsletter March 2025](https://kingdomdeath.com/news/)
+#### Source
+- KDU Newsletter March 2025 (not in source archive)
 
 ---
 
@@ -56,28 +55,23 @@ The Rain Stalker is a creature that emerges during the rainy season:
 
 > *"From the underground it surfaces, driven by an insatiable hunger for necrotic flesh."*
 
-**Release:** May 2025  
+**Release:** May 2025 (unverified)  
 **Type:** Quarry (Underground)  
-**Status:** Available
+**Status:** Reported Available
 
 #### Description
-Talpagoria, commonly called "The Mole," is an underground monster:
-- Dwells beneath the Plain of Faces
-- Surfaces with hunger for dead/necrotic flesh
-- Draws survivors into its subterranean domain
+Talpagoria, commonly called "The Mole," is reportedly an underground monster (unverified):
+- Dwells beneath the Plain of Faces (speculative)
+- Surfaces with hunger for dead/necrotic flesh (speculative)
+- Draws survivors into its subterranean domain (speculative)
 
 #### Lore Significance
-- Confirms existence of underground areas
-- Introduces necrotic/death themes
-- May connect to the stone faces (burrowing through?)
-
-#### Mechanical Implications
-- Likely introduces underground hunt mechanics
-- May interact with death/corpse systems
-- New terrain/environment rules possible
+- Would confirm existence of underground areas (speculative)
+- Introduces necrotic/death themes (speculative)
+- May connect to the stone faces through burrowing (speculative)
 
 #### Source
-- [KDU Newsletter May 2025](https://kingdomdeath.com/news/)
+- KDU Newsletter May 2025 (not in source archive)
 
 ---
 
@@ -85,53 +79,68 @@ Talpagoria, commonly called "The Mole," is an underground monster:
 
 > *"Summer brings the heat, and with it, ambush from the seaside."*
 
-**Release:** June 2025  
-**Type:** Unknown (possibly Nemesis?)  
-**Status:** Available
+**Release:** June 2025 (unverified)  
+**Type:** Unknown (possibly Nemesis) (speculative)  
+**Status:** Reported Available
 
 #### Description
-The Orc Boss is a formidable creature that:
-- Ambushes survivors during summer
-- Associated with seaside/beach terrain
-- Described as formidable adversary
+The Orc Boss is reportedly a formidable creature that (unverified):
+- Ambushes survivors during summer (speculative)
+- Associated with seaside/beach terrain (speculative)
+- Described as formidable adversary (speculative)
 
 #### Lore Significance
-- "Orcs" in Kingdom Death context is new
-- Introduces seaside as a location type
-- Seasonal monster pattern continues
+- "Orcs" in Kingdom Death context would be new (speculative)
+- Introduces seaside as a location type (speculative)
+- Continues seasonal monster pattern (speculative)
 
 #### Questions Raised
-- Are there other orcs, or is this a unique creature?
-- What is the "seaside" in a world without sun?
-- How does this fit into established monster ecology?
+- Are there other orcs, or is this a unique creature? (speculative)
+- What is the "seaside" in a world without sun? (speculative)
+- How does this fit into established monster ecology? (speculative)
 
 #### Source
-- [KDU Newsletter June 2025](https://kingdomdeath.com/news/)
+- KDU Newsletter June 2025 (not in source archive)
 
 ---
+
+## Confirmed Upcoming Monsters
 
 ### Ancient Butcher
 
 > *"Older. Wiser. Hungrier."*
 
-**Release:** Part of Campaigns of Death  
-**Type:** Nemesis (Upgraded)  
-**Status:** In Expansion
+**Release:** Part of Campaigns of Death (expected 2026) [official-site/shop/gameplay-expansions/campaigns-of-death.txt]  
+**Type:** Nemesis (Upgraded) (speculative)  
+**Status:** In Upcoming Expansion
 
 #### Description
-An enhanced version of the classic Butcher:
-- More powerful than the standard Butcher
-- Different tactics and AI
-- Greater lore significance
+An enhanced version of the classic Butcher (speculative):
+- More powerful than the standard Butcher (speculative)
+- Different tactics and AI (speculative)
+- Greater lore significance (speculative)
 
 #### Lore Significance
-- Suggests Butchers can evolve or age
-- Implies multiple Butchers exist
-- May reveal more about Butcher origins
+- Suggests Butchers can evolve or age (speculative)
+- Implies multiple Butchers exist (speculative)
+- May reveal more about Butcher origins (speculative)
 
 #### Source
-- Campaigns of Death Expansion
-- [Dice Tower reference](https://www.dicetower.com/board-game/217762)
+- Campaigns of Death Expansion - confirmed as preorder, expected 2026 [official-site/shop/gameplay-expansions/campaigns-of-death.txt]
+
+---
+
+### Gambler's Chest Monsters
+
+The Gambler's Chest expansion includes several confirmed monsters [official-site/shop/gamblers-chest-expansion.txt]:
+
+| Monster | Type | Notes |
+|---------|------|-------|
+| Crimson Crocodile | Quarry | "Devours the introduction's White Lion" - more challenging early game foe (confirmed) |
+| Smog Singers | Unknown | Has associated armor set (confirmed) |
+| Godhand | Unknown | Listed as new monster (confirmed) |
+| The King | Unknown | Listed as new monster (confirmed) |
+| Bone Eaters | Encounter Monster | New "Encounter Monster" type (confirmed) |
 
 ---
 
@@ -139,39 +148,40 @@ An enhanced version of the classic Butcher:
 
 ### Frogdog
 
-**Status:** Announced (Kickstarter era)  
-**Last Mention:** Various updates
+**Status:** Confirmed expansion exists [official-site/shop/batch-scraped/survivors-of-death-1.txt]  
+**Evidence:** "This product is best experienced with Gambler's Chest and Frogdog Expansions."
 
 #### What We Know
-- Teased multiple times during Kickstarter
-- Distinctive design shown in previews
+- Confirmed as a real expansion referenced in Survivors of Death I (confirmed)
+- Teased multiple times during Kickstarter (unverified)
+- Distinctive design shown in previews (unverified)
 - No confirmed release date
 
 ### Gryphon
 
-**Status:** Announced (Kickstarter era)  
-**Last Mention:** Kickstarter updates
+**Status:** Announced (Kickstarter era) (unverified)  
+**Last Mention:** Kickstarter updates (unverified)
 
 #### What We Know
-- Artwork has been shown
-- Mythological creature interpretation
-- Likely expansion content
+- Artwork has been shown (unverified)
+- Mythological creature interpretation (speculative)
+- Likely expansion content (speculative)
 
 ### Pariah
 
-**Status:** Mentioned in Lore  
-**Last Mention:** Wave 4 previews
+**Status:** Mentioned in Lore (unverified)  
+**Last Mention:** Wave 4 previews (unverified)
 
 #### What We Know
-- Referenced in lore/story content
-- May be nemesis type
-- Connected to settlement mechanics
+- Referenced in lore/story content (unverified)
+- May be nemesis type (speculative)
+- Connected to settlement mechanics (speculative)
 
 ---
 
 ## Pattern Analysis
 
-### 2025 Monster Themes
+### 2025 Monster Themes (Speculative)
 
 | Monster | Theme | Season |
 |---------|-------|--------|
@@ -179,33 +189,47 @@ An enhanced version of the classic Butcher:
 | Mole | Underground, death | N/A |
 | Orc Boss | Ambush, seaside | Summer |
 
-### Observations
+*Note: This pattern is based on unverified newsletter reports.*
 
-1. **Seasonal Monsters** - 2025 introduced monsters tied to seasons
-2. **New Environments** - Underground and seaside expand the world
-3. **Thematic Variety** - From stalking predator to underground horror to ambush fighter
+### Observations (Speculative)
+
+1. **Seasonal Monsters** - 2025 may have introduced monsters tied to seasons (speculative)
+2. **New Environments** - Underground and seaside would expand the world (speculative)
+3. **Thematic Variety** - From stalking predator to underground horror to ambush fighter (speculative)
 
 ---
 
 ## Indomitable Survivor Connections
 
-New monsters often come with associated Indomitable Survivors:
+The Poison Partisan Ritika description references a spider-like creature with "spindly fingers" and "spiderlings" [official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt] (confirmed), suggesting possible future spider-type monster content.
 
 | Survivor | Possible Monster Connection |
 |----------|---------------------------|
-| Poison Partisan Ritika | May relate to venomous creature |
+| Poison Partisan Ritika | Spider-like creature (confirmed reference in flavor text) |
 | Rubi | Unknown |
-| Various others | TBD |
+
+---
+
+## Related Images
+
+- `official-site/images/shop/core-game-core-game-monsters-0000-layer-9-1024x1024.jpg`
+- `official-site/images/shop/core-game-core-game-monsters-0001-layer-4-1024x1024.jpg`
+- `official-site/images/shop/core-game-core-game-monsters-0002-layer-7-1024x1024.jpg`
+- `official-site/images/shop/core-game-core-game-monsters-0003-layer-6-1024x1024.jpg`
+- `official-site/images/shop/core-game-core-game-monsters-0004-layer-3-1024x1024.jpg`
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
 
 ---
 
 ## Sources
 
-- [Kingdom Death Newsletter Archives](https://kingdomdeath.com/news/)
-- [Kingdom Death Shop](https://shop.kingdomdeath.com/)
-- Community discussions
+- [official-site/shop/gamblers-chest-expansion.txt] - Gambler's Chest monster details
+- [official-site/shop/gameplay-expansions/campaigns-of-death.txt] - Campaigns of Death preorder info
+- [official-site/shop/batch-scraped/survivors-of-death-1.txt] - Frogdog expansion confirmation
+- [official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt] - Ritika flavor text
+- Newsletter sources (not in archive - claims marked unverified)
 
 ---
 
 [← Back to Monsters](./_index.md)
-

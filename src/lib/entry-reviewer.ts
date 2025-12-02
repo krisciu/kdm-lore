@@ -2,6 +2,9 @@
  * Entry Reviewer - AI-powered lore entry improvement
  * Uses Claude to analyze existing entries and generate improved versions
  * with proper citations, confidence levels, and formatting
+ * 
+ * Also supports "expansion mode" - finding new sources and adding details
+ * like gear cards, AI cards, events, and relationships.
  */
 
 import fs from 'fs';
@@ -14,6 +17,9 @@ import {
   PendingEntry,
 } from './agent-core';
 import { ScannedEntry } from './entry-scanner';
+import { getAllSourceFiles, SourceFile } from './entity-discovery';
+import { extractContent, GearCard, AICard, HuntEvent } from './content-extractors';
+import { classifyContentWithContext } from './content-classifier';
 
 const SOURCES_PATH = path.join(process.cwd(), 'docs', 'lore', 'sources');
 const LORE_PATH = path.join(process.cwd(), 'docs', 'lore');
@@ -485,6 +491,500 @@ export async function saveApprovedReview(
   } catch (error) {
     console.error('[EntryReviewer] Error saving review:', error);
     return false;
+  }
+}
+
+// =============================================================================
+// EXPANSION MODE - Find and add new details to existing entries
+// =============================================================================
+
+export interface ExpansionResult {
+  entryPath: string;
+  entryName: string;
+  newSourcesFound: number;
+  gearCardsFound: GearCard[];
+  aiCardsFound: AICard[];
+  eventsFound: HuntEvent[];
+  expandedContent: string;
+  addedSections: string[];
+}
+
+export interface EntryExpansionCandidate {
+  filePath: string;
+  entryName: string;
+  category: string;
+  currentDetailLevel: 'basic' | 'moderate' | 'comprehensive';
+  lastExpanded?: string;
+  potentialSources: number;
+}
+
+/**
+ * Find entries that could benefit from expansion
+ */
+export async function findExpansionCandidates(limit = 20): Promise<EntryExpansionCandidate[]> {
+  const candidates: EntryExpansionCandidate[] = [];
+  const allSources = getAllSourceFiles();
+  
+  const categories = [
+    '04-monsters', '05-characters', '06-concepts',
+    '02-factions', '03-locations',
+  ];
+  
+  for (const category of categories) {
+    const categoryPath = path.join(LORE_PATH, category);
+    if (!fs.existsSync(categoryPath)) continue;
+    
+    const files = fs.readdirSync(categoryPath);
+    
+    for (const file of files) {
+      if (!file.endsWith('.md') || file.startsWith('_')) continue;
+      
+      const filePath = path.join(categoryPath, file);
+      const content = fs.readFileSync(filePath, 'utf-8');
+      
+      // Extract entry name
+      const titleMatch = content.match(/^#\s+(.+)$/m) || content.match(/title:\s*"?([^"\n]+)"?/);
+      const entryName = titleMatch ? titleMatch[1].trim() : file.replace('.md', '');
+      
+      // Determine current detail level
+      const detailLevel = assessDetailLevel(content);
+      
+      // Check for lastExpanded in frontmatter
+      const lastExpandedMatch = content.match(/lastExpanded:\s*"?([^"\n]+)"?/);
+      const lastExpanded = lastExpandedMatch ? lastExpandedMatch[1] : undefined;
+      
+      // Skip if recently expanded (within last 7 days)
+      if (lastExpanded) {
+        const expandedDate = new Date(lastExpanded);
+        const daysSinceExpanded = (Date.now() - expandedDate.getTime()) / (1000 * 60 * 60 * 24);
+        if (daysSinceExpanded < 7) continue;
+      }
+      
+      // Count potential sources that mention this entry
+      const potentialSources = countPotentialSources(entryName, allSources);
+      
+      // Only include if there are potential new sources and detail is not comprehensive
+      if (potentialSources > 0 && detailLevel !== 'comprehensive') {
+        candidates.push({
+          filePath,
+          entryName,
+          category,
+          currentDetailLevel: detailLevel,
+          lastExpanded,
+          potentialSources,
+        });
+      }
+    }
+  }
+  
+  // Sort by potential sources (highest first) and detail level (basic first)
+  candidates.sort((a, b) => {
+    const levelPriority: Record<string, number> = { basic: 0, moderate: 1, comprehensive: 2 };
+    const levelDiff = levelPriority[a.currentDetailLevel] - levelPriority[b.currentDetailLevel];
+    if (levelDiff !== 0) return levelDiff;
+    return b.potentialSources - a.potentialSources;
+  });
+  
+  return candidates.slice(0, limit);
+}
+
+/**
+ * Assess the current detail level of an entry
+ */
+function assessDetailLevel(content: string): 'basic' | 'moderate' | 'comprehensive' {
+  let score = 0;
+  
+  // Check for YAML frontmatter
+  if (content.startsWith('---')) score += 1;
+  
+  // Check for sections
+  const sections = content.match(/^##\s+/gm) || [];
+  score += Math.min(sections.length, 5);
+  
+  // Check for citations
+  const citations = content.match(/\[[a-z0-9-]+:\d+-?\d*\]/gi) || [];
+  score += Math.min(citations.length, 5);
+  
+  // Check for gear info
+  if (content.toLowerCase().includes('## gear') || content.toLowerCase().includes('## equipment')) {
+    score += 2;
+  }
+  
+  // Check for AI card info
+  if (content.toLowerCase().includes('## ai cards') || content.toLowerCase().includes('## behavior')) {
+    score += 2;
+  }
+  
+  // Check for events
+  if (content.toLowerCase().includes('## events') || content.toLowerCase().includes('hunt event')) {
+    score += 2;
+  }
+  
+  // Check for relationships
+  if (content.toLowerCase().includes('## connections') || content.toLowerCase().includes('## relationships')) {
+    score += 1;
+  }
+  
+  if (score >= 12) return 'comprehensive';
+  if (score >= 6) return 'moderate';
+  return 'basic';
+}
+
+/**
+ * Count how many sources might have information about an entry
+ */
+function countPotentialSources(entryName: string, sources: SourceFile[]): number {
+  const searchTerms = entryName.toLowerCase().split(/\s+/).filter(t => t.length > 2);
+  let count = 0;
+  
+  for (const source of sources) {
+    const lowerContent = source.content.toLowerCase();
+    const matches = searchTerms.filter(term => lowerContent.includes(term));
+    if (matches.length >= Math.min(2, searchTerms.length)) {
+      count++;
+    }
+  }
+  
+  return count;
+}
+
+/**
+ * Expand an entry with new information from sources
+ */
+export async function expandEntry(
+  candidate: EntryExpansionCandidate
+): Promise<ExpansionResult | null> {
+  const config = await loadConfig();
+  const originalContent = fs.readFileSync(candidate.filePath, 'utf-8');
+  const allSources = getAllSourceFiles();
+  
+  // Find relevant sources for this entry
+  const relevantSources = findRelevantSourcesForExpansion(
+    candidate.entryName,
+    allSources
+  );
+  
+  if (relevantSources.length === 0) {
+    return null;
+  }
+  
+  // Extract structured content from sources
+  const gearCards: GearCard[] = [];
+  const aiCards: AICard[] = [];
+  const events: HuntEvent[] = [];
+  const additionalInfo: string[] = [];
+  
+  for (const source of relevantSources) {
+    const extracted = extractContent(source.content, source.name, source.relativePath);
+    
+    switch (extracted.type) {
+      case 'gear_card':
+        gearCards.push(extracted.data);
+        break;
+      case 'ai_card':
+        aiCards.push(extracted.data);
+        break;
+      case 'hunt_event':
+        events.push(...extracted.data);
+        break;
+      case 'general':
+        if (extracted.data.summary.length > 50) {
+          additionalInfo.push(`From ${source.relativePath}:\n${extracted.data.summary}`);
+        }
+        break;
+    }
+  }
+  
+  // Build expansion prompt
+  const prompt = buildExpansionPrompt(
+    candidate.entryName,
+    originalContent,
+    gearCards,
+    aiCards,
+    events,
+    additionalInfo.slice(0, 5),
+    relevantSources.slice(0, 10)
+  );
+  
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    console.error('[EntryExpansion] No ANTHROPIC_API_KEY configured');
+    return null;
+  }
+  
+  try {
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: config.ai.model,
+        max_tokens: config.ai.maxTokens,
+        thinking: {
+          type: 'enabled',
+          budget_tokens: 10000,
+        },
+        messages: [{ role: 'user', content: prompt }],
+      }),
+    });
+    
+    if (!response.ok) {
+      console.error('[EntryExpansion] Claude API error:', response.status);
+      return null;
+    }
+    
+    const data = await response.json();
+    
+    // Extract text response
+    let expandedContent = '';
+    for (const block of data.content) {
+      if (block.type === 'text') {
+        expandedContent = block.text;
+        break;
+      }
+    }
+    
+    if (!expandedContent) {
+      return null;
+    }
+    
+    // Clean up response
+    expandedContent = expandedContent
+      .replace(/^```markdown\n?/i, '')
+      .replace(/\n?```$/i, '')
+      .trim();
+    
+    // Determine what sections were added
+    const addedSections: string[] = [];
+    if (!originalContent.includes('## Gear') && expandedContent.includes('## Gear')) {
+      addedSections.push('Gear');
+    }
+    if (!originalContent.includes('## AI Cards') && expandedContent.includes('## AI Cards')) {
+      addedSections.push('AI Cards');
+    }
+    if (!originalContent.includes('## Hunt Events') && expandedContent.includes('## Hunt Events')) {
+      addedSections.push('Hunt Events');
+    }
+    if (!originalContent.includes('## Connections') && expandedContent.includes('## Connections')) {
+      addedSections.push('Connections');
+    }
+    
+    return {
+      entryPath: candidate.filePath,
+      entryName: candidate.entryName,
+      newSourcesFound: relevantSources.length,
+      gearCardsFound: gearCards,
+      aiCardsFound: aiCards,
+      eventsFound: events,
+      expandedContent,
+      addedSections,
+    };
+    
+  } catch (error) {
+    console.error('[EntryExpansion] Error:', error);
+    return null;
+  }
+}
+
+/**
+ * Find relevant sources specifically for expansion
+ */
+function findRelevantSourcesForExpansion(
+  entryName: string,
+  sources: SourceFile[]
+): SourceFile[] {
+  const relevant: SourceFile[] = [];
+  const searchTerms = entryName.toLowerCase().split(/\s+/).filter(t => t.length > 2);
+  
+  // Also add common related terms based on entry name
+  const relatedTerms = getRelatedTerms(entryName);
+  searchTerms.push(...relatedTerms);
+  
+  for (const source of sources) {
+    const lowerContent = source.content.toLowerCase();
+    const lowerName = source.name.toLowerCase();
+    
+    // Check filename first (high relevance)
+    const nameMatches = searchTerms.filter(term => lowerName.includes(term));
+    if (nameMatches.length > 0) {
+      relevant.push(source);
+      continue;
+    }
+    
+    // Check content
+    const contentMatches = searchTerms.filter(term => lowerContent.includes(term));
+    if (contentMatches.length >= Math.min(2, searchTerms.length)) {
+      relevant.push(source);
+    }
+  }
+  
+  return relevant.slice(0, 50); // Limit to prevent token overflow
+}
+
+/**
+ * Get related search terms for an entity
+ */
+function getRelatedTerms(entryName: string): string[] {
+  const related: string[] = [];
+  const lower = entryName.toLowerCase();
+  
+  // Monster-related terms
+  const monsters = ['gorm', 'phoenix', 'dragon', 'lion', 'antelope', 'butcher', 'king'];
+  for (const monster of monsters) {
+    if (lower.includes(monster)) {
+      related.push(`${monster}-ai`, `${monster} gear`, `${monster} hunt`);
+    }
+  }
+  
+  return related;
+}
+
+/**
+ * Build the expansion prompt
+ */
+function buildExpansionPrompt(
+  entryName: string,
+  originalContent: string,
+  gearCards: GearCard[],
+  aiCards: AICard[],
+  events: HuntEvent[],
+  additionalInfo: string[],
+  sources: SourceFile[]
+): string {
+  let prompt = `You are expanding a Kingdom Death: Monster lore entry with new information from sources.
+
+## ORIGINAL ENTRY: ${entryName}
+\`\`\`markdown
+${originalContent}
+\`\`\`
+
+## NEW INFORMATION FOUND
+
+`;
+
+  // Add gear card info
+  if (gearCards.length > 0) {
+    prompt += `### Gear Cards (${gearCards.length} found)
+`;
+    for (const gear of gearCards.slice(0, 10)) {
+      prompt += `- **${gear.name}** (${gear.type}): ${gear.effect.slice(0, 100)}... [${gear.sourceFile}]\n`;
+      if (gear.stats.speed || gear.stats.accuracy || gear.stats.strength) {
+        prompt += `  Stats: Speed ${gear.stats.speed || '-'}, Accuracy ${gear.stats.accuracy || '-'}, Strength ${gear.stats.strength || '-'}\n`;
+      }
+      if (gear.keywords.length > 0) {
+        prompt += `  Keywords: ${gear.keywords.join(', ')}\n`;
+      }
+    }
+    prompt += '\n';
+  }
+
+  // Add AI card info
+  if (aiCards.length > 0) {
+    prompt += `### AI Cards (${aiCards.length} found)
+`;
+    for (const ai of aiCards.slice(0, 15)) {
+      prompt += `- **${ai.name}** (${ai.phase}): Speed ${ai.speed}, ${ai.accuracy}, Damage ${ai.damage} [${ai.sourceFile}]\n`;
+      if (ai.effects.length > 0) {
+        prompt += `  Effects: ${ai.effects.slice(0, 2).join('; ')}\n`;
+      }
+    }
+    prompt += '\n';
+  }
+
+  // Add event info
+  if (events.length > 0) {
+    prompt += `### Hunt Events (${events.length} found)
+`;
+    for (const event of events.slice(0, 5)) {
+      prompt += `- **${event.number}: ${event.name}** - ${event.description.slice(0, 100)}... [${event.sourceFile}]\n`;
+    }
+    prompt += '\n';
+  }
+
+  // Add additional info
+  if (additionalInfo.length > 0) {
+    prompt += `### Additional Sources
+`;
+    for (const info of additionalInfo) {
+      prompt += `${info}\n\n`;
+    }
+  }
+
+  // List source files
+  prompt += `### Source Files Referenced
+`;
+  for (const source of sources.slice(0, 10)) {
+    prompt += `- ${source.relativePath}\n`;
+  }
+
+  prompt += `
+
+## YOUR TASK
+
+Expand the original entry with the new information. You MUST:
+
+1. **Keep ALL existing content** - do not remove or significantly alter existing sections
+2. **Add new sections** for:
+   - ## Gear (if gear cards found and not present)
+   - ## AI Cards (if AI cards found and not present)  
+   - ## Hunt Events (if events found and not present)
+   - ## Connections (relationships to other entities)
+3. **Add inline citations** [source-file:line-range] to new content
+4. **Update frontmatter**:
+   - Set \`detailLevel: moderate\` or \`comprehensive\`
+   - Add \`hasGearInfo: true/false\`
+   - Add \`hasAICards: true/false\`  
+   - Add \`hasEvents: true/false\`
+   - Set \`lastExpanded: "${new Date().toISOString().split('T')[0]}"\`
+5. **Maintain quality** - only add verifiable information from the sources
+
+IMPORTANT: Return ONLY the expanded markdown content, no explanations.`;
+
+  return prompt;
+}
+
+/**
+ * Process entry expansion and add to pending review
+ */
+export async function processEntryExpansion(
+  candidate: EntryExpansionCandidate
+): Promise<PendingEntry | null> {
+  try {
+    const result = await expandEntry(candidate);
+    
+    if (!result || result.addedSections.length === 0) {
+      return null;
+    }
+    
+    // Create pending entry for approval
+    const pendingEntry = await addPendingEntry({
+      entityId: `expand-${Date.now()}`,
+      entityName: candidate.entryName,
+      content: result.expandedContent,
+      frontmatter: {
+        reviewType: 'expansion',
+        originalPath: candidate.filePath,
+        addedSections: result.addedSections,
+        gearCardsAdded: result.gearCardsFound.length,
+        aiCardsAdded: result.aiCardsFound.length,
+        eventsAdded: result.eventsFound.length,
+        newSourcesFound: result.newSourcesFound,
+      },
+      sourceFiles: [],
+      images: [],
+      citations: [],
+      connections: [],
+      confidence: 'confirmed',
+    });
+    
+    return pendingEntry;
+    
+  } catch (error) {
+    console.error('[EntryExpansion] Error processing expansion:', error);
+    return null;
   }
 }
 

@@ -1,18 +1,49 @@
 {
-  "status": "running",
-  "lastRun": "2025-12-02T18:09:45.803Z",
-  "nextRun": "2025-12-02T19:09:45.803Z",
+  "status": "idle",
+  "lastRun": "2025-12-02T19:21:47.076Z",
+  "nextRun": "2025-12-02T20:21:47.076Z",
   "lastScan": "2025-12-02T18:29:20.043Z",
-  "currentTask": "Generating entry for Bowmaster of Deadrock... (12/25)",
+  "currentTask": null,
   "error": null,
   "stats": {
-    "totalRuns": 2,
-    "entitiesDiscovered": 116,
-    "entriesGenerated": 6,
-    "entriesApproved": 17,
-    "entriesRejected": 3
+    "totalRuns": 5,
+    "entitiesDiscovered": 327,
+    "entriesGenerated": 58,
+    "entriesApproved": 86,
+    "entriesRejected": 13,
+    "entriesReviewed": 34
   },
   "history": [
+    {
+      "id": "run-1764702070657",
+      "startedAt": "2025-12-02T19:01:10.657Z",
+      "completedAt": "2025-12-02T19:21:47.076Z",
+      "status": "success",
+      "discovered": 56,
+      "generated": 18,
+      "reviewed": 7,
+      "errors": []
+    },
+    {
+      "id": "run-1764700251281",
+      "startedAt": "2025-12-02T18:30:51.281Z",
+      "completedAt": "2025-12-02T18:49:13.147Z",
+      "status": "success",
+      "discovered": 79,
+      "generated": 16,
+      "reviewed": 7,
+      "errors": []
+    },
+    {
+      "id": "run-1764699956432",
+      "startedAt": "2025-12-02T18:25:56.432Z",
+      "completedAt": "2025-12-02T18:46:57.077Z",
+      "status": "success",
+      "discovered": 76,
+      "generated": 18,
+      "reviewed": 7,
+      "errors": []
+    },
     {
       "id": "run-1764698669393",
       "startedAt": "2025-12-02T18:04:29.393Z",
