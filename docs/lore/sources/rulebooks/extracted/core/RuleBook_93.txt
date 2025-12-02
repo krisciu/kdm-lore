@@ -1,0 +1,61 @@
+                                                                                                                                                                                                   Core  Rules -
+                                                                                      - Rules -
+                                                                                                                                                                                                   HUNT  EVENT  TABLE
+
+survivor heals all injury levels and lost armor points on     ny: end this event. The lowest scoring survivor (or survi-        All survivors gain 1 random disorder and must spend 
+1 hit location. However, they lose track of their quarry.     vors, in case of ties) becomes a straggler. Each straggler   1 survival or be devoured whole. If any survivor has noisy 
+Move it 1 space away from the survivors on the hunt           rolls 1d10. If any survivor has noisy gear, the straggler    gear, the Harvester is drawn to the sound and they are 
+board. If a survivor heals more than 5 lost armor points      adds +2 to their roll.                                       instantly devoured. Nothing can save them.
+this way, they stare into the shining light for too long and      If any survivor has noisy gear and the settlement            The creature is so horrifying that the survivors’ brains 
+gain 1 random disorder,                                       has Drums, they counter the wails with a tune from home.     erase the experience from their memories. Do not gain 
+     If all survivors are insane, they cannot rest longer.    Do not roll on the table and each survivor gains +2 insan-   the benefits of your death principle.
+                                                              ity and +2 survival. 
+7 | Hungry Ground                                              1d10   Straggler
+
+The ground suddenly splits and a gaping stone mouth            1 - 3  The fog around you turns black and fills with shapes 
+attempts to devour the event revealer whole! The event                of tormented faces. You are driven to madness. Gain 
+revealer rolls 1d10.                                                  1 random disorder.
+     If another survivor has a whip, they throw a line to 
+                                                               4 - 6  The fog grows soupy and begins to wail. You plug 
+the event revealer. Add +4 to your roll.
+                                                                      your ears with your fingers, but it's hopeless. Suffer 
+ 1d10   Event revealer                                                monster level brain event damage.
+ 1      With a muffled scream, you disappear into the          7 - 9  You stick your thumbs into your ears and break into 
+        ground. You manage to grab hold of a precarious               a run, leaving the wailing smoke.
+        ledge above the gaping maw. Lose all survival as 
+                                                               10 +   Mimicking the disturbing smoke, you calmly start to 
+        you desperately climb up to safety. If you had none, 
+                                                                      wail with it. Gain +2 insanity.
+        you fall. Bones crunch between stone teeth. You are 
+        devoured whole. Dead.
+ 2 - 5  You scramble, but your leg is caught in the terrible 
+        maw. Suffer 2 event damage to the legs.               9 | Golden Light
+
+ 6 - 9  You manage to leap away in time!                      A golden light blinds the survivors, stopping them in their 
+ 10 +   Burp! Gurgle! The floor vomits a shiny piece of scrap. tracks. The light shines from a single source. The event 
+        Gain 1 broken lantern basic resource.                 revealer is compelled to investigate. They gain +1 cour-
+                                                              age and roll 1d10.
+                                                                  If the event revealer is blind, they walk in the wrong 
+                                                              direction and gain +3 insanity. Roll again on the hunt 
+                                                              event table and do not investigate the light.
+                                                               1d10   Event revealer - Investigate
+                                                               1 - 3  The light is overpowering. Your fragile mind cannot 
+                                                                      understand its soundless words. Gain 1 random 
+                                                                      disorder.
+                                                               4 - 8  You wander through the light, bathed in a warm,      11 | Monster Droppings
+                                                                      awful feeling. You don't find anything other than 
+                                                                      exposure. Suffer monster level event damage to a     The survivors find some monster droppings, like those of 
+                                                                      random hit location.                                 their quarry. The event revealer chooses to either investi-
+                                                                                                                           gate or consume the droppings (choose only one). 
+                                                               9 +    Something about the light stirs you, and your resolve     If the event revealer investigates, gain +1 under-
+                                                                      intensifies. Gain +1 survival.                       standing and roll 1d10.
+8 | Wailing Smoke
+                                                              10 | Harvester                                                 1d10   Event revealer - Investigate
+A constant moan follows the survivors. Eventually, they                                                                      1 - 3  You discover just how sickening playing with feces is. 
+enter an area shrouded in thick fog and the wailing reach-    This event cannot be rerolled or avoided in any way.                  Lose 1 survival and roll again on the hunt event table 
+es a fevered pitch.                                               The ground quakes and cracks beneath the survivors.               before moving on the hunt board.
+ Every non-deaf survivor rolls 1d10. If all survivors         A colossal worm bursts from below, its skin a mosaic of 
+are deaf, they continue along, heedless to the cacopho-       screaming faces. The mere sight of it is maddening. 
+
+
+                                                                                                                                                       Kingdom Death: Monster Core Game  91

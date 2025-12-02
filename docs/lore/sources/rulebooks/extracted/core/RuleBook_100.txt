@@ -1,0 +1,66 @@
+                                                                                           - Rules -
+
+
+      1d10   Event revealer                                            If any survivor has 3+ understanding, the survivors        1d10   Event revealer - Investigate
+                                                                   cover themselves in the dead monster's spilled blood. The 
+      4 - 7  The salesman slowly gestures for an offering. Archive stench will help them sneak up on their quarry. When the       3 - 7  The remains are human. The distraught and enraged 
+             1 gear of your choice from your gear grid.            showdown starts, the survivors ambush the monster. If                 survivors each suffer 1 brain event damage. If the 
+                                                                                                                                         settlement has Graves, they bury the dead and each 
+      8 +
+             As he imparts the mask to you, the salesman's lips    any survivor has the Squeamish   disorder, they refuse to             survivor gains +1 survival. If the settlement has Canni-
+             form the sounds of your name. It is gone. Give your   soil themselves. Do not ambush the monster.                           balize, gain 1 random basic resource.
+             survivor a new name (it must be different) and +1         If no survivor has 3+ understanding, the starving sur-
+             survival for naming your survivor.                    vivors feast on the rotting corpse, immediately losing con-    8 +    The quarry has left the remains of another monster in 
+                                                                   trol of their twisting guts. Each survivor loses 1 survival and       its wake. Gain 1 random basic resource.
+                                                                   cannot consume for the rest of this lantern year.
+     54 | Bone Storm
+                                                                                                                                60 | Wildfire
+     Mighty winds tear across the landscape, collecting chips of   57 | Gorm’s Laughter
+     stones and skeletal remains. The survivors huddle togeth-                                                                  A massive wall of flame obstructs the survivors, inciner-
+     er on the outskirts of the storm. They may either brave the   The rhythmic wail of a Gorm's laughter reaches the survi-    ating the ground. It has destroyed whatever awaited the 
+     storm or wait it out.                                         vors, filling them with fear. The cackling follows the survi- survivors and left chaos in its wake. Archive all hunt event 
+          Brave the storm: all survivors gain +1 courage and       vors, tormenting them until they reach their quarry. Place   cards in the next 2 hunt spaces. Place two basic hunt 
+     suffer 1 event damage to 3 random hit locations. Archive      a token on every hunt board space between the survivors      event cards in those spaces.
+     all fragile gear.                                             and their quarry. When the survivors move into a space        
+          Wait it out: roll twice on the hunt event table before   with a token, remove it and all non-deaf survivors suffer 1 
+     moving on the hunt board.                                     brain event damage.                                          61 | Frozen Lightning
+
+                                                                                                                                A storm sweeps over the survivors. Deep purple lightning 
+     55 | Mudslide                                                 58 | Scent on the Wind                                       flashes overhead. The bolts freeze in mid-strike and rain 
+                                                                                                                                down on the survivors as jagged, glowing spikes. Each 
+     A flash mudslide sweeps the survivors away.                   A strong wind blows, bringing with it the scents of distant  survivor rolls 1d10. The lowest scoring survivor (or survi-
+          Each survivor rolls 1d10. If any survivor has a whip,    places and things. The event revealer rolls 1d10.            vors, in case of ties) becomes a straggler. 
+     they catch it around a pillar-shaped bone and swing to                                                                          A bolt crashes beside the straggler, catching them in 
+                                                                    1d10   Event revealer
+     safety; they do not roll.                                                                                                  an explosion of razor-sharp crystals. They suffer 1d5 event 
+                                                                    1 - 5  The monster catches your scent. It moves one space   damage to 2 random hit locations. Archive all fragile gear 
+      1d10   Each survivor
+                                                                           closer. If this movement starts the showdown, the    in their gear grid.
+      1 - 2  You're violently swept along, drowning in mud. Suffer         monster ambushes the survivors.
+             2 event damage to a random hit location and archive 
+                                                                    6 +    The survivors smell their quarry's foul odor and surge 
+             all fragile and soluble gear in your gear grid. Roll 
+                                                                           forward. The survivors may skip the next hunt space. 62 | Space Between the Rocks 
+             again on the table.
+                                                                           If this movement starts the showdown, the survivors 
+      3 - 7  You manage to scramble free, but not before taking a          ambush the monster.                                  The survivors are distracted by a dark crack in the endless 
+             serious beating. Suffer 2 event damage to your body                                                                sea of stone faces.
+             and archive all fragile and soluble gear in your gear                                                                   If any survivor has a pickaxe, they strike the ground, 
+             grid.                                                 59 | Signs of Battle                                         causing the crack to expand into a gaping hole. Bravely 
+                                                                                                                                reaching inside the survivor produces a blackened, twisted 
+      8 - 9  You reach higher ground.  You're caked in mud but     The survivors come upon the remains of a terrible battle     hunk. Gain 1 iron strange resource.
+             otherwise unscathed.                                  between their quarry and some unknown foe.  The event             Otherwise, each survivor rolls 1d10. The lowest scor-
+      10 +   You remember being pulled under, the sensation of     revealer may choose to investigate. If they do, gain +1      ing survivor (or survivors, in case of ties) becomes a strag-
+             mud forcing itself down your throat, then nothing     courage and roll 1d10. Otherwise, roll again on the hunt     gler.
+             else.  After the mudslide passes, the other survivors event table before moving on the hunt board.                      The straggler stoops to gaze into the depths and 
+                                                                                                                                refuses to stop staring. When the other survivors drag 
+             find you unharmed. Gain +1 insanity.                   1d10   Event revealer - Investigate
+                                                                                                                                them away, they babble incoherently. Whatever they saw 
+                                                                    1 - 2  The monster springs out of the dark, taking advantage changed them forever; they gain 1 random disorder.
+     56 | Dead Monster                                                     of the distracted survivors. The monster ambushes         If all the survivors end up as stragglers, no one ever 
+                                                                           the survivors. During showdown setup, place the      pulls them away and they are all lost. Dead.
+     The survivors find a decomposed monster corpse. It’s too              event revealer directly in front of the monster.
+     rotten to yield any resources.
+
+
+98

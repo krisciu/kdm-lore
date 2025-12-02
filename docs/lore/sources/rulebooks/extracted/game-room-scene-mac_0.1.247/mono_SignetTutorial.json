@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3511936491758782588
+  },
+  "m_Name": "SignetTutorial",
+  "steps": [
+    {
+      "title": "Signet",
+      "text": "The Signet is active as soon as it is removed from its box. When active, the owner of the Dwelling may mail Stone Cloud campaigns and Eyeclops Camera Pictures to other dwellers in their friends list through the context menu commands of these items.",
+      "imagePath": ""
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ]
+}

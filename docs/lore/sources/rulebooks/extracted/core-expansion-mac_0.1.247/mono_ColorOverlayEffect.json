@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6490523650313347522
+  },
+  "m_Name": "ColorOverlayEffect",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "color": {
+    "overrideState": 1,
+    "value": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    }
+  }
+}

@@ -1,0 +1,48 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+They are now the target and after the attack the mon- Monster Movement
+ster will lose its special interest in them.         Actions will dictate when to move the monster. Most 
+    The priority target token does not affect AI cards commonly, this will be in the form of a Move & Attack 
+that pick multiple targets or all survivors, nor any tar- Target action after a monster has picked a target.  
+geting on monster AI cards outside of a Pick Target      When an action instructs a monster to move to-
+action (e.g. the White Lion’s Cunning S card).       ward a target, the monster controller must identify 
+    The priority target token does not affect targeting the shortest path between the monster and the tar-
+in a monster’s hit location deck. If a monster’s reaction get, then move the monster miniature along that path 
+on a hit location card targets the attacker, the priority until it is adjacent to the target or has no movement       The monster has turned to face Zachary.
+                                                                                                                     It is now facing all of the indicated spaces.
+target token has no effect.                          remaining. If there are multiple paths tied for the short-
+                                                     est, the monster controller chooses one.             After moving the monster, turn to face the survivor, re-
+Move & Attack Target Actions                             Regardless of their size, monsters move 1 space  solve any instances of collision, then attack the target 
+Move & Attack Target actions are the most common     at a time in cardinal directions (not diagonal).     using the card’s attack profile.
+way a monster will attack survivors. Move & Attack 
+Target, unless specifically stated otherwise, is an in- After the White Lion plays Vicious Claw and picks a Some attacks have reach (the long halberd of the 
+struction to move the monster towards its target up  target, it will proceed to the next action on the card, King’s Man) or range. In these cases, move the mon-
+to its current movement or until adjacent, turn to face Move & Attack Target.                             ster the minimum number of spaces it must move to 
+them, and attack using the action’s attack profile. If a                                                  attack its target.
+monster is already adjacent to its target, it will turn to 
+face its target and attack without moving.                                                                Full Move
+                                                                                                          Full move is a term that describes a monster or sur-
+Variants of Move & Attack Target                                                                          vivor’s maximum available movement, taking into 
+Other actions, such as Materialize & Attack Target,                                                       account any positive or negative movement modifier 
+or Move & Intimidate Target, are performed similarly                                                      tokens.
+to Move & Attack Target, but with the rules of another                                                        For example, a Level 1 White Lion (movement 6) 
+behavior substituting for a portion of the action.                                                        with a -1 movement token would have a full move of 5.
+ The Materialize & Attack Target action on the 
+Phoenix’s Wing Punch AI is performed the same way                                                         Forward, Back, Away, and Toward
+as a Move & Attack Target action, but the Phoenix                                                         Some actions and rules will specify a direction for the 
+materializes facing and adjacent to the target instead                                                    monster to move.
+of moving. Likewise, the Move & Intimidate Target ac-
+tion on Butcher’s Gaze of Truth AI card full moves the   To move towards the target, the monster control- Forward: This is the direction the monster is currently 
+Butcher the same way as a Move & Attack Target ac-   ler first chooses the shortest path between the mon- facing. 
+tion, but intimidates the survivor instead of attacking. ster and the survivor, then moves 1 cardinal space at 
+    Some attack profiles will only be preceded by    a time along that path. Since the White Lion’s move- Back: This is the opposite direction the monster is 
+an instruction to attack target. On these profiles, the ment is 6 and the survivor is 7 spaces away, the mon- currently facing.
+monster does not move before attacking.              ster controller is able to move the monster to a space 
+    Some actions will simply state to full move to-  adjacent to the target.                              Away: This is usually in conjunction with something 
+wards target, then attack target. This is effectively the                                                 on the board (e.g., all survivors, the attacker, a board 
+same as a Move & Attack Target action.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  69

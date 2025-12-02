@@ -1,0 +1,41 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SURVIVORS
+
+Gear Grid                                            Duplicate Gear                                       Armor Sets
+                                                     Except for weapons, a survivor may not have mul-     A completed armor set will bestow the survivor with 
+The gear currently in a survivor’s gear grid is what tiple copies of the same gear in their gear grid. A  a bonus listed on an armor set card. Usually, armor 
+the survivor is wearing and carrying.                survivor gains the benefits of a weapon’s special    that is part of a set all have names that begin with the 
+                                                     rules only once, no matter how many copies they      same word(s).
+                                                     have. Additional copies of weapons still contribute 
+                                                     affinities.
+
+
+                                                                                                          While a survivor is wearing all armor from a single 
+                                                                                                          settlement location with the set keyword, they have 
+                                                                                                          completed the set and gain the benefits on the corre-
+                                                                                                          sponding armor set card.
+
+The gear grid has space for 9 gear cards, which can                                                       A survivor wearing the White Lion Helm, White Lion 
+be arranged in any configuration as long as they are                                                      Gauntlets, White Lion Coat, White Lion Skirt, and 
+faced right-side up. They cannot be rotated.                                                              White Lion Boots has completed the White Lion armor 
+                                                     Gear Keywords                                        set and gains the completed set bonus listed on the 
+Gear in gear grids can only be rearranged during the Keywords are used to describe gear’s important fea-  White Lion armor set card.
+settlement phase.                                    tures. Gear keywords may be referenced by events, 
+                                                     monster cards, or other rules.                       Activation Costs
+Fist & Tooth                                             For example, the Bone Earrings item requires     Some gear require an additional cost from the survi-
+Fist & Tooth describes a survivor fighting with their survivors to only have bone gear in their gear grid vor in order to use them. The most common cost as-
+bare hands, and is a weapon available to all survi-  to gain its bonus. This refers to gear with the bone sociated with using a gear is spending an activation, 
+vors. Rules for Fist & Tooth are listed on the side of keyword.                                           but other costs-such as spending survival, or suffering 
+the survivor gear grid and also below.                                                                    damage—also appear on gear cards. 
+                                                     Gear Special Rules                                       The  Cat Gut Bow is Cumbersome, which re-
+                                                     Special rules are listed at the bottom of some gear  quires survivors to spend their movement action in 
+                                                     cards. These rules include special abilities and lim- addition to an activation in order to be fired. 
+                                                     itations (e.g., weapons can be Savage or Frail). 
+                                                         The rules of lower-level gear are explained on       Some gear functions differently if survivors are 
+                                                     their cards. However, rules on some higher-level     insane, have a certain amount of survival, or meet at-
+                                                     gear are referred to by name only. Full explanations tribute requirements. These will be noted in the rules 
+                                                     of all gear special rules can be found in the Glossary. descriptions or explained in the Glossary. 
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  45

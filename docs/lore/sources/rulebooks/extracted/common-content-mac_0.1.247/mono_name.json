@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1101229750744939834
+  },
+  "m_Name": "name",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 4837660573498153947
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5913530453316869083
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1112159659594488795
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4203145279897148379
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4267208595083107291
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7990008825888381915
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5424686380634268709
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3137706364851250213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1694452296471208997
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3838733863127096283
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1601345300937907163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4350614157331653669
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 29327895420148699
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6222445886386332709
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1609688674483379163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6459003582530067419
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2469642207020770341
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3500992395432223781
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8816622255124767781
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 45128299570404315
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8940840454350496805
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5878809449139594277
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

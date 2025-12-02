@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2351377308159421488
+  },
+  "m_Name": "CharacterSheet",
+  "info": {
+    "lights": [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.75,
+          "z": 0.75
+        },
+        "rotation": {
+          "x": 135.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "intensity": 0.30000001192092896,
+        "angle": 15.0,
+        "range": 1.399999976158142,
+        "useVolumetric": 1,
+        "layer": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3511936491758782588
+  },
+  "m_Name": "GhostPenTutorial",
+  "steps": [
+    {
+      "title": "Ghost Pen",
+      "text": "Placed on the table with its cap removed the pen assists players on the task of recording different cards to their record sheets.\n\nSimply hover a card over the desired record sheet and the pen will record its name in the corresponding field.",
+      "imagePath": ""
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ]
+}

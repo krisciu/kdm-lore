@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2351377308159421488
+  },
+  "m_Name": "CabinetPreset",
+  "info": {
+    "lights": [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 18.799999237060547,
+          "z": 39.0
+        },
+        "rotation": {
+          "x": 145.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "intensity": 3.0,
+        "angle": 37.0,
+        "range": 55.0,
+        "useVolumetric": 1,
+        "layer": 16
+      }
+    ]
+  }
+}

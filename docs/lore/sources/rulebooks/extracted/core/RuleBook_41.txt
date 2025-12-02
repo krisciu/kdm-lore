@@ -1,0 +1,30 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+
+              Dice & Tables                                         Lantern 10                             Conflicts and the Rule of Death                             SURVIVAL  GUIDE
+
+
+Throughout the game, you will roll dice to determine Lantern 10 refers to a die roll result where the lantern As in any game with many moving parts and rules, 
+the outcomes of everything from attacks to choosing  face is showing. Natural 1 refers to a roll result where conflict may occasionally arise regarding rules inter-
+random players.                                      the  number “1” face showing.                        pretations, group decisions, or exceptions. 
+    When the game instructs you to roll d10s, it re-     During the showdown, it is possible to encounter     First and foremost, this game is designed to 
+fers to the 10-sided dice included with the game. The situations where it is impossible to succeed or fail at provide time well spent with friends. Use this as the 
+values on the dice are 1 to 10 (the 10 face is repre- hitting or wounding. In such cases, Lantern 10’s al- guiding principle for solving any problems that arise. 
+sented by a lantern).                                ways succeed and 1’s always fail. This way, the pos- In addition, here are some technical guidelines for 
+    The number of dice you need to roll is specified sibility of success or failure exists, even in the most resolving conflict.
+by the number before “d10”, so 2d10 is 2 dice.       one-sided circumstances.                                 When conflict arises over contradictions in rules, 
+    If the game instructs you to roll a d5, roll a d10   For instance, players may find themselves fac-   apply specific rules found on cards (AI, gear etc) and 
+and divide the result in half (rounded up).          ing monsters with toughness so high that the maxi-   story events, before any rules found in the rulebook 
+    Rolling on tables is an important component      mum die result (10) combined with their strength is  core rules sections.
+of the game, introducing an element of chance to     not enough to penetrate the monster’s toughness.         If conflicts arise that slow or halt a play ses-
+events. Many moments in the game are accompa-        In this case, when a lantern 10 is rolled, it will still sion completely, use the Rule of Death: always rule 
+nied by a table, everything from determining the out- wound (and cause critical wounds, if luck allows).  against the survivors. Kingdom Death is a dangerous 
+comes of severe injuries to the results of story events   Conversely, monsters may face situations        place, and the survivors’ future is bleak. Make sure 
+contains an element of chance.                       where an attack roll will always hit. For example, at- that any ambiguities resolve against the survivors’ 
+    Some tables are even affected by existing inno-  tacking a survivor with negative evasion might mean  favor.
+vations and principles the group has already chosen. it would hit on a 1 or higher. In these cases a natural   At its core, Monster is a cooperative experience. 
+                                                     1 will still miss.                                   Be respectful of others as you navigate the game’s 
+                                                                                                          decisions together.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  39

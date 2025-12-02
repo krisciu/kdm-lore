@@ -1,0 +1,47 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SETTLEMENT PHASE SETTLEMENT
+
+                                                     Activities: Some settlement locations have unique    Nemesis Encounter: Select a nemesis monster of 
+                                                     activities that can only be found at that location. Most your choice from the Nemesis Monster list on the 
+                                                     activities at settlement locations require an endeavor Settlement Record Sheet. This is the monster you 
+                                                     to be spent as a part of the cost of performing them. will be fighting. You must select a monster level you 
+                                                                                                          have not previously faced.
+                                                     Build: Some settlement locations allow survivors to 
+                                                     build additional settlement locations by spending a  Nemesis Encounter - Lvl X: Select a nemesis mon-
+                                                     combination of resources and endeavors.              ster of your choice from the Nemesis Monster list 
+                                                                                                          on the Settlement Record Sheet. You must fight the 
+                                                     Special Innovate: Some settlement locations allow    specific monster level listed, even if you have previ-
+                                                     survivors to gain specific innovations by spending a ously faced it.
+                                                     combination of resources and endeavors. The cost 
+                                                     of these innovations is listed on the bottom of the  Nemesis Encounter - Monster Name: You must 
+                                                     settlement location card that it is innovated from.  fight this specific monster. You must select a mon-
+                                                         These innovations can be gained even if they     ster level you have not previously faced.
+                                                     are not in your settlement’s innovation deck. 
+                                                                                                          Nemesis Encounter - Monster Name Lvl X: You 
+                                                     Remember to add any innovations that are conse-      must fight this named monster of the specific mon-
+                                                     quences of this innovation to your settlement’s inno- ster level listed, even if you have previously faced it.
+                                                     vation deck.
+                                                                                                          Special Showdown
+                                                     Prerequisites: Some gear and endeavors have a        Story Events and innovations may lead to a Special 
+                                                     symbol. These gear or activities are not available to Showdown with a monster. Special Showdowns in-
+                                                     survivors until they have fulfilled the prerequisite re- terrupt the Settlement Phase. After they conclude 
+                                                     quirement listed next to the .                       (regardless of victory or defeat) the Settlement 
+                                                                                                          Phase continues, returning to step 5 (Update the 
+                                                                                                          Death Count). The survivors that embarked on the 
+                                                                    Nemesis Monsters                      Special Showdown are not considered returning 
+                                                                    If the current lantern year has a     survivors. Special Showdowns do not advance the 
+                                                                    Nemesis Encounter on the timeline,    timeline so they do not generate endeavors or trig-
+                                                                    departing survivors will face-off with ger new random settlement events. Details for each 
+                                                     a nemesis monster waiting for them at the outskirts  Special Showdown are listed on the story event or 
+                                                     of the settlement.                                   innovation that triggered it.
+
+                                                     Complete the settlement phase normally. Departing    Update the Nemesis Monster List
+Settlement locations have the following components:  survivors skip the hunt phase and consult the story  After a nemesis monster and level are chosen by 
+Name: The name of the settlement location.           event for the nemesis monster to setup the show-     players (or selected by an event), fill in the corre-
+                                                     down phase. Nemesis Encounters are listed a few      sponding box on the Settlement Record Sheet Nem-
+Gear: Any gear listed on a settlement location card is different ways on the timeline:                    esis Monster list if it is currently unfilled.
+available to be crafted there.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  85

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4690247257066454038
+  },
+  "m_Name": "Vefects_Slime_VFX_Post_Processing",
+  "components": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1929377491355681872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9204426962694060976
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4249404105988031568
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8335237948723151952
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6486938335310724016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6661785526772382640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1399070755151756208
+    }
+  ]
+}

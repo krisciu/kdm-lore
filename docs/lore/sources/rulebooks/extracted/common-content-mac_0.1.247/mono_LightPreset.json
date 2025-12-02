@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2351377308159421488
+  },
+  "m_Name": "LightPreset",
+  "info": {
+    "lights": [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 7.5,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 90.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "intensity": 7.0,
+        "angle": 5.0,
+        "range": 10.0,
+        "useVolumetric": 1,
+        "layer": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "HouseEntranceDoorOpenTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7533822013138401870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5777245085266412978
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9186180159746538062
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5999300600694372942
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2955718245277369657
+  },
+  "m_Name": "ForwardRenderer",
+  "debugShaders": {
+    "debugReplacementPS": {
+      "m_FileID": 0,
+      "m_PathID": 3587395029544942135
+    }
+  },
+  "m_RendererFeatures": [],
+  "m_RendererFeatureMap": [],
+  "m_UseNativeRenderPass": 0,
+  "postProcessData": {
+    "m_FileID": 0,
+    "m_PathID": -3106173162054772987
+  },
+  "xrSystemData": {
+    "m_FileID": 0,
+    "m_PathID": 2240005545720904287
+  },
+  "shaders": {
+    "blitPS": {
+      "m_FileID": 0,
+      "m_PathID": 8702967509424332960
+    },
+    "copyDepthPS": {
+      "m_FileID": 0,
+      "m_PathID": -3011343230132932097
+    },
+    "screenSpaceShadowPS": {
+      "m_FileID": 0,
+      "m_PathID": 3861432681296121246
+    },
+    "samplingPS": {
+      "m_FileID": 0,
+      "m_PathID": -2193563501951445822
+    },
+    "stencilDeferredPS": {
+      "m_FileID": 0,
+      "m_PathID": -1934521952527329939
+    },
+    "fallbackErrorPS": {
+      "m_FileID": 0,
+      "m_PathID": 2214449235232778024
+    },
+    "materialErrorPS": {
+      "m_FileID": 0,
+      "m_PathID": 4976531457765713307
+    },
+    "coreBlitPS": {
+      "m_FileID": 0,
+      "m_PathID": 1195512872977975942
+    },
+    "coreBlitColorAndDepthPS": {
+      "m_FileID": 0,
+      "m_PathID": -1867684683624153565
+    },
+    "cameraMotionVector": {
+      "m_FileID": 0,
+      "m_PathID": -7018861453604199600
+    },
+    "objectMotionVector": {
+      "m_FileID": 0,
+      "m_PathID": 9128567880979313181
+    }
+  },
+  "m_AssetVersion": 2,
+  "m_OpaqueLayerMask": {
+    "m_Bits": 4294967295
+  },
+  "m_TransparentLayerMask": {
+    "m_Bits": 4294967295
+  },
+  "m_DefaultStencilState": {
+    "overrideStencilState": 0,
+    "stencilReference": 0,
+    "stencilCompareFunction": 8,
+    "passOperation": 0,
+    "failOperation": 0,
+    "zFailOperation": 0
+  },
+  "m_ShadowTransparentReceive": 1,
+  "m_RenderingMode": 0,
+  "m_DepthPrimingMode": 0,
+  "m_CopyDepthMode": 0,
+  "m_AccurateGbufferNormals": 0,
+  "m_ClusteredRendering": 0,
+  "m_TileSize": 32,
+  "m_IntermediateTextureMode": 1
+}

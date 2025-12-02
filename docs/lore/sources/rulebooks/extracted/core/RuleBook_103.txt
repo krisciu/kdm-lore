@@ -1,0 +1,61 @@
+                                                                                                                                                                                                   Core  Rules -
+                                                                                      - Rules -
+                                                                                                                                                                                                   HUNT  EVENT  TABLE
+
+ 1d10   Nominated survivor - Investigate                      their powerful dream envelopes the group; each survivor        1d10   Event revealer -Investigate
+                                                              may select whatever die roll result they want. If any sur-
+ 2 - 4  You sense the extreme danger from the golden          vivors’ rolls are the same, those survivors discover they      2 - 4  He was holding an explosive! It explodes, but you pull 
+        embers and linger just long enough to grab a small    had the exact same dream. They gain +1 insanity. If any               away before disaster strikes. Gain -1 accuracy token.
+        trinket. Gain 1 Broken Lantern basic resource.
+                                                              duplicate rolls are 10s, the event revealer may re-roll any    5 - 9  His hands are empty. If the settlement has Cannibal-
+ 5 - 8  You notice that the settlement is strewn with lanterns, one roll result this hunt phase (any one die roll, not just         ize, gain 1 random basic resource. If the settlement 
+        all extinguished and smashed nearly beyond recogni-   their roll).                                                          has Graves, gain +1 understanding.
+        tion. The survivors resolve that this will never happen 
+                                                                                                                             10 +
+        to them. If any survivor returns to the settlement this                                                                     His hands contain a jeweled bottle filled with a char-
+        year, gain +2 endeavors.                              77 | Sinkhole                                                         treuse liquid. Gain 1 Frenzy Drink gear.
+ 9 +    Amidst the ruins, you find only one unbroken object. 
+        A Twilight Sword. It rests, respectfully laid across a A gaping sinkhole suddenly opens under the survivors, re-
+        mostly undamaged survivor's skeleton. If the settle-  vealing a swirling black pool of ichor beneath them. Each 
+        ment does not have a Twilight Sword, and no survivor  survivor rolls 1d10. The lowest scoring survivor (or survi-
+        in the group has the Honorable disorder, you may      vors, in case of ties) becomes a straggler.
+        nominate a survivor to gain the Twilight Sword rare       Each straggler rolls 1d10. If any other survivor has 
+        gear. If you do and the Hooded Knight story event is  a whip, they throw a line to the straggler. Each straggler 
+        not on the timeline, add it to the timeline 2 years from adds +4 to their roll.
+        now.
+                                                               1d10   Straggler
+                                                               1      You are swallowed by the sinkhole. Moments later 
+74 | Antler-Gouged                                                    it regurgitates you completely naked. Your gear is 
+                                                                      hopelessly lost in the miasma. Archive all gear in your 
+A great battle for dominance between two enormous an-                 gear grid.
+telopes has left the stone-faced ground gouged with criss-     2 - 4  The other survivors haul you up, but not before some-
+crossing scars. Each survivor rolls 1d10.                             thing is sucked below the surface. Archive 1 gear of 
+ 1d10   Each survivor                                                 your choice from your gear grid.
+ 1 - 2  You trip over the jagged ground and shred your flesh!  5 - 9  You are dragged to safety, terrified but unharmed.
+        Suffer the torn muscle severe leg injury.
+                                                               10 +   After a monumental effort, the other survivors pull 
+ 3 - 8  You carefully tread over the destroyed faces.                 you free. Someone is clinging tightly to  your feet (+1 
+                                                                      population)! As they reatreat to your settlement, each 
+ 9 +    You find a loosened stone. Gain a Founding Stone              survivor suffers 1 brain event damage. 
+        starting gear.
+                                                                                                                           79 | Dying Small Prospector
+                                                              78 | Dead Great Game Hunter                                  If your settlement already has a Portcullis Key, the pros-
+75 | Oops!                                                                                                                 pector is gone. Roll again on the hunt event table before 
+                                                              The survivors find a corpse dressed in brightly-colored      moving on the hunt board. 
+Stumbling through the darkness, the event revealer crash      clothing, clutching something to its chest. The event re-         The survivors discover a body slumped against a 
+es into the ground, crushing their lantern beneath them.      vealer may investigate. If they do, they gain +1 courage     large stone face. Moving closer, they find a small, dying 
+The living light inside the lantern becomes agitated by the   and roll 1d10. If any survivor has a whip, they lash the     prospector riddled with arrows. As they approach, he 
+survivor’s clumsiness and burns a piece of gear. The event    corpse from afar; add +4 to your roll.                       growls a warning, threatening them with a huge stone 
+revealer archives 1 gear of their choice from their gear grid.    Otherwise, roll again on the hunt event table before     shard. When he sees that they are not evil monsters, he 
+                                                              moving on the hunt board.                                    calms down and gives them a key. With his dying breath 
+                                                                                                                           he says: This is the key to the portcullis. Without it, you will 
+                                                               1d10   Event revealer -Investigate
+76 | Dream the Way                                                                                                         never get through.
+                                                               1      He was holding an explosive! Moving it causes it to       Record the Portcullis Key in the settlement record 
+The survivors have vivid, fevered visions of what lies                detonate, blowing off your hand. Suffer the dismem-  sheet notes. 
+ahead. All at once, they are startled awake and frantically           bered arm severe arm injury.                              If the settlement has Graves, the event revealer 
+compare the horrors they saw.                                                                                              builds a small monument of broken stone noses and gains 
+     Each survivor rolls 1d10. If any survivor is a savior,                                                                +1 understanding.
+
+
+                                                                                                                                                      Kingdom Death: Monster Core Game  101

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2595231705010064034
+  },
+  "m_Name": "ScenePostProcessing",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7586952776352546216
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1023152865743617448
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 212304904192967256
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4298475975259963992
+    }
+  ]
+}

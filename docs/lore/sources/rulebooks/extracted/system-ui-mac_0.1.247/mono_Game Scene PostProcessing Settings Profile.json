@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4690247257066454038
+  },
+  "m_Name": "Game Scene PostProcessing Settings Profile",
+  "components": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1793558385500479728
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2729753679310872816
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 762657346962055408
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2892317124307706096
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7625749635095453936
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2880876890011213584
+    }
+  ]
+}

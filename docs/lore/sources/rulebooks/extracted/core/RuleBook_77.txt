@@ -1,0 +1,44 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+Wound Roll                                           First Strike
+The wound roll represents the variable ferocity of a First Strike hit locations must be selected and resolved 
+survivor’s hit. A wound roll is a single d10, its re- first. If multiple First Strike hit locations are drawn, the 
+sult is added to the wound attempt total (along with attacker chooses the order in which they are resolved.
+strength modifiers.) A wound roll also determines 
+whether or not a critical wound is caused on hit lo- Impervious
+cations with a critical wound effect.                Impervious hit locations are impossible to wound, 
+                                                     even with a lantern 10. However, a survivor must     Traps
+Wound Attempts with multiple D10’s                   still attempt to wound this location. If an impervious When a Trap is drawn from a hit, resolve it immedi-
+If a survivor has a sharp weapon, they are instruct- hit location is critically wounded, perform any listed ately. If a monster is knocked down when a Trap is 
+ed to add + d10 strength their wound attempt total.  effects, but do not wound the monster.               drawn, it will stand and resolve the Trap. 
+This additional die roll is not a wound roll. It cannot                                                       To resolve a Trap, end all survivors’ attacks  and 
+cause a critical wound. The player controlling the   Super-Dense                                          discard all unresolved hit locations, then perform the 
+survivor should nominate which die represents the    Super-Dense hit locations can destroy the weapon     actions on the Trap card. This does not end the survi-
+wound roll, or alternatively use a different colored that struck them. If a survivor attacking with a frail vor’s act, just the current attack(s). 
+d10 to avoid any confusion during excited moments.   weapon attempts to wound a super-dense hit location,     Once a Trap is resolved, discard it and shuffle all 
+                                                     archive the weapon at the end of the attack.         hit location cards in the deck and discard pile.
+Perfect Hits
+An attack roll that is a lantern 10 is a Perfect Hit. Movement During an Attack                           If a survivor attacks a monster while the trap is in 
+When there are multiple Perfect Hits in a single at- Monsters may move during the Survivors’ turn, often  play, for example, utilizing a flow from a basic action 
+tack, each triggers its own rules separately.        as a result of reactions to an attack. When a mon-   the trap performs, discard the trap and shuffle all hit 
+    For example, if Allister attacks with a Scrap Dag- ster moves during an attack, all unresolved hits from location cards in the deck and discard pile. Resolve 
+ger and rolls two perfect hits, his strength is increased the attacking survivors that are now out of range are the new attack with the shuffled deck, do not cancel 
+by +4 for the rest of the attack.                    canceled.                                            the the effects of the trap that was in play, unless the 
+                                                                                                          new attack defeats the monster or knocks it down. It 
+Monster Evasion                                      Place the Survivor                                   is possible to draw the trap a second time with this 
+Evasion makes a monster more difficult to hit. For -ev Although they usually change a survivor’s location on new attack.
+ery +1 evasion token the monster has, the accuracy   the showdown board, rules specifying to place a sur-
+required for an attack roll to hit increases by 1.   vivor are not considered movement.                   Doomed
+    Conversely, for every -1 evasion token the accu-                                                      Many Trap cards will cause survivors to be doomed. 
+racy required for an attack roll to hit decreases by 1. Survivor Healing                                  While a survivor is doomed, they cannot perform any 
+                                                     When survivors heal, they restore previously-filled  actions or spend survival until all actions on the card 
+Monster Toughness                                    injury levels and lost armor points. Do this by eras- are performed and the card is resolved.
+Every toughness token a monster has increases the    ing filled injury level boxes or restoring armor as de-   When a survivor is attacking, they cannot per-
+monster’s toughness by 1.                            scribed by the specific heal rule.                   form any survival actions. This does not mean a survi-
+    Conversely, every -1 toughness token a monster                                                        vor is doomed. They are simply too preoccupied with 
+has decreases its toughness by 1.                                                                         attacking! 
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  75

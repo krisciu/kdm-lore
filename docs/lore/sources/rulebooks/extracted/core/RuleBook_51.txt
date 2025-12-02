@@ -1,0 +1,43 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       MONSTERS
+MONSTERS
+
+Monsters have unique anatomies and behaviors. The 
+bizarre, inscrutable intelligence of monsters is repre-
+sented in the game by these unique components:
+
+- Miniatures that physically represent the monster.
+- Story events that define a monster’s attributes.
+- Unique AI decks that control the monster’s actions.
+- Hit location decks that describe the parts of mon-
+sters that survivors can attack.
+- Monster resources gained from defeating monsters.
+- Hunt events that occur while hunting the monster.
+
+Monster Miniatures
+
+Miniatures are included to represent all 7 monsters 
+that players will face. Some monsters have many 
+parts and can be very large (like the Phoenix). 
+    Only the White Lion miniature is needed to 
+begin the game. Players don’t need to assemble a 
+monster’s miniature until they are ready to fight it.
+    As you progress through the campaign, take the 
+time to build new monsters as a part of the hobby 
+aspect of Monster.
+    Monster miniatures are attached to 50 mm bases 
+(White Lion, Screaming Antelope, Butcher, King’s Man, 
+The Hand, Watcher) or 100 mm bases (Phoenix).        2 | Instinct                                         4 | Monster Characteristics & Attributes
+                                                     Instincts describe what a monster does if it cannot  Monster’s characteristics and attributes are orga-
+                                                     find a target to attack. Each monster has a different nized by level. Monster attributes include move-
+Showdown Story Events                                instinct. A Screaming Antelope will graze around     ment, toughness, speed, and damage. Monster 
+                                                     the board, but a White Lion will sniff to track its prey characteristics include level, AI deck, special AI 
+Monster showdown story events describe essential     relentlessly.                                        cards, and bonus tokens.
+information about encounters with a monster.                                                                  Higher-level monsters are more difficult foes. 
+                                                     3 | Blind spot                                       They have more AI and Special AI cards, as well 
+1 | Monster Name                                     This is a diagram of what spaces on the showdown     as higher toughness, movement, and speed than 
+                                                     board are the monster’s blind spot.                  lower-level monsters.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  49

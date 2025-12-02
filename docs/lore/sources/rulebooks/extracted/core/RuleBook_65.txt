@@ -1,0 +1,46 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       HUNT  PHASE
+
+Reaching Overwhelming Darkness                       of the next settlement phase, whichever comes first. low the setup rules for terrain on the monster’s story 
+               The first time in a hunt the survivors                                                     event. Instead, place the listed showdown terrain, 
+               move into the Overwhelming Dark-      Severe Injuries and Brain Trauma                     the monster, and survivors on the showdown board 
+               ness space, they trigger the Over-    In special cases, survivors may suffer severe injuries as the players decide (setup rules on terrain cards 
+               whelming Darkness story event.        or brain traumas during the hunt. These cases will be must still be followed).
+                                                     clearly indicated on an event.
+               The survivors cannot skip Over-                                                            Compulsory Movement
+               whelming Darkness. If they move       Apply any attribute modifiers, impairments, and re-  Some hunt events or effects may move the survi-
+               through the space for any reason,     strictions from injuries and brain traumas suffered on vors. When this happens, move the group the indi-
+               instead, stop hunt board move-        the hunt to the showdown that follows it (including  cated number of spaces forwards or backwards. The 
+               ment and resolve Overwhelming         bleeding tokens). If you must skip the next hunt as a survivors cannot move past the Start or Starvation 
+               Darkness (before any other events     result of an injury, this refers to the next hunt, not the spaces. 
+               or effects on this space). Resolve    remainder of the current one.
+               any other events on this space then                                                        Monster Movement
+continue to the next space on the hunt board.        Retire on the Hunt                                   Monsters cannot move off of the hunt board. If a hunt 
+                                                     If a survivor retires during the hunt, they participate event, effect, or rule would move a monster off the 
+If for some reason, the survivors move into or through in the coming showdown and return to the settlement hunt board, they stop on the last space.
+Overwhelming Darkness more than once in a single     with any victorious survivors. When they return, they 
+hunt phase, treat it as a blank space.               retire, never to hunt again.                         Starvation
+                                                                                                          If you fight a monster on the Starvation space, the 
+Gaining Gear on the Hunt                             Death on the Hunt                                    hunting team takes too long to bring food back home. 
+If a survivor gains gear during the hunt phase, they If survivors perish during the hunt phase, all of their Apply the rules on the Starvation space of the hunt 
+may add it to their grid immediately. If their gear grid gear (except any gear with the irreplaceable rule) board (lose d5 resources from settlement storage). 
+is full, they must either archive the acquired gear (un- returns to the settlement storage unless the event 
+less it is cursed) or another piece of gear from the states otherwise. It may not be used by the remain-  The Hunt Fails
+gear grid to make room for the new gear. A gear grid ing survivors on the hunt.                           If the survivors perish on the hunt, the Hunt Phase 
+may not be rearranged when this occurs, and the                                                           ends and the quarry is lost. 
+item cannot be added to another survivor’s gear grid. Ambush                                               
+                                                     If the monster moves into the survivors’ hunt board  Apply the rules on the Starvation space of the hunt 
+Event Damage                                         space, the survivors are ambushed. End any current   board. The lantern year is over, and a new Settle-
+Survivors may suffer damage during the hunt. This is hunt events and start the showdown immediately.      ment Phase begins. 
+event damage and is non-lethal. Event damage will 
+still reduce armor points and insanity, cause light and If the survivors are ambushed by the monster, they Run Away
+heavy injuries, but will not cause severe injuries or must skip their first turn. In most cases, this means If the settlement has innovated Pictographs, survi-
+brain trauma. Any damage accrued on the hunt per-    that the monster will take two turns.                vors may attempt to flee. After a hunt event is re-
+sists into the showdown phase.                                                                            solved, you may nominate any number of survivors 
+                                                     Some hunt events allow the survivors to ambush the   and trigger the Run Away story event. Each nominat-
+Any tokens gained on the hunt remain through the af- monster. When the monster is ambushed, survivors     ed survivor rolls individually on the story event.
+termath of the following showdown or the beginning   may choose to go first in the showdown. Do not fol-
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  63

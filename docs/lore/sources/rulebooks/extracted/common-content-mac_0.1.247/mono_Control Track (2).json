@@ -1,0 +1,2494 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3769382341615217048
+  },
+  "m_Name": "Control Track (2)",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": -153965539982906158
+  },
+  "m_Children": [],
+  "m_Clips": [
+    {
+      "m_Version": 1,
+      "m_Start": 0.8333333333333334,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -6948954284769678126
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_01 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 1.9166666666666676,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -3474883767360623406
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_01 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 3.5833333333333335,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -6023906469759619886
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_02 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 4.666666666666666,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 6361188856730807506
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_02 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 7.666666666666667,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 4438598463932132562
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_03 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 6.583333333333334,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 6721445027165564114
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_03 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 10.666666666666668,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 8149654272651488466
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_04 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 9.583333333333334,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 9099875646075956434
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_04 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 13.666666666666668,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -4233139563180528430
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_05 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 12.583333333333334,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -7212746808213836590
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_05 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 16.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 1108748453269728466
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_06 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 15.583333333333334,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 804097872265735378
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_06 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 19.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -7704015538825466670
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_07 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 18.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 1841229894577089746
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_07 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 22.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 8816511581967936722
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_08 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 21.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 932534655667072210
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_08 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 25.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -1670355081175438126
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_09 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 24.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 4582405051195911378
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_09 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 28.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -5123728376405562158
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_10 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 27.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -4316504984939533102
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_10 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 31.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -4676625331658167086
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_11 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 30.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -3780675464299615022
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_11 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 34.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -2056063150003131182
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_12 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 33.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 1905418702738091218
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_12 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 37.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 1585988271072668882
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_13 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 36.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -6401472184814342958
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_13 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 40.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -2822654800718402350
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_14 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 39.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 8576971626281954514
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_14 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 43.666666666666664,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": -3533212022865072942
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_15 (3)"
+    },
+    {
+      "m_Version": 1,
+      "m_Start": 42.583333333333336,
+      "m_ClipIn": 0.0,
+      "m_Asset": {
+        "m_FileID": 0,
+        "m_PathID": 2284296987082747090
+      },
+      "m_Duration": 1.0,
+      "m_TimeScale": 1.0,
+      "m_ParentTrack": {
+        "m_FileID": 0,
+        "m_PathID": 4578843161616444626
+      },
+      "m_EaseInDuration": 0.0,
+      "m_EaseOutDuration": 0.0,
+      "m_BlendInDuration": 0.0,
+      "m_BlendOutDuration": 0.0,
+      "m_MixInCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_MixOutCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_BlendInCurveMode": 0,
+      "m_BlendOutCurveMode": 0,
+      "m_ExposedParameterNames": [],
+      "m_AnimationCurves": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_Recordable": 0,
+      "m_PostExtrapolationMode": 0,
+      "m_PreExtrapolationMode": 0,
+      "m_PostExtrapolationTime": 0.0,
+      "m_PreExtrapolationTime": 0.0,
+      "m_DisplayName": "FX_slash_15 (3)"
+    }
+  ],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

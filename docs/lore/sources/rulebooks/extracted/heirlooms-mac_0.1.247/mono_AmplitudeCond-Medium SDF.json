@@ -1,0 +1,3187 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3075889661304172018
+  },
+  "m_Name": "AmplitudeCond-Medium SDF",
+  "hashCode": -1102521474,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 4637299953004936898
+  },
+  "materialHashCode": -411109858,
+  "m_Version": "1.1.0",
+  "m_SourceFontFileGUID": "22c68cee38932114a94473b7c55fa767",
+  "m_SourceFontFile": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_AtlasPopulationMode": 0,
+  "m_FaceInfo": {
+    "m_FaceIndex": 0,
+    "m_FamilyName": "AmplitudeCond-Medium",
+    "m_StyleName": "Regular",
+    "m_PointSize": 427,
+    "m_Scale": 1.0,
+    "m_UnitsPerEM": 1000,
+    "m_LineHeight": 486.3529968261719,
+    "m_AscentLine": 372.343994140625,
+    "m_CapLine": 278.0,
+    "m_MeanLine": 225.0,
+    "m_Baseline": 0.0,
+    "m_DescentLine": -96.07499694824219,
+    "m_SuperscriptOffset": 372.343994140625,
+    "m_SuperscriptSize": 0.5,
+    "m_SubscriptOffset": -96.07499694824219,
+    "m_SubscriptSize": 0.5,
+    "m_UnderlineOffset": -56.79100036621094,
+    "m_UnderlineThickness": 8.539999961853027,
+    "m_StrikethroughOffset": 90.0,
+    "m_StrikethroughThickness": 8.539999961853027,
+    "m_TabWidth": 76.0
+  },
+  "m_GlyphTable": [
+    {
+      "m_Index": 3,
+      "m_Metrics": {
+        "m_Width": 0.0,
+        "m_Height": 0.0,
+        "m_HorizontalBearingX": 0.0,
+        "m_HorizontalBearingY": 0.0,
+        "m_HorizontalAdvance": 76.4375
+      },
+      "m_GlyphRect": {
+        "m_X": 0,
+        "m_Y": 0,
+        "m_Width": 0,
+        "m_Height": 0
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 4,
+      "m_Metrics": {
+        "m_Width": 57.640625,
+        "m_Height": 296.328125,
+        "m_HorizontalBearingX": 19.640625,
+        "m_HorizontalBearingY": 292.0625,
+        "m_HorizontalAdvance": 96.921875
+      },
+      "m_GlyphRect": {
+        "m_X": 601,
+        "m_Y": 11,
+        "m_Width": 59,
+        "m_Height": 298
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 5,
+      "m_Metrics": {
+        "m_Width": 115.296875,
+        "m_Height": 122.109375,
+        "m_HorizontalBearingX": 17.5,
+        "m_HorizontalBearingY": 292.0625,
+        "m_HorizontalAdvance": 150.296875
+      },
+      "m_GlyphRect": {
+        "m_X": 11,
+        "m_Y": 1888,
+        "m_Width": 116,
+        "m_Height": 124
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 8,
+      "m_Metrics": {
+        "m_Width": 283.53125,
+        "m_Height": 287.796875,
+        "m_HorizontalBearingX": 11.53125,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 306.59375
+      },
+      "m_GlyphRect": {
+        "m_X": 554,
+        "m_Y": 1721,
+        "m_Width": 285,
+        "m_Height": 289
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 11,
+      "m_Metrics": {
+        "m_Width": 93.953125,
+        "m_Height": 345.859375,
+        "m_HorizontalBearingX": 17.5,
+        "m_HorizontalBearingY": 304.875,
+        "m_HorizontalAdvance": 115.71875
+      },
+      "m_GlyphRect": {
+        "m_X": 238,
+        "m_Y": 11,
+        "m_Width": 95,
+        "m_Height": 346
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 12,
+      "m_Metrics": {
+        "m_Width": 93.515625,
+        "m_Height": 345.859375,
+        "m_HorizontalBearingX": 4.265625,
+        "m_HorizontalBearingY": 304.875,
+        "m_HorizontalAdvance": 115.296875
+      },
+      "m_GlyphRect": {
+        "m_X": 11,
+        "m_Y": 1154,
+        "m_Width": 94,
+        "m_Height": 346
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 14,
+      "m_Metrics": {
+        "m_Width": 145.1875,
+        "m_Height": 160.984375,
+        "m_HorizontalBearingX": 17.078125,
+        "m_HorizontalBearingY": 211.796875,
+        "m_HorizontalAdvance": 178.484375
+      },
+      "m_GlyphRect": {
+        "m_X": 387,
+        "m_Y": 1869,
+        "m_Width": 146,
+        "m_Height": 162
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 15,
+      "m_Metrics": {
+        "m_Width": 60.203125,
+        "m_Height": 112.296875,
+        "m_HorizontalBearingX": 15.796875,
+        "m_HorizontalBearingY": 56.359375,
+        "m_HorizontalAdvance": 91.375
+      },
+      "m_GlyphRect": {
+        "m_X": 148,
+        "m_Y": 1881,
+        "m_Width": 61,
+        "m_Height": 113
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 17,
+      "m_Metrics": {
+        "m_Width": 59.78125,
+        "m_Height": 60.625,
+        "m_HorizontalBearingX": 15.796875,
+        "m_HorizontalBearingY": 56.359375,
+        "m_HorizontalAdvance": 91.375
+      },
+      "m_GlyphRect": {
+        "m_X": 448,
+        "m_Y": 1721,
+        "m_Width": 61,
+        "m_Height": 62
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 18,
+      "m_Metrics": {
+        "m_Width": 137.078125,
+        "m_Height": 345.859375,
+        "m_HorizontalBearingX": 2.984375,
+        "m_HorizontalBearingY": 304.875,
+        "m_HorizontalAdvance": 145.1875
+      },
+      "m_GlyphRect": {
+        "m_X": 11,
+        "m_Y": 787,
+        "m_Width": 139,
+        "m_Height": 346
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 19,
+      "m_Metrics": {
+        "m_Width": 173.796875,
+        "m_Height": 287.375,
+        "m_HorizontalBearingX": 14.9375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 204.109375
+      },
+      "m_GlyphRect": {
+        "m_X": 656,
+        "m_Y": 330,
+        "m_Width": 175,
+        "m_Height": 288
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 20,
+      "m_Metrics": {
+        "m_Width": 109.75,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 17.5,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 140.0625
+      },
+      "m_GlyphRect": {
+        "m_X": 1853,
+        "m_Y": 1520,
+        "m_Width": 111,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 21,
+      "m_Metrics": {
+        "m_Width": 137.5,
+        "m_Height": 282.671875,
+        "m_HorizontalBearingX": 13.65625,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 166.953125
+      },
+      "m_GlyphRect": {
+        "m_X": 1017,
+        "m_Y": 316,
+        "m_Width": 139,
+        "m_Height": 283
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 22,
+      "m_Metrics": {
+        "m_Width": 143.03125,
+        "m_Height": 287.375,
+        "m_HorizontalBearingX": 11.109375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 167.8125
+      },
+      "m_GlyphRect": {
+        "m_X": 852,
+        "m_Y": 320,
+        "m_Width": 144,
+        "m_Height": 288
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 23,
+      "m_Metrics": {
+        "m_Width": 172.078125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 12.390625,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 199.84375
+      },
+      "m_GlyphRect": {
+        "m_X": 1179,
+        "m_Y": 1232,
+        "m_Width": 173,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 24,
+      "m_Metrics": {
+        "m_Width": 144.328125,
+        "m_Height": 282.6875,
+        "m_HorizontalBearingX": 9.390625,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 166.109375
+      },
+      "m_GlyphRect": {
+        "m_X": 884,
+        "m_Y": 629,
+        "m_Width": 145,
+        "m_Height": 283
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 25,
+      "m_Metrics": {
+        "m_Width": 165.25,
+        "m_Height": 283.109375,
+        "m_HorizontalBearingX": 15.796875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 195.140625
+      },
+      "m_GlyphRect": {
+        "m_X": 873,
+        "m_Y": 11,
+        "m_Width": 167,
+        "m_Height": 284
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 26,
+      "m_Metrics": {
+        "m_Width": 145.171875,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 10.25,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 168.671875
+      },
+      "m_GlyphRect": {
+        "m_X": 1567,
+        "m_Y": 310,
+        "m_Width": 146,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 27,
+      "m_Metrics": {
+        "m_Width": 165.671875,
+        "m_Height": 287.796875,
+        "m_HorizontalBearingX": 12.8125,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 191.296875
+      },
+      "m_GlyphRect": {
+        "m_X": 476,
+        "m_Y": 1031,
+        "m_Width": 167,
+        "m_Height": 289
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 28,
+      "m_Metrics": {
+        "m_Width": 165.25,
+        "m_Height": 282.671875,
+        "m_HorizontalBearingX": 13.65625,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 194.71875
+      },
+      "m_GlyphRect": {
+        "m_X": 757,
+        "m_Y": 1269,
+        "m_Width": 166,
+        "m_Height": 283
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 29,
+      "m_Metrics": {
+        "m_Width": 59.78125,
+        "m_Height": 187.875,
+        "m_HorizontalBearingX": 17.5,
+        "m_HorizontalBearingY": 183.609375,
+        "m_HorizontalAdvance": 94.796875
+      },
+      "m_GlyphRect": {
+        "m_X": 1423,
+        "m_Y": 1830,
+        "m_Width": 61,
+        "m_Height": 189
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 31,
+      "m_Metrics": {
+        "m_Width": 116.578125,
+        "m_Height": 169.53125,
+        "m_HorizontalBearingX": 13.65625,
+        "m_HorizontalBearingY": 210.515625,
+        "m_HorizontalAdvance": 145.609375
+      },
+      "m_GlyphRect": {
+        "m_X": 1145,
+        "m_Y": 1850,
+        "m_Width": 118,
+        "m_Height": 171
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 32,
+      "m_Metrics": {
+        "m_Width": 135.78125,
+        "m_Height": 104.1875,
+        "m_HorizontalBearingX": 17.078125,
+        "m_HorizontalBearingY": 182.75,
+        "m_HorizontalAdvance": 169.953125
+      },
+      "m_GlyphRect": {
+        "m_X": 230,
+        "m_Y": 1881,
+        "m_Width": 136,
+        "m_Height": 105
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 33,
+      "m_Metrics": {
+        "m_Width": 116.578125,
+        "m_Height": 169.53125,
+        "m_HorizontalBearingX": 15.796875,
+        "m_HorizontalBearingY": 210.515625,
+        "m_HorizontalAdvance": 145.609375
+      },
+      "m_GlyphRect": {
+        "m_X": 1284,
+        "m_Y": 1850,
+        "m_Width": 118,
+        "m_Height": 171
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 36,
+      "m_Metrics": {
+        "m_Width": 188.3125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 7.6875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 203.671875
+      },
+      "m_GlyphRect": {
+        "m_X": 1030,
+        "m_Y": 933,
+        "m_Width": 189,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 37,
+      "m_Metrics": {
+        "m_Width": 162.265625,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 202.828125
+      },
+      "m_GlyphRect": {
+        "m_X": 1340,
+        "m_Y": 1531,
+        "m_Width": 163,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 38,
+      "m_Metrics": {
+        "m_Width": 156.296875,
+        "m_Height": 287.375,
+        "m_HorizontalBearingX": 14.9375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 179.34375
+      },
+      "m_GlyphRect": {
+        "m_X": 664,
+        "m_Y": 960,
+        "m_Width": 158,
+        "m_Height": 288
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 39,
+      "m_Metrics": {
+        "m_Width": 173.359375,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 214.359375
+      },
+      "m_GlyphRect": {
+        "m_X": 1145,
+        "m_Y": 1551,
+        "m_Width": 174,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 40,
+      "m_Metrics": {
+        "m_Width": 137.5,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 178.484375
+      },
+      "m_GlyphRect": {
+        "m_X": 1574,
+        "m_Y": 11,
+        "m_Width": 138,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 41,
+      "m_Metrics": {
+        "m_Width": 131.515625,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 173.359375
+      },
+      "m_GlyphRect": {
+        "m_X": 1733,
+        "m_Y": 11,
+        "m_Width": 132,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 42,
+      "m_Metrics": {
+        "m_Width": 169.953125,
+        "m_Height": 287.375,
+        "m_HorizontalBearingX": 14.9375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 203.671875
+      },
+      "m_GlyphRect": {
+        "m_X": 681,
+        "m_Y": 11,
+        "m_Width": 171,
+        "m_Height": 288
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 43,
+      "m_Metrics": {
+        "m_Width": 166.953125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 219.046875
+      },
+      "m_GlyphRect": {
+        "m_X": 1379,
+        "m_Y": 310,
+        "m_Width": 167,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 44,
+      "m_Metrics": {
+        "m_Width": 47.828125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 27.75,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 103.328125
+      },
+      "m_GlyphRect": {
+        "m_X": 1786,
+        "m_Y": 1108,
+        "m_Width": 49,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 45,
+      "m_Metrics": {
+        "m_Width": 102.90625,
+        "m_Height": 282.6875,
+        "m_HorizontalBearingX": 9.828125,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 137.0625
+      },
+      "m_GlyphRect": {
+        "m_X": 1061,
+        "m_Y": 11,
+        "m_Width": 104,
+        "m_Height": 283
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 46,
+      "m_Metrics": {
+        "m_Width": 169.515625,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 202.390625
+      },
+      "m_GlyphRect": {
+        "m_X": 1240,
+        "m_Y": 919,
+        "m_Width": 170,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 47,
+      "m_Metrics": {
+        "m_Width": 129.8125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 166.953125
+      },
+      "m_GlyphRect": {
+        "m_X": 1734,
+        "m_Y": 310,
+        "m_Width": 130,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 48,
+      "m_Metrics": {
+        "m_Width": 213.5,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 265.59375
+      },
+      "m_GlyphRect": {
+        "m_X": 944,
+        "m_Y": 1252,
+        "m_Width": 214,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 49,
+      "m_Metrics": {
+        "m_Width": 165.671875,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 217.34375
+      },
+      "m_GlyphRect": {
+        "m_X": 1387,
+        "m_Y": 11,
+        "m_Width": 166,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 50,
+      "m_Metrics": {
+        "m_Width": 187.03125,
+        "m_Height": 287.375,
+        "m_HorizontalBearingX": 14.9375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 216.921875
+      },
+      "m_GlyphRect": {
+        "m_X": 506,
+        "m_Y": 651,
+        "m_Width": 188,
+        "m_Height": 288
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 51,
+      "m_Metrics": {
+        "m_Width": 160.546875,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 199.84375
+      },
+      "m_GlyphRect": {
+        "m_X": 1373,
+        "m_Y": 1218,
+        "m_Width": 161,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 52,
+      "m_Metrics": {
+        "m_Width": 187.03125,
+        "m_Height": 338.1875,
+        "m_HorizontalBearingX": 14.9375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 216.921875
+      },
+      "m_GlyphRect": {
+        "m_X": 67,
+        "m_Y": 1521,
+        "m_Width": 188,
+        "m_Height": 339
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 53,
+      "m_Metrics": {
+        "m_Width": 167.390625,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 26.046875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 205.390625
+      },
+      "m_GlyphRect": {
+        "m_X": 1259,
+        "m_Y": 614,
+        "m_Width": 168,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 54,
+      "m_Metrics": {
+        "m_Width": 147.3125,
+        "m_Height": 287.375,
+        "m_HorizontalBearingX": 13.234375,
+        "m_HorizontalBearingY": 282.671875,
+        "m_HorizontalAdvance": 175.0625
+      },
+      "m_GlyphRect": {
+        "m_X": 715,
+        "m_Y": 639,
+        "m_Width": 148,
+        "m_Height": 288
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 55,
+      "m_Metrics": {
+        "m_Width": 157.5625,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 9.390625,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 176.34375
+      },
+      "m_GlyphRect": {
+        "m_X": 1431,
+        "m_Y": 913,
+        "m_Width": 158,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 56,
+      "m_Metrics": {
+        "m_Width": 165.25,
+        "m_Height": 282.6875,
+        "m_HorizontalBearingX": 24.34375,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 215.203125
+      },
+      "m_GlyphRect": {
+        "m_X": 843,
+        "m_Y": 948,
+        "m_Width": 166,
+        "m_Height": 283
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 57,
+      "m_Metrics": {
+        "m_Width": 187.03125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 8.109375,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 203.25
+      },
+      "m_GlyphRect": {
+        "m_X": 1050,
+        "m_Y": 620,
+        "m_Width": 188,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 58,
+      "m_Metrics": {
+        "m_Width": 263.03125,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 9.828125,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 282.25
+      },
+      "m_GlyphRect": {
+        "m_X": 860,
+        "m_Y": 1573,
+        "m_Width": 264,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 59,
+      "m_Metrics": {
+        "m_Width": 179.34375,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 6.828125,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 193.0
+      },
+      "m_GlyphRect": {
+        "m_X": 1177,
+        "m_Y": 315,
+        "m_Width": 181,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 60,
+      "m_Metrics": {
+        "m_Width": 178.90625,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 7.6875,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 194.28125
+      },
+      "m_GlyphRect": {
+        "m_X": 1186,
+        "m_Y": 11,
+        "m_Width": 180,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 61,
+      "m_Metrics": {
+        "m_Width": 145.609375,
+        "m_Height": 277.984375,
+        "m_HorizontalBearingX": 14.515625,
+        "m_HorizontalBearingY": 277.984375,
+        "m_HorizontalAdvance": 174.640625
+      },
+      "m_GlyphRect": {
+        "m_X": 1448,
+        "m_Y": 609,
+        "m_Width": 147,
+        "m_Height": 278
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 63,
+      "m_Metrics": {
+        "m_Width": 136.640625,
+        "m_Height": 345.859375,
+        "m_HorizontalBearingX": 5.546875,
+        "m_HorizontalBearingY": 304.875,
+        "m_HorizontalAdvance": 145.1875
+      },
+      "m_GlyphRect": {
+        "m_X": 130,
+        "m_Y": 385,
+        "m_Width": 138,
+        "m_Height": 346
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 66,
+      "m_Metrics": {
+        "m_Width": 108.46875,
+        "m_Height": 30.3125,
+        "m_HorizontalBearingX": 0.421875,
+        "m_HorizontalBearingY": -38.859375,
+        "m_HorizontalAdvance": 109.3125
+      },
+      "m_GlyphRect": {
+        "m_X": 276,
+        "m_Y": 1816,
+        "m_Width": 109,
+        "m_Height": 32
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 68,
+      "m_Metrics": {
+        "m_Width": 157.5625,
+        "m_Height": 234.0,
+        "m_HorizontalBearingX": 12.390625,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 176.78125
+      },
+      "m_GlyphRect": {
+        "m_X": 1872,
+        "m_Y": 770,
+        "m_Width": 158,
+        "m_Height": 235
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 69,
+      "m_Metrics": {
+        "m_Width": 149.453125,
+        "m_Height": 307.453125,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 302.75,
+        "m_HorizontalAdvance": 186.59375
+      },
+      "m_GlyphRect": {
+        "m_X": 171,
+        "m_Y": 752,
+        "m_Width": 150,
+        "m_Height": 308
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 70,
+      "m_Metrics": {
+        "m_Width": 127.671875,
+        "m_Height": 234.0,
+        "m_HorizontalBearingX": 13.234375,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 149.453125
+      },
+      "m_GlyphRect": {
+        "m_X": 1555,
+        "m_Y": 1364,
+        "m_Width": 128,
+        "m_Height": 235
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 71,
+      "m_Metrics": {
+        "m_Width": 149.453125,
+        "m_Height": 307.453125,
+        "m_HorizontalBearingX": 13.65625,
+        "m_HorizontalBearingY": 302.75,
+        "m_HorizontalAdvance": 186.59375
+      },
+      "m_GlyphRect": {
+        "m_X": 276,
+        "m_Y": 1487,
+        "m_Width": 151,
+        "m_Height": 308
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 72,
+      "m_Metrics": {
+        "m_Width": 146.46875,
+        "m_Height": 234.0,
+        "m_HorizontalBearingX": 13.234375,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 172.078125
+      },
+      "m_GlyphRect": {
+        "m_X": 1886,
+        "m_Y": 11,
+        "m_Width": 147,
+        "m_Height": 235
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 73,
+      "m_Metrics": {
+        "m_Width": 109.3125,
+        "m_Height": 307.859375,
+        "m_HorizontalBearingX": 7.265625,
+        "m_HorizontalBearingY": 307.859375,
+        "m_HorizontalAdvance": 117.0
+      },
+      "m_GlyphRect": {
+        "m_X": 289,
+        "m_Y": 378,
+        "m_Width": 110,
+        "m_Height": 308
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 74,
+      "m_Metrics": {
+        "m_Width": 159.703125,
+        "m_Height": 310.4375,
+        "m_HorizontalBearingX": 10.25,
+        "m_HorizontalBearingY": 235.28125,
+        "m_HorizontalAdvance": 173.359375
+      },
+      "m_GlyphRect": {
+        "m_X": 126,
+        "m_Y": 1154,
+        "m_Width": 160,
+        "m_Height": 312
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 75,
+      "m_Metrics": {
+        "m_Width": 141.765625,
+        "m_Height": 302.75,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 302.75,
+        "m_HorizontalAdvance": 187.03125
+      },
+      "m_GlyphRect": {
+        "m_X": 342,
+        "m_Y": 707,
+        "m_Width": 143,
+        "m_Height": 303
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 76,
+      "m_Metrics": {
+        "m_Width": 53.375,
+        "m_Height": 307.4375,
+        "m_HorizontalBearingX": 19.640625,
+        "m_HorizontalBearingY": 307.4375,
+        "m_HorizontalAdvance": 92.65625
+      },
+      "m_GlyphRect": {
+        "m_X": 354,
+        "m_Y": 11,
+        "m_Width": 55,
+        "m_Height": 308
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 77,
+      "m_Metrics": {
+        "m_Width": 85.828125,
+        "m_Height": 379.59375,
+        "m_HorizontalBearingX": -12.390625,
+        "m_HorizontalBearingY": 307.4375,
+        "m_HorizontalAdvance": 93.09375
+      },
+      "m_GlyphRect": {
+        "m_X": 11,
+        "m_Y": 11,
+        "m_Width": 87,
+        "m_Height": 381
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 78,
+      "m_Metrics": {
+        "m_Width": 147.3125,
+        "m_Height": 302.75,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 302.75,
+        "m_HorizontalAdvance": 175.0625
+      },
+      "m_GlyphRect": {
+        "m_X": 307,
+        "m_Y": 1081,
+        "m_Width": 148,
+        "m_Height": 303
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 79,
+      "m_Metrics": {
+        "m_Width": 43.5625,
+        "m_Height": 302.75,
+        "m_HorizontalBearingX": 25.1875,
+        "m_HorizontalBearingY": 302.75,
+        "m_HorizontalAdvance": 93.9375
+      },
+      "m_GlyphRect": {
+        "m_X": 420,
+        "m_Y": 340,
+        "m_Width": 44,
+        "m_Height": 303
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 80,
+      "m_Metrics": {
+        "m_Width": 234.0,
+        "m_Height": 229.296875,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 279.6875
+      },
+      "m_GlyphRect": {
+        "m_X": 1616,
+        "m_Y": 609,
+        "m_Width": 235,
+        "m_Height": 230
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 81,
+      "m_Metrics": {
+        "m_Width": 141.765625,
+        "m_Height": 229.296875,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 187.03125
+      },
+      "m_GlyphRect": {
+        "m_X": 1885,
+        "m_Y": 519,
+        "m_Width": 143,
+        "m_Height": 230
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 82,
+      "m_Metrics": {
+        "m_Width": 154.15625,
+        "m_Height": 234.0,
+        "m_HorizontalBearingX": 13.234375,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 180.625
+      },
+      "m_GlyphRect": {
+        "m_X": 1610,
+        "m_Y": 1108,
+        "m_Width": 155,
+        "m_Height": 235
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 83,
+      "m_Metrics": {
+        "m_Width": 149.03125,
+        "m_Height": 297.609375,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 186.171875
+      },
+      "m_GlyphRect": {
+        "m_X": 430,
+        "m_Y": 11,
+        "m_Width": 150,
+        "m_Height": 299
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 84,
+      "m_Metrics": {
+        "m_Width": 149.453125,
+        "m_Height": 297.609375,
+        "m_HorizontalBearingX": 14.515625,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 187.03125
+      },
+      "m_GlyphRect": {
+        "m_X": 485,
+        "m_Y": 331,
+        "m_Width": 150,
+        "m_Height": 299
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 85,
+      "m_Metrics": {
+        "m_Width": 108.453125,
+        "m_Height": 228.875,
+        "m_HorizontalBearingX": 23.484375,
+        "m_HorizontalBearingY": 228.875,
+        "m_HorizontalAdvance": 137.0625
+      },
+      "m_GlyphRect": {
+        "m_X": 1670,
+        "m_Y": 1654,
+        "m_Width": 109,
+        "m_Height": 229
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 86,
+      "m_Metrics": {
+        "m_Width": 123.828125,
+        "m_Height": 234.421875,
+        "m_HorizontalBearingX": 11.53125,
+        "m_HorizontalBearingY": 229.296875,
+        "m_HorizontalAdvance": 147.3125
+      },
+      "m_GlyphRect": {
+        "m_X": 1524,
+        "m_Y": 1620,
+        "m_Width": 125,
+        "m_Height": 236
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 87,
+      "m_Metrics": {
+        "m_Width": 108.453125,
+        "m_Height": 288.65625,
+        "m_HorizontalBearingX": 7.265625,
+        "m_HorizontalBearingY": 283.953125,
+        "m_HorizontalAdvance": 123.828125
+      },
+      "m_GlyphRect": {
+        "m_X": 627,
+        "m_Y": 1341,
+        "m_Width": 109,
+        "m_Height": 289
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 88,
+      "m_Metrics": {
+        "m_Width": 141.765625,
+        "m_Height": 229.734375,
+        "m_HorizontalBearingX": 21.78125,
+        "m_HorizontalBearingY": 225.03125,
+        "m_HorizontalAdvance": 186.59375
+      },
+      "m_GlyphRect": {
+        "m_X": 1886,
+        "m_Y": 267,
+        "m_Width": 143,
+        "m_Height": 231
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 89,
+      "m_Metrics": {
+        "m_Width": 156.71875,
+        "m_Height": 225.03125,
+        "m_HorizontalBearingX": 5.546875,
+        "m_HorizontalBearingY": 225.03125,
+        "m_HorizontalAdvance": 167.8125
+      },
+      "m_GlyphRect": {
+        "m_X": 1871,
+        "m_Y": 1026,
+        "m_Width": 158,
+        "m_Height": 226
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 90,
+      "m_Metrics": {
+        "m_Width": 232.703125,
+        "m_Height": 225.453125,
+        "m_HorizontalBearingX": 5.984375,
+        "m_HorizontalBearingY": 225.03125,
+        "m_HorizontalAdvance": 244.671875
+      },
+      "m_GlyphRect": {
+        "m_X": 1616,
+        "m_Y": 860,
+        "m_Width": 234,
+        "m_Height": 227
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 91,
+      "m_Metrics": {
+        "m_Width": 152.875,
+        "m_Height": 225.03125,
+        "m_HorizontalBearingX": 6.828125,
+        "m_HorizontalBearingY": 225.03125,
+        "m_HorizontalAdvance": 166.53125
+      },
+      "m_GlyphRect": {
+        "m_X": 1856,
+        "m_Y": 1273,
+        "m_Width": 154,
+        "m_Height": 226
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 92,
+      "m_Metrics": {
+        "m_Width": 156.71875,
+        "m_Height": 293.34375,
+        "m_HorizontalBearingX": 5.546875,
+        "m_HorizontalBearingY": 225.03125,
+        "m_HorizontalAdvance": 167.8125
+      },
+      "m_GlyphRect": {
+        "m_X": 448,
+        "m_Y": 1405,
+        "m_Width": 158,
+        "m_Height": 295
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 93,
+      "m_Metrics": {
+        "m_Width": 126.8125,
+        "m_Height": 225.03125,
+        "m_HorizontalBearingX": 11.53125,
+        "m_HorizontalBearingY": 225.03125,
+        "m_HorizontalAdvance": 149.453125
+      },
+      "m_GlyphRect": {
+        "m_X": 1704,
+        "m_Y": 1407,
+        "m_Width": 128,
+        "m_Height": 226
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 94,
+      "m_Metrics": {
+        "m_Width": 97.359375,
+        "m_Height": 352.6875,
+        "m_HorizontalBearingX": 9.390625,
+        "m_HorizontalBearingY": 307.859375,
+        "m_HorizontalAdvance": 118.28125
+      },
+      "m_GlyphRect": {
+        "m_X": 11,
+        "m_Y": 413,
+        "m_Width": 98,
+        "m_Height": 353
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 95,
+      "m_Metrics": {
+        "m_Width": 33.734375,
+        "m_Height": 345.859375,
+        "m_HorizontalBearingX": 20.5,
+        "m_HorizontalBearingY": 304.875,
+        "m_HorizontalAdvance": 74.71875
+      },
+      "m_GlyphRect": {
+        "m_X": 11,
+        "m_Y": 1521,
+        "m_Width": 35,
+        "m_Height": 346
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 96,
+      "m_Metrics": {
+        "m_Width": 96.921875,
+        "m_Height": 352.6875,
+        "m_HorizontalBearingX": 11.53125,
+        "m_HorizontalBearingY": 307.859375,
+        "m_HorizontalAdvance": 117.859375
+      },
+      "m_GlyphRect": {
+        "m_X": 119,
+        "m_Y": 11,
+        "m_Width": 98,
+        "m_Height": 353
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    }
+  ],
+  "m_CharacterTable": [
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 32,
+      "m_GlyphIndex": 3,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 33,
+      "m_GlyphIndex": 4,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 34,
+      "m_GlyphIndex": 5,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 37,
+      "m_GlyphIndex": 8,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 40,
+      "m_GlyphIndex": 11,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 41,
+      "m_GlyphIndex": 12,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 43,
+      "m_GlyphIndex": 14,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 44,
+      "m_GlyphIndex": 15,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 46,
+      "m_GlyphIndex": 17,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 47,
+      "m_GlyphIndex": 18,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 48,
+      "m_GlyphIndex": 19,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 49,
+      "m_GlyphIndex": 20,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 50,
+      "m_GlyphIndex": 21,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 51,
+      "m_GlyphIndex": 22,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 52,
+      "m_GlyphIndex": 23,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 53,
+      "m_GlyphIndex": 24,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 54,
+      "m_GlyphIndex": 25,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 55,
+      "m_GlyphIndex": 26,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 56,
+      "m_GlyphIndex": 27,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 57,
+      "m_GlyphIndex": 28,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 58,
+      "m_GlyphIndex": 29,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 60,
+      "m_GlyphIndex": 31,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 61,
+      "m_GlyphIndex": 32,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 62,
+      "m_GlyphIndex": 33,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 65,
+      "m_GlyphIndex": 36,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 66,
+      "m_GlyphIndex": 37,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 67,
+      "m_GlyphIndex": 38,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 68,
+      "m_GlyphIndex": 39,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 69,
+      "m_GlyphIndex": 40,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 70,
+      "m_GlyphIndex": 41,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 71,
+      "m_GlyphIndex": 42,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 72,
+      "m_GlyphIndex": 43,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 73,
+      "m_GlyphIndex": 44,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 74,
+      "m_GlyphIndex": 45,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 75,
+      "m_GlyphIndex": 46,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 76,
+      "m_GlyphIndex": 47,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 77,
+      "m_GlyphIndex": 48,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 78,
+      "m_GlyphIndex": 49,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 79,
+      "m_GlyphIndex": 50,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 80,
+      "m_GlyphIndex": 51,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 81,
+      "m_GlyphIndex": 52,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 82,
+      "m_GlyphIndex": 53,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 83,
+      "m_GlyphIndex": 54,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 84,
+      "m_GlyphIndex": 55,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 85,
+      "m_GlyphIndex": 56,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 86,
+      "m_GlyphIndex": 57,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 87,
+      "m_GlyphIndex": 58,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 88,
+      "m_GlyphIndex": 59,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 89,
+      "m_GlyphIndex": 60,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 90,
+      "m_GlyphIndex": 61,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 92,
+      "m_GlyphIndex": 63,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 95,
+      "m_GlyphIndex": 66,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 97,
+      "m_GlyphIndex": 68,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 98,
+      "m_GlyphIndex": 69,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 99,
+      "m_GlyphIndex": 70,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 100,
+      "m_GlyphIndex": 71,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 101,
+      "m_GlyphIndex": 72,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 102,
+      "m_GlyphIndex": 73,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 103,
+      "m_GlyphIndex": 74,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 104,
+      "m_GlyphIndex": 75,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 105,
+      "m_GlyphIndex": 76,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 106,
+      "m_GlyphIndex": 77,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 107,
+      "m_GlyphIndex": 78,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 108,
+      "m_GlyphIndex": 79,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 109,
+      "m_GlyphIndex": 80,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 110,
+      "m_GlyphIndex": 81,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 111,
+      "m_GlyphIndex": 82,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 112,
+      "m_GlyphIndex": 83,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 113,
+      "m_GlyphIndex": 84,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 114,
+      "m_GlyphIndex": 85,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 115,
+      "m_GlyphIndex": 86,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 116,
+      "m_GlyphIndex": 87,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 117,
+      "m_GlyphIndex": 88,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 118,
+      "m_GlyphIndex": 89,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 119,
+      "m_GlyphIndex": 90,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 120,
+      "m_GlyphIndex": 91,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 121,
+      "m_GlyphIndex": 92,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 122,
+      "m_GlyphIndex": 93,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 123,
+      "m_GlyphIndex": 94,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 124,
+      "m_GlyphIndex": 95,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 125,
+      "m_GlyphIndex": 96,
+      "m_Scale": 1.0
+    }
+  ],
+  "m_AtlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -243894620443672894
+    }
+  ],
+  "m_AtlasTextureIndex": 0,
+  "m_IsMultiAtlasTexturesEnabled": 0,
+  "m_ClearDynamicDataOnBuild": 0,
+  "m_UsedGlyphRects": [
+    {
+      "m_X": 0,
+      "m_Y": 0,
+      "m_Width": 108,
+      "m_Height": 402
+    },
+    {
+      "m_X": 0,
+      "m_Y": 402,
+      "m_Width": 119,
+      "m_Height": 374
+    },
+    {
+      "m_X": 108,
+      "m_Y": 0,
+      "m_Width": 119,
+      "m_Height": 374
+    },
+    {
+      "m_X": 0,
+      "m_Y": 776,
+      "m_Width": 160,
+      "m_Height": 367
+    },
+    {
+      "m_X": 119,
+      "m_Y": 374,
+      "m_Width": 159,
+      "m_Height": 367
+    },
+    {
+      "m_X": 227,
+      "m_Y": 0,
+      "m_Width": 116,
+      "m_Height": 367
+    },
+    {
+      "m_X": 0,
+      "m_Y": 1143,
+      "m_Width": 115,
+      "m_Height": 367
+    },
+    {
+      "m_X": 0,
+      "m_Y": 1510,
+      "m_Width": 56,
+      "m_Height": 367
+    },
+    {
+      "m_X": 0,
+      "m_Y": 1877,
+      "m_Width": 137,
+      "m_Height": 145
+    },
+    {
+      "m_X": 56,
+      "m_Y": 1510,
+      "m_Width": 209,
+      "m_Height": 360
+    },
+    {
+      "m_X": 115,
+      "m_Y": 1143,
+      "m_Width": 181,
+      "m_Height": 333
+    },
+    {
+      "m_X": 137,
+      "m_Y": 1870,
+      "m_Width": 82,
+      "m_Height": 134
+    },
+    {
+      "m_X": 219,
+      "m_Y": 1870,
+      "m_Width": 157,
+      "m_Height": 126
+    },
+    {
+      "m_X": 265,
+      "m_Y": 1476,
+      "m_Width": 172,
+      "m_Height": 329
+    },
+    {
+      "m_X": 265,
+      "m_Y": 1805,
+      "m_Width": 130,
+      "m_Height": 53
+    },
+    {
+      "m_X": 376,
+      "m_Y": 1858,
+      "m_Width": 167,
+      "m_Height": 183
+    },
+    {
+      "m_X": 160,
+      "m_Y": 741,
+      "m_Width": 171,
+      "m_Height": 329
+    },
+    {
+      "m_X": 278,
+      "m_Y": 367,
+      "m_Width": 131,
+      "m_Height": 329
+    },
+    {
+      "m_X": 343,
+      "m_Y": 0,
+      "m_Width": 76,
+      "m_Height": 329
+    },
+    {
+      "m_X": 296,
+      "m_Y": 1070,
+      "m_Width": 169,
+      "m_Height": 324
+    },
+    {
+      "m_X": 331,
+      "m_Y": 696,
+      "m_Width": 164,
+      "m_Height": 324
+    },
+    {
+      "m_X": 409,
+      "m_Y": 329,
+      "m_Width": 65,
+      "m_Height": 324
+    },
+    {
+      "m_X": 419,
+      "m_Y": 0,
+      "m_Width": 171,
+      "m_Height": 320
+    },
+    {
+      "m_X": 474,
+      "m_Y": 320,
+      "m_Width": 171,
+      "m_Height": 320
+    },
+    {
+      "m_X": 590,
+      "m_Y": 0,
+      "m_Width": 80,
+      "m_Height": 319
+    },
+    {
+      "m_X": 437,
+      "m_Y": 1394,
+      "m_Width": 179,
+      "m_Height": 316
+    },
+    {
+      "m_X": 543,
+      "m_Y": 1710,
+      "m_Width": 306,
+      "m_Height": 310
+    },
+    {
+      "m_X": 437,
+      "m_Y": 1710,
+      "m_Width": 82,
+      "m_Height": 83
+    },
+    {
+      "m_X": 465,
+      "m_Y": 1020,
+      "m_Width": 188,
+      "m_Height": 310
+    },
+    {
+      "m_X": 616,
+      "m_Y": 1330,
+      "m_Width": 130,
+      "m_Height": 310
+    },
+    {
+      "m_X": 495,
+      "m_Y": 640,
+      "m_Width": 209,
+      "m_Height": 309
+    },
+    {
+      "m_X": 645,
+      "m_Y": 319,
+      "m_Width": 196,
+      "m_Height": 309
+    },
+    {
+      "m_X": 670,
+      "m_Y": 0,
+      "m_Width": 192,
+      "m_Height": 309
+    },
+    {
+      "m_X": 653,
+      "m_Y": 949,
+      "m_Width": 179,
+      "m_Height": 309
+    },
+    {
+      "m_X": 704,
+      "m_Y": 628,
+      "m_Width": 169,
+      "m_Height": 309
+    },
+    {
+      "m_X": 841,
+      "m_Y": 309,
+      "m_Width": 165,
+      "m_Height": 309
+    },
+    {
+      "m_X": 862,
+      "m_Y": 0,
+      "m_Width": 188,
+      "m_Height": 305
+    },
+    {
+      "m_X": 746,
+      "m_Y": 1258,
+      "m_Width": 187,
+      "m_Height": 304
+    },
+    {
+      "m_X": 832,
+      "m_Y": 937,
+      "m_Width": 187,
+      "m_Height": 304
+    },
+    {
+      "m_X": 873,
+      "m_Y": 618,
+      "m_Width": 166,
+      "m_Height": 304
+    },
+    {
+      "m_X": 1006,
+      "m_Y": 305,
+      "m_Width": 160,
+      "m_Height": 304
+    },
+    {
+      "m_X": 1050,
+      "m_Y": 0,
+      "m_Width": 125,
+      "m_Height": 304
+    },
+    {
+      "m_X": 849,
+      "m_Y": 1562,
+      "m_Width": 285,
+      "m_Height": 299
+    },
+    {
+      "m_X": 933,
+      "m_Y": 1241,
+      "m_Width": 235,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1019,
+      "m_Y": 922,
+      "m_Width": 210,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1039,
+      "m_Y": 609,
+      "m_Width": 209,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1166,
+      "m_Y": 304,
+      "m_Width": 202,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1175,
+      "m_Y": 0,
+      "m_Width": 201,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1134,
+      "m_Y": 1540,
+      "m_Width": 195,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1134,
+      "m_Y": 1839,
+      "m_Width": 139,
+      "m_Height": 192
+    },
+    {
+      "m_X": 1273,
+      "m_Y": 1839,
+      "m_Width": 139,
+      "m_Height": 192
+    },
+    {
+      "m_X": 1168,
+      "m_Y": 1221,
+      "m_Width": 194,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1229,
+      "m_Y": 908,
+      "m_Width": 191,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1248,
+      "m_Y": 603,
+      "m_Width": 189,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1368,
+      "m_Y": 299,
+      "m_Width": 188,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1376,
+      "m_Y": 0,
+      "m_Width": 187,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1329,
+      "m_Y": 1520,
+      "m_Width": 184,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1362,
+      "m_Y": 1207,
+      "m_Width": 182,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1420,
+      "m_Y": 902,
+      "m_Width": 179,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1437,
+      "m_Y": 598,
+      "m_Width": 168,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1556,
+      "m_Y": 299,
+      "m_Width": 167,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1563,
+      "m_Y": 0,
+      "m_Width": 159,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1722,
+      "m_Y": 0,
+      "m_Width": 153,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1875,
+      "m_Y": 0,
+      "m_Width": 168,
+      "m_Height": 256
+    },
+    {
+      "m_X": 1875,
+      "m_Y": 256,
+      "m_Width": 164,
+      "m_Height": 252
+    },
+    {
+      "m_X": 1723,
+      "m_Y": 299,
+      "m_Width": 151,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1874,
+      "m_Y": 508,
+      "m_Width": 164,
+      "m_Height": 251
+    },
+    {
+      "m_X": 1605,
+      "m_Y": 598,
+      "m_Width": 256,
+      "m_Height": 251
+    },
+    {
+      "m_X": 1861,
+      "m_Y": 759,
+      "m_Width": 179,
+      "m_Height": 256
+    },
+    {
+      "m_X": 1605,
+      "m_Y": 849,
+      "m_Width": 255,
+      "m_Height": 248
+    },
+    {
+      "m_X": 1860,
+      "m_Y": 1015,
+      "m_Width": 179,
+      "m_Height": 247
+    },
+    {
+      "m_X": 1412,
+      "m_Y": 1819,
+      "m_Width": 82,
+      "m_Height": 210
+    },
+    {
+      "m_X": 1599,
+      "m_Y": 1097,
+      "m_Width": 176,
+      "m_Height": 256
+    },
+    {
+      "m_X": 1775,
+      "m_Y": 1097,
+      "m_Width": 70,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1845,
+      "m_Y": 1262,
+      "m_Width": 175,
+      "m_Height": 247
+    },
+    {
+      "m_X": 1544,
+      "m_Y": 1353,
+      "m_Width": 149,
+      "m_Height": 256
+    },
+    {
+      "m_X": 1693,
+      "m_Y": 1396,
+      "m_Width": 149,
+      "m_Height": 247
+    },
+    {
+      "m_X": 1513,
+      "m_Y": 1609,
+      "m_Width": 146,
+      "m_Height": 257
+    },
+    {
+      "m_X": 1842,
+      "m_Y": 1509,
+      "m_Width": 132,
+      "m_Height": 299
+    },
+    {
+      "m_X": 1659,
+      "m_Y": 1643,
+      "m_Width": 130,
+      "m_Height": 250
+    }
+  ],
+  "m_FreeGlyphRects": [
+    {
+      "m_X": 108,
+      "m_Y": 374,
+      "m_Width": 11,
+      "m_Height": 28
+    },
+    {
+      "m_X": 56,
+      "m_Y": 1870,
+      "m_Width": 81,
+      "m_Height": 7
+    },
+    {
+      "m_X": 115,
+      "m_Y": 1476,
+      "m_Width": 150,
+      "m_Height": 34
+    },
+    {
+      "m_X": 0,
+      "m_Y": 2041,
+      "m_Width": 2047,
+      "m_Height": 6
+    },
+    {
+      "m_X": 0,
+      "m_Y": 2022,
+      "m_Width": 376,
+      "m_Height": 25
+    },
+    {
+      "m_X": 137,
+      "m_Y": 2004,
+      "m_Width": 239,
+      "m_Height": 43
+    },
+    {
+      "m_X": 219,
+      "m_Y": 1996,
+      "m_Width": 157,
+      "m_Height": 51
+    },
+    {
+      "m_X": 265,
+      "m_Y": 1858,
+      "m_Width": 111,
+      "m_Height": 12
+    },
+    {
+      "m_X": 119,
+      "m_Y": 741,
+      "m_Width": 41,
+      "m_Height": 35
+    },
+    {
+      "m_X": 227,
+      "m_Y": 367,
+      "m_Width": 51,
+      "m_Height": 7
+    },
+    {
+      "m_X": 160,
+      "m_Y": 1070,
+      "m_Width": 136,
+      "m_Height": 73
+    },
+    {
+      "m_X": 278,
+      "m_Y": 696,
+      "m_Width": 53,
+      "m_Height": 45
+    },
+    {
+      "m_X": 343,
+      "m_Y": 329,
+      "m_Width": 66,
+      "m_Height": 38
+    },
+    {
+      "m_X": 419,
+      "m_Y": 320,
+      "m_Width": 55,
+      "m_Height": 9
+    },
+    {
+      "m_X": 296,
+      "m_Y": 1394,
+      "m_Width": 141,
+      "m_Height": 82
+    },
+    {
+      "m_X": 395,
+      "m_Y": 1805,
+      "m_Width": 148,
+      "m_Height": 53
+    },
+    {
+      "m_X": 437,
+      "m_Y": 1793,
+      "m_Width": 106,
+      "m_Height": 65
+    },
+    {
+      "m_X": 519,
+      "m_Y": 1710,
+      "m_Width": 24,
+      "m_Height": 148
+    },
+    {
+      "m_X": 331,
+      "m_Y": 1020,
+      "m_Width": 134,
+      "m_Height": 50
+    },
+    {
+      "m_X": 465,
+      "m_Y": 1330,
+      "m_Width": 151,
+      "m_Height": 64
+    },
+    {
+      "m_X": 409,
+      "m_Y": 653,
+      "m_Width": 86,
+      "m_Height": 43
+    },
+    {
+      "m_X": 474,
+      "m_Y": 640,
+      "m_Width": 21,
+      "m_Height": 56
+    },
+    {
+      "m_X": 590,
+      "m_Y": 319,
+      "m_Width": 55,
+      "m_Height": 1
+    },
+    {
+      "m_X": 495,
+      "m_Y": 949,
+      "m_Width": 158,
+      "m_Height": 71
+    },
+    {
+      "m_X": 645,
+      "m_Y": 628,
+      "m_Width": 59,
+      "m_Height": 12
+    },
+    {
+      "m_X": 670,
+      "m_Y": 309,
+      "m_Width": 171,
+      "m_Height": 10
+    },
+    {
+      "m_X": 653,
+      "m_Y": 1258,
+      "m_Width": 93,
+      "m_Height": 72
+    },
+    {
+      "m_X": 704,
+      "m_Y": 937,
+      "m_Width": 128,
+      "m_Height": 12
+    },
+    {
+      "m_X": 841,
+      "m_Y": 618,
+      "m_Width": 32,
+      "m_Height": 10
+    },
+    {
+      "m_X": 862,
+      "m_Y": 305,
+      "m_Width": 144,
+      "m_Height": 4
+    },
+    {
+      "m_X": 616,
+      "m_Y": 1640,
+      "m_Width": 233,
+      "m_Height": 70
+    },
+    {
+      "m_X": 746,
+      "m_Y": 1562,
+      "m_Width": 103,
+      "m_Height": 148
+    },
+    {
+      "m_X": 832,
+      "m_Y": 1241,
+      "m_Width": 101,
+      "m_Height": 17
+    },
+    {
+      "m_X": 873,
+      "m_Y": 922,
+      "m_Width": 146,
+      "m_Height": 15
+    },
+    {
+      "m_X": 1006,
+      "m_Y": 609,
+      "m_Width": 33,
+      "m_Height": 9
+    },
+    {
+      "m_X": 1050,
+      "m_Y": 304,
+      "m_Width": 116,
+      "m_Height": 1
+    },
+    {
+      "m_X": 933,
+      "m_Y": 1540,
+      "m_Width": 201,
+      "m_Height": 22
+    },
+    {
+      "m_X": 543,
+      "m_Y": 2031,
+      "m_Width": 1504,
+      "m_Height": 16
+    },
+    {
+      "m_X": 543,
+      "m_Y": 2020,
+      "m_Width": 591,
+      "m_Height": 27
+    },
+    {
+      "m_X": 849,
+      "m_Y": 1861,
+      "m_Width": 285,
+      "m_Height": 186
+    },
+    {
+      "m_X": 1019,
+      "m_Y": 1221,
+      "m_Width": 149,
+      "m_Height": 20
+    },
+    {
+      "m_X": 1039,
+      "m_Y": 908,
+      "m_Width": 190,
+      "m_Height": 14
+    },
+    {
+      "m_X": 1166,
+      "m_Y": 603,
+      "m_Width": 82,
+      "m_Height": 6
+    },
+    {
+      "m_X": 1175,
+      "m_Y": 299,
+      "m_Width": 193,
+      "m_Height": 5
+    },
+    {
+      "m_X": 1168,
+      "m_Y": 1520,
+      "m_Width": 161,
+      "m_Height": 20
+    },
+    {
+      "m_X": 1229,
+      "m_Y": 1207,
+      "m_Width": 133,
+      "m_Height": 14
+    },
+    {
+      "m_X": 1248,
+      "m_Y": 902,
+      "m_Width": 172,
+      "m_Height": 6
+    },
+    {
+      "m_X": 1368,
+      "m_Y": 598,
+      "m_Width": 69,
+      "m_Height": 5
+    },
+    {
+      "m_X": 2043,
+      "m_Y": 0,
+      "m_Width": 4,
+      "m_Height": 2047
+    },
+    {
+      "m_X": 1874,
+      "m_Y": 299,
+      "m_Width": 1,
+      "m_Height": 209
+    },
+    {
+      "m_X": 2039,
+      "m_Y": 256,
+      "m_Width": 8,
+      "m_Height": 503
+    },
+    {
+      "m_X": 2040,
+      "m_Y": 256,
+      "m_Width": 7,
+      "m_Height": 1791
+    },
+    {
+      "m_X": 2038,
+      "m_Y": 508,
+      "m_Width": 9,
+      "m_Height": 251
+    },
+    {
+      "m_X": 1861,
+      "m_Y": 598,
+      "m_Width": 13,
+      "m_Height": 161
+    },
+    {
+      "m_X": 1437,
+      "m_Y": 897,
+      "m_Width": 168,
+      "m_Height": 5
+    },
+    {
+      "m_X": 2039,
+      "m_Y": 1015,
+      "m_Width": 8,
+      "m_Height": 1032
+    },
+    {
+      "m_X": 1860,
+      "m_Y": 849,
+      "m_Width": 1,
+      "m_Height": 166
+    },
+    {
+      "m_X": 1329,
+      "m_Y": 1819,
+      "m_Width": 83,
+      "m_Height": 20
+    },
+    {
+      "m_X": 1412,
+      "m_Y": 2029,
+      "m_Width": 635,
+      "m_Height": 18
+    },
+    {
+      "m_X": 1599,
+      "m_Y": 897,
+      "m_Width": 6,
+      "m_Height": 200
+    },
+    {
+      "m_X": 1420,
+      "m_Y": 1201,
+      "m_Width": 179,
+      "m_Height": 6
+    },
+    {
+      "m_X": 2020,
+      "m_Y": 1262,
+      "m_Width": 27,
+      "m_Height": 785
+    },
+    {
+      "m_X": 1845,
+      "m_Y": 1097,
+      "m_Width": 15,
+      "m_Height": 165
+    },
+    {
+      "m_X": 1544,
+      "m_Y": 1201,
+      "m_Width": 55,
+      "m_Height": 152
+    },
+    {
+      "m_X": 1362,
+      "m_Y": 1506,
+      "m_Width": 182,
+      "m_Height": 14
+    },
+    {
+      "m_X": 1693,
+      "m_Y": 1353,
+      "m_Width": 82,
+      "m_Height": 43
+    },
+    {
+      "m_X": 1494,
+      "m_Y": 1819,
+      "m_Width": 19,
+      "m_Height": 228
+    },
+    {
+      "m_X": 1513,
+      "m_Y": 1506,
+      "m_Width": 31,
+      "m_Height": 103
+    },
+    {
+      "m_X": 1974,
+      "m_Y": 1509,
+      "m_Width": 73,
+      "m_Height": 538
+    },
+    {
+      "m_X": 1842,
+      "m_Y": 1396,
+      "m_Width": 3,
+      "m_Height": 113
+    },
+    {
+      "m_X": 1494,
+      "m_Y": 1893,
+      "m_Width": 553,
+      "m_Height": 154
+    },
+    {
+      "m_X": 1494,
+      "m_Y": 1866,
+      "m_Width": 165,
+      "m_Height": 181
+    },
+    {
+      "m_X": 1659,
+      "m_Y": 1609,
+      "m_Width": 34,
+      "m_Height": 34
+    },
+    {
+      "m_X": 1789,
+      "m_Y": 1808,
+      "m_Width": 258,
+      "m_Height": 239
+    },
+    {
+      "m_X": 1789,
+      "m_Y": 1643,
+      "m_Width": 53,
+      "m_Height": 404
+    }
+  ],
+  "m_fontInfo": {
+    "Name": "",
+    "PointSize": 0.0,
+    "Scale": 0.0,
+    "CharacterCount": 0,
+    "LineHeight": 0.0,
+    "Baseline": 0.0,
+    "Ascender": 0.0,
+    "CapHeight": 0.0,
+    "Descender": 0.0,
+    "CenterLine": 0.0,
+    "SuperscriptOffset": 0.0,
+    "SubscriptOffset": 0.0,
+    "SubSize": 0.0,
+    "Underline": 0.0,
+    "UnderlineThickness": 0.0,
+    "strikethrough": 0.0,
+    "strikethroughThickness": 0.0,
+    "TabWidth": 0.0,
+    "Padding": 0.0,
+    "AtlasWidth": 0.0,
+    "AtlasHeight": 0.0
+  },
+  "atlas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_AtlasWidth": 2048,
+  "m_AtlasHeight": 2048,
+  "m_AtlasPadding": 10,
+  "m_AtlasRenderMode": 4165,
+  "m_glyphInfoList": [],
+  "m_KerningTable": {
+    "kerningPairs": []
+  },
+  "m_FontFeatureTable": {
+    "m_GlyphPairAdjustmentRecords": []
+  },
+  "fallbackFontAssets": [],
+  "m_FallbackFontAssetTable": [],
+  "m_CreationSettings": {
+    "sourceFontFileName": "",
+    "sourceFontFileGUID": "8f04f75251125744ab01039b1acc3213",
+    "pointSizeSamplingMode": 0,
+    "pointSize": 427,
+    "padding": 10,
+    "packingMode": 0,
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "characterSetSelectionMode": 8,
+    "characterSequence": "cur_energy|\u30a8\u30cd\u30eb\u30ae\u30fc \r\nfacility_count|\u65bd\u8a2d\r\nenergy_gen|\u30a8\u30cd\u30eb\u30ae\u30fc\u751f\u6210 \r\nhold_to_skip|\u9577\u62bc\u3057\u3067\u30b9\u30ad\u30c3\u30d7\r\nnone|\u306a\u3057\r\nlow|\u4f4e\r\nhigh|\u9ad8\r\nZone1|\r\nZone2|\r\nbitsummit_map|\r\nplanet1_level1|\r\nplanet1_level2|\r\nplanet1_level3|\r\nplanet1_level4|\r\nplanet1_level5|\r\nplanet1_level6|\r\nplanet1_level7|\r\nplanet1_level8|\r\nplanet1_level9|\r\nplanet1_level10|\r\nplanet2_level1|\r\nplanet2_level2|\r\nteleport|\u30c6\u30ec\u30dd\u30fc\u30c8\r\nblocked|\r\nshipcomp_Chaff_name|\r\nshipcomp_Core1_name|\r\nshipcomp_DeathRay_name|\r\nshipcomp_Engine1_name|\r\nshipcomp_Laser_name|\r\nshipcomp_LaunchBay_name|\r\nshipcomp_MissileSwarm_name|\r\nshipcomp_PulseShot_name|\r\nshipcomp_VictoriumCompactor_name|\r\nshipcomp_Shield_name|\r\nshipcomp_IonShot_name|\r\nshipcomp_PlasmaShot_name|\r\nshipcomp_SupportComponent1_use|\r\nshipcomp_SupportComponent1_name|\r\nshipcomp_SupportComponent2_use|\r\nshipcomp_SupportComponent2_name|\r\nshipcomp_SupportComponent3_use|\r\nshipcomp_SupportComponent3_name|\r\nshipcomp_SupportComponent4_use|\r\nshipcomp_SupportComponent4_name|\r\nshipcomp_SupportComponent5_use|\r\nshipcomp_SupportComponent5_name|\r\nshipcomp_SupportComponent6_use|\r\nshipcomp_SupportComponent6_name|\r\nshipcomp_SupportComponent7_use|\r\nshipcomp_SupportComponent7_name|\r\nshipcomp_SupportComponent8_use|\r\nshipcomp_SupportComponent8_name|\r\nshipcomp_Core2_name|\r\nshipcomp_Core3_name|\r\nshipcomp_Engine2_name|\r\nshipcomp_SubHull1_name|\r\nshipcomp_GroundSupport1_name|\r\nshipcomp_GroundSupport2_name|\r\nshipcomp_GroundSupport3_name|\r\nshipcomp_GroundSupport4_name|\r\nshipcomp_SubWeapon1_name|\r\nshipcomp_SubWeapon2_name|\r\nshipcomp_SubWeapon3_name|\r\nshipcomp_SubWeapon4_name|\r\nshipcomp_SubLaunchBay1_name|\r\nshipcomp_SubLaunchBay2_name|\r\nshipcomp_SubLaunchBay3_name|\r\nshipcomp_SubLaunchBay4_name|\r\nshipcomp_SubEngine1_name|\r\nshipcomp_SubEngine2_name|\r\nshipcomp_SubEngine3_name|\r\nshipcomp_SubEngine4_name|\r\nUpgradeStriker_desc|\r\nUpgradeCywing_desc|\r\nUpgradeGuntillery_desc|\r\nUpgradeQuartet_desc|\r\nUpgradeFlak_desc|\r\nUpgradeTrundletron_desc|\r\nUpgradeSkynurse_desc|\r\nUpgradeLobber_desc|\r\nUpgradeTitan_desc|\r\nUpgradeSniper_desc|\r\nUpgradeScorcher_desc|\r\nUpgradeTrooper_desc|\r\nOrdenanceUnlock_desc|\r\nOrdenanceUnlock_title|\r\nUnitRejuvenate_title|\r\nUnitRejuvenate_desc|\r\nUnitRejuvenate_propname|\r\nUnitInvincibility_title|\r\nUnitInvincibility_desc|\r\nUnitInvincibility_propname|\r\nShieldOnKill_title|\r\nShieldOnKill_desc|\r\nTimeSlip_title|\r\nTimeSlip_desc|\r\nTimeSlip_propname|\r\nUnitInvisibility_title|\r\nUnitInvisibility_desc|\r\nDrawSpeed_title|\r\nDrawSpeed_desc|\r\nDrawSpeed_propname|\r\nTrackUnit_title|\r\nTrackUnit_desc|\r\nTrackUnit_propname|\r\nTempDrawCardBoostCard_title|\r\nTempDrawCardBoostCard_desc|\r\nTempCostReductionCard_title|\r\nTempCostReductionCard_desc|\r\nTempCostReductionCard_propname|\r\nTempVisionBoost_title|\r\nTempVisionBoost_desc|\r\nTempVisionBoost_propname|\r\nTempResearchStealCard_title|\r\nTempResearchStealCard_desc|\r\nTempResearchStealCard_propname|\r\nTempResearchBoost_title|\r\nTempResearchBoost_desc|\r\nTempResearchBoost_propname|\r\nTempResearchBoostForEnergy_title|\r\nTempResearchBoostForEnergy_desc|\r\nTempResearchBoostForEnergy_propname|\r\nVehicleVisibilityIncrease_title|\r\nVehicleVisibilityIncrease_desc|\r\nVehicleVisibilityIncrease_propname|\r\nDrawExtraCardOnDiscard_title|\r\nDrawExtraCardOnDiscard_desc|\r\nScrapper_title|\r\nScrapper_desc|\r\nScrapper_propname|\r\nSecondWind_title|\r\nSecondWind_desc|\r\nUpgradeMissiles_title|\r\nUpgradeMissiles_desc|\r\nDiscardAllCardsForEnergy_title|\r\nDiscardAllCardsForEnergy_desc|\r\nDiscardAllCardsForEnergy_propname|\r\nDiscardAllCardsForMissiles_title|\r\nDiscardAllCardsForMissiles_desc|\r\nDiscardAllCardsForMissiles_propname|\r\nFlashBang_title|\r\nFlashBang_desc|\r\nFlashBang_propname|\r\nHeatAttack_title|\r\nHeatAttack_desc|\r\nSpaceAttack_fail_desc|\r\nExpandHeatCapacity_title|\r\nExpandHeatCapacity_desc|\r\nExpandHeatCapacity_propname|\r\nElectricityBall_title|\r\nElectricityBall_desc|\r\nFireMissile_title|\r\nFireMissile_desc|\r\nFireMissile_desc_fail|\r\nFireMissile_propname|\r\nMissileCapacityExpand_title|\r\nMissileCapacityExpand_desc|\r\nMissileCapacityExpand_propname|\r\nExtraMissiles_title|\r\nExtraMissiles_desc|\r\nExtraMissiles_propname|\r\nOrbitalStrike_title|\r\nOrbitalStrike_desc|\r\nOrbitalStrike_desc_fail|\r\nHeatDisipator_title|\r\nHeatDisipator_desc|\r\nHeatDisipator_propname|\r\nDrawCards_title|\r\nDrawCards_desc|\r\nupgrades_select|\r\nupgrades_back|\r\nFacilityNextLevelCard_title|\r\nFacilityNextLevelCard_desc|\r\nUnitsUpgrade_title|\r\nUnitsUpgrade_desc|\r\nUnitUpgrade_desc|\r\nUnitsUnlock_desc|\r\nUnitsUnlock_title|\r\nResearch_title|\r\nResearch_propname|\r\nResearch_desc|\r\nSingleUnitHeal_title|\u30e6\u30cb\u30c3\u30c8\u56de\u5fa9\r\nShieldBreaker_title|\r\nExtraDamage_title|\r\nFacilityTeleport_title|\r\nInstantHeal_title|\u9ad8\u901f\u56de\u5fa9\r\nMalfunctionAttack_title|\u5e72\u6e09\u30ec\u30a4\r\nGreenAttack_title|\r\nBlueAttack_title|\r\nSpaceAttack_title|\r\nGroundLaser_title|\u30ec\u30fc\u30b6\u30fc\r\nFakeLaser_title|\r\nReduceInfluenceRange_title|\r\nReduceHand_title|\r\nDamage_title|\r\nRadarJammer_title|\u30d5\u30ea\u30fc\u30ba\u30ec\u30fc\u30b6\u30fc\r\nAttackPrepReduction_title|\u30b9\u30d4\u30fc\u30c9\u30a2\u30c3\u30d7\r\nIncreaseHand_title|\u8ffd\u52a0\u30ab\u30fc\u30c9+1\r\nShipInfluenceDamage_title|\r\nEnergyOverKoth_title|\r\nOrbSpeed_title|\r\nShipSpeedBoost_title|\u5b87\u5b99\u8239\u30d6\u30fc\u30b9\u30c8\r\nHealAllUnits_title|\u30e6\u30cb\u30c3\u30c8\u518d\u751f\r\nKnockOffComponent_title|\r\nRemoveFog_title|\u9ce5\u306e\u76ee\r\nUpgradeFacilities_title|\r\nPushBack_title|\r\nShield_title|\r\nTileShield_title|\u30e6\u30cb\u30c3\u30c8\u30b7\u30fc\u30eb\u30c9\r\nHeatDamage_title|\r\nRedShield_title|\r\nGreenShield_title|\r\nBlueShield_title|\r\nIceWall_title|\u30a2\u30a4\u30b9\u30ef\u30fc\u30eb\r\nNapalm_title|\u713c\u5937\u5f3e\r\nSmokeBomb_title|\r\nSmokeBomb_desc|\r\nSmokeBomb_desc_fail|\r\nSmokeBomb_propname|\r\nUnlockUnit_title|{0}\u30b2\u30c3\u30c8\r\nFacilityAdvancedAntiAir_title|\r\nFacilityBasicAntiAir_title|\r\nFacilityDmgBoost_title|\r\nStructureRepair_title|\r\nFacilitySpeedBoost_title|\r\nFacilityInfluenceIncrease_title|\r\nFacilityEnergy_title|\r\nFacilityEnergy_desc|\r\nEggLaser_title|\u6606\u866b\u306e\u5375\r\nFreeEnergy_title|\r\nFreeEnergy_desc|\r\nTeleport_title|\u30c6\u30ec\u30dd\u30fc\u30c8\r\nShockingTeleport_title|\r\nRepair_title|\r\nInstantPods_title|\r\nFakeSpawn_title|\r\nDrawFromNextTechLevel_title|\r\nPodShields_title|\u30dd\u30c3\u30c9\u30b7\u30fc\u30eb\u30c9\r\nPodShields_propname|\r\nShipInfluenceExpansion_title|\r\nShipInfluenceExpansion_desc|\r\nIncreaseVisibilityRange_title|\u8996\u899a\u7bc4\u56f2+1\r\nMassRecall_title|\u5168\u8ecd\u62db\u96c6\r\nMalfunction_title|\r\nWormJump_title|\r\nWormJump_desc|\r\nTribute_title|\r\nTribute_desc|\r\nFacilitybasicAntiAir_desc|\r\nFacilityAdvancedAntiAir_desc|\r\nFacilityInfluenceIncrease_desc|\r\nMalfunctionAttack_desc|\r\nSingleUnitHeal_desc|1\u4f53\u306e\u30e6\u30cb\u30c3\u30c8\u3092\\n\u56de\u5fa9\u3059\u308b\\n{0}HP/{1}\u79d2\r\nFacilitySpeedBoost_desc|\r\nFacilityDmgBoost_desc|\r\nStructureRepair_desc|\r\nFacilityTeleport_desc|\u30c6\u30ec\u30dd\u30fc\u30c8\r\nSpaceAttack_desc|\r\nReduceInfluenceRange_desc|\r\nReduceHand_desc|\r\nFakeLaser_desc|\r\nGroundLaser_desc|\u60d1\u661f\u306b\u30ec\u30fc\u30b6\u30fc\u3092\u6483\u3064\r\nRadarJammer_desc|\r\nTileShield_desc|\r\nDrawFromNextTechLevel_desc|\r\nIceWall_desc|\u30a2\u30a4\u30b9\u30ef\u30fc\u30eb\u3067\u6575\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u6355\u3048\u308b\u3001\u307e\u305f\u306f\u30d6\u30ed\u30c3\u30af\u3059\u308b\r\nNapalm_desc|\u713c\u5937\u5f3e\u3092\u4f7f\u3044\u3001\u5e83\u3044\u30a8\u30ea\u30a2\u3092\u653b\u6483\u3059\u308b\r\nEggLaser_desc|\r\nIncreaseHand_desc|\u30ab\u30fc\u30c9\u3092\u5f15\u304f\u5ea6\u306b+1\u30ab\u30fc\u30c9\u3092\u8ffd\u52a0\r\nPushBack_desc|\r\nInstantHeal_desc|\u77ac\u6642\u306b\u3059\u3079\u3066\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u56de\u5fa9\u3059\u308b\r\nAttackPrepReduction_desc|\u79fb\u52d5\u3057\u305f\u5f8c\u306e\u653b\u6483\u3059\u308b\u307e\u3067\u306e\u6642\u9593\u3092\u77ed\u7e2e\u3059\u308b\r\nEnergyOverKoth_desc|\r\nOrbSpeed_desc|\r\nShipInfluenceDamage_desc|\r\nShipSpeedBoost_desc|\r\nRemoveFog_desc|\u4efb\u610f\u306e\u30a8\u30ea\u30a2\u306e\u9727\u3092\u6d88\u3059\r\nTeleport_desc|\u30e6\u30cb\u30c3\u30c8\u3092\u5225\u306e\u30de\u30b9\u306b\u30c6\u30ec\u30dd\u30fc\u30c8\u3059\u308b\r\nRepair_desc|\r\nHealAllUnits_desc|\u5168\u3066\u306e\u30e6\u30cb\u30c3\u30c8\u3092\\n\u56de\u5fa9\u3059\u308b\\n{0}HP/1\u5206\r\nInstantPods_desc|\r\nFakeSpawn_desc|\r\nPodShields_desc|\u30b7\u30fc\u30eb\u30c9\u3067\u30c9\u30ed\u30c3\u30d7\u30dd\u30c3\u30c9\u3092\u5f37\u5316\u3059\u308b\r\nInfluenceRangeExpansion_desc|\r\nIncreaseVisibilityRange_desc|\u30e6\u30cb\u30c3\u30c8\u306e\u8996\u899a\u7bc4\u56f2\u3092\u5e83\u3052\u308b\r\nMassRecall_desc|\u5b87\u5b99\u8239\u306e\u4e0b\u306b\u30e6\u30cb\u30c3\u30c8\u30927\u6a5f\u307e\u3067\u30c6\u30ec\u30dd\u30fc\u30c8\u3059\u308b\r\nExtraDamage_desc|\r\nMalfunction_desc|\r\nHeatDamage_desc|\r\nHeatDamage_propname|\r\nShieldsUp_propname|\u30b7\u30fc\u30eb\u30c9\r\nShieldsUp_title|\u30b7\u30fc\u30eb\u30c9\u30a2\u30c3\u30d7\r\nShieldsUp_desc|\u3059\u3079\u3066\u306e\u81ea\u8ecd\u30e6\u30cb\u30c3\u30c8\u306b\u30b7\u30fc\u30eb\u30c9\u3092\uff11\u3064\u8ffd\u52a0\r\nShipInfluenceDamage_propname|\r\nEnergyOverKoth_propname|\r\nOrbSpeed_propname|\r\nIncreaseVisibilityRange_propname|\r\nShipInfluenceExpansion_propname|\r\nSingleUnitHeal_propname|HP\r\nNapalm_propname|\r\nRedShield_propname|\r\nGreenShield_propname|\r\nBlueShield_propname|\r\nFacilityShield_title|\r\nFacilityShield_desc|\r\nFacilityShield_propname|\r\nFacilityDmgBoost_propname|\r\nShipInfluenceDamageBoost_propname|\r\nShipInfluenceDamageBoost_title|\r\nShipInfluenceDamageBoost_desc|\r\nStructureRepair_propname|\r\nFacilitySpeedBoost_propname|\r\nShipSpeedBoost_propname|\u901f\u3055\u30a2\u30c3\u30d7\r\nMalfunctionAttack_propname|\r\nGreenAttack_propname|\r\nBlueAttack_propname|\r\nSpaceAttack_propname|\r\nExtraDamage_propname|\r\nPushBack_propname|\r\nShieldBreaker_propname|\r\nInstantHeal_propname|\r\nIceWall_propname|\u30bf\u30a4\u30e0\r\nAttackPrepReduction_propname|\u77ed\u7e2e\r\nReduceInfluenceRange_propname|\u30bf\u30a4\u30e0\r\nReduceHand_propname|\u30bf\u30a4\u30e0\r\nDamage_propname|\r\nKnockOffComponent_propname|\u30bf\u30a4\u30e0\r\nGroundLaser_propname|\u30c0\u30e1\u30fc\u30b8\r\nIncreaseHand_propname|\u8ffd\u52a0\u30ab\u30fc\u30c9\r\nHealAllUnits_propname|\u30bf\u30a4\u30e0\r\nRadarJammer_propname|\u30bf\u30a4\u30e0\r\nRemoveFog_propname|\u30bf\u30a4\u30e0\r\nUpgradeFacilities_propname|\u30bf\u30a4\u30e0\r\nTileShield_propname|\r\nFreeEnergy_propname|\r\nTeleport_propname|\u6700\u5927\u7bc4\u56f2\r\nGreenAttack_propvalue|\r\nBlueAttack_propvalue|\r\nMalfunctionAttack_propvalue|\r\nShipTurnOffInfluenceRange_title|\r\nShipTurnOffInfluenceRange_desc|\r\nShipTurnOffInfluenceRange_propname|\r\nUpgrades|\r\nupgrade_ready|\r\nunlock_description|\r\nordnance_description|\r\nupgrade_unit_base_description|\r\nlaunch_bay_out_of_order|\r\ncard_level|\r\nunit_LittleWorm|\r\nunit_Wormzilla|\r\nunit_Guntillery|\u30d0\u30a6\u30f3\u30b5\u30fc\r\nunit_Trundletron|\u30b7\u30fc\u30eb\u30c9\u30bf\u30f3\u30af\r\nunit_Titan|\u30bf\u30a4\u30bf\u30f3\r\nunit_Lobber|\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8\r\nunit_Turret|\u30bf\u30ec\u30c3\u30c8\r\nunit_Hounder|\u30cf\u30a6\u30f3\u30c0\u30fc\r\nunit_Striker|\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\r\nunit_Hopper|\r\nunit_Shock Trooper|\u30b9\u30bf\u30f3\u30ac\u30ca\u30fc\r\nunit_Scorcher|\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\r\nunit_Sharpshooter|\u30ec\u30f3\u30b8\u30e3\u30fc\r\nunit_Skynurse|\u30b9\u30ab\u30a4\u30ca\u30fc\u30b9\r\nunit_Cywing|\u30b5\u30a4\u30a6\u30a3\u30f3\u30b0\r\nunit_Sonar Tower|\r\nunit_Deployment Zone|\r\nunit_Influence Structure|\r\nunit_Quartet|\u30ab\u30eb\u30c6\u30c3\u30c8\r\nunit_Drop Pod|\u30c9\u30ed\u30c3\u30d7\u30dd\u30c3\u30c9\r\nunit_HealingPod|\r\nunit_Warrior Ant|\u6226\u866b\r\nunit_Blob|\r\nunit_ExplodingAnt|\r\nunit_SmallBlob|\r\nunit_Egg|\u5375\r\nunit_Larva|\u30e9\u30fc\u30ab\u30fc\r\nunit_Queen Ant|\u5973\u738b\r\nunit_Nest|\u5de3\r\nunit_Fly|\r\nunit_Facility|\u65bd\u8a2d\r\nunit_FacilityStriker|\r\nunit_FacilityHounder|\r\nunit_Godzilla|\r\nunit_Citadel|\r\nConnectionFailed|\r\nOffline_Mode|\r\nContinueOfflineForCustomPrompt|\r\noffline|\r\nretrying|\r\nView_Deck|\r\nConnecting|\r\nSkirmish|\r\nstop_matchmaking|\r\nCustom_Game|\u30ab\u30b9\u30bf\u30e0\u30e2\u30fc\u30c9\r\nCustom_Game_Title|<size=90%>\u30ab\u30b9\u30bf\u30e0\u30e2\u30fc\u30c9\r\nMatchmaking|\u30de\u30c3\u30c1\u30e1\u30a4\u30af\u30e2\u30fc\u30c9\r\nMissions|\u30b7\u30f3\u30b0\u30eb\u30e2\u30fc\u30c9\r\nStore|\u30b9\u30c8\u30a2\r\nShip_Builder|\u5b87\u5b99\u8239\u306e\u8abf\u6574\r\nlanguage_setting|\u8a00\u8a9e\r\nenglish|English\r\nspanish|Spanish\r\njapanese|Japanese\r\ntraditionalchinese|\r\nVideo_Resolution|\u89e3\u50cf\u5ea6\r\nVideo_MonitorSelection|\u30e2\u30cb\u30bf\u30fc\r\nVideo_AntiAlias|\u30a2\u30f3\u30c1\u30a8\u30a4\u30ea\u30a2\u30b9\r\nVideo_VSync|\u5782\u76f4\u540c\u671f\r\nVideo Settings|\u30d3\u30c7\u30aa\u8a2d\u5b9a\r\nAudio Settings|\u30b5\u30a6\u30f3\u30c9\u8a2d\u5b9a\r\nSettings|\u8a2d\u5b9a\r\nStart|<size=110%>\u30b9\u30bf\u30fc\u30c8<size=50%><sprite index=16>\r\nX_To_Connect|<sprite index=2>\u3067\u7e4b\u3050\r\nMultiplayer_Warning|\u6ce8\u610f\uff01\u30de\u30eb\u30c1\u30d7\u30ec\u30a4\u3067\u30dd\u30fc\u30ba\u3067\u304d\u307e\u305b\u3093\uff01\r\nShip_Builder_Select|\r\nShip_Builder_Confirm|\r\nShip_Builder_Back|\r\nShip_Builder_Cancel|\u30ad\u30e3\u30f3\u30bb\u30eb\r\nplayer_slot_confirm|\u6c7a\u5b9a <sprite=0>\r\nHull_title|\r\nGroundSupport_title|\r\nWeapon_title|\r\nLaunchBay_title|\r\nEngine_title|\r\nSubHull1_title|\r\nSubHull2_title|\r\nGroundSupport1_title|\r\nGroundSupport2_title|\r\nGroundSupport3_title|\r\nGroundSupport4_title|\r\nSubWeapon1_title|\r\nSubWeapon2_title|\r\nSubWeapon3_title|\r\nSubWeapon4_title|\r\nSubLaunchBay1_title|\r\nSubLaunchBay2_title|\r\nSubLaunchBay3_title|\r\nSubLaunchBay4_title|\r\nSubEngine1_title|\r\nSubEngine2_title|\r\nSubEngine3_title|\r\nSubEngine4_title|\r\nStart_Menu_Resume|\u30b3\u30f3\u30c6\u30a3\u30cb\u30e5\u30fc\r\nStart_Menu_Surrender|\u964d\u4f0f\r\nStart_Menu_Exit|\u30b2\u30fc\u30e0\u7d42\u4e86\r\nStart_Menu_Confirm|\u6c7a\u5b9a\r\nStart_Menu_MainMenu|\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc\u306b\u623b\u308b\r\nTutorial|\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\r\nSettings_Master_Volume|\u30de\u30b9\u30bf\u30fc\u97f3\u91cf\r\nSettings_Music_Volume|\u97f3\u697d\r\nSettings_SFX_Volume|\u52b9\u679c\u97f3\r\nSkip|\u30b9\u30ad\u30c3\u30d7\r\nto_skip|\u3067\u30b9\u30ad\u30c3\u30d7\r\nTo_Game_Graphs|\u6226\u7e3e\r\nNext|\u6b21\uff1a\r\nBack_To_Game_Xp|EXP\u753b\u9762\r\nTo_Title_Screen|\u30bf\u30a4\u30c8\u30eb\u306b\u623b\u308b\r\nKOTH_WinType|\r\nMatch_Duration|\u5f85\u6a5f\u6642\u9593\r\nVictory|\u5236\u8987\r\nDefeat|\u6557\u6226\r\npurple|\u7d2b\r\nred|\u8d64\r\nTeam|\u30c1\u30fc\u30e0\r\ngraph_team_score|\u3042\u305f\u306a\u306e\u30c1\u30fc\u30e0\u306e\u30b9\u30b3\u30a2\r\ngraph_energy_generation|\u30a8\u30cd\u30eb\u30ae\u30fc\r\ngraph_army_value|\u8ecd\u4e8b\u30b9\u30b3\u30a2\r\ngraph_active_buffs|\r\nmatch_xp|\r\nspecial_bonuses|\r\ntotal_exp_earned|\r\nmatch_friend_bonus|\r\nmatch_first_of_the_day_bonus|\r\nlevel|\r\nnew_x_unlocked|{0}\u3092\u7372\u5f97\u3057\u305f\uff01\r\nmission_complete|\u4efb\u52d9\u5b8c\u4e86\r\nmission_next|\u6b21\u306e\u4efb\u52d9\r\nMission_1|\r\nMission_2|\r\nMission_3|\r\nMission_4|\r\nMission_5|\r\nMission_6|\r\nMission_7|\r\nMission_8|\r\nMission_9|\r\nMission_10|\r\nMission_11|\r\nMission_12|\r\nMission_13|\r\nMission_14|\r\nMission_15|\r\nMission_16|\r\nMission_17|\r\nMission_18|\r\nstart_game|\u6226\u95d8\u3092\u958b\u59cb\u3059\u308b\r\ncontinue|<size=90%>\u6b21 <size=50%><sprite index=16>\r\nready_up|\u51fa\u6483\u3059\u308b <size=50%><sprite index=16>\r\nspectator|\u30aa\u30fc\u30c7\u30a3\u30a8\u30f3\u30b9\r\nready|\u51fa\u6483\uff01\r\nnot_ready|\u7528\u610f\u3057\u3066\u3044\u306a\u3044\r\nnot_everyone_ready|\u307f\u3093\u306a\u307e\u3060\u7528\u610f\u3057\u3066\u3044\u306a\u3044\r\na_to_join|<sprite index=0> \u3067\u53c2\u52a0\r\ny_to_add_ai|<sprite index=3>\u3067CPU\u8ffd\u52a0\r\ny_to_remove|<sprite index=3>\u3067CPU\u524a\u9664\r\na_to_edit|<sprite index=0> \u3067\u7de8\u96c6\r\nselecting_character|\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u9078\u629e\r\nempty|\u7a7a\r\nmaster|\u30de\u30b9\u30bf\u30fc\r\nai_difficulty|CPU\u96e3\u6613\u5ea6: {0}\r\nEasy|\u30a4\u30fc\u30b8\u30fc\r\nNormal|\u30ce\u30fc\u30de\u30eb\r\nHard|\u30cf\u30fc\u30c9\r\nscore_panel_score|\u30b9\u30b3\u30a2\r\nuse_card|\u30ab\u30fc\u30c9\u3092\u4f7f\u7528\r\ndiscard_hand|\u30ab\u30fc\u30c9\u3092\u5168\u3066\u6368\u3066\u308b\r\ndiscard_card|\u30ab\u30fc\u30c9\u3092\u4e00\u679a\u6368\u3066\u308b\r\ncard_selection|\u30ab\u30fc\u30c9\u8868\u793a\r\nally_text|\u5473\u65b9\r\nresource_UI_energy|\u30a8\u30cd\u30eb\u30ae\u30fc\r\nmeteor_storm_warning|\u9695\u77f3\u63a5\u8fd1\uff01\r\nnew_nest_alert|\r\ndestroy_nest|\r\ncard_in_use|\r\nunusable_action|\r\nfacility_capture|\r\nunit_destroyed|{0}\u304c\u6483\u7834\u3055\u308c\u305f\uff01\r\nbuff_removed|\r\nalready_under_attack|\r\ninfluence_range_reduce|\r\npushed_back|\r\nlost_comp|\r\ncomp_restored|\r\nonline|\r\ninvite|\r\njoin|\r\nplaying|\r\nmain_menu|\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc\u306b\u623b\u308b\r\nin_lobby|\r\nin_game|\r\nmissions_desc|\r\nmatch_making_desc|\r\ncustom_game_desc|\r\nship_builder_desc|\r\nstore_desc|\r\nsettings_desc|\r\npod_trait|\u30e6\u30cb\u30c3\u30c8\u3092\u81ea\u52d5\u7684\u306b\u51fa\u73fe\u3055\u305b\u308b\r\nfacility_trait|\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u751f\u6210\u3067\u304d\u308b\r\ntrundletron_trait|\u30b7\u30fc\u30eb\u30c9\u3067\u5b88\u308c\u3066\u3044\u308b\u30bf\u30f3\u30af\r\nfire_while_moving_trait|\u79fb\u52d5\u3057\u306a\u304c\u3089\u653b\u6483\u3067\u304d\u308b\r\nlong_aim_trait|\u30c1\u30e3\u30fc\u30b8\u6642\u9593\u304c\u9577\u3044\r\nbouncing_attack|\u30c1\u30a7\u30a4\u30f3\u30a2\u30bf\u30c3\u30af\r\naoe_trait|\u96a3\u63a5\u30de\u30b9\u306b\u5f53\u305f\u308b\r\nchain_stun_trait|\u30c1\u30a7\u30a4\u30f3\u30b9\u30bf\u30f3\u30a2\u30bf\u30c3\u30af\r\nfire_trait|\u30e6\u30cb\u30c3\u30c8\u3092\u71c3\u3084\u3059\r\nvision_trait|\u8996\u899a\u7bc4\u56f2\u304c\u5e83\u304c\u308b\r\nhealer_trait|\u30e6\u30cb\u30c3\u30c8\u3092\u56de\u5fa9\u3059\u308b\r\nquartet_trait|\u79fb\u52d5\u3057\u306a\u304c\u3089\u9023\u6483\u3067\u304d\u308b\r\nguntillery_upgrade_trait|\r\nlobber_upgrade_trait|\r\ntitan_upgrade_trait|\r\nextra_hp_trait|\u8ffd\u52a0HP\r\nextra_vision_flying_trait|\r\nflying_trait|\r\nhounder_upgrade_trait|\r\nextra_shield_trait|\r\nincrease_atk_range_trait|\r\nquartet_upgrade_trait|\r\nimproved_heal_trait|\r\nFriends|\u30d5\u30ec\u30f3\u30c9\r\nloading_flavor_text_1|\r\nloading_flavor_text_2|\r\nloading_flavor_text_3|\r\nloading_flavor_text_4|\r\nloading_flavor_text_5|\r\nloading_flavor_text_6|\r\ndps_vs|\r\nNapalm_mode|\u4f4d\u7f6e\uff08\u5de6\u30b9\u30c6\u30a3\u30c3\u30af\uff09// \u65b9\u5411\uff08\u53f3\u30b9\u30c6\u30a3\u30c3\u30af\uff09\r\nselect_space_target|\u30bf\u30fc\u30b2\u30c3\u30c8\u9078\u629e\r\nselect_spawn_point|\u914d\u7f6e\u30de\u30b9\u9078\u629e\r\nselect_destination|\u76ee\u7684\u5730\u9078\u629e\r\nselect_target_unit|\u30e6\u30cb\u30c3\u30c8\u9078\u629e\r\nspace_laser_mode|\u30a8\u30ea\u30a2\u9078\u629e\r\nselect_facility|\u65bd\u8a2d\u9078\u629e\r\nselect_target_tile|\u30de\u30b9\u9078\u629e\r\nselect_units|\u30e6\u30cb\u30c3\u30c8\u9078\u629e\r\nHealth|HP\r\nDamage|<b>\u30c0\u30e1\u30fc\u30b8\r\nSpeed|<b>\u901f\u5ea6\r\nRange|<b>\u653b\u6483\u7bc4\u56f2\r\nresource_per_min|/\u5206\r\nattack_while_moving|\u79fb\u52d5\u3057\u306a\u304c\u3089\u653b\u6483\u3059\u308b\r\nant_owner_name|\u5de3\r\nSettings_Cursor_Speed|\u30ab\u30fc\u30bd\u30eb\u901f\u5ea6\r\nlock_card|\u30ab\u30fc\u30c9\u3092\u30ed\u30c3\u30af\u3059\u308b\r\nlock|<sprite=2>\u30ed\u30c3\u30af\r\nlocked|\u30ed\u30c3\u30af\u3055\u308c\u305f\r\nuse|<sprite=0>\u4f7f\u7528\r\ntech_level_change|\r\nfacility_lost|\r\ncard_unlocked|{0} \u30b2\u30c3\u30c8!\r\ncard_lost|\r\ncard_added|\r\nair_raid|\u7a7a\u8972\u63a5\u8fd1\uff01\r\nupgrade_facility|\r\nspawn_facility|\u65bd\u8a2d\u3092\u914d\u7f6e\u3059\u308b\r\nfree_upgrade|free_upgrade\r\nSniperVision_perkname|\r\nLobberScorchingShot_perkname|\r\nTitanCharge_perkname|\r\nSkynurseAOE_perkname|\r\nMalfunctionsRemoval_perkname|\r\nActionPointGeneration_perkname|\r\nActionPointGenerationAt4_perkname|\r\nAdditionalEnergyWithLessFacilities_perkname|\r\nDoubleActionPointsPerAlienKills_perkname|\r\nExtraMalfunctionCardPerAttack_perkname|\r\nExtraPodHealth_perkname|\r\nFacilitySpawnTimeReduction_perkname|\r\nFacilityShields_perkname|\r\nCheaperSpaceAttacks_perkname|\r\nShipSpeed_perkname|\r\ncontinue_offline_accept|\r\ncontinue_offline_reject|\r\nreconnect_text|\r\nmatch_found|\r\nmatch_reject|\r\nmatch_accept|\r\nmatchmaking_box|\r\nmatchmaking_player_disconnected|\r\nmatchmaking_back_to_queue|\r\nkeep_cloud_ver|\r\nkeep_local_ver|\r\ncloud_save_conflict|\r\ncloud_conflict_description|\r\nmost_recent_save|\r\nparty_invite_received|\r\nleave_party|\r\ncontext_notingame|\r\ncontext_gamelobby|\r\ncontext_onlinegame|\r\ncontext_singleplayergame|\r\ncontext_resultscreen|\r\ncontext_shipbuilder|\r\njoin_lobby|\r\nlobby_reject|\r\nlobby_accept|\r\nteam1|\r\nteam2|\r\nhelp|\u30a2\u30c9\u30d0\u30a4\u30b9\r\nJungle|\u30b8\u30e3\u30f3\u30b0\u30eb\r\nJungle_desc|\u79fb\u52d5\u901f\u5ea6\u309235%\u8efd\u6e1b\r\nRocks|\u77f3\r\nRocks_desc|\u88ab\u308a\u30c0\u30e1\u30fc\u30b8\u309250%\u8efd\u6e1b\r\nAcidPods|\r\nAcidPods_desc|\r\nDarkWood|\r\nDarkWood_desc|\r\nM01_Move01||BODY\r\nM01_Move01a|\u3088\u3046\u3053\u305d\u3001\u65b0\u5165\u968a\u5175\uff01<sound:Delores/Welcome>\u3055\u3042\u3001\u30ba\u30d0\u30fc\u30eb\u3092\\n\u898b\u3064\u3051\u3066\u3001\u63d0\u7763\u3092\u3073\u3063\u304f\u308a\u3055\u305b\u308b\u308f\u3088\uff01|BODY\r\nM01_Move02|\u307e\u305a\u306f\u30e6\u30cb\u30c3\u30c8\u3092\u3044\u304f\u3064\u304b\u914d\u7f6e\u3057\u307e\u3057\u3087\u3046\u3002|BODY\r\nM01_Move03|\u30e6\u30cb\u30c3\u30c8\u306e\u64cd\u4f5c\u306f\u7c21\u5358\u3002\\n\\n<size=125%><sprite index=11></size>\u3067\u30ab\u30fc\u30bd\u30eb\u3092\u52d5\u304b\u3057\u3066\u3001\\n<size=125%><sprite index=0></size>\u3067\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u3076\u3001\u307e\u305f\u306f\u9078\u3093\u3060\u30e6\u30cb\u30c3\u30c8\u3092\\n\u79fb\u52d5\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u308f\u3002\\n\\n<color=\"purple\">\uff12\u3064\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u3001\u7dd1\u8272\u306b\u5149\u3063\u3066\u3044\u308b\u30de\u30b9\u3078\\n\u52d5\u304b\u3057\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_Move04|\u3053\u308c\u306f<color=\"purple\">\u9271\u5c71\u65bd\u8a2d</color>\u3088\u3002\u9271\u5c71\u65bd\u8a2d\u306f\u3001\\n\u30e6\u30cb\u30c3\u30c8\u3092\u5897\u3084\u3057\u305f\u308a\u5f37\u5316\u3057\u305f\u308a\u3059\u308b\u305f\u3081\u306e\\n<color=\"purple\">\u30a8\u30cd\u30eb\u30ae\u30fc</color>\u3092\u751f\u6210\u3057\u3066\u3044\u308b\u306e\u3002|BODY\r\nM01_Range01||BODY\r\nM01_Range01a|<sound:Delores/Shock1>\u3042\u3063\uff01\u5de8\u5927\u306a<color=\"purple\">\u6606\u866b</color>\u304c\u73fe\u308c\u3066\u3001\u3042\u306a\u305f\u306e\u9271\u5c71\u65bd\u8a2d\u3092\\n\u653b\u6483\u3057\u3066\u3044\u308b\uff01|BODY\r\nM01_Range02|<color=\"purple\">\u30ab\u30fc\u30bd\u30eb\u3092\u866b\u306e\u4e0a\u306b\u79fb\u52d5</color>\u3055\u305b\u3066\u3002|BODY\r\nM01_Range03|\u30aa\u30ec\u30f3\u30b8\u3067\u56f2\u307e\u308c\u305f\u30de\u30b9\u306f\u898b\u3048\u308b\uff1f\u3053\u308c\u306f\\n\u6606\u866b\u306e<color=\"purple\">\u653b\u6483\u7bc4\u56f2</color>\u3092\u793a\u3057\u3066\u3044\u308b\u306e\u3002\u3053\u306e\u6606\u866b\u306f\\n\u96a3\u306e\u30de\u30b9\u3057\u304b\u653b\u6483\u3067\u304d\u306a\u3044\u3068\u3044\u3046\u3053\u3068\u3088\uff01|BODY\r\nM01_Range04|\u3053\u308c\u306f<color=\"purple\">\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3</color>\u3002\u3054\u89a7\u306e\u3068\u304a\u308a\u3001\\n\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u306e\u653b\u6483\u7bc4\u56f2\u306f\u6606\u866b\u3088\u308a\u3082\u5e83\u304f\u3001\\n\uff12\u30de\u30b9\u5148\u307e\u3067\u653b\u6483\u3067\u304d\u308b\u3002<color=\"purple\">\u30ab\u30fc\u30bd\u30eb\u3092\u5225\u306e\\n\u30e6\u30cb\u30c3\u30c8\u3001\u9577\u3044\u30e9\u30a4\u30d5\u30eb\u9283\u3092\u6301\u3063\u305f\u30e6\u30cb\u30c3\u30c8\u306b\\n\u79fb\u52d5\u3055\u305b\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_Range05|\u3053\u308c\u306f<color=\"purple\">\u30ec\u30f3\u30b8\u30e3\u30fc</color>\u3002\u30ec\u30f3\u30b8\u30e3\u30fc\u306e\u653b\u6483\u7bc4\u56f2\u306f\\n\u3055\u3089\u306b\u5e83\u304f\u30013\u30de\u30b9\u5148\u307e\u3067\u653b\u6483\u3067\u304d\u308b\u3002\\n\u305f\u3060\u3057\u3001\u6ce8\u610f\u304c\u5fc5\u8981\u3088\u3002<color=\"purple\">\u30ec\u30f3\u30b8\u30e3\u30fc\u306f\u96a3\u63a5\u3057\u305f\\n\u30de\u30b9\u3092\u653b\u6483\u3067\u304d\u306a\u3044\u306e\u3002<size=125%><sprite index=0 ></size>\u3067\u30ec\u30f3\u30b8\u30e3\u30fc\u3092\\n\u9078\u629e\u3057\u3066\u3002</color>|BODY\r\nM01_Range06|\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u30ab\u30fc\u30bd\u30eb\u3092\u52d5\u304b\u3057\u305f\u3089\u3001\\n\u30ab\u30fc\u30bd\u30eb\u306e\u52d5\u304d\u306b\u5408\u308f\u305b\u3066\u3001\u30e6\u30cb\u30c3\u30c8\u304c\\n\u305d\u306e\u30de\u30b9\u307e\u3067\u79fb\u52d5\u3057\u305f\u5834\u5408\u306e\u653b\u6483\u7bc4\u56f2\u3092\u898b\u308b\\n\u3053\u3068\u304c\u3067\u304d\u308b\u308f\u3002\\n\\n<color=\"purple\">\u6606\u866b\u3092\u653b\u6483\u3067\u304d\u308b\u4f4d\u7f6e\u306b\\n\u30ec\u30f3\u30b8\u30e3\u30fc\u3092\u79fb\u52d5\u3055\u305b\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_Range06a|\u30aa\u30ec\u30f3\u30b8\u8272\u306b\u5149\u3063\u3066\u3044\u308b\u30de\u30b9\u304c\u308f\u304b\u308b\uff1f\\n\u3042\u308c\u304c\u30ec\u30f3\u30b8\u30e3\u30fc\u306e\u653b\u6483\u7bc4\u56f2\u3088\u3002\u30ec\u30f3\u30b8\u30e3\u30fc\u306f\\n\u96a3\u63a5\u3057\u305f\u30de\u30b9\u3092\u76f4\u63a5\u653b\u6483\u3067\u304d\u306a\u3044\u3053\u3068\u3082\u899a\u3048\u3066\\n\u304a\u3044\u3066\u3002\\n\\n<color=\"purple\">\u6606\u866b\u3092\u653b\u6483\u3067\u304d\u308b\u4f4d\u7f6e\u306b\u30ec\u30f3\u30b8\u30e3\u30fc\u3092\u79fb\u52d5\u3055\u305b\u3066\u3002</color>|BODY\r\nM01_Range06b|<color=\"purple\">\u307b\u3068\u3093\u3069\u306e\u30e6\u30cb\u30c3\u30c8\u306f\u52d5\u304d\u306a\u304c\u3089\u304c\u653b\u6483\\n\u3067\u304d\u306a\u3044\u306e\u3002\u6483\u3064\u524d\u306b\u4e00\u65e6\u6b62\u307e\u3089\u306a\u3044\u3068\\n\u3044\u3051\u306a\u3044\u3068\u3044\u3046\u3053\u3068\u3088\uff01</color>|BODY\r\nM01_Range07|\u30ec\u30f3\u30b8\u30e3\u30fc\u304c\u3046\u307e\u304f\u3084\u3063\u3066\u304f\u308c\u308b\u306f\u305a\u3002|BODY\r\nM01_Range08a|<sound:Delores/Phew>\u3053\u308c\u3067\u5b89\u5fc3\u306d\uff01|BODY\r\nM01_Nest01|\u3046\u30fc\u3093\u3001<sound:Delores/Hmmm>\u3053\u308c\u306f\u7a74\uff1f\u866b\u305f\u3061\u306f\u3053\u306e\u7a74\u304b\u3089\\n\u51fa\u3066\u304d\u3066\u3044\u308b\u306e\u304b\u3057\u3089\uff1f\u8abf\u3079\u3066\u307f\u307e\u3057\u3087\u3046\uff01|BODY\r\nM01_Nest01a|\u3082\u3063\u3068\u8fd1\u304f\u3067\u8abf\u3079\u3089\u308c\u308b\u3088\u3046\u306b\u3001\\n\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u3092\u52d5\u304b\u3057\u3066\u3002\u30ab\u30fc\u30bd\u30eb\u3092\\n\u52d5\u304b\u3055\u305a\u306b\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u3092\u52d5\u304b\u305b\u308b\u3001\\n<color=\"purple\">\u30af\u30a4\u30c3\u30af\u30bb\u30ec\u30af\u30c8</color>\u306e\u3084\u308a\u65b9\u3082\u6559\u3048\u308b\u308f\u306d\u3002|BODY\r\nM01_Nest01b|<size=125%><spriteanim:0.25,20,20,19></size>\u30b9\u30c6\u30a3\u30c3\u30af\u3092\u30e6\u30cb\u30c3\u30c8\u306e\u65b9\u3078\u5012\u3059\u3068\\n\u30af\u30a4\u30c3\u30af\u30bb\u30ec\u30af\u30c8\u3067\u304d\u308b\u306e\u3002\\n\\n<color=\"purple\">\u897f\u306b\u3044\u308b\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u306e\u65b9\u5411\u3078\\n<size=125%><spriteanim:0.25,20,20,19></size>\u3092\u5012\u3057\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_Nest01b_Short|<color=\"purple\">\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u306e\u65b9\u5411\u3078<size=125%><spriteanim:0.25,20,20,19></size>\u3092\u5012\u3057\u3066\u3002</color>|BODY\r\nM01_Nest01c|\u3044\u3044\u308f\uff01\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u3092\u30af\u30a4\u30c3\u30af\u30bb\u30ec\u30af\u30c8\\n\u3067\u304d\u305f\uff01<color=\"purple\">\u3055\u3041\u3001\u5de3\u306b\u9001\u308a\u8fbc\u3093\u3067\u3002</color>|BODY\r\nM01_Nest01c_Short|<color=\"purple\">\u3055\u3041\u3001\u5de3\u306b\u9001\u308a\u8fbc\u3093\u3067\u3002</color>|BODY\r\nM01_Nest02|<color=\"purple\">\u3058\u3083\u3042\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u306e\u96a3\u307e\u3067\u79fb\u52d5\u3055\u305b\u3066\u3002\\n</color>\u30af\u30a4\u30c3\u30af\u30bb\u30ec\u30af\u30c8\u3092\u5fd8\u308c\u305a\u306b\u306d\uff01<size=125%><spriteanim:0.25,20,20,19></size>|BODY\r\nM01_Nest03|<sound:Delores/Shock2>\u866b\u304c\u5897\u3048\u305f\uff01<color=\"purple\">\u9000\u6cbb\u3059\u308b\u308f\u3088\uff01</color>|BODY\r\nM01_Nest04|\u3042\u306e\u7a74\u304c\u866b\u306e<color=\"purple\">\u5de3</color>\u306b\u306a\u3063\u3066\u3044\u308b\u3093\u3060\u308f\u3002\\n\u3053\u308c\u4ee5\u4e0a\u866b\u304c\u51fa\u3066\u304f\u308b\u524d\u306b\u7834\u58ca\u3057\u305f\u307b\u3046\u304c\\n\u826f\u3055\u305d\u3046\u306d\uff01\u3068\u3044\u3046\u3053\u3068\u3067\u3001\u65b0\u3057\u3044\u30e6\u30cb\u30c3\u30c8\u3092\\n\u914d\u7f6e\u3057\u307e\u3057\u3087\uff01|BODY\r\nM01_Nest05|\u3053\u308c\u306f<color=\"purple\">\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8</color>\u3002\\n\u5f37\u529b\u3067\u3068\u3063\u3066\u3082\u9577\u3044\u8ddd\u96e2\u3092\u653b\u6483\u3067\u304d\u308b\u8eca\u4e21\u3088\u3002|BODY\r\nM01_Nest06|<color=\"purple\">\u30e6\u30cb\u30c3\u30c8\u306f\u30bf\u30fc\u30b2\u30c3\u30c8\u306b\u5411\u304b\u3063\u3066\u81ea\u52d5\u7684\u306b\\n\u653b\u6483\u3059\u308b</color>\u306e\u3060\u3051\u308c\u3069\u3001\u3069\u3046\u3044\u3046\u308f\u3051\u304b\u3042\u306a\u305f\u306e\\n\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8\u306f\u5de3\u3092\u653b\u6483\u3057\u3066\u3044\u306a\u3044\u308f\u306d\u3002|BODY\r\nM01_Nest07|<color=\"purple\">\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8\u306e\u653b\u6483\u7bc4\u56f2\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3066\\n\u307f\u307e\u3057\u3087\u3046\u3002</color>|BODY\r\nM01_Nest08|<sound:Delores/Aha>\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8\u306f\u3068\u3066\u3082\u9060\u304f\u307e\u3067\u653b\u6483\u3067\u304d\u308b\\n\u3051\u3069\u3001<color=\"purple\">\u6b7b\u89d2\u3082\u5e83\u304f\u3066\u3001</color>\u5de3\u304c\u4eca\u3061\u3087\u3046\u3069\u305d\u306e\\n\u76f2\u70b9\u306b\u5165\u3063\u3066\u3044\u308b\u308f\uff01|BODY\r\nM01_Nest09|\u653b\u6483\u7bc4\u56f2\u306b\u6c17\u3092\u4ed8\u3051\u306a\u304c\u3089<color=\"purple\">\u5de3\u3092\u7834\u58ca\u3057\u3066\uff01</color>|BODY\r\nM01_Spawn01|<sound:Delores/Nice>\u30ca\u30a4\u30b9\uff01\u5de3\u306e\u4e0b\u306b\u3042\u308b\u3082\u306e\u3092\u898b\u3066\u3002\u3053\u306e\\n<color=\"purple\">\u9752\u3044\u30af\u30ea\u30b9\u30bf\u30eb\u3092\u4f7f\u3063\u3066\u3082\u3063\u3068\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\\n\u4f5c\u308a\u51fa\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u306e</color>\u3002\u3053\u3053\u306b\u9271\u5c71\u65bd\u8a2d\u3092\\n\u5efa\u3066\u307e\u3057\u3087\u3046\uff01|BODY\r\nM01_Spawn02|\u9271\u5c71\u65bd\u8a2d\u3092\u5efa\u3066\u308b\u306b\u306f\u3001<color=\"purple\">\u30ab\u30fc\u30bd\u30eb\u3092\u9752\u3044\\n\u30af\u30ea\u30b9\u30bf\u30eb\u306e\u4e0a\u306b\u7f6e\u3044\u3066\u3001<size=125%><sprite index=0 ></size>\u3092\u62bc\u3059</color>\u3002|BODY\r\nM01_Spawn03|\u4e0a\u306b\u3044\u308b\u5b87\u5b99\u8239\u304c\u4eca\u304b\u3089\u65bd\u8a2d\u3092\u914d\u7f6e\u3059\u308b\u308f\u3088\uff01|BODY\r\nM01_Spawn04|\u305d\u3046\u3044\u3048\u3070\u3001\u5b87\u5b99\u8239\u306e\u7d39\u4ecb\u304c\u307e\u3060\u3060\u3063\u305f\u308f\u306d\u3002\\n<color=\"purple\">\u5b87\u5b99\u8239\u306f\u6226\u5834\u306e\u4e0a\u7a7a\u3067\u505c\u6b62\u98db\u884c\u3057\u3066\u3044\u308b\u3001\u79fb\u52d5\\n\u304c\u53ef\u80fd\u306a\u914d\u7f6e\u57fa\u5730\u3088\u3002</color>|BODY\r\nM01_Spawn05|\u5b87\u5b99\u8239\u306f\u3001\u305d\u306e\u771f\u4e0b\u306b\u3042\u308b\u30de\u30b9\u3060\u3051\u306b\u65b0\u3057\u3044\\n\u30e6\u30cb\u30c3\u30c8\u3092\u914d\u7f6e\u3067\u304d\u308b\u306e\u3002\\n<color=\"purple\">\u914d\u7f6e\u30a8\u30ea\u30a2\u306f\u6c34\u8272\u306e\u30de\u30b9\u3088\u3002</color>|BODY\r\nM01_Spawn06|\u30a8\u30cd\u30eb\u30ae\u30fc\u306f\u30e6\u30cb\u30c3\u30c8\u914d\u7f6e\u306a\u3069\u306b\u4f7f\u3046\u305f\u3081\u306e\\n\u3082\u306e\u3002<color=\"purple\">\u6e9c\u307e\u3063\u305f\u30a8\u30cd\u30eb\u30ae\u30fc\u306f\u3053\u3053\u306b\u8868\u793a\\n\u3055\u308c\u3066\u3044\u3066</color>\u3001\u3069\u3093\u3069\u3093\u4e0a\u304c\u3063\u3066\u3044\u304f\u306e\uff01\\n\u3055\u3041\u3001\u65b0\u3057\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u914d\u7f6e\u3057\u307e\u3057\u3087\u3046\uff01|BODY\r\nM01_Spawn07|\u4f7f\u7528\u53ef\u80fd\u306a\u30e6\u30cb\u30c3\u30c8\u3092\u898b\u308b\u306b\u306f\u3001\\n<color=\"purple\"><size=125%><sprite index=14 >\u3092\u9577\u62bc\u3057\u3057\u3066</color>\u3002|BODY\r\nM01_Spawn08|<size=125%><sprite index=14 ></size>\u3092\u9577\u62bc\u3057\u3057\u3066\u3044\u308b\u9593\u3001\u914d\u7f6e\u3059\u308b\u524d\u306b\\n\u30e6\u30cb\u30c3\u30c8\u914d\u7f6e\u3084\u80fd\u529b\u30ab\u30fc\u30c9\u306e\u60c5\u5831\u304c\u8868\u793a\u3055\u308c\u308b\u306e\u3002\\n\u305d\u306e\u307e\u307e<size=125%><sprite index=11 ></size>\u3092\u4f7f\u3063\u3066<color=\"purple\">\u30b9\u30bf\u30f3\u30ac\u30ca\u30fc</color>\u3092\\n\u9078\u629e\u3057\u3066\u3001<size=125%><sprite index=0 ></size>\u3092\u30bf\u30c3\u30d7\u3057\u3066\u307f\u3066\u3002|BODY\r\nM01_Spawn09||BODY\r\nM01_Spawn09a||BODY\r\nM01_Spawn10|\u3053\u308c\u304c<color=\"purple\">\u30b9\u30bf\u30f3\u30ac\u30ca\u30fc</color>\u3002\u529b\u306f\u5f31\u3044\u3051\u3069\u3001\\n\u6575\u3092\u5c11\u3057\u306e\u9593<color=\"purple\">\u6c17\u7d76</color>\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u306e\u3002|BODY\r\nM01_Titan01|<sound:Delores/Hmmm>\u3053\u3053\u306f\u307e\u3060\u63a2\u7d22\u3057\u3066\u3044\u306a\u3044\u3088\u3046\u306d\u3002\\n\u884c\u3063\u3066\u307f\u307e\u3057\u3087\u3046\uff01|BODY\r\nM01_Titan02|<size=125%><sprite index=14 ></size>\u3067\u30e6\u30cb\u30c3\u30c8\u306e\u914d\u7f6e\u3068<color=\"purple\">\u30ab\u30fc\u30c9\u306e\u4f7f\u7528\u3084\\n\u30a2\u30c3\u30d7\u30b0\u30ec\u30fc\u30c9\u304c\u3067\u304d\u308b\u308f\u3002<size=125%><sprite index=14 ></size>\u3092\u9577\u62bc\u3057\\n\u3057\u3066\u3001\u65b0\u3057\u3044\u30ab\u30fc\u30c9\u3092\u78ba\u8a8d\u3057\u307e\u3057\u3087\u3046\uff01</color>|BODY\r\nM01_Titan03|<color=\"purple\">\u9ce5\u306e\u76ee</color>\u306e\u80fd\u529b\u30ab\u30fc\u30c9\u3092\u6301\u3063\u3066\u3044\u308b\u3088\u3046\u306d\u3002\\n\u3053\u308c\u306f\u6226\u5834\u306e\u96a0\u308c\u3066\u3044\u308b\u30a8\u30ea\u30a2\u3092\u4e00\u6642\u7684\u306b\\n\u898b\u3048\u308b\u3088\u3046\u306b\u3057\u3066\u304f\u308c\u308b\u304b\u3089\u3001\u3068\u3066\u3082\u6709\u5229\u306b\\n\u6226\u7565\u3092\u7acb\u3066\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u306e\uff01\\n<color=\"purple\">\u9ce5\u306e\u76ee\u3092\u4f7f\u3063\u3066\u307f\u3088\u3046\u3002</color>|BODY\r\nM01_Titan03a|\u3058\u3083\u3042\u3001\u9ce5\u306e\u76ee\u3092\u8d64\u304f\u306a\u3063\u3066\u3044\u308b\u30a8\u30ea\u30a2\u306e\u4e0a\u306b\\n\u79fb\u52d5\u3055\u305b\u3066\u3001<size=125%><sprite index=0></size>\u3092\u62bc\u3057\u3066\u307f\u3066\u3002|BODY\r\nM01_Titan03b|\u885b\u661f\u304c\u3084\u3063\u3066\u304f\u308b\u308f\uff01|BODY\r\nM01_Titan03cZ|<sound:Zubair/Delores>\u30c9\u30ed\u30fc\u30ec\u30b9\uff01\uff1f\u8cb4\u69d8\u3001\u3088\u304f\u3082\u4ffa\u69d8\u306e\u60d1\u661f\u306b\u4fb5\u5165\\n\u3057\u3084\u304c\u3063\u305f\u306a\uff01\u8033\u3092\u304b\u3063\u307d\u3058\u3063\u3066\u3088\u30fc\u304f\u805e\u3051\uff01\\n\u3053\u306e\u60d1\u661f\u306f\u4ffa\u69d8\u306e\u3082\u306e\u3060\uff01\\n\u5148\u306b\u898b\u3064\u3051\u305f\u3093\u3060\u304b\u3089\u306a\uff01|BODY\r\nM01_Titan04|\u3042\u3041\uff01\u30ba\u30d0\u30fc\u30eb\u306f\u6050\u308d\u3057\u3044<sound:Delores/Shock3><color=\"purple\">\u30bf\u30a4\u30bf\u30f3</color>\u3092\\n\u4f7f\u3063\u3066\u3044\u308b\u306e\u306d\uff01|BODY\r\nM01_Titan05|\u30bf\u30a4\u30bf\u30f3\u306f\u3082\u306e\u3059\u3054\u304f\u5f37\u976d\u3067\u5de8\u5927\u306a\u30ed\u30dc\u30c3\u30c8\u3067\u3001\\n<color=\"purple\">\u52d5\u304d\u306a\u304c\u3089\u3067\u3082\u653b\u6483</color>\u3067\u304d\u308b\u3051\u3069\u3001\u653b\u6483\u7bc4\u56f2\u306f\\n\u72ed\u3044\u3057\u52d5\u304d\u304c\u9045\u3081\u3060\u304b\u3089\u3001\u3053\u3061\u3089\u306b\u3082\u5c11\u3057\u306f\\n\u624b\u3092\u6253\u3064\u305f\u3081\u306e\u7336\u4e88\u304c\u3042\u308b\u308f\u3002|BODY\r\nM01_Titan06|\u30e6\u30cb\u30c3\u30c8\u3092\u304d\u3061\u3093\u3068\u914d\u5099\u3059\u308c\u3070\u3001\\n\u8ca0\u3051\u308b\u306f\u305a\u304c\u306a\u3044\uff01|BODY\r\nM01_Titan07|\u30d5\u30a1\u30a4\u30e4\u30fc\u30de\u30f3\u306e\u653b\u6483\u3092\u30fb\u30fb\u30fb|BODY\r\nM01_Titan08|\u30fb\u30fb\u30fb\u30b9\u30bf\u30f3\u30ac\u30ca\u30fc\u306e\u6c17\u7d76\u3055\u305b\u308b\u80fd\u529b\u3068\\n\u9023\u643a\u3055\u305b\u3066\u30fb\u30fb\u30fb|BODY\r\nM01_Titan09|\u30fb\u30fb\u30fb\u305d\u308c\u304b\u3089\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8\u306e\u9577\u8ddd\u96e2\u653b\u6483\u3092\\n\u52a0\u3048\u308b\u3068\u30fb\u30fb\u30fb|BODY\r\nM01_Titan09a|<color=\"purple\">\u30bf\u30a4\u30bf\u30f3\u306b\u3067\u3082\u52dd\u3066\u308b\u308f\uff01</color>|BODY\r\nM01_Titan09bZ|<sound:Zubair/Hahaha><anim:wave>\u3075\u306f\u306f\uff01</anim>\u52dd\u3066\u308b\u30fb\u30fb\u3060\u3068\uff1f\u305d\u306e\u5730\u5473\u306a\\n\u30e6\u30cb\u30c3\u30c8\u3067\uff1f\u3070\u304b\u3070\u304b\u3057\u3044\uff01|BODY\r\nM01_Titan09c|\u30e6\u30cb\u30c3\u30c8\u3092\u5b88\u5099\u306e\u4f4d\u7f6e\u3078\u52d5\u304b\u3057\u3066\uff01\\n<color=\"purple\">\u3067\u3082\u5fd8\u308c\u306a\u3044\u3067\u3001\u30e6\u30cb\u30c3\u30c8\u306f\u52d5\u304d\u306a\u304c\u3089\u306f\u653b\u6483\\n\u3067\u304d\u306a\u3044\uff01</color>|BODY\r\nM01_Titan09d||BODY\r\nM01_Titan09eZ|<anim:shake>\u304e\u3083\u3042</anim>\uff01<sound:Zubair/Nooooo>\u3042\u308c\u3001\u65b0\u54c1\u3060\u3063\u305f\u306e\u306b\u30fb\u30fb\u30fb|BODY\r\nM01_Titan10|<sound:Delores/Oh yeah>\u3084\u3063\u305f\uff01\u30bf\u30a4\u30bf\u30f3\u3092\u4ed5\u7559\u3081\u305f\u4ee5\u4e0a\u3001\u30ba\u30d0\u30fc\u30eb\u306f\\n\u7121\u9632\u5099\u3088\uff01|BODY\r\nM01_Assault01|\u30ab\u30fc\u30c9\u3092\u3046\u307e\u304f\u5229\u7528\u3057\u3066\u3001\\n<color=\"purple\">\u30ba\u30d0\u30fc\u30eb\u306e\u30e6\u30cb\u30c3\u30c8</color>\u3092\u5168\u6ec5\u3055\u305b\u308b\u308f\u3088\uff01|BODY\r\nM01_Assault02||BODY\r\nM01_ProControls01|<sound:Delores/Yes (excited)>\u3088\u3057\uff01\u30ba\u30d0\u30fc\u30eb\u306e\u30e6\u30cb\u30c3\u30c8\u304c\u5168\u6ec5\u3057\u305f\u308f\uff01\\n\u3088\u304f\u3084\u3063\u305f\u308f\u306d\uff01|BODY\r\nM01_ProControls01a|\u5357\u306e\u5cf6\u306b\u306f\u307e\u3060\u884c\u3063\u3066\u306a\u304b\u3063\u305f\u308f\u306d\u3002\\n\u3063\u3066\u3053\u3068\u306f\u3001\u30ba\u30d0\u30fc\u30eb\u306f\u305d\u3053\u306b\u96a0\u308c\u3066\u50b7\u3092\\n\u7652\u3057\u3066\u3044\u308b\u306b\u9055\u3044\u306a\u3044\u308f\u3002\\n\u3068\u3069\u3081\u306e\u4e00\u6483\u3092\u98df\u3089\u308f\u305b\u3066\u3084\u308a\u307e\u3057\u3087\u3046\uff01|BODY\r\nM01_ProControls01b|\u3053\u3053\u304b\u3089\u306f\u5b87\u5b99\u8239\u306e\u64cd\u4f5c\u3092\u3042\u306a\u305f\u306b\u4efb\u305b\u308b\u308f\uff01|BODY\r\nM01_ProControls02|\u5b87\u5b99\u8239\u306f<size=125%><sprite index=0 ></size>\u3092\u9577\u62bc\u3057\u3059\u308b\u3060\u3051\u3067\u3069\u306e\u30de\u30b9\u306b\u3067\u3082\\n\u79fb\u52d5\u3055\u305b\u3089\u308c\u308b\u306e\u3002<color=\"purple\"><size=125%><sprite index=0 ></size>\u3092\u9577\u62bc\u3057\u3057\u3066\u3001\\n\u5b87\u5b99\u8239\u3092\u3053\u306e\u30de\u30b9\u306b\u547c\u3073\u307e\u3057\u3087\u3046\u3002</color>|BODY\r\nM01_ProControls03|\u3053\u3063\u3061\u306b\u6765\u3066\u3044\u308b\u307f\u305f\u3044\u306d\uff01|BODY\r\nM01_ProControls04|\u3053\u308c\u306f\u4e0a\u7a7a\u306e\u30ab\u30e1\u30e9\u3088\u3002\u3069\u306e\u30e6\u30cb\u30c3\u30c8\u306b\u3067\u3082\u3001\\n\u3053\u306e\u4f4d\u7f6e\u304b\u3089\u6307\u793a\u3092\u51fa\u3059\u3053\u3068\u3082\u3067\u304d\u308b\u3002\\n\\n<color=\"purple\"><size=125%><sprite index=11 ></size>\u3092\u62bc\u3057\u3066\u6a19\u6e96\u30ab\u30e1\u30e9\u306b\u623b\u3057\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_ProControls09|\u624b\u6301\u3061\u306e\u30ab\u30fc\u30c9\u306e\u4e2d\u306b\u5168\u6a5f\u53ec\u559a\u306e\u30ab\u30fc\u30c9\u304c\u3042\u308b\\n\u306f\u305a\u3088\u3002\u305d\u308c\u3092\u4f7f\u3046\u3068\u3042\u306a\u305f\u306e\u30e6\u30cb\u30c3\u30c8\u304c\\n\u6700\u59277\u6a5f\u307e\u3067\u3001\u5b87\u5b99\u8239\u4e0b\u306e\u30a8\u30ea\u30a2\u306b\u30c6\u30ec\u30dd\u30fc\u30c8\\n\u3057\u3066\u304f\u308b\u306e\u3002|BODY\r\nM01_ProControls09a||BODY\r\nM01_ProControls10|\u30c1\u30a7\u30c3\u30af\u30e1\u30a4\u30c8\u3088\u3001\u30ba\u30d0\u30fc\u30eb\uff01|BODY\r\nM01_ProControls11Z|\u30c1\u30a7\u30c3\u30af\u30e1\u30a4\u30c8\u3060\u3068\uff1f\u3053\u308c\u3060\u304b\u3089\u30d0\u30ab\u306f...\\n<sound:Zubair/Whahaha>\u8cb4\u69d8\u306f\u8a08\u753b\u901a\u308a\u3001\u4ffa\u69d8\u306e\u7f60\u306b\u30d0\u30c3\u30c1\u30ea\\n\u304b\u304b\u3063\u305f\u306e\u3060\uff01<anim:shake>\u308f\u306f\u306f\u306f\u306f\u3063\uff01</anim>|BODY\r\nM01_ProControls12|\u5927\u5909\u3001<color=\"purple\">\u713c\u5937\u5f3e\u653b\u6483</color>\u304c\u6765\u308b\uff01\\n<sound:Delores/Shock1>\u96c6\u3081\u305f\u30e6\u30cb\u30c3\u30c8\u3092\u907f\u96e3\u3055\u305b\u306a\u3044\u3068\uff01|BODY\r\nM01_ProControls13|\u3053\u3046\u3044\u3046\u7dca\u6025\u4e8b\u614b\u3067\u306f\u30e6\u30cb\u30c3\u30c8\u4e00\u4f53\u4e00\u4f53\u3092\\n\u52d5\u304b\u3059\u6642\u9593\u306f\u306a\u3044\u304b\u3089\u3001\u3059\u3079\u3066\u3092\u9078\u629e\u3057\u3066\\n\u4e00\u6c17\u306b\u79fb\u52d5\u3055\u305b\u308b\u306e\uff01\\n<color=\"purple\"><size=125%><sprite index=9 ></size>\u3092\u62bc\u3057\u3066\u30ab\u30fc\u30bd\u30eb\u3092\u5927\u304d\u304f\u3057\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_ProControls14|\u3053\u308c\u3067\u30ab\u30fc\u30bd\u30eb\u306e\u7bc4\u56f2\u304c\u5e83\u304c\u3063\u305f\u3002\u3053\u306e\\n\u30ab\u30fc\u30bd\u30eb\u3092<color=\"purple\">\u3059\u3079\u3066\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u56f2\u3048\u308b\u4f4d\u7f6e\u306b\\n\u52d5\u304b\u3057\u3066\u3001\u30e6\u30cb\u30c3\u30c8\u3092\u4e00\u6c17\u306b\u5168\u90e8\u9078\u629e\u3067\u304d\u308b\u308f\u3002</color>|BODY\r\nM01_ProControls15|<color=\"purple\">\u5371\u967a\u306a\u30de\u30b9\u304b\u3089\u30e6\u30cb\u30c3\u30c8\u3092\u4e00\u6c17\u306b\u907f\u96e3\u3055\u305b\u3066\uff01</color>|BODY\r\nM01_ProControls16|\u7206\u6483\u304c\u6765\u305f\u308f\u3002\\n\u30e6\u30cb\u30c3\u30c8\u306e\u9000\u907f\u304c\u9593\u306b\u5408\u3044\u307e\u3059\u3088\u3046\u306b\uff01|BODY\r\nM01_Final01Z|<anim:shake>\u3061\u304d\u3057\u3087\u30fc\u3063\uff01</anim><sound:Zubair/Nooooo>\u304b\u308f\u3055\u308c\u305f...\u3060\u3068\uff1f\uff01|BODY\r\nM01_Final01|\"<sound:Delores/Phew>\u30c9\u30ad\u30c9\u30ad\u3057\u305f\u308f\u306d\uff01<color=\"purple\">\u6b21\u306f<size=125%><sprite index=8 ></size>\u3092\u30bf\u30c3\u30d7\u3057\u3066\\n\u30ab\u30fc\u30bd\u30eb\u3092\u7e2e\u3081\u3066\u307f\u3066\u3002</color>|BODY\r\nM01_Final01a|\u30ba\u30d0\u30fc\u30eb\u306f\u304a\u305d\u3089\u304f\u3053\u306e\u9752\u3044\u30af\u30ea\u30b9\u30bf\u30eb\u4e0a\u306b\\n\u9271\u5c71\u65bd\u8a2d\u3092\u914d\u7f6e\u3057\u3066\u3044\u308b\u306f\u305a\u3088\u3002\\n\u305d\u308c\u3092\u7834\u58ca\u3059\u308c\u3070\u63b4\u307e\u3048\u3089\u308c\u308b\uff01|BODY\r\nM01_Final02|\u653b\u6483\u30bf\u30a4\u30e0\u3088\uff01|BODY\r\nM01_Final03|<color=\"purple\">\u30ab\u30fc\u30c9\u3092\u3046\u307e\u304f\u5229\u7528\u3057\u3066\u3001\u3042\u308a\u3063\u305f\u3051\u306e\u529b\u3067\\n\u653b\u6483\u3057\u7d9a\u3051\u3066\uff01</color><size=125%><sprite index=0 ></size>\u3092\u9577\u62bc\u3057\u3059\u308b\u3068\u5b87\u5b99\u8239\u3092\\n\u30de\u30b9\u306b\u53ec\u96c6\u3067\u304d\u308b\u3053\u3068\u3092\u5fd8\u308c\u306a\u3044\u3067\u306d\u3002|BODY\r\nM01_Final03a||BODY\r\nM01_Final05Z|<anim:wave><sound:Zubair/Defeated>\u305d\u3001\u305d\u3093\u306a\u3041\u30fb\u30fb\u30fb|BODY\r\nM01_Final06|\u52dd\u3063\u305f\uff01<sound:Delores/Victory>\u30ba\u30d0\u30fc\u30eb\u306e\u65bd\u8a2d\u304c\u5d29\u58ca\u3057\u305f\uff01\\n\u3053\u308c\u3067\u3084\u3063\u3068\u30ba\u30d0\u30fc\u30eb\u3092\u902e\u6355\u3067\u304d\u308b\u308f\u306d\uff01|BODY\r\nM01_Final07||BODY\r\nM01_NestOrTitanAreaBlock|\u3044\u3044\u3048\u3001\u305d\u3053\u306f\u307e\u3060\u884c\u304b\u306a\u3044\u65b9\u304c\u826f\u3044\u3068\u601d\u3046\u3002|BODY\r\nM01_Nest03Retry|\u3082\u3046\u4e00\u5ea6\u3084\u3063\u3066\u307f\u307e\u3057\u3087\u3002\u3067\u3082\u5fd8\u308c\u306a\u3044\u3067\uff01\\n\u30e6\u30cb\u30c3\u30c8\u306f\u7acb\u3061\u6b62\u307e\u3089\u306a\u3044\u3068\u653b\u6483\u3067\u304d\u306a\u3044\u3002\\n\u305d\u3057\u3066\u30ec\u30f3\u30b8\u30e3\u30fc\u306f\u96a3\u63a5\u3057\u305f\u30de\u30b9\u3092\u653b\u6483\\n\u3067\u304d\u306a\u3044\u3002|BODY\r\nM01_NestWarning1|\u6b8b\u5ff5\u306a\u304c\u3089\u3001\u305d\u3053\u304b\u3089\u306f\u6483\u3066\u306a\u3044\u308f\u3002\u6575\u306e\\n\u65bd\u8a2d\u304c\u30aa\u30ec\u30f3\u30b8\u8272\u306e\u653b\u6483\u7bc4\u56f2\u306b\u5165\u308b\u3088\u3046\u306b\\n\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8\u3092\u52d5\u304b\u3057\u3066\u307f\u3066\u3002|BODY\r\nM01_ProControls15_FailState|\u5fc5\u305a\u3059\u3079\u3066\u306e\u30e6\u30cb\u30c3\u30c8\u304c\u5371\u967a\u5730\u5e2f\u304b\u3089\u51fa\u3089\u308c\u308b\\n\u3088\u3046\u306b\u79fb\u52d5\u3055\u305b\u3066\u306d\uff01|BODY\r\nM01_Meteors|<sound:Delores/Shock3>\u3084\u3070\u3044\uff01\u9695\u77f3\u306e\u96e8\u304c\u3084\u3063\u3066\u6765\u308b\u308f\uff01\\n\u30e6\u30cb\u30c3\u30c8\u3092\u5371\u967a\u306a\u5834\u6240\u304b\u3089\u907f\u96e3\u3055\u305b\u3066\uff01|BODY\r\nM01_TitanDMGControl01|\u30bf\u30a4\u30bf\u30f3\u304c\u79c1\u305f\u3061\u306e\u65bd\u8a2d\u3092\u7834\u58ca\u3057\u3088\u3046\u3068\\n\u3057\u3066\u3044\u308b\uff01\u3088\u30fc\u3057\u3001\u6700\u5f8c\u306e\u5207\u308a\u672d\u3092\u51fa\u3059\u308f\u3088\uff01|BODY\r\nM01_TitanDMGControl02||BODY\r\nM01_FirstBattle|\u30ba\u30d0\u30fc\u30eb\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u5168\u6ec5\u3055\u305b\u3088\u3046\uff01|QUIP\r\nM01_FinalObjective|\u30ba\u30d0\u30fc\u30eb\u306e\u65bd\u8a2d\u3068\u30e6\u30cb\u30c3\u30c8\u3092\u7834\u58ca\u3057\u3088\u3046\uff01|QUIP\r\nM01_ShipReminder|<size=125%><sprite index=0 ></size>\u3092\u9577\u62bc\u3057\u3059\u308b\u3068\u5b87\u5b99\u8239\u3092\u52d5\u304b\u305b\u308b\u308f\uff01|QUIP\r\n",
+    "referencedFontAssetGUID": "",
+    "referencedTextAssetGUID": "",
+    "fontStyle": 0,
+    "fontStyleModifier": 0.0,
+    "renderMode": 4165,
+    "includeFontFeatures": 0
+  },
+  "m_FontWeightTable": [
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "fontWeights": [],
+  "normalStyle": 0.0,
+  "normalSpacingOffset": 0.0,
+  "boldStyle": 0.75,
+  "boldSpacing": 7.0,
+  "italicStyle": 35,
+  "tabSize": 10
+}

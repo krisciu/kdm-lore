@@ -1,0 +1,19 @@
+                                                                              - Rules -
+
+               Persistent Injuries                               Monster Hunt Events                                    Monster Resources
+
+
+   When a monster suffers a critical wound on a hit loca- Monster hunt event cards are events that are only en- Monster resource cards are resources that are only 
+   tion with a persistent injury, the hit location card is put countered when hunting a particular type of monster. gained from fighting that type of monster. There are 
+   in play instead of being discarded. Some persistent  They describe specific pitfalls and wonders that occur separate decks of monster resource cards for all 
+   injuries modify a monster’s overall behavior, while  while tracking this monster.                          hunt-able monsters (White Lion, Screaming Antelope, 
+   others only affect specific AI cards.                     Each hunt-able monster has their own set of hunt Phoenix). 
+        For example, if the monster has the No Jaw per- event cards. They are used with the hunt board to         Each monster resource has a resource type. For 
+   sistent injury when it draws Chomp, it performs the  hunt a quarry.                                        instance, Lion Claw is a bone type resource. 
+   No Jaw persistent injury action instead of any other                                                           Monster resources can be used and spent as 
+   actions on the card.                                                                                       their resource type or as their specific resource name. 
+                                                                                                              Some monster resources will have additional rules on 
+                                                                                                              the bottom of their cards. 
+
+
+54

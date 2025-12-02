@@ -1,0 +1,48 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SETTLEMENT PHASE SETTLEMENT
+
+           7 | Develop                               deavor was spent on. Unless stated otherwise, any of            9 | Special Showdown
+                                                     the rule’s effects apply only to the selected survivor.
+           During this step players will decide, as                                                                  If there are any special showdowns list-
+           a group, how to spend the settlement’s                                                                    ed for the current lantern year on the 
+resources. Players can craft gear, endeavor, inno-   Innovate                                             Settlement Record Sheet, the departing survivors 
+vate, and build.                                     To innovate, select a survivor to spend an endeavor  immediately begin a showdown with the named mon-
+                                                     and the required resources at the Lantern Hoard.     ster. (If there are multiple special showdowns on the 
+Craft Gear                                           Follow the rules for innovating on the Lantern Hoard. timeline, do them in the order they are listed.)
+                                                         Detailed information about innovating is avail-
+                                                     able later in this section.                          After the showdown, win or lose, return to the Update 
+                                                                                                          Death Count step of the current lantern year. Heal 
+Players may spend resources to craft weapons, ar-    Build                                                survivors and remove their tokens, but they are not 
+mor, and items at locations their settlement has built.                                                   considered returning survivors. Do not repeat any pre-
+Each settlement location lists the resource cost for                                                      ceding settlement phase steps (do not gain , draw 
+each gear that can be built at that location.                                                             a settlement event card, or advance a lantern year.)
+    When you spend resources to craft gear, ar-      When a new location is built, place that settlement 
+chive the resources (return the cards to the box), and location in the play area and add the new location            10 | Record & Archive Resources
+get the gear card you crafted from the box.          to your settlement record sheet. This is a permanent            Record unspent resources in the set-
+    It is up to the players to decide whether or not addition to your settlement.                                    tlement storage, and archive the corre-
+they pool their resources and craft gear as a group or                                                    sponding cards. This is an important step to ensure 
+split their resources and craft gear as individuals.            8 | Prepare Departing Survivors           that the full range of possible resources is available 
+                                                                At this point, players should decide if   in each deck, ready to be drawn again.
+Endeavor                                                        they plan to press on to the next hunt 
+                                                                or end their play session. If they de-    Settlement Storage
+                                                     cide to stop, skip this step and choose departing    Resources in storage can be spent at anytime during 
+                                                     survivors next play session.                         the Settlement Phase. When a resource is spent, 
+                                                                                                          erase its entry from the storage list.
+                                                     If they decide to continue, players must choose 4 
+Survivors can spend endeavors to innovate, build     departing survivors. If the population is less than 4,          11 | End Settlement Phase
+new settlement locations, or perform unique activi-  choose as many as possible. If there are fewer than             - Lose unspent endeavors
+ties in the settlement.                              4 players, players must control multiple survivors.             - Store settlement innovations
+                                                                                                                     - Store unused gear
+Whenever a rule on an Innovation, Settlement Lo-     Remove the returning survivors’ gear and add gear               - Clean up
+cation, or Settlement Event is preceded by , it indi- to the departing survivors’ gear grids. Record armor Any unspent endeavors are lost, they do not carry 
+cates that any listed rules or effects cost an endeavor points and attribute modifiers imparted from gear. over to the next settlement phase.
+to use them.
+                                                     Be sure to apply any bonuses from innovations, en-   Store your settlement’s innovation deck in the allot-
+To spend an endeavor, select a survivor to perform   deavors, or events that affect departing survivors.  ted space in the game box. Store your settlement’s 
+the endeavor, reduce the settlement’s total endeav-                                                       current innovations, principles, and masteries to-
+ors by 1, and follow the rules for the action the en-
+                                                                                                          gether in the space provided.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  83

@@ -1,0 +1,239 @@
+{
+  "name": "HouseEntrance",
+  "items": [
+    {
+      "staticDataID": "HallwayDoor3",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.15,
+        "y": 1.10117316,
+        "z": -12.231
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "SecondFloorDoor1",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -3.574,
+        "y": 4.368,
+        "z": -8.821
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "HallwayDoor2",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -1.1588093,
+        "y": 1.10117316,
+        "z": -12.242
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "SecondFloorDoor2",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -2.25,
+        "y": 4.367,
+        "z": -5.511
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "HobbyRoomDoor",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -1.1588093,
+        "y": 1.10117316,
+        "z": -8.823683
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "OfficeDoor",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.279,
+        "y": 4.411,
+        "z": -8.812
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "GameRoomDoor",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 0.008116448,
+        "y": 1.11277783,
+        "z": -5.390074
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "mailbox",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.45662868,
+        "y": 1.52808225,
+        "z": -14.6178
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "BoxesMailingArea",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 2.266,
+        "y": 0.035,
+        "z": -15.851
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "CratesMailingArea",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.429,
+        "y": 0.035,
+        "z": -17.532
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "MiscMailingArea",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.591,
+        "y": 0.999,
+        "z": -16.134
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "Chest",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -1.762,
+        "y": 0.024,
+        "z": -17.379
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "HouseEntranceLightDimmer",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -1.14,
+        "y": 1.4811,
+        "z": -11.3303
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    }
+  ]
+}

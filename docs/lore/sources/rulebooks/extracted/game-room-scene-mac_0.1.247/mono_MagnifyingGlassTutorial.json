@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3511936491758782588
+  },
+  "m_Name": "MagnifyingGlassTutorial",
+  "steps": [
+    {
+      "title": "The Seeing Lens",
+      "text": "This heirloom allows the user to locate items within the Dwelling. To use it, right-click the heirloom and select Search. Items located in the same room can be retrieved automatically. If the item is in another room, a message will indicate the room where it can be found.",
+      "imagePath": ""
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ]
+}

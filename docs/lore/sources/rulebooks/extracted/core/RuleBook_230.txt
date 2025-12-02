@@ -1,0 +1,94 @@
+                                                                                and interact with terrain. Survivors gain one activation during that      Ammo - Bow: A gear special rule. You must have a bow in your 
+      Glossary                                                                  survivor's act.                                                           gear grid to activate this card. Ammo has the range of a bow in 
+                                                                                                                                                          your gear grid.
+         : Activation.                                                          Adjacent (Miniature): A miniature is adjacent to another when it 
+                                                                                occupies a space one space in a cardinal (non-diagonal) direction         Ammunition: A gear keyword. This gear is ammunition for another 
+        : Endeavor.
+                                                                                from a square occupied by the other miniature.                            weapon gear.
+         : Movement.
+         : AI card.                                                             Affinity (Completed):  Some gear cards have red, blue, or green           Analyze: An ability. At the start of the survivors' turn, if you are 
+                                                                                half-squares on the card edge. If a half-square is adjacent to a          adjacent to the monster, reveal the top AI card, then place it back 
+         : Persistent Injury.
+                                                                                half-square of the same color on another gear card, the complete          on top of the deck.
+         : Trigger story event.                                                 square they form is one affinity.
+                                                                                                                                                          Archive: Remove this card from play and return it to the game box. 
+         : Head survivor hit location.
+                                                                                Affinity Bonus:  A type of gear special rule. Having the indicated        Unless it is recorded into settlement storage or the survivor's re-
+         : Body survivor hit location.                                          number of colored affinities will trigger the effect. Each affinity       cord sheet, any archived card is permanently lost.
+         : Arms survivor hit location.                                          bonus only applies once, regardless of how many extra affinities 
+                                                                                                                                                          Armor: Gear with this keyword is armor. Protects the survivor from 
+                                                                                a survivor has.
+         : Waist survivor hit location.                                                                                                                   injury. Each piece of armor will have the hit location symbol for the 
+         : Legs survivor hit location.                                          After Damage: An attack trigger found on some monster AI attack           hit location it can be worn on. Each hit location may only wear one 
+         : Armor. Number values represent the number of armor points.           profiles. If there are any successful hits in the attack, resolve all     piece of armor. 
+                                                                                damage from all hits in this attack (roll hit location dice, apply dam-
+          : Trigger.                                                                                                                                      Armor Points (    ): Recorded on the survivor record sheet. Deter-
+                                                                                age to hit location), then apply this trigger's attack effects. If there is 
+                                                                                                                                                          mined by armor gear in the survivor's gear grid, as well as other ef-
+          : Alert.                                                              no damage dealt from the attack, do not apply this effect.
+                                                                                                                                                          fects and events. Each point negates one point of damage to the hit 
+          : Critical Wound.
+                                                                                After Hit: An attack trigger found on some monster AI attack pro-         location. Armor points decrease by 1 for each damage they negate.
+          : Reaction.
+                                                                                files. If there are any successful hits in the attack, before rolling hit 
+                                                                                                                                                          Armor Set: Each armor set is comprised of all armor from a sin-
+          : Monster Level.                                                      location dice, apply this trigger's attack effects. 
+                                                                                                                                                          gle settlement location with the keyword "set". For example, while 
+      Abilities: Skills and techniques learned by survivors, usually 
+                                                                                                                                                          a survivor is wearing the White Lion Helm, White Lion Gauntlets, 
+      through story events, and recorded on the Survivor Record Sheet.          Aftermath: The end of a Showdown Phase. Contains different out-
+                                                                                comes based on the survivors' success or failure.                         White Lion Coat, White Lion Skirt, and White Lion Boots, they have 
+      Absorb: The Watcher's instinct. Described on the Watcher's show-                                                                                    completed the White Lion armor set.
+                                                                                Ageless:  An ability. You may hunt if you are retired. When you 
+      down story event. 
+                                                                                gain Hunt XP, you may decide not to gain it.                              Armor Set Bonus: A survivor wearing a completed armor set gains 
+      Acceleration: Add +1d10 movement to a move action. Before mov-                                                                                      the benefits of the armor set bonus listed on its corresponding ar-
+                                                                                Aggression Overload: Add an attack roll to an attack. During your 
+      ing, you may roll the Death Die and add the result to your move-                                                                                    mor set card.
+                                                                                attack, after making your attack rolls but before drawing hit loca-
+      ment for one move action this round.
+                                                                                tions, you may roll the Death Die as an additional attack roll.           Arms:  A survivor hit location. Damage to the arms beyond the 
+      Accessory: A gear special rule. Accessory gear may be worn in ad-                                                                                   heavy injury level results in a roll on the Arms section of the Severe 
+                                                                                AI Card: AI cards are made up of actions, flows and alerts, Some 
+      dition to armor on a hit location. Each accessory specifies the hit                                                                                 Injury table.
+                                                                                cards also have persistent injury and/or definition boxes. There are 
+      location it covers.
+                                                                                four kinds of AI cards - Basic, Advanced, Legendary, and Special.         Arrival: The start of the showdown. Any survivors who have "On 
+      Accuracy (Attribute): Represents permanent changes to attack                                                                                        Arrival" effects apply them in the order of their choice.
+                                                                                AI Deck: Made up of AI cards used for a specific showdown. See 
+      rolls. Positive attribute adds to the dice roll, while negative attri-
+                                                                                the monster's story event for details of its AI deck. The AI Deck is      Arrow: A gear keyword. This gear card is an arrow.
+      bute subtracts from the dice roll. 
+                                                                                reduced as the monster is wounded.
+                                                                                                                                                          Attack: The process of making an attack roll and resolving damage, 
+      Accuracy (Weapon/Attack Profile): The number that each attack 
+                                                                                Alerts: Actions following an alert contain important conditional          wounds or other effects.
+      roll result must meet or exceed in order to be considered a hit. List-
+                                                                                information that must be considered to determine if the action is 
+      ed on monster attack profiles and weapon gear.                                                                                                      Attack Effects: Attack effects are rules contained in a box below 
+                                                                                performed. Continue to perform any further actions on the AI card 
+                                                                                                                                                          the attack profile on some AI cards, and applied when the trigger 
+      Acid Palms: An ability. Add 1d10 strength to wound attempts               unless stated otherwise. Survival may not be spent during an alert.
+                                                                                                                                                          occurs. These effects are applied only once, even if the target is hit 
+      when attacking with Fist & Tooth.
+                                                                                All Survivors: An effect during the showdown that refers to all sur-      or damaged multiple times by this attack.
+      Act: The part of the survivors' turn in which an individual survivor      vivors applies to all survivors currently on the showdown board.
+                                                                                                                                                          Attack Profile: Part of monster AI cards and basic actions. Lists the 
+      gains movement and activation. Each survivor must complete their 
+                                                                                                                                                          speed, accuracy, damage, and any triggers for a monster attack.
+      act before another may start their act, and all unused movement           Ambush (Monster): If the monster moves into the survivors' hunt 
+                                                                                board space, it ambushes the survivors. End any current hunt 
+      and activations are lost when a survivor ends their act.                                                                                            Attack Roll:  The dice roll that represents an attempt to hit a target. 
+                                                                                events and start the showdown immediately. Survivors skip their 
+                                                                                                                                                          A Lantern 10 will always result in a hit.
+      Action: Most things a survivor or monster can do during the Show-         first turn. In most cases, this means that the monster will take two 
+      down Phase, like moving and attacking, are actions. Monster cards         turns in a row.                                                           Attribute: An aspect of a survivor or monster described by a nu-
+      are made up of multiple actions. For example, Pick Target is an ac-                                                                                 merical value.
+      tion and a monster trap card has actions listed on it. With excep-        Ambush (Survivors): Some hunt events allow the survivors to am-
+      tion to survival actions being performed at specific opportunities,       bush the monster. If they do, survivors may go first in the show-         Attribute Modifier Token:   Attribute modifier tokens are used to 
+      a survivor cannot perform an action while another action (survivor,       down. Do not follow the setup rules on the monster's story event.         indicate temporary changes to attributes. Attribute modifier tokens 
+      survival or monster action) is being performed.                           Instead, place the listed showdown terrain, the monster, and survi-       are double-sided to represent gains and losses for that attribute, 
+                                                                                vors on the showdown board as the players decide (setup rules on          and are combined with permanent attribute totals to determine the 
+      Activation: Activation can be spent to attack, activate some gear,        terrain cards must still be followed).                                    current level of each attribute. All tokens are removed at the end of 
+
+228

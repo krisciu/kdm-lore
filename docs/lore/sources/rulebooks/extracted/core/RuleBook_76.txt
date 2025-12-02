@@ -1,0 +1,49 @@
+                                                                              - Rules -
+
+
+    A Survivor’s Attack
+    Follow the steps below to perform an attack.
+                                                                                          - The Wound Steps - 
+    1. Make Attack Rolls
+      Attack rolls represent how quickly you strike. Roll a 
+      number of d10s equal to the attack speed.             1. Select a Hit Location to resolve                 5. Wound the Monster
+                                                            Select a face up hit location card to resolve. First When you wound a hit location, remove the top 
+      Attack Speed = Weapon Speed + Survivor Speed Modifier Strike hit locations must be selected before any    card of the AI deck without looking at it. If the Al 
+                                                            other hit locations.                                deck is empty, shuffle the discard to create a fresh 
+    2. Determine Hits                                                                                           deck. Place the removed card in the wound stack 
+      For each attack roll result add any survivor accuracy 2. Perform Special Rules                            on the monster control panel. Cards in the wound 
+      modifier. A hit occurs if this total meets or exceeds the Perform any special rules on the hit location card. stack are no longer part of the AI deck, and are the 
+      weapon’s accuracy, taking into account any monster                                                        number of wounds the monster has suffered.
+      evasion. Any attack roll that does not hit is a miss. 3. Wound Attempt                                     
+                                                            Attempt to wound the selected hit location by       6. Fellow Survivors React
+          Attack Roll Result + Survivor Accuracy Modifier   making a wound roll (roll 1d10) and adding the      Survivors that are not the attacker may have an 
+                    must meet or exceed                     attacking weapon’s strength and any survivor        opportunity to perform survival actions.
+              Weapon's Accuracy + Monster Evasion           strength modifiers to the result. If this wound 
+                                                            attempt total meets or exceeds the monster’s        7. Perform Reactions
+    3. Draw Hit Location Cards                              toughness (including any toughness tokens), it      Hit location cards may have reactions. The 
+      The monster controller draws 1 monster Hit Loca-      succeeds and the hit location is wounded.           three types of reactions are Wound, Failure, 
+      tion card for each hit and places them face up in         If the total is less than the monster’s tough-  and Reflex.
+      front of the attacking player in play.                ness, the wound attempt fails.
+                                                                                                                - Wound: Perform if wound attempt succeeds.
+    4. Read Hit Location Cards                                   Wound Roll Result (1d10) + Weapon Strength     - Failure: Perform if the wound attempt fails.
+                                                                       + Survivor Strength Modifier
+      Read all of the drawn hit locations cards. If a Trap                                                      - Reflex: Always perform (unless critical wound).
+      was drawn, end the attack(s) and resolve it now.                     must meet or exceed
+                                                                                                                8. Resolve the Hit Location
+                                                                          Monster's Toughness 
+    5. Resolve Drawn Hit Locations                                                                              Discard the hit location card face up on the 
+                                                                      + Monster Toughness Modifiers
+      Follow the wound steps for all the hit locations                                                          monster control panel. If unresolved hit loca-
+      drawn by this attack. Once all hit locations are re-  4. Check for Critical Wounds                        tions remain in this attack, select the next hit 
+      solved, the attack ends.                              If a hit location has a critical wound listed, there location to resolve. Return to step 1 and resolve 
+                                                            is a chance to inflict a critical wound. A criti-   this location. 
+    6. End the Attack                                       cal wound has effects that occur in addition to 
+      Stop applying any effects that last until the end of  wounding the monster.                               If all hit locations are resolved, end the attack.
+      this attack. The attack is now resolved.
+
+                                                         Survivor Attribute Modifier
+                                                         Calculate the survivor attribute modifier by adding the survivor's respective attribute, positive or negative tokens, modifiers from gear 
+                                                         special rules, fightings arts, abilities, impairments, disorders, permanent injuries, and anything else that modifies that attribute.
+
+
+74

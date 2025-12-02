@@ -1,0 +1,43 @@
+                                                                              - Rules -
+
+
+    Monster AI                                           AI cards are made up of actions, flows, and alerts.      An action that determines a monster’s target. 
+    While a monster’s showdown story event describes     Some cards have persistent injuries and definitions. Some Pick Target lists are followed or replaced by 
+    common traits of a monster, the AI system is used to                                                      diagrams that specify a zone of the board to check 
+    create unique monster encounters.                    Crest                                                within for targets.   
+        The recipes for AI decks for each monster level      The icon-sized version of a monster’s crest des-
+    are listed on the monster’s story event and make ev- ignates which AI deck the card belongs to.           No Target
+    ery showdown different from the last.                                                                     A no target list item indicates what action to perform 
+        Most AI cards are unique, and describe a myriad  Name                                                 if no target is found. This is most often a monster’s 
+    of strange and terrifying behaviors. However, every AI   The name of the AI card.                         instinct action. When a monster cannot find a target, 
+    card has some, if not all, of the following characteristics:                                              subsequent actions on the card are not performed.
+                                                         Card Level
+    AI Anatomy                                               The most common card levels are Basic, Ad-       Flows
+                                                         vanced, Legendary, and Special (marked on the top        A flow is represented by a bar with an arrow. An 
+                                                         right of the card as , ,  ,  ).                      action following a flow is performed after the action 
+                                                                                                              above it. 
+                                                         AI Type                                                  Flows represent a subtle hesitation or opening 
+                                                             There are 4 types of AI cards: Moods, Traits, Du- in combat that survivors may take advantage of by 
+                                                                                                              spending survival.
+
+                                                                                                              Alerts
+
+
+                                                                                                              Alerts are represented by a bar with an alert symbol. 
+                                                                                                              Actions following an alert contain important condition-
+                                                                                                              al information that must be considered to determine if 
+                                                                                                              the action is performed. Continue to perform any fur-
+                                                                                                              ther actions on the AI card unless stated otherwise. 
+                                                                                                              Survival may not be spent during an alert.
+                                                                                                               
+                                                                                                                  Move & Attack Target Action
+                                                                                                              A Move & Attack Target attack action includes any 
+                                                                                                              monster movement followed by an attack profile. This 
+                                                                                                              most often directly follows a flow after a Pick Target 
+                                                         rations, and Normal. A card is Normal unless another action, granting a survivor a chance to act before it is 
+                                                         type is listed. Chomp is a Normal AI card. AI card   performed.
+                                                         types are described in the Showdown Phase section.
+                                                         Pick Target
+
+
+52

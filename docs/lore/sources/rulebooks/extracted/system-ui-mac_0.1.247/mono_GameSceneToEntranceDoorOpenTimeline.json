@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "GameSceneToEntranceDoorOpenTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7850214408899538514
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 452980985154621870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8381642475379240530
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 370675415226503598
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

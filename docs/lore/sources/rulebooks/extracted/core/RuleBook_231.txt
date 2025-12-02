@@ -1,0 +1,84 @@
+                                                                                                                                                                                                                                          GLOSSARY
+
+each showdown.                                                            Body Blow: An attack that always hits a survivor's body location.         occupied space. 
+                                                                          Do not roll hit location dice for this attack. 
+Automatic Hit(s): When a survivor with any automatic hits makes                                                                                     Collision: When a survivor suffers collision, they are knocked down. 
+an attack roll, forgo rolling that many dice and successfully hit the     Bone (Gear): A gear keyword. Bone is one of the primary materials 
+monster that many times. Any remaining rolls from that attack roll        used to craft this gear.                                                  Concentrate: You need to focus your mind to perform extraordi-
+are performed normally. Despite how many automatic hits a sur-                                                                                      nary feats. At the start of your act declare your intent to Concen-
+vivor might have, they cannot hit a monster more than the total           Bone (Resource): A common resource keyword.                               trate. Immediately end your act and attempt to concentrate until 
+                                                                                                                                                    the start of your next act. To successfully concentrate you cannot: 
+speed of their attack. Automatic hits are not Perfect Hits. Do not roll   Bow: Gear with this keyword is a bow weapon. Survivors may gain 
+another d10 to check, they are just hits.                                                                                                           perform any kind of actions, move for any reason, suffer knocked 
+                                                                          levels of bow weapon proficiency with this weapon.                        down, suffer any kind of damage, gain any bleeding or negative at-
+Away (Movement): A movement that puts the most possible spac-             Brain: The Brain is a survivor location different from hit locations,     tribute tokens.
+es between two points on the showdown board, such as a monster, 
+                                                                          and represents a survivor's mental fitness. Since the human mind          Consumable: A keyword. This may be consumed by survivors.
+survivor, terrain, or board edge.                                         is fragile, there is only one injury level for the Brain (indicated by 
+Axe: Gear with this keyword is an axe weapon. Survivors may gain          the light-lined unfilled box). Any damage beyond the light injury         Consume: A special rule. This consumable gear or resources may 
+levels of axe weapon proficiency with this weapon.                        level results in a roll on the Brain Trauma table. The Brain is only      be ingested by survivors for a listed result. Some  are archived after 
+                                                                          damaged by brain damage.                                                  use. 
+Back: The direction opposite of the monster's facing.
+                                                                          Brain Damage: Brain damage only affects the Brain location.               Courage: A survivor attribute listed on the survivor record sheet. 
+Balm: A gear keyword. Balm items work by rubbing them on a sur-                                                                                     Courage is a survivor's potentially ill-advised bravery, Reaching a 
+vivor's skin.                                                             Brain Trauma Table: Contains possible outcomes of excess dam-             courage level of 3 will trigger the Bold Story Event, while reaching a 
+                                                                          age to the Brain location.                                                level of 9 will trigger the See the Truth Story Event.
+Bash: Causes survivors to be knocked down.
+                                                                          Build [Location]: When a new location is built, place that settle-        Critical Wound: Critical wounds are lucky blows that always wound 
+Basic Action: A Monster's basic action is detailed on its Basic Ac-       ment location in the play area and add the new location to your           a monster, even if the wound attempt does not exceed the mon-
+tion card. A basic action consists of a target action and an attack       settlement record sheet. This is a permanent addition to your set-        ster's toughness. A critical wound occurs when a wound roll result 
+action with an attack profile. Monsters will perform a basic action       tlement.                                                                  is a Lantern 10 on a hit location with a critical wound effect. The 
+on some AI cards, in some reactions, or if the AI deck and discard                                                                                  luck attribute modifies the roll needed for a critical wound. 
+are both empty. Performing a basic action does not count as an AI         Burnt Nerves: An ability. You are immune to bash.
+card being drawn.                                                         Canceled Attack: A canceled attack immediately ends. Discard all          Critical Wound Effect: Critical wound effects on monster AI cards 
+                                                                                                                                                    are represented by the critical wound symbol, followed by rules 
+Basic Action / Reference Card:    Double-sided Basic Action/Ref-          unresolved hit locations. Do not perform any actions, special rules, 
+                                                                          critical effects, or reactions on these cards.                            that specify what happens when a monster is critically wounded at 
+erence cards contain a monster's basic action on one side and an                                                                                    that location. Critical wounds effects are not reactions. On a critical 
+overview of the monster's characteristics on the other side.              Caratosis: Before making an attack roll, you may declare "Caratosis       wound, cancel all reactions on that hit location card.
+Basic Hunt Event: 100 events survivors may encounter out in the           X" in a loud, booming voice. If you do, that attack gains X automatic 
+                                                                          hits. X cannot be more than your total red affinities. When the at-       Crystal Skin: You ignore cursed and cannot wear armor. When 
+darkness. Found in the Basic Hunt Event section of the rulebook.                                                                                    you depart gain 3 to all hit locations. Suffer -2 to the result of all 
+                                                                          tack ends, gain +X hunt XP. When you trigger Age 2, gain the Beast 
+                                                                                                                                                    severe injury rolls. When you participate in Intimacy, newborns 
+Basic Resources: Generic resources that can be gained from most           of Caratosis secret fighting art.
+                                                                                                                                                    gain Crystal Skin in addtion to any other roll results.
+huntable monsters and many events. 
+                                                                          Charge: A gear special rule. Survivors spend movement and activa-
+                                                                                                                                                    Cumbersome:     A gear special rule. Survivors must spend both 
+Before Damage: A trigger found on some monster attack profiles.           tion to move the maximum available spaces in a straight line in one 
+                                                                                                                                                    movement and activation to activate Cumbersome gear. Ignore this 
+Apply this trigger's attack effect after hits and hit location dice are   direction. At the end of movement, if in range, perform an attack 
+                                                                                                                                                    if the weapon is activated indirectly (Pounce, Charge, etc).
+rolled, but before damage is dealt to hit locations.                      using a melee weapon, adding the number of spaces moved in this 
+                                                                          way to your strength for the attack. Charge does not impact any           Cursed: A gear special rule. This gear cannot be removed from the 
+Bitter Frenzy: An ability. Each showdown, the first time you suffer 
+                                                                          further attacks this turn.
+the frenzy brain trauma, gain d10 survival. You may spend surviv-                                                                                   gear grid for any reason. If the survivor dies, archive this gear.
+al while Frenzied.                                                        Closest Survivor: The survivor the least number of cardinal spaces        (X)d10: A number (X) of ten-sided dice. The included dice feature a 
+                                                                          away from the monster.
+Bleed X: The target gains X bleeding tokens.                                                                                                        Lantern on the "10" face.
+                                                                          Closest Threat:  The threat the least number of cardinal spaces 
+Bleeding Token: Survivors can gain bleeding tokens from severe                                                                                      d5: Roll 1d10, divide the result by two and round up to the nearest 
+                                                                          away from the monster.
+injuries, monster attacks, and some events. If a survivor has 5 or                                                                                  whole number.
+more bleeding tokens, they are dead. All tokens are removed at the        Club: Gear with this keyword is a club weapon. Survivors may gain         d100:  A hundred-sided die. This is accomplished by using 2d10, 
+end of each showdown.                                                     levels of club weapon proficiency with this weapon.                       with one die nominated to represent the "tens" digit and the other 
+                                                                                                                                                    to represent the "ones" digit. Note that a roll showing 2 lanterns 
+Blind Spot: Usually the spaces directly behind the monster. Survi-        Collides: If a monster moves through a space occupied by a survi-
+                                                                                                                                                    (result of 10 on each) indicates a result of 100.
+vors attacking from the blind spot gain +1 accuracy.                      vor, they collide and the survivor suffers collision. If a monster ends 
+                                                                          its movement on a survivor, they collide, the survivor suffers col-
+Block X: A gear special rule. Spend activation to ignore X hits the                                                                                 Dagger: Gear with this keyword is a dagger weapon. Survivors may 
+                                                                          lision and knockback 5. If a survivor is knocked back into impass-
+next time you are attacked. Lasts until your next act. A survivor may                                                                               gain levels of dagger weapon proficiency with this weapon.
+                                                                          able terrain, they collide with it and the survivor suffers collision. 
+not use block more than once per attack.
+                                                                          If a survivor suffers knockback into another survivor, complete           Damage (Attack Profile): The amount of damage dealt for each hit 
+Body: A survivor hit location. Damage to the body beyond the              the knockback movement normally. Both survivors suffer collision          in a monster's attack. Roll separate hit locations for each hit.
+                                                                          at the end of knockback. If the survivors would occupy the same 
+heavy injury level results in a roll on the Body section of the Severe                                                                              Damage (Attribute): Damage is added to the damage listed on an 
+                                                                          space, instead place the knocked back survivor in the closest un-
+Injury table. This is the only hit location that appears twice on the                                                                               attack profile to calculate the total damage of an attack.
+hit location dice. 
+                                                                                                                                                                                    Kingdom Death: Monster Core Game  229

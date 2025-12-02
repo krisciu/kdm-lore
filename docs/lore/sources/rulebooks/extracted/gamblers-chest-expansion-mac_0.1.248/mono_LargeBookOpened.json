@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2351377308159421488
+  },
+  "m_Name": "LargeBookOpened",
+  "info": {
+    "lights": [
+      {
+        "position": {
+          "x": 0.8450000286102295,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 125.0,
+          "y": 90.0,
+          "z": 0.0
+        },
+        "intensity": 0.05000000074505806,
+        "angle": 20.0,
+        "range": 1.7999999523162842,
+        "useVolumetric": 1,
+        "layer": 16
+      },
+      {
+        "position": {
+          "x": -0.8450000286102295,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 125.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "intensity": 0.05000000074505806,
+        "angle": 22.0,
+        "range": 1.7999999523162842,
+        "useVolumetric": 1,
+        "layer": 16
+      }
+    ]
+  }
+}

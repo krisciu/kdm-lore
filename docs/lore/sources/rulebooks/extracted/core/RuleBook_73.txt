@@ -1,0 +1,46 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+Trigger & Attack Effects                             not spend survival to dodge Intimidate actions.      If a monster is wounded while a duration AI is face 
+Some attack profiles cause additional effects. These      Intimidate actions cause brain damage instead of up, the duration is moved into the wound stack.
+are listed directly under the attack profile.        damage to physical hit locations. 
+                                                          Monsters don’t need to be adjacent to their tar- Survivor Status AI Cards
+                                                     gets to intimidate. Follow the specific rules on the AI                   When a survivor gains a sur-
+The  Trigger section of the attack profile indicates card to perform each unique Intimidate action.                            vivor status card, place it in 
+when to resolve these effects. Attack effects are trig-                                                                        a convenient location next to 
+gered once per attack.                               Brain Damage                                                              their gear grid. The effects on 
+After Hit: if there are any successful hits in the attack, Brain damage affects the brain location. Treat insan-               the card apply only to them.
+before rolling hit location dice, apply this trigger’s at- ity as armor points for the brain location and assign                    Some status cards will 
+tack effects. (Do not apply if there are no hits.)   damage as listed above. Reduce insanity the way you                       have conditions that will need 
+Before Damage: apply this trigger’s attack effect after would armor, then fill the 1 brain injury box, and finally             to be monitored and tracked. 
+hits and hit location dice are rolled, but before damage make rolls on the Brain Trauma table.                                 Others grant survivors actions 
+is dealt to hit locations.                                                                                                     that are unique to a show-
+After Damage:  if there are any successful hits in the Playing Duration AI Cards                                               down.
+attack, resolve all damage from all hits in this attack In order to be resolved and discarded, duration       If a monster’s story event has a Survivor Status 
+(roll hit location dice, apply damage to hit location), cards must be drawn twice.                        card in its setup, all survivors gain the card at the 
+then apply this trigger’s attack effects. If there is no   The first time a duration card is drawn, perform start of the showdown.
+damage dealt from the attack, do not apply this effect. any “when drawn face down” actions. Then, instead 
+                                                     of discarding it, place the duration card in play face Damage Outside of Attack Actions
+The Level 1 White Lion’s Vicious Claw attacks Zach-  up on top of the AI deck.                            Some AI cards cause damage without choosing a tar-
+ary. He is hit twice in the waist location. Since he      The next time a monster would draw an AI        get or without explicitly attacking. 
+suffered damage from this attack, the After Damage   card, it will draw the duration card for a second time.   For instance, resolving damage from the White 
+trigger applies once for this attack. Zachary gains 1 Perform any “when drawn face up” actions. Then,     Lion’s Grasp triggers grab. Grab deals 1 additional 
+bleeding token.                                      discard the card.                                    damage per monster level to the attacked survivor.
+                                                          Some duration cards will have effects that are      Damage dealt outside of an attack profile is re-
+Common Triggered Rules                               persistent while they are face up on top of the AI   solved normally, but is not modified by the monster’s 
+Knockback X: The target of knockback is pushed X     deck, waiting to be drawn again.                     attributes or tokens,  If no hit location is specified, roll 
+number of spaces. Move the miniature the number of        Any effects that manipulate the AI deck besides the hit location die.
+spaces indicated by knockback, in a straight line, di- wounding (rawhide headband, whistling mace) are        Damage dealt outside of an attack profile cannot 
+rectly away from the source of the knockback.        ignored while a duration is face up.                 be dodged, since it does not result from a hit. 
+
+Bash: The survivor is knocked down.                                                                       Healing
+                                                                                                          When a monster performs heal X, they return X 
+Bleed X: The survivor gains X bleeding tokens. If no                                                      wounds from the Wound Stack to the AI deck. Without 
+number is specified, gain 1 bleeding token.                                                               looking at them, take the number of wounds healed 
+                                                                                                          from the top of the Wound Stack and place them on 
+Intimidate                                                                                                the bottom of the AI deck.
+Intimidate actions are not attacks, and survivors can
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  71

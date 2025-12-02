@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2351377308159421488
+  },
+  "m_Name": "MiniatureMedium",
+  "info": {
+    "lights": [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.75,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 90.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "intensity": 0.25,
+        "angle": 9.0,
+        "range": 0.8999999761581421,
+        "useVolumetric": 1,
+        "layer": 16
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.10000000149011612
+        },
+        "rotation": {
+          "x": -47.189998626708984,
+          "y": -180.0,
+          "z": 0.0
+        },
+        "intensity": 0.0024999999441206455,
+        "angle": 77.0,
+        "range": 1.0,
+        "useVolumetric": 0,
+        "layer": 16
+      }
+    ]
+  }
+}

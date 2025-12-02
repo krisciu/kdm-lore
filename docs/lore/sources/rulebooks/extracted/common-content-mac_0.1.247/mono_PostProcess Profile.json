@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2595231705010064034
+  },
+  "m_Name": "PostProcess Profile",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4692569568236542139
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3986927408636618565
+    }
+  ]
+}

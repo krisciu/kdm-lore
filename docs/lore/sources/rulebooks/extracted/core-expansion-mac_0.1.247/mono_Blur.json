@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6621079750834716165
+  },
+  "m_Name": "Blur",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 0
+  },
+  "Mode": {
+    "overrideState": 1,
+    "value": 0
+  },
+  "Downsample": {
+    "overrideState": 1,
+    "value": 0
+  },
+  "BlurIterations": {
+    "overrideState": 1,
+    "value": 4
+  },
+  "BlurSize": {
+    "overrideState": 1,
+    "value": 1.0
+  },
+  "MaskTexture": {
+    "overrideState": 1,
+    "value": {
+      "m_FileID": 0,
+      "m_PathID": -2662148819936963755
+    },
+    "defaultState": 1
+  }
+}

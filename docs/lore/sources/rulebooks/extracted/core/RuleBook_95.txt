@@ -1,0 +1,74 @@
+                                                                                                                                                                                                   Core  Rules -
+                                                                                      - Rules -
+                                                                                                                                                                                                   HUNT  EVENT  TABLE
+
+ 1d10   Event revealer - Investigate                          an interesting-looking vein in the cracked ground. Gain 1      1d10   Any survivor
+                                                              Iron strange resource.
+ 8 +    The face is your own but older and wiser. Gain +1                                                                    6 - 8  The water is bracing. Gain +1 understanding or 
+        survival and +1 understanding.                                                                                              remove a disorder of your choice.
+                                                              21 | Drawings                                                  9 +    The water is shockingly cold! It rushes over you like 
+                                                                                                                                    a tidal wave and leaves you awestruck. Set your 
+18 | Dead Weed                                                Cowering in a cave, the survivors find strange drawings               insanity to 0 and remove all disorders.
+                                                              decorating the walls. They appear to contain a message. 
+You find a strange plant growing from the eyes of a stone     Any survivor with 3+ understanding may try to decipher 
+face. The event revealer tries to harvest it. Roll 1d10. If   the drawings by rolling 1d10.  If the settlement has Picto-
+any survivor has a sickle, add +4 to their roll.              graphs, every survivor may roll (regardless of ther under-
+                                                              standing) and add +4 to their rolls.
+ 1d10   Event revealer
+                                                               1d10   Any survivor with 3+ understanding
+ 1 - 7  Try as you might, you cannot pull out the deeply 
+        rooted weed.                                           1 - 3  Your nose begins to bleed. Suffer monster level brain 
+                                                                      event damage.
+ 8 +    You pull the weed free! It has enormous regenerative 
+        power. Each survivor rubs it on their skin and removes 4 - 7  The true meaning escapes you. Gain + 1 insanity.
+        1 permanent severe injury. Then it crumbles into dust 
+        in your hands.                                         8 +    The drawings teach you a new way to fight monsters! 
+                                                                      Gain +2 survival and a random fighting art.
+
+19 | Exhalation of Darkness                                   22 | Acid Rain
+The survivors are enveloped in a steamy darkness that 
+                                                              The darkness above is suddenly alight with a storm of acid 
+dims their lantern lights. They become separated from 
+                                                              rain. It smells terrible, burns flesh, and forms hissing pools 
+each other and hopelessly lost. If a survivor has the Lead-                                                                24 | Food from the Mouths of Others
+                                                              in the upturned mouths of the stone faces. All survivors suf-
+er fighting art, they boldly stride into the clammy dark-
+                                                              fer monster level event damage to every hit location as they The survivors pass a stone face that appears to be hold-
+ness  and gather everyone. Otherwise, each survivor rolls 
+                                                              scramble to find shelter.                                    ing something in its mouth. The event revealer investi-
+1d10. The lowest scoring survivor (or survivors, in case 
+                                                                  If the settlement has Sculpture, the survivors silently  gates. Gain +1 courage and roll 1d10.
+of ties) becomes a straggler. Each straggler rolls 1d10.
+                                                              watch the storm erode the stone faces, erasing their fea-
+                                                                                                                             1d10   Event revealer - Investigate
+ 1d10   Straggler                                             tures. They wonder exactly who or what repairs the broken 
+                                                              faces, if there is such a thing. The survivors share a dark    1 - 2  You yell out in pain and pull your hand back, reveal-
+ 1 - 2  You trip and fall into the bones of an ancient mon-
+                                                              laugh, each gaining monster level survival.                           ing a bloody gash. Did the stone face just bite?
+        ster, smashing a piece of gear on the way down. 
+                                                                  Roll 1d10. On a 6+, the storm moves homeward. Add                 Suffer monster level brain event damage and mon-
+        Archive 1 gear of your choice from your gear grid.
+                                                              the Acid Storm settlement event to the timeline next year.            ster level event arm damage.
+ 3 - 5  Something unseen attacks you, suffer 1 brain event 
+                                                                                                                             3 - 5  There's nothing. It was just a trick of the lantern light.
+        damage and 1 event damage to a random location.
+                                                                                                                             6 - 8  More rocks, what did you expect? Gain 1 Founding 
+ 6 - 8  You bang into a giant stone face's nose! Suffer 1 head 23 | Clean Water
+                                                                                                                                    Stone starting gear.
+        event damage.
+                                                              The survivors pass a forlorn fountain in the shape of a        9 +    You pull out a masticated mass. Gain 1 random basic 
+ 9 +    You're not sure how, but you leave the darkness with 
+                                                              lion’s face. A stream of crystal-clear water flows from its           resource and 2 insanity.
+        your hands full. Gain 1 random basic resource.        mouth. Each survivor consumes the water, gaining +1 
+                                                              survival and +1 courage. Any number of survivors may 
+                                                              douse their head in the water and roll 1d10.                 25 | Titans in the Dark
+20 | Dry Lands                                                 1d10   Any survivor
+                                                                                                                           An earsplitting bellow marks the passing of a truly titanic 
+As the survivors press forward, the air turns dry and the      1 - 2  The instant it becomes wet, your hair turns stark    beast. All non-deaf survivors suffer monster level brain 
+ground cracks. The survivors suffer heat exhaustion. Each             white. Gain 1 random disorder.                       event damage. The survivors cower on the ground, lying 
+survivor loses 1 survival. If they are wearing fur or heavy                                                                as flat as possible and hoping they are simply too small 
+gear, they instead lose d5 survival.                           3 - 5  Your hair is wet. Congratulations.                   to be worth eating.
+     If any survivor has a pickaxe, the survivors break open                                                                    Each survivor rolls 1d10. The lowest scoring survi-
+
+
+                                                                                                                                                       Kingdom Death: Monster Core Game  93

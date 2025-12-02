@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4690247257066454038
+  },
+  "m_Name": "TrainScenePostProcessingProfile",
+  "components": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8619395730048596321
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2416881076783892127
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8069251109082842783
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1570552199774815903
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6308442534910343521
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7868801023878121119
+    }
+  ]
+}

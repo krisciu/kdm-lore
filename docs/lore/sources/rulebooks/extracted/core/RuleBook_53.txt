@@ -1,0 +1,44 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       MONSTERS
+
+5 | Hunt Board Diagram                               7 | Aftermath                                        A monster may perform its basic action with a specif-
+                                                     The Aftermath section of a showdown event de-        ic target listed. For example, the White Lion’s Trap! 
+                                                     scribes what follows the end of the showdown, in-    hit location card directs the monster to perform a ba-
+                                                     cluding victory and defeat rules.                    sic action targeting the attacker. In this case, instead 
+                                                                                                          of choosing a target, target the attacker and use the 
+                                                     Victory Rules                                        attack profile on the basic action to attack.
+Some monsters, like the White Lion, Screaming An-    Victory rules describe what happens when the sur-
+telope, and Phoenix, can be hunted.                  vivors kill a monster, including what resources and 
+    These monster’s story events have hunt board     bonuses are gained if the survivors prevail. These 
+diagrams that illustrate how to set up a hunt for that rules are broken down for each level of a monster.
+monster. Hunting a monster is fully-detailed in the 
+Hunt Phase section.                                  Defeat Rules
+                                                     Defeat rules describe what happens when the sur-                                              Side A
+                                                     vivors are defeated by the monster. Follow these 
+6 | Showdown Setup                                   rules if all survivors are killed in the showdown or 
+                                                     run away. 
+
+                                                     Rewards
+                                                     This section describes any specific rewards gained 
+                                                     from defeating the monster for each monster level.
+
+                                                     Basic Action / Reference Cards
+
+                                                     Double-sided Basic Action / Reference cards are 
+                                                     included in the game as a small, portable overview 
+                                                     of monster characteristics that are fully described on 
+                                                     the monster’s showdown story event. They serve as 
+                                                     a compact reminder of frequently-used monster in-
+                                                     formation to be used for each showdown.
+
+                                                     A Monster’s basic action is detailed on its Basic Ac-
+Terrain and Deployment                               tion card. A basic action consists of a target action Side B
+This section describes what terrain to set up on the and an attack action with an attack profile. 
+showdown board, and where to place the survivors         Monsters will perform a basic action on some AI 
+and monster. Terrain and setting up the showdown     cards, in some reactions, or if there are no AI cards 
+board are fully-detailed in the Showdown Phase and   left to be drawn from the AI deck. Performing a basic 
+Terrain sections, respectively.                      action does not count as an AI card being drawn.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  51

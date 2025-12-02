@@ -1,0 +1,920 @@
+{
+  "version": "1.0",
+  "generatedAt": "2025-12-02T15:51:17.011Z",
+  "totalPages": 65,
+  "pagesNeedingCapture": 65,
+  "capturedPages": 0,
+  "pages": [
+    {
+      "id": "kdu-099-october-2024",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2024/kdu-099-october-2024.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-059aa211d2",
+      "title": "KDU #99 - October 2024 - Black Cats and Golden Bats",
+      "category": "official-site/news/2024",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-101-december-2024",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2024/kdu-101-december-2024.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-83970b9b56",
+      "title": "KDU #101 - December 2024 - Deathmas Cheer",
+      "category": "official-site/news/2024",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-97-august-2024",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2024/kdu-97-august-2024.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-980dbb0cda",
+      "title": "KDU #97 - August 2024",
+      "category": "official-site/news/2024",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-99-october-2024",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2024/kdu-99-october-2024.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-059aa211d2",
+      "title": "KDU #99 - October 2024",
+      "category": "official-site/news/2024",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-102-january-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-102-january-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-fa567e6a76",
+      "title": "KDU #102 - January 2025 - New Lantern Year",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-103-february-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-103-february-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-e8badbb129",
+      "title": "KDU #103 - February 2025 - Let Your Love Lantern Shine",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-104-march-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-104-march-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-b63c5e0bfe",
+      "title": "KDU #104 - March 2025",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-105-april-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-105-april-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-c4395458a8",
+      "title": "KDU #105 - April 2025",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-106-may-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-106-may-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-a9d27eedc7",
+      "title": "KDU #106 - May 2025",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-107-june-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-107-june-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-0620fe74a1",
+      "title": "KDU #107 - June 2025 - Beachside Rumble",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-108-july-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-108-july-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-38e1aabf18",
+      "title": "KDU #108 - July 2025",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-109-august-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/2025/kdu-109-august-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-f54efd621f",
+      "title": "KDU #109 - August 2025 - Return from Gencon",
+      "category": "official-site/news/2025",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kdu-109-august-2025",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/news/kdu-109-august-2025.txt",
+      "sourceUrl": "https://kingdomdeath.com/news/mc-f54efd621f",
+      "title": "KDU #109 - August 2025 - Return from Gencon",
+      "category": "official-site/news",
+      "priority": "high",
+      "imageTypes": [
+        "banner",
+        "content-images",
+        "community-spotlight"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "black-knight-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/black-knight-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/black-knight-expansion",
+      "title": "Black Knight Expansion - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kingdom-death-monster-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/kingdom-death-monster-1-5",
+      "title": "Kingdom Death: Monster 1.6 - Official Product Page",
+      "category": "official-site/shop/core-game",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "dragon-king-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/dragon-king-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/dragon-king-expansion-1-6",
+      "title": "Dragon King Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "dung-beetle-knight-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/dung-beetle-knight-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/dung-beetle-expansion-1-6",
+      "title": "Dung Beetle Knight Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "flower-knight-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/flower-knight-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/flower-knight-expansion-1-6",
+      "title": "Flower Knight Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "frogdog-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/frogdog-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/frogdog-expansion",
+      "title": "Frogdog Expansion - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "gamblers-chest-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/gamblers-chest-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/gamblers-chest-expansion",
+      "title": "Gambler's Chest Expansion - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "campaigns-of-death",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/preorder-campaigns-of-death",
+      "title": "Campaigns of Death",
+      "category": "official-site/shop/gameplay-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "false-messengers",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/gameplay-expansions/false-messengers.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/false-messengers",
+      "title": "False Messengers",
+      "category": "official-site/shop/gameplay-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "philosophy-gatherism",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/gameplay-expansions/philosophy-gatherism.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/philosophy-of-death-gatherism",
+      "title": "Philosophy of Death - Gatherism",
+      "category": "official-site/shop/gameplay-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "gorm-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/gorm-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/gorm-expansion-1-6",
+      "title": "Gorm Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "kingdom-death-monster-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/kingdom-death-monster-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/kingdom-death-monster-1-5",
+      "title": "Kingdom Death: Monster 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "lion-god-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/lion-god-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/lion-god-expansion-1-6",
+      "title": "Lion God Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "lion-knight-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/lion-knight-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/lion-knight-expansion-1-6",
+      "title": "Lion Knight Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "lonely-tree-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/lonely-tree-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/lonely-tree-expansion-1-6",
+      "title": "Lonely Tree Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "allison-twilight-knight",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/miniatures/allison-twilight-knight.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/allison-the-twilight-knight",
+      "title": "Allison the Twilight Knight",
+      "category": "official-site/shop/miniatures",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "black-knight-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/black-knight-expansion",
+      "title": "Black Knight Expansion - Official Product Page",
+      "category": "official-site/shop/nemesis-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "lion-knight-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/nemesis-expansions/lion-knight-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/lion-knight-expansion-1-6",
+      "title": "Lion Knight Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/nemesis-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "pariah-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/nemesis-expansions/pariah-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/pariah-expansion",
+      "title": "Pariah Expansion - Official Product Page",
+      "category": "official-site/shop/nemesis-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "red-witches-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/nemesis-expansions/red-witches-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/red-witches-expansion",
+      "title": "Red Witches Expansion - Official Product Page",
+      "category": "official-site/shop/nemesis-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "slenderman-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/nemesis-expansions/slenderman-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/slenderman-expansion-1-6",
+      "title": "Slenderman Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/nemesis-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "pariah-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/pariah-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/pariah-expansion",
+      "title": "Pariah Expansion - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "pillar-fade",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/pillar-survivors/pillar-fade.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/fade-pillar-survivor",
+      "title": "Pillar Survivor - Fade",
+      "category": "official-site/shop/pillar-survivors",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "pillar-percival",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/pillar-survivors/pillar-percival.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/pillar-percival",
+      "title": "Pillar Survivor - Percival",
+      "category": "official-site/shop/pillar-survivors",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "priestess-percival",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/pillar-survivors/priestess-percival.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/people-of-the-sun-priestess-percival",
+      "title": "People of the Sun - Priestess Percival",
+      "category": "official-site/shop/pillar-survivors",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "dragon-king-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/dragon-king-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/dragon-king-expansion-1-6",
+      "title": "Dragon King Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "dung-beetle-knight-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/dung-beetle-knight-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/dung-beetle-expansion-1-6",
+      "title": "Dung Beetle Knight Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "flower-knight-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/flower-knight-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/flower-knight-expansion-1-6",
+      "title": "Flower Knight Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "frogdog-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/frogdog-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/frogdog-expansion",
+      "title": "Frogdog Expansion - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "gorm-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/gorm-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/gorm-expansion-1-6",
+      "title": "Gorm Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "lion-god-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/lion-god-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/lion-god-expansion-1-6",
+      "title": "Lion God Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "spidicules-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/spidicules-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/spidicules-expansion-1-6",
+      "title": "Spidicules Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "sunstalker-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/quarry-expansions/sunstalker-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/sunstalker-expansion",
+      "title": "Sunstalker Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/quarry-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "red-witches-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/red-witches-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/red-witches-expansion",
+      "title": "Red Witches Expansion - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "slenderman-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/slenderman-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/slenderman-expansion-1-6",
+      "title": "Slenderman Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "gamblers-chest-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/gamblers-chest-expansion",
+      "title": "Gambler's Chest Expansion - Official Product Page",
+      "category": "official-site/shop/special-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "lonely-tree-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/special-expansions/lonely-tree-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/lonely-tree-expansion-1-6",
+      "title": "Lonely Tree Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop/special-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "screaming-god-expansion",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/special-expansions/screaming-god-expansion.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/preorder-screaming-god-expansion",
+      "title": "Screaming God Expansion",
+      "category": "official-site/shop/special-expansions",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "10th-anniversary-survivors",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/special-survivors/10th-anniversary-survivors.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/10th-anniversary-survivors",
+      "title": "10th Anniversary Survivors",
+      "category": "official-site/shop/special-survivors",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "survivors-of-death-1",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/special-survivors/survivors-of-death-1.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/survivors-of-death-1",
+      "title": "Survivors of Death I",
+      "category": "official-site/shop/special-survivors",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "spidicules-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/spidicules-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/spidicules-expansion-1-6",
+      "title": "Spidicules Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "sunstalker-expansion-1-6",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/sunstalker-expansion-1-6.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/sunstalker-expansion",
+      "title": "Sunstalker Expansion 1.6 - Official Product Page",
+      "category": "official-site/shop",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "vignette-screaming-nukealope",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/vignettes/vignette-screaming-nukealope.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/vignette-of-death-screaming-nukealope",
+      "title": "Vignette of Death: Screaming Nukealope",
+      "category": "official-site/shop/vignettes",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "wanderer-aeneas",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/wanderers/wanderer-aeneas.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/wanderer-aeneas",
+      "title": "Wanderer - Aeneas",
+      "category": "official-site/shop/wanderers",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "wanderer-candy",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/wanderers/wanderer-candy.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/wanderer-candy",
+      "title": "Wanderer - Candy",
+      "category": "official-site/shop/wanderers",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "wanderer-death-drifter",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/wanderers/wanderer-death-drifter.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/wanderer-death-drifter",
+      "title": "Wanderer - Death Drifter",
+      "category": "official-site/shop/wanderers",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "wanderer-goth",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/wanderers/wanderer-goth.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/collections/expansions/products/wanderer-goth",
+      "title": "Wanderer - Goth",
+      "category": "official-site/shop/wanderers",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "wanderer-preacher",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/shop/wanderers/wanderer-preacher.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/products/preorder-wanderer-preacher",
+      "title": "Wanderer - Preacher",
+      "category": "official-site/shop/wanderers",
+      "priority": "medium",
+      "imageTypes": [
+        "product-hero",
+        "gallery"
+      ],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "indomitable-survivors-guide",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/guides/indomitable-survivors-guide.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/pages/indomitable-survivors",
+      "title": "Indomitable Survivors Guide",
+      "category": "official-site/guides",
+      "priority": "low",
+      "imageTypes": [],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "monster-nodes-guide",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/guides/monster-nodes-guide.txt",
+      "sourceUrl": "https://kingdomdeath.myshopify.com/pages/nodes-in-monster-campaigns",
+      "title": "Monster Nodes Guide",
+      "category": "official-site/guides",
+      "priority": "low",
+      "imageTypes": [],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "philosophies-of-death-guide",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/guides/philosophies-of-death-guide.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/pages/philosophies-of-death",
+      "title": "Philosophies of Death Guide",
+      "category": "official-site/guides",
+      "priority": "low",
+      "imageTypes": [],
+      "status": "pending",
+      "imageCount": 0
+    },
+    {
+      "id": "seed-patterns-guide",
+      "filePath": "/Users/krisciu/workspace/kdm-lore/docs/lore/sources/official-site/guides/seed-patterns-guide.txt",
+      "sourceUrl": "https://shop.kingdomdeath.com/pages/seed-patterns",
+      "title": "Seed Pattern Survivors Guide",
+      "category": "official-site/guides",
+      "priority": "low",
+      "imageTypes": [],
+      "status": "pending",
+      "imageCount": 0
+    }
+  ]
+}

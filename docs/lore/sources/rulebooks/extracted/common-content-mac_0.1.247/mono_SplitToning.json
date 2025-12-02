@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6775495976949542142
+  },
+  "m_Name": "SplitToning",
+  "active": 1,
+  "shadows": {
+    "m_OverrideState": 1,
+    "m_Value": {
+      "r": 0.5003756284713745,
+      "g": 0.5287954807281494,
+      "b": 0.6289306879043579,
+      "a": 1.0
+    }
+  },
+  "highlights": {
+    "m_OverrideState": 1,
+    "m_Value": {
+      "r": 1.0,
+      "g": 0.8262263536453247,
+      "b": 0.8018866777420044,
+      "a": 1.0
+    }
+  },
+  "balance": {
+    "m_OverrideState": 1,
+    "m_Value": 0.0
+  }
+}

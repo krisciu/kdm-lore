@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3511936491758782588
+  },
+  "m_Name": "PolaroidTutorial",
+  "steps": [
+    {
+      "title": "Eyeclops Camera",
+      "text": "Although used like any ordinary camera, this truly captures the essence of moments lived. When a picture of the game table is viewed, a tangible reconstruction of the memory can be restored.\n\nAll pictures taken are safely kept in the <color=#00D8FF>Stone Cloud</color> so they may never be forgotten*.\n\n\n\n(*) Limited to 50 pictures ",
+      "imagePath": ""
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ]
+}

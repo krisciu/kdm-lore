@@ -1,11 +1,13 @@
 # KDM Lore Sources - Status Tracker
-Last Updated: 2025-12-02
+Last Updated: 2025-12-02 (Updated: Session 2)
+
+**TOTAL FILES SCRAPED: 236**
 
 ---
 
 ## ✅ COMPLETED - What We Have
 
-### Official Shop - Expansion Lore (16+ files)
+### Official Shop - Expansion Lore (18+ files)
 | Status | File | Monster | Node | Key Lore |
 |--------|------|---------|------|----------|
 | ✅ | kingdom-death-monster-1-6.txt | Core Game | - | All core monsters, phases, settlement |
@@ -24,22 +26,26 @@ Last Updated: 2025-12-02
 | ✅ | frogdog-expansion.txt | Frogdog | NQ1 | Bullfrogdog variant |
 | ✅ | red-witches-expansion.txt | Red Witches | NN2 | White Speaker cult enforcers |
 | ✅ | pariah-expansion.txt | Pariah | NN1 | Cult outcast, inverted showdown |
-| ✅ | false-messengers.txt | False Messengers | Special | NEW - Deceptive entities |
-| ✅ | philosophy-gatherism.txt | Gatherism | Philosophy | NEW - Gathering philosophy |
+| ✅ | false-messengers.txt | False Messengers | Special | Deceptive entities |
+| ✅ | philosophy-gatherism.txt | Gatherism | Philosophy | Gathering philosophy |
+| ✅ | **screaming-god-expansion.txt** | Screaming God | NEW | Sonic wail instant death, 2026 preorder |
+| ✅ | **campaigns-of-death.txt** | Rulebook | NEW | Custom campaign rules, 2026 preorder |
 
-### NEW - Wanderers (4 files)
+### NEW - Wanderers (5 files)
 | Status | File | Character | Key Lore |
 |--------|------|-----------|----------|
 | ✅ | wanderer-candy.txt | Candy | Wanderer character |
 | ✅ | wanderer-aeneas.txt | Aeneas | Wanderer character |
 | ✅ | wanderer-death-drifter.txt | Death Drifter | Wanderer character |
 | ✅ | wanderer-goth.txt | Goth | Wanderer character |
+| ✅ | **wanderer-preacher.txt** | Preacher | NEW - Benevolence, dogma, Arc system, Q1 2026 |
 
-### NEW - Pillar Survivors (2 files)
+### NEW - Pillar Survivors (3 files)
 | Status | File | Character | Key Lore |
 |--------|------|-----------|----------|
 | ✅ | pillar-fade.txt | Fade | Pillar survivor |
 | ✅ | pillar-percival.txt | Percival | Pillar survivor |
+| ✅ | **priestess-percival.txt** | Priestess Percival | NEW - Citadel in sky, People of Sun, Syncretic Vestments |
 
 ### NEW - Special Survivors (2 files)
 | Status | File | Content | Key Lore |
@@ -61,15 +67,23 @@ Last Updated: 2025-12-02
 | ✅ | allison-twilight-knight.txt | Allison | Twilight Knight character |
 | ✅ | vignette-screaming-nukealope.txt | Nukealope | Vignette scene |
 
-### KDU Newsletters - 2025 (6 files) ✅ MAJOR PROGRESS
+### KDU Newsletters - 2025 (8 files) ✅ MAJOR PROGRESS
 | Status | File | Date | Key Lore |
 |--------|------|------|----------|
+| ✅ | **kdu-102-january-2025.txt** | Jan 2025 | NEW - Lantern Eclipse, Frozen Survivor Camellia, Lunar TK, Guinevere lore |
+| ✅ | **kdu-103-february-2025.txt** | Feb 2025 | NEW - Valentine's, Mox Healer, Gunborg, Goblin Snarfer (sentient weapon) |
 | ✅ | kdu-104-march-2025.txt | March 2025 | Rain Stalker, Tachyon Nodachi, Phoenix Time Stop |
 | ✅ | kdu-105-april-2025.txt | April 2025 | Lagomorphs, Sunstalker lifecycle, Sunpool |
 | ✅ | kdu-106-may-2025.txt | May 2025 | Mole (Talpagoria), Illuminated Figure, Lucid Frenzy |
 | ✅ | kdu-107-june-2025.txt | June 2025 | Summer content |
 | ✅ | kdu-108-july-2025.txt | July 2025 | Killennium Butcher, Jackel lore, Tyrant Slayer |
 | ✅ | kdu-109-august-2025.txt | August 2025 | Gen Con 2025 |
+
+### KDU Newsletters - 2024 (2 files) ✅ NEW
+| Status | File | Date | Key Lore |
+|--------|------|------|----------|
+| ✅ | **kdu-099-october-2024.txt** | Oct 2024 | Halloween, Golden Bat, Brave (Heart of Hero), Dedheim, Grozharous |
+| ✅ | **kdu-101-december-2024.txt** | Dec 2024 | Deathmas, Atnas (Unseen Shooting Star), Percival, Nico |
 
 ### Existing Research Files (17 files)
 | Status | File | Category | Content |
@@ -115,9 +129,10 @@ Last Updated: 2025-12-02
 #### KDU Newsletters (100+ issues)
 | Priority | Range | Content Type | Status |
 |----------|-------|--------------|--------|
-| ✅ | KDU #104-109 | 2025 Newsletters | DONE (6 files) |
-| 🔴 | KDU #100-103 | Recent lore reveals | Next priority |
-| 🟡 | KDU #80-99 | Gambler's Chest era | Pending |
+| ✅ | KDU #102-109 | 2025 Newsletters | DONE (8 files) |
+| ✅ | KDU #99, #101 | Late 2024 Newsletters | DONE (2 files) |
+| 🔴 | KDU #100, #97-98 | Missing 2024 | URLs return 404 |
+| 🟡 | KDU #80-96 | Gambler's Chest era | Pending |
 | 🟡 | KDU #60-79 | Wave 3-4 content | Pending |
 | 🟢 | KDU #1-59 | Historical context | Low priority |
 

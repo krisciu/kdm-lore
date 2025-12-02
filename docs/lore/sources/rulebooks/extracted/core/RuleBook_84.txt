@@ -1,0 +1,46 @@
+                                                                              - Rules -
+
+
+               2 | Survivors Return                                                                           Trigger Timeline Events
+                                                                                                              Trigger any story events listed for the current lantern 
+               All survivors that endured the previous                                                        year on the timeline. If there are multiple story events 
+               showdown are returning survivors.                                                              for that lantern year, resolve them one at a time in the 
+                                                                                                              order they are listed.
+    When these survivors return to the settlement, their 
+    injuries are healed. Erase any filled light or heavy in-                                                  If the current lantern year has a Nemesis Encounter 
+    jury levels. Remove all tokens from all survivors.                                                        Story Event on the timeline, follow the rules in the 
+                                                                                                              Nemesis Monster section of this chapter.
+    Survival and insanity do not automatically replenish. 
+    Their values persist until they are changed by gameplay.                                                  Additional Settlement Events on the Timeline
+                                                                                                              During the campaign, specific settlement events may 
+    Permanent injuries do not heal on their own, but                                                          be added to your timeline. When the timeline is up-
+    some later innovations and events will enable you                                                         dated, resolve these by drawing them from the set-
+    to heal them.                                                                                             tlement event deck and playing them. (In addition to 
+                                                                                                              your random settlement event.) The same settlement 
+    Apply any effects for thereturning  survivors from                                                        event card cannot be played more than once per Set-
+    principles, settlement events, and innovations. This                                                      tlement Phase. Ignore additional instances.
+    may include bonuses and penalties.
+                                                                                                                         5 | Update Death Count
+    It is possible to have no returning survivors if all sur-                                                            If any survivors perished during the 
+    vivors perished during the hunt or showdown.                                                                         previous hunt, showdown, or during 
+                                                                                                                         the preceding steps of the settlement 
+               3 | Gain Endeavors                             Lingering Effects                               phase, update the death count on the Settlement 
+               Endeavors are the generative energy re-   Lingering Effects last throughout the Settlement     Record Sheet to reflect their deaths.  
+               turning survivors accumulate from their   Phase and can have positive or negative effects on       If a survivor dies later during the Settlement 
+    experiences. The settlement gains 1  for each re-    the survivors.                                       Phase, update the death count immediately.
+    turning survivor. Use tokens to track your endeavors.
+                                                             Endeavors                                                   6 | Check Milestones
+                                                         A survivor may spend an endeavor and any addi-                  Milestone story events are conditional 
+               4 | Update Timeline                       tional resources to participate in any activities listed.       events that appear below the timeline. 
+               Fill the next unfilled lantern year on the time- Many of these will require the settlement to have a      Check the Settlement Record Sheet 
+               line to advance the current lantern year. specific innovation before it can be used.           to see if any milestones have been reached. If you 
+                  Draw the top card of the settlement                                                         reach more than one milestone at this time, play 
+    event deck and perform its rules. Place the card in  Crafting Recipes                                     them in any order.
+    the play area face up as a reminder of any persistent                                                         For each milestone, check off its box and trigger 
+    effects it may have for the settlement phase.                                                             the corresponding story event.
+        Settlement events ( ) may have new ways to                                                                If a milestone is reached later in the Settlement 
+    spend endeavors, and unique opportunities to craft   When crafting on a settlement event, nominate a sur- Phase, check off the box and trigger the event imme-
+    and impart lasting restrictions or bonuses.          vivor to spend the listed resources and gain its effects. diately.
+
+
+82

@@ -1,0 +1,45 @@
+                                                                              - Rules -
+
+
+    Mineral Gathering and Herb Gathering                 If no cards remain in the survivors’ space, the sur-
+    Mineral Gathering and Herb Gathering are story       vivors move one space toward the monster and the 
+    events that may be triggered during the hunt by add- event revealer draws the top event card in the new 
+    ing their unique hunt event cards to the hunt board. space and follows the rules on the card.
+
+                                                         Hunt event cards are resolved one at a time, from top 
+                                                         to bottom. Unless compelled to move by an event, 
+                                                         the survivors must resolve all hunt events in their cur-
+                                                         rently-occupied space before moving. 
+                                                             The monster does not move unless an event 
+                                                         specifies otherwise.
+
+                                                         If there are no hunt event cards on a hunt board 
+                                                         space when the survivors move into the space, the 
+                                                         event revealer makes 1 roll on the hunt event table 
+                                                         before the survivors can move to the next hunt board 
+                                                         space unless specifically directed to skip spaces.
+                                                                                                              result between 1 and 100. 
+    If survivors have the appropriate tools in their gear During each hunt, the first time the survivors land on   For example, if the tens die result is “3” and the 
+    grid, they can add the Mineral Gathering and/or      the Overwhelming Darkness space, trigger the Over-   ones die result is “5,” the event number is “35.” Turn 
+    Herb Gathering hunt event cards to any space (ex-    whelming Darkness story event instead of rolling on  to hunt event 35 in the hunt event table, read it aloud, 
+    cept Start, Overwhelming Darkness, and Starvation)   the hunt event table.                                and resolve it.
+    on the hunt board before traversing it. 
+        Each event may only be added to the hunt board   Find the Quarry                                      Hunt Events
+    once per hunt phase, on top of any existing event    If the survivors move into the same space as the     Often, hunt events will require players to roll on a ta-
+    cards.                                               monster on their hunt turn, the hunt phase is over,  ble to determine the outcome of an event. Each event 
+                                                         and the showdown phase begins immediately. Do        will specify who should roll (event revealer, random 
+                                                         not resolve any hunt events (except Starvation) on   survivor, or survivors meeting a certain criteria). If no 
+    Hunt Your Quarry                                     the hunt board space occupied by the monster.        survivor is specified, the event revealer rolls.
+
+    Survivors take turns as the event revealer. The      Hunt Event Cards                                     The event revealer is also responsible for making 
+    event revealer draws the top event card in the survi- Basic hunt event cards are identical and direct the any randomized choices (picking random survivors, 
+    vors’ current space, reads it aloud to the other play- event revealer to roll on the hunt event table to deter- gear, etc). The event revealer can use dice, names 
+    ers, and follows the rules on the card.              mine what happens next.                              in a hat, or whatever they prefer.
+                                                             The hunt event table lists 100 possible events 
+    When an event is complete, the card is archived and  the survivors may encounter. The event revealer      Some events will have requirements for survivors to 
+    the next survivor becomes the event revealer.        rolls “1d100” to randomly determine the event.       participate. For instance, some events require survi-
+                                                         To roll 1d100, take 2d10 and nominate one die to     vors to have high levels of courage or understanding 
+                                                         be tens and one to be ones. Roll them together for a to participate in the event.
+
+
+62

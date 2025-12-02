@@ -1,0 +1,74 @@
+      Damage (Condition): A hit damages a survivor if it removes armor          Destructible: A terrain special rule. When a survivor collides with       total endeavors by 1, and follow the rules for the action the endeav-
+      points or causes an injury. Hits which are dodged, blocked, or ig-        destructible terrain, stop their movement and archive the terrain.        or was spent on. Unless stated otherwise, the action's effects apply 
+      nored do not cause damage.                                                The survivor suffers 1 damage to a random hit location. When a            only to the nominated survivor.
+                                                                                monster collides with destructible terrain, archive the terrain.
+      Dash: A survival action. When opportunity permits, a survivor may                                                                                   Endure: You may spend 7 survival minus your Luck to ignore a se-
+      spend 1 survival to dash. They gain +1    which must be spent im-         Devastating X:  A gear special rule. When a devastating weapon            vere injury before you roll a result. Your Luck is determined by the 
+      mediately. Each survivor may only Dash once per round, and only           wounds a monster, it will inflict X additional wounds.                    sum of your permanent luck attribute, any luck modifier tokens, 
+      after the settlement has innovated the Paint innovation.                                                                                            and any other gear or abilities affecting your luck at the time you 
+                                                                                Discard: Put the card into the appropriate discard pile. It is no lon-    endure.
+      Deadly: A gear special rule. Gain +1 luck while attacking with this       ger in play.
+      weapon. This increases the odds of inflicting critical wounds.                                                                                      Endless Babble: An impairment. When you *depart*, *departing 
+                                                                                Disdain:  The Phoenix's instinct. Described on the Showdown:              survivors* gain +1 insanity. You cannot encourage.
+      Deaf: The survivor cannot hear, or be impacted by encourage and           Phoenix story event.
+      other audible effects.                                                                                                                              Evasion (Attribute):  When a monster or survivor with evasion is 
+                                                                                Disorder: A mental impairment. Disorders are found on disorder            the target of an attack, increase the accuracy on the attack profile 
+      Death (Monster): A monster is defeated when it is wounded and             cards. When a disorder is gained, record its rules on the survivor        by the amount of evasion the target possesses. Evasion can be a 
+      there are no AI cards in the AI deck or AI discard pile to move to        record sheet and return the card to the box. Survivors can have up        negative number, in which case it is subtracted from the attack pro-
+      the wound stack.                                                          to 3 disorders. Additional disorders gained must replace a disor-         file's accuracy. Regardless of evasion, a Lantern 10 on the attack 
+                                                                                der of your choice. If a survivor would gain a disorder they already      roll is always a Perfect Hit, and an attack roll result of 1 will always 
+      Death (Survivor): A survivor can die in a variety of ways. Remove         have, nothing happens. 
+      their miniature from the board. They can no longer participate in                                                                                   be unsuccessful.
+      the hunt or showdown. Return their gear to the settlement storage         Dodge: A survival action. When a survivor is hit, after rolling hit lo-   Event Damage: Some damage is incurred from events. Typically, 
+      and move their resources to another survivor. If all the survivors        cation dice but before damage, they may spend 1 survival to dodge,        this damage cannot be dodged or blocked. Event damage is non-le-
+      die during the showdown, all of their gear returns to the settlement      canceling one hit. The dodged hit becomes a failed attack roll and        thal, and will reduce armor points and cause light and heavy inju-
+      and all resources not in the settlement storage are lost.                 does not cause damage. Any additional un-dodged hits resolve nor-         ries, but will not cause severe injuries or brain trauma.
+                                                                                mally. Dodge is the only survival action that knocked down survi-
+      Death Count: Part of the settlement record sheet. During the Set-         vors can perform. Each survivor may only Dodge once per round.            Event Revealer: The event revealer reveals a hunt event, reads it 
+      tlement Phase, if any survivors perished during the previous Hunt                                                                                   aloud, and follows the rules on the card, making all decisions along 
+      or Showdown Phase, update the death count. If survivors perish            Doomed: While a survivor is doomed, they cannot perform any ac-           for that hunt event. 
+      during the Settlement Phase, update the death count immediate-            tions or spend survival. If a survivor is doomed by a monster's AI or 
+      ly. The first time a settlement's death count is updated, trigger the     Hit Location card, they are doomed until all actions on the card are      Explore: An ability. When you roll on an investigate table, add +2 
+      Principle: Death story event.                                             performed and the card is resolved.                                       to your roll result.
+
+      Death Die: A special orange ten sided die. The Death Die replac-          Dormenatus: When you suffer damage, you may declare "Dorme-               Facing: A monster is facing all spaces on the board that are in front 
+      es the Monster Controller tile. The player of the survivor with the       natus X" in a loud, booming voice, if you do, gain X to each hit lo-      of the miniature.
+      Death Die controls the monster. At the start of the showdown, the         cation. X cannot be more than your total green affinities. After the 
+                                                                                                                                                          Failure (Reaction): A monster reaction. Performed in response to 
+      player with the Final Lantern starts with the Death Die on Horrip-        damage is resolved, gain +X hunt XP. When you trigger Age 2, gain 
+                                                                                                                                                          unsuccessful wound attempts at certain monster hit locations. 
+      ilation. At the start of each subsequent round, pass the Death Die        the Grace of Dormenatus secret fighting art.
+      to the Horripilation card to the left. The Watcher's final emanations                                                                               Fated Battle: An ability. At the start of a showdown with the 
+                                                                                Draw AI: The monster controller draws the top AI card of the mon-
+      continue to jump between lanterns of survivors that cannot act,                                                                                     picked monster, gain +1 speed token.
+      including dead or absent survivors. Instead of the benefits on the        ster's AI deck and plays it. If the AI deck is empty, shuffle the discard 
+      Monster Controller tile, you may use Pulse Discoveries based on           pile into it and draw the top card. If the AI deck and discard pile are   Feather (Gear): A gear keyword. This gear is substantively crafted 
+      your settlements Lantern Research Level. Once per round, the sur-         empty, the monster performs its Basic Action.                             of feathers.
+      vivor with the Death Die may use one of the settlement's unlocked 
+                                                                                Duration: Duration cards are drawn twice. The first time a duration       Field of View: A survivor is in a monster's field of view unless they 
+      Pulse Discoveries. After rolling the Death Die, return it to its current 
+                                                                                card is drawn, perform any "when drawn face down" actions. Then,          are in the monster's blind spot or the monster's line of sight is 
+      Horripilation card. If the Final Lantern is lost or archived, it is gone 
+                                                                                instead of discarding it, place the duration card face up on top of       blocked by terrain with the Obstacle rule.
+      forever. Survivors cannot use the Death Die. Return to using the          the AI deck. The next time a monster draws an AI card, it draws the 
+      Monster Controller tile.                                                  duration card for a second time. Perform any "when drawn face up"         Fighting Arts:  Powerful battle techniques found on fighting art 
+                                                                                                                                                          cards. When a fighting art is gained, record its rules on the survivor 
+      Defeat: When the survivors are defeated by a monster, follow the          actions, then discard the card after resolving. Some duration cards 
+                                                                                                                                                          record sheet and return the card to the box. Survivors can have up 
+      defeat rules in the Aftermath section of the monster's story event.       have persistent effects while they are face up on top of the AI deck.
+                                                                                                                                                          to 3 fighting arts. Additional fighting arts gained replace a fighting 
+      Deflect X: A gear special rule. When you Deflect X, gain (or lose)        Early Iron: A gear special rule. When any of your attack roll results     art of your choice. If a survivor would gain a fighting art they al-
+      deflect tokens until you have X of them. When you are hit, if you         are a 1, cancel your attack.                                              ready have, nothing happens.
+      have any deflect tokens, you ignore that hit and lose a deflect to-
+                                                                                Encourage:   A survival action. A standing survivor may spend 1           Finesse:  A gear keyword. This gear requires finesse to use. This 
+      ken. When you Deflect X, you lose the benefits of Block.
+                                                                                survival at any time to encourage a knocked down survivor, letting        keyword does not interact with the core game in any way and is 
+      Depart (As in, "When you depart"): These rules apply to departing         them stand. Deaf survivors may not be encouraged. Each survivor           one of those annoying keywords for expansions.
+      survivors at the end of the Settlement Phase.                             may only Encourage once per round, and only if the settlement has 
+                                                                                the Language innovation.                                                  First Strike: A type of monster hit location. This hit location must be 
+      Departing Survivors: The survivors nominated to take part in the                                                                                    resolved before any others, except Traps. If multiple First Strike lo-
+      next hunt and showdown.                                                   Endeavors:   Each  returning  survivor  contributes  +1  endeavor         cations are drawn, the player decides the order in which to resolve 
+                                                                                (+1   )to the settlement. Survivors can spend endeavors to inno-          them. Traps still precede and cancel all other hits.
+      Destroy Armor: An attack effect that reduces armor points of a sur-       vate, build new settlement locations, or perform unique actions. To 
+      vivor hit location to 0 before applying damage.                           spend an endeavor, nominate a survivor, reduce the settlement's           Fist & Tooth: Fist & Tooth is a weapon always available to a sur-
+230

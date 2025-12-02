@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3511936491758782588
+  },
+  "m_Name": "StoneBoxTutorial",
+  "steps": [
+    {
+      "title": "Stone Cloud",
+      "text": "The Stone Box connects the dwelling to the <color=#00D8FF>Stone Cloud</color>, a storage system used for saving and retrieving record sheets from a campaign.\n\n\nWhen you place a Settlement Record Sheet or Survivor Record Sheet in a Stone Box, it will communicate with the <color=#00D8FF>Stone Cloud</color> and save its information there. We recommend using this at the end of your gaming session to save your campaign.\n\n\nRecord Sheets can be viewed and printed from a dwellers login area at <color=#00D8FF><link=\"https://kingdomdeath.com/simulator\">kingdomdeath.com/simulator</link></color>\n\n\nLimit 5 campaigns per Stone Box. ",
+      "imagePath": ""
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ]
+}

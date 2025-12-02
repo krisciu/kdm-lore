@@ -1,0 +1,498 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3576192477404133520
+  },
+  "m_Name": "main_manu",
+  "l_Light": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "l_Dir": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "lightProbes": [],
+  "initialLightProbesArrayPosition": 0,
+  "lightProbes1D": [],
+  "cubemaps": [],
+  "guid": "a775374f-e94c-4df6-b97a-2c7e7a18fa9e",
+  "scenePath": "Assets/Bundles/train-scene/MainMenu.unity",
+  "managerIndex": 2147483647,
+  "lightUUIDs": [
+    "d2d19038-3bc5-449b-ae8e-63d48d4a59ee",
+    "f31fa326-5936-4328-99b5-a83483fdcad1",
+    "78e13b03-809f-47a6-bd13-2af309fe35a8",
+    "1e744069-0f38-4a2f-a04c-e525ece1933b",
+    "badaf5fa-0a07-4215-9d44-51deab7c8b32",
+    "bd954ed5-2acd-4437-a681-fb9b3135a994",
+    "4529a58c-a2fe-476a-8f48-c01c00d6299e",
+    "6463f8d6-0168-4416-b30b-27d4668a6b7f",
+    "4bbd9785-f23d-4139-9341-8f11d4247e03",
+    "0eaae210-bca1-4deb-924e-4dde795f198a",
+    "fd9f7b24-c813-4adc-b23a-ec47a2ab3853",
+    "e3c06011-33f1-4926-b3a0-b320400c62ab"
+  ],
+  "lightConfigurations": [
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 2,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9565449953079224,
+        "b": 0.8765646815299988,
+        "a": 3.069999933242798
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 1.600000023841858,
+      "indirectMultiplier": 1.0,
+      "range": 0.4000000059604645,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 2,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9565449953079224,
+        "b": 0.8765646815299988,
+        "a": 3.069999933242798
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.20000000298023224,
+      "indirectMultiplier": 1.0,
+      "range": 1.0,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 4,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9565449953079224,
+        "b": 0.8765646815299988,
+        "a": 3.069999933242798
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.20000000298023224,
+      "indirectMultiplier": 1.0,
+      "range": 10.325752258300781,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 2,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9565449953079224,
+        "b": 0.8765646815299988,
+        "a": 3.069999933242798
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.20000000298023224,
+      "indirectMultiplier": 1.0,
+      "range": 1.3899999856948853,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 2,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9565449953079224,
+        "b": 0.8765646815299988,
+        "a": 3.069999933242798
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.019999999552965164,
+      "indirectMultiplier": 1.0,
+      "range": 1.0,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 4,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.9882352948188782,
+        "g": 0.9565449953079224,
+        "b": 0.8765646815299988,
+        "a": 3.069999933242798
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.4000000059604645,
+      "indirectMultiplier": 1.0,
+      "range": 10.5,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 0,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 1.0,
+        "g": 0.9243102073669434,
+        "b": 0.5898993015289307,
+        "a": 1.0
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.0,
+      "indirectMultiplier": 1.0,
+      "range": 11.300000190734863,
+      "spotAngle": 90.0,
+      "innerSpotAngle": 8.210989952087402,
+      "renderMode": 2,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 0,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 0,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 1.0,
+        "g": 0.9243102073669434,
+        "b": 0.5898993015289307,
+        "a": 1.0
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 11.300000190734863,
+      "indirectMultiplier": 1.0,
+      "range": 11.300000190734863,
+      "spotAngle": 90.0,
+      "innerSpotAngle": 8.210989952087402,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 0,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 1.0,
+        "g": 0.9243102073669434,
+        "b": 0.5898993015289307,
+        "a": 1.0
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.0,
+      "indirectMultiplier": 1.0,
+      "range": 11.300000190734863,
+      "spotAngle": 90.0,
+      "innerSpotAngle": 8.210989952087402,
+      "renderMode": 2,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 0,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 0,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 1.0,
+        "g": 0.9243102073669434,
+        "b": 0.5898993015289307,
+        "a": 1.0
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 11.300000190734863,
+      "indirectMultiplier": 1.0,
+      "range": 11.300000190734863,
+      "spotAngle": 90.0,
+      "innerSpotAngle": 8.210989952087402,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 1,
+      "active": 1,
+      "type": 1,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 0.3759784400463104,
+        "g": 0.4266725480556488,
+        "b": 0.5787549614906311,
+        "a": 1.0
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 0.0009659676579758525,
+      "indirectMultiplier": 1.0,
+      "range": 10.0,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    },
+    {
+      "enabled": 0,
+      "active": 1,
+      "type": 1,
+      "useColorTemperature": 0,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "colorTemperature": 6570.0,
+      "intensity": 1.0,
+      "indirectMultiplier": 1.0,
+      "range": 10.0,
+      "spotAngle": 30.0,
+      "innerSpotAngle": 21.802080154418945,
+      "renderMode": 0,
+      "cullingMask": {
+        "m_Bits": 4294967295
+      },
+      "shadowType": 2,
+      "lightCookie": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "lightViewIntensity": 0.0,
+      "emissions": []
+    }
+  ],
+  "emissionUUIDs": [],
+  "emissionConfigurations": [],
+  "reflectionUUIDs": [
+    "042acf09-bcb4-4fd2-b333-67e30e1d3d65"
+  ],
+  "reflectionProbeConfigurations": [
+    {
+      "enabled": 0,
+      "active": 1,
+      "type": 1,
+      "renderDynamicObjects": 0,
+      "customBakedTexture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "bakedTexture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "refreshMode": 2,
+      "timeSlicingMode": 0,
+      "importance": 1,
+      "intensity": 0.75,
+      "boxProjection": 0,
+      "blendDistance": 1.0,
+      "size": {
+        "x": 2500.0,
+        "y": 2500.0,
+        "z": 2500.0
+      },
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "resolution": 256,
+      "hdr": 1,
+      "shadowDistance": 100.0,
+      "clearFlags": 1,
+      "backgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "cullingMask": {
+        "m_Bits": 0
+      },
+      "nearClipPlane": 0.30000001192092896,
+      "farClipPlane": 2500.0
+    }
+  ],
+  "renderingConfiguration": {
+    "skybox": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "subtractiveShadowColor": {
+      "r": 0.41999998688697815,
+      "g": 0.4779999852180481,
+      "b": 0.6269999742507935,
+      "a": 1.0
+    },
+    "ambientMode": 3,
+    "ambientEquatorColor": {
+      "r": 0.11400000005960464,
+      "g": 0.125,
+      "b": 0.13300000131130219,
+      "a": 1.0
+    },
+    "ambientGroundColor": {
+      "r": 0.04699999839067459,
+      "g": 0.0430000014603138,
+      "b": 0.03500000014901161,
+      "a": 1.0
+    },
+    "ambientSkyColor": {
+      "r": 0.18621067702770233,
+      "g": 0.20826193690299988,
+      "b": 0.2744157314300537,
+      "a": 0.6247857809066772
+    },
+    "fogColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "defaultReflectionMode": 0,
+    "customReflection": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "defaultReflectionResolution": 128,
+    "reflectionBounces": 1,
+    "reflectionIntensity": 1.0,
+    "fog": 0,
+    "fogDensity": 0.0,
+    "haloStrength": 0.5,
+    "flareFadeSpeed": 3.0,
+    "flareStrength": 1.0,
+    "fogMode": 0
+  }
+}

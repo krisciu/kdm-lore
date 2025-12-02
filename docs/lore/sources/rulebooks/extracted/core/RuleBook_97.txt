@@ -1,0 +1,64 @@
+                                                                                                                                                                                                   Core  Rules -
+                                                                                      - Rules -
+                                                                                                                                                                                                   HUNT  EVENT  TABLE
+
+must. If the survivors follow the path, the event revealer    other survivors suffer 1 brain event damage before pulling     1d10   Nominated Survivor
+gains +1 understanding then rolls 1d10 and adds their         the crazed survivor from the ground and moving on.
+understanding.                                                    If the event revealer is not insane, they gain +1 un-      6 +    You are repelled by the ruined lantern hoard, but 
+     Otherwise, roll again on the hunt event table before     derstanding, feeling on the cusp of learning something.               linger just long enough to grab a pair of insects scur-
+                                                                                                                                    rying within it. That's as close as you're comfortable 
+moving on the hunt board.                                          If any survivor has the Marrow Hunger impairment,                going. Gain 2 vermin resources of your choice.
+                                                              the face secretly whispers their life’s purpose. They gain 
+ 1d10   Event revealer
+                                                              +1 permanent strength. Add the Murder settlement event       36 | On the Trail
+ 1      A colossal finger descends from above, crushing a     to the timeline next year.
+        random survivor. They suffer 2 event damage to every                                                               The survivors rush forward, feeling their quarry close at 
+        hit location. 
+                                                                                                                           hand. Skip the next hunt space. If this movement begins 
+ 2 - 4  A random survivor tears off hysterically along a      34 | Crippling Misery                                        the showdown, the survivors ambush their quarry. If any 
+        branch in the path. They return hours later, ghostly                                                               survivor has noisy gear, the survivors do not ambush. 
+        pale and with no recollection of what happened. They  Each survivor rolls 1d10. The lowest-scoring survivor (or    Start the showdown normally.
+        lose 1d10 survival.                                   survivors, in case of ties) becomes a straggler. If any sur-
+                                                              vivor (or survivors) has the Anxiety disorder, they are the 
+ 5 - 7  The path twists and turns dizzyingly into the dark. All sur- straggler. Do not roll.                               37 | Lost
+        vivors suffer 1 brain event damage and the event revealer   The straggler is lost in a moment of profound self 
+        rolls again on this table, adding +2 to their roll.   doubt. They slip, not having the will to catch themselves,   The survivors are hopelessly lost in the unbroken darkness. 
+ 8 - 9  The path leads the survivors to a large stone face with and tumble off a steep hill of stone faces. They land awk- Move the survivors 2 spaces back on the hunt board.
+        lanterns for eyes. Inside its open mouth is a bounty. wardly with a crunch, suffering the broken leg severe in-
+        Each survivor gains 1 random basic resource.          jury. Sobbing to themselves, they come to grips with just 
+                                                              how terrible their life is and gain +1 understanding.        38 | Gregalope
+ 10 +   The path leads to the beast you are hunting! The          If the straggler has Binge Eating Disorder, they 
+        survivors ambush the monster.                         wipe away their tears and reach out to a nearby critter, in- A massive Gregalope stands astride the horizon, its an-
+        If any survivor has the Honorable disorder, they      stinctually cramming it into their mouth for comfort. Draw   cient body bloated with tumors and scar tissue. Its milky 
+        realize the folly of their ways and may remove the    1 random vermin resource and consume it.                     eyes catch sight of the survivors and it bounds away. 
+        disorder. If any survivors remain Honorable, they 
+        announce their presence to the monster; the monster                                                                Driven by a sudden desire, the survivors give chase. The 
+        ambushes the survivors instead.                                                                                    event revealer rolls 1d10 and adds their movement to 
+                                                              35 | Broken Lantern Oven                                     their roll.
+                                                                                                                                If any survivor has the Strategist fighting art, they 
+32 | Sudden Madness                                           The survivors come across the shattered ruins of a small     may corner the Gregalope at a giant stone face instead of 
+                                                              settlement. Ashen corpses dot the ruins, disintegrating at   giving chase. If they do, end the hunt immediately. Start 
+The event revealer is devastated by a piercing cacophony      the slightest touch. An extinguished lantern oven stands     a showdown with a level 2 Screaming Antelope, using its 
+in their head. Roll 1d10. If the result is less than or equal intact at the center of the settlement.                      setup rules. In addition, place a Giant Stone Face ad-
+to their current insanity, they go mad, lashing out at their      The event revealer rolls 1d10 and adds their under-      jacent to the monster and give the monster the Butch-
+compatriots! Each other survivor suffers 1 event damage       standing. If the result is 5+, gain the Lantern Oven inno-   er’s Berserker trait card. If the survivors prevail, gain the 
+to a random hit location before the event revealer regains    vation. If the settlement already has this innovation, the   normal showdown rewards and 3 additional Screaming 
+control of themselves.                                        event revealer harvests a broken lantern basic resource      Antelope resources.
+          If the event revealer has the Crazed fighting       from the remains. 
+                                                                                                                             1d10   Event revealer
+art, they gain insight from their ordeal. Gain +10 insanity       If the settlement has Song of the Brave, the group 
+and +2 understanding.                                         may nominate a brave survivor to investigate the ruins of      1 - 6  The survivors quickly fall behind the majestic beast. 
+                                                              the settlement’s lantern hoard. They gain +1 courage and              Move 1 space away from the quarry on the hunt 
+                                                              roll 1d10.                                                            board.
+33 | It Whispers Your Name                                     1d10   Nominated Survivor                                     7 - 14 The Gregalope is far too fast. It's gone before you 
+                                                                                                                                    know it.
+The event revealer trips over a protruding nose in the         1 - 5  You try to enter the ruined lantern hoard, but you 
+ground. The lips of a stone face begin to move!                       are overcome with fear, keeling over and vomiting      15 - 16 The survivors lose sight of the Gregalope but discov-
+     If the event revealer has no name, the lips stop mov-            everywhere. When you rise, you find yourself phys-            er a hidden path. You may re-roll the next result on 
+ing and nothing else happens. Otherwise, the lips seduc-              ically incapable of pushing forward anymore. Gain             the hunt event table.
+tively whisper the survivor's name.                                   the Apathetic disorder.
+     If the event revealer is insane, they are drawn in, 
+savagely kissing the face. Repulsed and outraged, the 
+
+
+                                                                                                                                                       Kingdom Death: Monster Core Game  95

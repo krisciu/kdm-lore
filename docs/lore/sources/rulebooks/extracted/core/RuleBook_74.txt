@@ -1,0 +1,47 @@
+                                                                              - Rules -
+
+
+                                                                                                             place a survivor on an impassable terrain tile, instead 
+                                                                                                             they collide with it. The survivor suffers collision and is 
+                                                                                                             placed in an unoccupied space adjacent to the terrain 
+                                                                                                             tile and as close to the monster as possible.
+
+                                                                                                             Showdown Board Edges
+                                                                                                             Survivors and monsters cannot move off the show-
+                                                                                                             down board or be knocked off the board. 
+                                                                                                              
+
+                                                                 The monster moves directly towards its target, Lucy.  
+   Collision                                                             Zachary suffers collision.           
+                                                                                                              
+   Survivors, monsters, and impassable terrain tiles may space currently occupied by a survivor, they collide. 
+   collide with each other. This causes survivors to suffer The survivor suffers collision and knockback 5 directly 
+   collision. When a survivor suffers collision, they are away from the monster.
+   knocked down.
+                                                         Survivors Colliding with Survivors
+   Colliding occurs when:                                Survivors may not normally move into spaces occu-
+   -  A monster moves through or ends its movement on    pied by other survivors. However, they may collide 
+   a space occupied by a survivor.                       due to knockback. When this happens, complete the 
+   -  A survivor moves through or ends their movement    knockback movement normally. At the end of the                   Zachary has suffered knockback 5.
+                                                                                                                    Zachary moves 3 spaces to the board edge and stops.
+   on a space occupied by a survivor (due to knockback). knockback movement, both survivors suffer collision.
+   -  A survivor is knocked back into an impassable ter-     When a survivor’s knockback movement ends       If movement or knockback would cause a survivor or 
+   rain tile.                                            on a space occupied by another survivor, they collide. monster to move off the showdown board, instead, 
+                                                         Place the knocked back survivor in the closest unoc- stop the movement at the board edge.
+   Monsters Colliding with Survivors                     cupied space. Both survivors suffer collision.          If knockback or monster movement starts at a 
+   Monsters may move through spaces occupied by sur-                                                         showdown board edge and would go off of it, instead 
+   vivors. When they do, they collide. At the end of the Survivors Colliding with Impassible Terrain         move along the board edge.
+   monster’s movement, the survivor suffers collision.   Monsters move through impassible terrain unimped-
+        When a monster ends their movement on a          ed.
+                                                             Impassable terrain interrupts all survivor move-
+                                                         ment (including knockback). If knockback would 
+                                                         cause a survivor to move into an impassable terrain 
+                                                         tile, instead they collide with it. The survivor suffers 
+                                                         collision and stops its movement in the last space be-
+                                                         fore the terrain tile.
+               Lucy is the closest threat, in field of view.   Survivors may not be placed on impassable 
+                 The Monster picks her as its target.    terrain. For example, if the White Lion’s Grab would             Zachary has suffered knockback 5.
+                                                                                                                      Zachary moves 5 spaces along the board edge.
+
+
+72

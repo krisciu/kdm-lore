@@ -1,0 +1,63 @@
+                                                                                           - Rules -
+
+
+                                                                       If the settlement has Cannibalize, the event reveal-       1d10   Event revealer
+                                                                   er gains 1 random basic resource.
+                                                                       If the settlement has Graves, the event revealer ex-       1 - 8  The hunt takes its toll. Powerful hunger pangs set in. 
+                                                                   amines the corpse and gains +1 courage and +1 under-                  All survivors gain -1 speed token.
+                                                                   standing.                                                      9 - 14 You manage to stave off the terrible hunger.
+                                                                       If the settlement has Momento Mori, the event re-
+                                                                   vealer understands a little about what happened to the         15 +   Everyone is invigorated by their snack. Each survivor 
+                                                                   corpse. They gain 1 random fighting art.                              gains +1 survival.
+
+                                                                   3 | Cancer Pigeons                                           5 | Flesh Fields
+
+                                                                   The survivors are surrounded by the echoing coo of in-       Ahead, the stone faces on the ground give way to a field 
+                                                                   fant babble. Strange baby-faced birds circle overhead.       of man-sized, fleshy boils sprouting thick black hair. The 
+                                                                   Gripped with instinctual horror, the survivors break into    sinuous terrain radiates moist heat. As they travel, every 
+                                                                   a run!                                                       survivor suffers heat exhaustion, losing 1 survival.
+                                                                       Each survivor rolls 1d10. The lowest scoring survi-           The event revealer rolls 1d10. If any survivor has 
+                                                                   vor (or survivors, in case of ties) becomes a straggler. If  a sickle, they help clear a path by cutting back the thick, 
+                                                                   any survivor has noisy gear, -2 to their roll. Each strag-   black hair. Add +4 to your roll.
+                                                                   gler rolls 1d10.
+                                                                                                                                  1d10   Event revealer
+                                                                       If any survivor has a whip, they crack it, scattering 
+                                                                   many of the birds. Each straggler adds +4 to their roll.       1      The event revealer contracts a flesh-eating disease 
+                                                                                                                                         brushing past the giant boils! A random limb is 
+     1 | Broken Lanterns                                            1d10   Straggler
+                                                                                                                                         affected and must be amputated immediately! Roll 
+     The survivors feel something crunching beneath their           1 - 3  Running and flailing wildly, you suddenly find your-          1d10, 1-5: arms, 6-10: legs. Suffer the dismembered 
+     feet. The event revealer may choose to lower their lan-               self panicked and alone. The waiting cancer pigeons           severe injury at this location.
+     tern and investigate or ignore the sensation and continue             descend and mercilessly peck your back, their happy    2 - 3  If any survivor is insane, they imagine the flesh fields 
+     their journey.                                                        cooing filling your head with horror. An hour later,          are attacking! They become hysterical, flailing and 
+          If they choose to investigate, the event revealer                the other survivors find you balled up and weeping            tangling themselves in the thick hair. Each insane 
+     gains +1 courage and rolls 1d10. Otherwise, roll again                on the ground. You are Dead Inside: you cannot gain           survivor suffers monster level event damage to a 
+     on the hunt event table before moving on the hunt event               survival. Record this impairment.                             random location.
+     board.                                                         4 - 6
+                                                                           A cancer pigeon latches onto your back! Shake it       4 - 7  It's hot and gross, but the survivors pass through the 
+                                                                           free by spending 1 survival. Otherwise, you are 
+      1d10   Event revealer - Investigate                                                                                                flesh fields with no complications.
+                                                                           Dead Inside: you cannot gain survival. Record this 
+      1 - 5  You fumble and cut your foot on a jagged shard.               impairment.                                            8 - 9  The event revealer makes the best of a bad situation 
+             Suffer monster level event damage to your legs.                                                                             and cuts a portion of the flesh free. Gain 1 hide basic 
+                                                                    7  - 8
+                                                                           You escape the terrible creatures.                            resource. 
+      6 - 8  You salvage something useful. Gain 1 broken lantern 
+             basic resource.                                        9 +    You manage to strike one of the foul creatures down.   10 +   Each survivor harvests 1 hide basic resource from 
+                                                                           Gain 1 random basic resource.                                 the flesh fields.
+      9 +    The survivors uncover a long-abandoned lantern 
+             hoard. The forlorn sight fills them with dread, each 
+             survivor sets their insanity to 0. After composing 
+             themselves, each survivor scavenges 1 broken lan-     4 | Famine                                                   6 | Faceless Statue
+             tern basic resource; add them to settlement storage.
+                                                                   The path ahead is arid and dead. You may have survivors      The survivors come upon a faceless statue holding a 
+                                                                   gain +1 courage and press on. Otherwise, roll again on       shining lantern. Basking in the warm light, the survivors 
+     2 | Corpse                                                    the hunt event table before moving on the hunt board.        are renewed. Each survivor gains 1 survival.
+                                                                       If you press on, your stomachs grumble in the dark            If the settlement has Sculpture, the survivors deep-
+     The survivors are overcome by a sudden chill, their breath    as you stumble forward. The survivors pool their supplies.   ly appreciate the artist’s subtle craftsmanship. Each sur-
+     seizing in their lungs. The survivors’ teeth chatter mer-     The event revealer rolls 1d10 and adds +2 to their roll for  vivor rolls 1d10. Gain that many survival and +1 under-
+     cilessly. All survivors lose monster level survival. At the   each consumable gear or resource the group has.              standing.
+     center of the sudden frost is a perfectly preserved corpse.                                                                     The survivors may rest here longer. If they do, each 
+
+
+90

@@ -1,0 +1,1924 @@
+{
+  "name": "GameScene",
+  "items": [
+    {
+      "staticDataID": "MiniatureCabinet",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 3.74083924,
+        "y": 1.47400188,
+        "z": 4.876874
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": [
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 3.01843929,
+            "y": 2.41500187,
+            "z": 4.917307
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 4.455024,
+            "y": 2.41500187,
+            "z": 4.91700745
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 3.01843929,
+            "y": 2.038002,
+            "z": 4.917307
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 4.455024,
+            "y": 2.038002,
+            "z": 4.91700745
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 3.01843929,
+            "y": 1.661902,
+            "z": 4.917307
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": [
+            {
+              "staticDataID": "phoenix",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 3.01884866,
+                "y": 1.661902,
+                "z": 4.9048543
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9980514,
+                "z": 0.0,
+                "w": 0.0623985529
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemalePhoenix",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 2.771349,
+                "y": 1.661902,
+                "z": 4.75635433
+              },
+              "rotation": {
+                "x": -5.587935E-09,
+                "y": 0.981541753,
+                "z": 1.86264515E-09,
+                "w": 0.19124794
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MalePhoenix",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 3.28033924,
+                "y": 1.661902,
+                "z": 4.751307
+              },
+              "rotation": {
+                "x": 6.51925847E-09,
+                "y": 0.928529263,
+                "z": 7.450581E-09,
+                "w": -0.371259451
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MaleLeatherArmor",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 2.90334868,
+                "y": 1.661902,
+                "z": 4.82235432
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9769353,
+                "z": 7.45058E-09,
+                "w": -0.213535726
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemaleLeatherArmor",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 3.13434887,
+                "y": 1.661902,
+                "z": 4.82235432
+              },
+              "rotation": {
+                "x": -7.45058E-09,
+                "y": -0.990127861,
+                "z": -1.49011594E-08,
+                "w": 0.1401673
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 4.455024,
+            "y": 1.661902,
+            "z": 4.91700745
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": [
+            {
+              "staticDataID": "old-joe",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.12543344,
+                "y": 1.661902,
+                "z": 4.772555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9635839,
+                "z": 0.0,
+                "w": -0.267406523
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "rachel",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.22443342,
+                "y": 1.661902,
+                "z": 4.838555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9989591,
+                "z": 0.0,
+                "w": -0.0456157327
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "IntimacyFemale",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.7524333,
+                "y": 1.661902,
+                "z": 4.739555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.962056339,
+                "z": 0.0,
+                "w": 0.2728513
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "IntimacyMale",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.68643332,
+                "y": 1.661902,
+                "z": 4.838555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9085301,
+                "z": 0.0,
+                "w": 0.417819649
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemaleUnarmored",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.53793335,
+                "y": 1.661902,
+                "z": 4.723055
+              },
+              "rotation": {
+                "x": 9.284122E-09,
+                "y": 0.97320056,
+                "z": 9.31323E-10,
+                "w": -0.229958057
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MaleUnarmored",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.37293339,
+                "y": 1.661902,
+                "z": 4.723055
+              },
+              "rotation": {
+                "x": -1.35041738E-08,
+                "y": -0.997826934,
+                "z": 3.725289E-09,
+                "w": -0.0658898652
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 3.01843929,
+            "y": 1.28700185,
+            "z": 4.917307
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": [
+            {
+              "staticDataID": "GoldSmokeKnight",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 2.98584867,
+                "y": 1.28700185,
+                "z": 4.9048543
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9998907,
+                "z": 0.0,
+                "w": -0.0147910416
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "antelope",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 2.58984852,
+                "y": 1.28700185,
+                "z": 4.83885431
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.8573876,
+                "z": 0.0,
+                "w": -0.5146715
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "butcher",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 3.38184881,
+                "y": 1.28700185,
+                "z": 4.806307
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.910124063,
+                "z": 0.0,
+                "w": 0.414335966
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemaleFur",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 3.2604394,
+                "y": 1.28700185,
+                "z": 4.719007
+              },
+              "rotation": {
+                "x": 4.729373E-09,
+                "y": 0.9126756,
+                "z": -1.86264559E-09,
+                "w": -0.40868482
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MaleFur",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 2.70534873,
+                "y": 1.28700185,
+                "z": 4.72335434
+              },
+              "rotation": {
+                "x": -4.65661332E-09,
+                "y": 0.9129137,
+                "z": 0.0,
+                "w": 0.408153057
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemaleRawhide",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 2.87034869,
+                "y": 1.28700185,
+                "z": 4.75635433
+              },
+              "rotation": {
+                "x": -8.84756446E-09,
+                "y": 1.00000012,
+                "z": -2.32830644E-10,
+                "w": -3.1888485E-06
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MaleRawhide",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 3.10134888,
+                "y": 1.28700185,
+                "z": 4.75635433
+              },
+              "rotation": {
+                "x": -3.49246077E-10,
+                "y": 1.00000012,
+                "z": 9.313228E-10,
+                "w": 0.000202655792
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 4.455024,
+            "y": 1.28700185,
+            "z": 4.91700745
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": [
+            {
+              "staticDataID": "Kingshand",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.81843328,
+                "y": 1.28700185,
+                "z": 4.772555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.893868864,
+                "z": 0.0,
+                "w": 0.448328674
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "watcher",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.45543337,
+                "y": 1.28700185,
+                "z": 4.871555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9872046,
+                "z": 0.0,
+                "w": 0.159459174
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "Kingsman",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.02643347,
+                "y": 1.28700185,
+                "z": 4.838555
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": -0.9062009,
+                "z": 0.0,
+                "w": -0.4228475
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemaleLantern",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.34082365,
+                "y": 1.28700185,
+                "z": 4.71310759
+              },
+              "rotation": {
+                "x": -9.313226E-10,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -0.000278770924
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MaleLantern",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.569224,
+                "y": 1.28700185,
+                "z": 4.701607
+              },
+              "rotation": {
+                "x": -1.86264515E-09,
+                "y": 1.00000012,
+                "z": 7.45058149E-09,
+                "w": 5.659461E-05
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "MaleWhiteLion",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.141933,
+                "y": 1.28700185,
+                "z": 4.723055
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.9926522,
+                "z": 0.0,
+                "w": 0.121003419
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "FemaleWhiteLion",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 4.702624,
+                "y": 1.28700185,
+                "z": 4.70800734
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.853369,
+                "z": 0.0,
+                "w": 0.5213076
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 3.01843929,
+            "y": 0.9140019,
+            "z": 4.917307
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ShelfBoard2",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 4.455024,
+            "y": 0.9140019,
+            "z": 4.91700745
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallRightCorridor",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 0.93,
+        "y": 1.292,
+        "z": -4.366
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallEast",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 5.283,
+        "y": 1.292,
+        "z": 0.658
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallNorth",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 0.312,
+        "y": 1.219,
+        "z": 4.392001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "children": [
+        {
+          "staticDataID": "FireplacePainting",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -0.0290000141,
+            "y": 2.35,
+            "z": 4.442001
+          },
+          "rotation": {
+            "x": 2.3181454E-13,
+            "y": -1.0,
+            "z": 8.146034E-08,
+            "w": 2.95042946E-06
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "staticDataID": "GameTable",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 0.0423998237,
+        "y": 0.0,
+        "z": 0.8884945
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": [
+        {
+          "staticDataID": "GearBoard",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -0.23299998,
+            "y": 0.7406,
+            "z": 0.472
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "GearBoard",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 0.436,
+            "y": 0.7406,
+            "z": 0.472
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "GearBoard",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -0.236400008,
+            "y": 0.7406,
+            "z": 1.348
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "GearBoard",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 0.4342,
+            "y": 0.7406,
+            "z": 1.348
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "MonsterControlPanel",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -0.498200178,
+            "y": 0.7381285,
+            "z": 0.913000047
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "RuleBook",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 1.2803998,
+            "y": 0.7367677,
+            "z": 0.3824945
+          },
+          "rotation": {
+            "x": -5.10332825E-08,
+            "y": -2.53161761E-06,
+            "z": 2.94022939E-08,
+            "w": 1.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ShowdownBoard",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 0.09332352,
+            "y": 0.7412293,
+            "z": 0.912363768
+          },
+          "rotation": {
+            "x": -0.000151552973,
+            "y": -7.0596127E-07,
+            "z": 5.96122882E-05,
+            "w": 1.0
+          },
+          "children": [
+            {
+              "staticDataID": "lucy",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 0.175023615,
+                "y": 0.741802156,
+                "z": 0.7907637
+              },
+              "rotation": {
+                "x": -0.00013562612,
+                "y": -0.351927221,
+                "z": 0.000112490743,
+                "w": 0.9360274
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "ezra",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": -0.06467638,
+                "y": 0.7417736,
+                "z": 0.7907634
+              },
+              "rotation": {
+                "x": -0.000165401492,
+                "y": 0.337318778,
+                "z": 3.05090362E-06,
+                "w": 0.9413906
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "lion",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 0.05492352,
+                "y": 0.741224766,
+                "z": 0.912563741
+              },
+              "rotation": {
+                "x": -0.000151552973,
+                "y": -7.0596127E-07,
+                "z": 5.96122882E-05,
+                "w": 1.0
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "zach",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": -0.0646767244,
+                "y": 0.7418471,
+                "z": 1.03326333
+              },
+              "rotation": {
+                "x": -0.000116487907,
+                "y": 0.9347395,
+                "z": -0.00012015253,
+                "w": 0.3553338
+              },
+              "children": []
+            },
+            {
+              "staticDataID": "allister",
+              "isBackup": false,
+              "spawnIfMissing": false,
+              "requiredUnboxedItem": "",
+              "position": {
+                "x": 0.175023273,
+                "y": 0.7418757,
+                "z": 1.03326368
+              },
+              "rotation": {
+                "x": 1.30441731E-05,
+                "y": -0.953235269,
+                "z": 0.000162832424,
+                "w": 0.302229464
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "staticDataID": "GameBox",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 1.428,
+            "y": 0.7368,
+            "z": 0.896
+          },
+          "rotation": {
+            "x": 2.300478E-09,
+            "y": 0.707101941,
+            "z": -2.78232619E-08,
+            "w": 0.7071117
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "HuntSettlementBoard",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -0.7026002,
+            "y": 0.7389266,
+            "z": 0.9179945
+          },
+          "rotation": {
+            "x": -6.914598E-08,
+            "y": -0.7071069,
+            "z": 9.35106641E-08,
+            "w": 0.707106769
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "characterSheetStack",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 1.05,
+            "y": 0.7394,
+            "z": 0.9239
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "settlementSheetStack",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 0.753,
+            "y": 0.7415,
+            "z": 0.933
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallLeftCorridor",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.931,
+        "y": 1.292,
+        "z": -3.781
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallSouthA",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 2.781,
+        "y": 1.292,
+        "z": -2.665
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallWest",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -5.281,
+        "y": 1.292,
+        "z": 1.249
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "recordPlayer",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.51215434,
+        "y": 1.001,
+        "z": -2.22558045
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.690272748,
+        "z": 0.0,
+        "w": -0.7235493
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "recordHolder",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.51,
+        "y": 0.297,
+        "z": -2.23100019
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.9997232,
+        "z": 0.0,
+        "w": -0.0235294476
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "LightDimmer",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 0.9839,
+        "y": 1.547,
+        "z": -2.978
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": -0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "BooksCabinetBottom",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -3.7114172,
+        "y": 1.46745634,
+        "z": 4.874015
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": [
+        {
+          "staticDataID": "ExpansionsArea",
+          "isBackup": false,
+          "spawnIfMissing": true,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -3.775417,
+            "y": 0.1424563,
+            "z": 5.137015
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ExpansionsArea",
+          "isBackup": false,
+          "spawnIfMissing": true,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -2.37941718,
+            "y": 0.1424563,
+            "z": 5.137015
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "staticDataID": "MiniatureCabinetBottom",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 3.74083924,
+        "y": 1.47400188,
+        "z": 4.876874
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": [
+        {
+          "staticDataID": "ExpansionsArea",
+          "isBackup": false,
+          "spawnIfMissing": true,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 3.67683935,
+            "y": 0.149001837,
+            "z": 5.139874
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "ExpansionsArea",
+          "isBackup": false,
+          "spawnIfMissing": true,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": 5.07283926,
+            "y": 0.149001837,
+            "z": 5.139874
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "staticDataID": "GameRoomDecorationWallSouthB",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -3.382,
+        "y": 1.292,
+        "z": -2.665
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077468,
+        "y": 0.7490783,
+        "z": 0.9333607
+      },
+      "rotation": {
+        "x": 0.360074133,
+        "y": -0.0468936265,
+        "z": -0.120220117,
+        "w": 0.923956037
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "GameBoxStreaming",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 1.399,
+        "y": 0.7491,
+        "z": 1.43500006
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": -0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "DeathPC",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -5.07,
+        "y": 0.943,
+        "z": -1.765
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7060087,
+        "z": 0.0,
+        "w": 0.708203256
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10_red",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077617,
+        "y": 0.7488189,
+        "z": 1.06736076
+      },
+      "rotation": {
+        "x": 0.2852188,
+        "y": 0.10954316,
+        "z": 0.301528454,
+        "w": 0.9031784
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "founder-stone-trophy",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "founder-stone-crate",
+      "position": {
+        "x": -4.956,
+        "y": 0.011,
+        "z": 3.303
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.6917884,
+        "z": 0.0,
+        "w": 0.7221004
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_6",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.3880775,
+        "y": 0.7500616,
+        "z": 0.8783604
+      },
+      "rotation": {
+        "x": -0.000151552973,
+        "y": -7.0596127E-07,
+        "z": 5.96122882E-05,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_6",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.3880773,
+        "y": 0.7493378,
+        "z": 0.79976064
+      },
+      "rotation": {
+        "x": -4.41568045E-05,
+        "y": -0.796488,
+        "z": 0.000156754919,
+        "w": 0.6046544
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "BookShelf",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -3.674,
+        "y": 0.8821595,
+        "z": 4.836
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.7071068,
+        "z": 0.0,
+        "w": -0.7071068
+      },
+      "children": [
+        {
+          "staticDataID": "BoardsArea",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -2.3429997,
+            "y": 0.901159465,
+            "z": 5.208
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.00000012,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -2.642,
+            "y": 2.41245937,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -3.296,
+            "y": 2.41245937,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.113,
+            "y": 2.41245937,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.771,
+            "y": 2.41245937,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -2.642,
+            "y": 2.03485942,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -3.296,
+            "y": 2.03485942,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.113,
+            "y": 2.03485942,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.771,
+            "y": 2.03485942,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -2.642,
+            "y": 1.65655947,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -3.296,
+            "y": 1.65655947,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.113,
+            "y": 1.65655947,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.771,
+            "y": 1.65655947,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -2.642,
+            "y": 1.27775943,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -3.296,
+            "y": 1.27775943,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.113,
+            "y": 1.27775943,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.771,
+            "y": 1.27775943,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.113,
+            "y": 0.899259448,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        },
+        {
+          "staticDataID": "BookContainer",
+          "isBackup": false,
+          "spawnIfMissing": false,
+          "requiredUnboxedItem": "",
+          "position": {
+            "x": -4.771,
+            "y": 0.899259448,
+            "z": 4.85328865
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "staticDataID": "dice_6",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077438,
+        "y": 0.75102675,
+        "z": 0.7634601
+      },
+      "rotation": {
+        "x": -0.000151552973,
+        "y": -7.0596127E-07,
+        "z": 5.96122882E-05,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.3880775,
+        "y": 0.7491858,
+        "z": 0.958260655
+      },
+      "rotation": {
+        "x": 0.3135738,
+        "y": -0.7641752,
+        "z": 0.2143211,
+        "w": 0.521319747
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077319,
+        "y": 0.7482706,
+        "z": 0.907960951
+      },
+      "rotation": {
+        "x": 0.3135738,
+        "y": -0.7641752,
+        "z": 0.2143211,
+        "w": 0.521319747
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "BackupChest",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -2.628,
+        "y": -0.007,
+        "z": -2.303
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10_white",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.3880776,
+        "y": 0.7490089,
+        "z": 1.03436077
+      },
+      "rotation": {
+        "x": 0.2852188,
+        "y": 0.10954316,
+        "z": 0.301528454,
+        "w": 0.9031784
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077646,
+        "y": 0.7499012,
+        "z": 1.00896049
+      },
+      "rotation": {
+        "x": 0.3135738,
+        "y": -0.7641752,
+        "z": 0.2143211,
+        "w": 0.521319747
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "HeirloomsArea",
+      "isBackup": false,
+      "spawnIfMissing": true,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": 5.276,
+        "y": 0.9373,
+        "z": 0.317
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.7071068,
+        "z": 0.0,
+        "w": 0.7071068
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_6",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077348,
+        "y": 0.7493498,
+        "z": 0.8393606
+      },
+      "rotation": {
+        "x": -0.000112623224,
+        "y": -0.419056535,
+        "z": 0.000117634765,
+        "w": 0.9079602
+      },
+      "children": []
+    },
+    {
+      "staticDataID": "dice_10",
+      "isBackup": false,
+      "spawnIfMissing": false,
+      "requiredUnboxedItem": "",
+      "position": {
+        "x": -0.388077527,
+        "y": 0.7491933,
+        "z": 0.983060658
+      },
+      "rotation": {
+        "x": 0.3135738,
+        "y": -0.7641752,
+        "z": 0.2143211,
+        "w": 0.521319747
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2577154288156406993
+  },
+  "m_Name": "AudioPlayableAsset(Clone)(Clone)",
+  "m_Clip": {
+    "m_FileID": 0,
+    "m_PathID": 9187499256093005120
+  },
+  "m_Loop": 0,
+  "m_bufferingTime": 0.10000000149011612,
+  "m_ClipProperties": {
+    "volume": 1.0
+  }
+}

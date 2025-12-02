@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4690247257066454038
+  },
+  "m_Name": "SampleSceneProfile",
+  "components": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5980407595365266666
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6722792493699986666
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1577327874115668758
+    }
+  ]
+}

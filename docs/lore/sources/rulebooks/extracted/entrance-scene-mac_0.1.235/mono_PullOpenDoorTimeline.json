@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PullOpenDoorTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7816227699891005611
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7171255360127604565
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -617053501521827669
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2677494447594170539
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
