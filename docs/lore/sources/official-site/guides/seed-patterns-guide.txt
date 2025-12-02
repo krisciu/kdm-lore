@@ -1,0 +1,115 @@
+# Seed Pattern Survivors Guide
+
+> Source: https://shop.kingdomdeath.com/pages/seed-patterns
+> Scraped: 2025-12-02
+> Category: Official Guide / Game Mechanics
+
+---
+
+## Overview
+
+**Seed pattern survivors are struck by the breathtaking moment of inspiration, inventing outrageous tools that would never occur from need alone. Seed pattern survivors include all components to add these inventions to your game.**
+
+## What's Included with a Seed Survivor
+
+### Seed Pattern Survivor Model
+A miniature of the unique survivor inspired to create a wondrous object. They are depicted with the corresponding gear (highlighted in blue). Use this survivor miniature to represent any survivor in your campaign. You need not use this miniature to gain their seed pattern.
+
+### Seed Pattern Card
+A seed pattern card describes the steps and resources needed to craft your new invention. Once your settlement gains a seed pattern they can pursue the strange process of crafting it.
+
+### Seed Pattern Gear
+Once the seed pattern is crafted, gain the corresponding seed pattern gear included in the box. Seed pattern gear can have exciting rules (glossary cards are included to explain new concepts). Any survivor may use this gear to face the horrors ahead.
+
+## Adding Seed Patterns to Your Game
+
+Before you play with seed patterns, start by creating a seed pattern deck (typically at the start of your campaign) from the seed pattern cards in your collection.
+
+### Building Your Seed Pattern Deck
+1. Examine the keywords on all seed pattern cards in your collection
+2. Keywords are often monsters or game components (e.g., White Lion, Scout, etc.)
+3. If your campaign has all the keywords listed on the card, keep the card
+4. If any keyword is not in your campaign, do not use that seed pattern
+5. Also include any base seed pattern cards that only have the **seed** keyword
+6. Shuffle all the cards together to create the settlement's seed pattern deck
+7. Draw from this deck when instructed to gain a seed pattern
+
+## How to Gain Seed Patterns
+
+### Through Insight (Base Game)
+Inspiration arrives with insight. Seed Patterns are added to your core game when survivors reach **3 levels of understanding**. When they reach this milestone, survivors experience the **Insight** story event. At this moment, they may also draw a random seed pattern card. As more survivors reach this milestone, additional seed patterns are drawn.
+
+### Through the Gambler's Chest
+The Gambler's Chest expansion contains an alternative campaign (People of the Dream Keeper) where survivors gain seed patterns differently. It includes the milestone story event **Designs and Dandelions**, which provides replacement rules for how to play with Seed Patterns.
+
+## Anatomy of Seed Pattern Cards
+
+1. **Name**: The name of the seed pattern and the corresponding seed pattern gear.
+2. **Keywords**: The keywords that determine which seed patterns belong in your campaign. If a monster's name is present, include this only when your campaign has this monster.
+3. **Number**: A unique number to organize your seed pattern cards.
+4. **Crafting limit**: The total quantity of this pattern gear that your settlement can have at any time.
+5. **Diagram**: Shows an image of the pattern gear and its crafting process. For illustrative purposes only.
+6. **Era**: Eras are noted in roman numerals I – IV, corresponding to monster nodes 1 – 4. Craft this gear with resources from monsters in this or a later era.
+7. **Cost**: Lists the components that must be spent (archived) to craft this gear. These can be specific resource cards, resource types (constrained by the pattern's era), gear, vermin, etc.
+8. **Crafting Steps**: The steps required to fabricate this seed pattern gear. Icons next to each step appear in three colors that denote the type of step.
+
+### Crafting Step Colors
+
+- **Gray steps** are storytelling without rules.
+- **Blue steps** include a requirement in bold that must be met to craft this gear. Unlike the resource costs of crafting this gear, requirements are neither spent nor archived.
+- **Purple steps** describe changes that occur to your settlement and its survivors as an outcome of crafting this gear. Apply these changes as you complete the crafting process. Some outcomes are tragic consequences; others are unexpected boons.
+
+## How to Craft Seed Pattern Gear
+
+### During the Develop Step
+During the Develop step of the settlement phase, players can use their earned Seed Pattern cards to craft their respective gear cards.
+
+### Requirements
+1. Spend and archive the cost of the Seed Pattern gear (can be more than just resources - may include gear or endeavors)
+2. If a cost includes resource types instead of named resources, they must come from a monster (not basic resources), and that monster must appear in the era of that seed pattern or later
+3. Meet any **bolded** requirements on blue steps (not spent nor archived)
+4. Apply purple step changes to your settlement and survivors
+
+### Example
+*An Itemsmith's Lens (Era II) costs 1 x Broken Lantern and 1 x Organ. To fulfill the Organ requirement, they must spend a monster resource with the organ subtype from a Node 2 quarry monster or later.*
+
+### Completion
+When all steps are complete, gain the associated Seed Pattern gear and return the recipe card to the settlement's earned Seed Pattern cards.
+
+## Key Lore Points
+
+1. Seed patterns represent "breathtaking moments of inspiration"
+2. The inventions are "outrageous tools that would never occur from need alone"
+3. Insight comes from reaching 3 levels of understanding
+4. The crafting process has narrative elements (gray steps)
+5. Crafting can have both tragic consequences and unexpected boons
+6. Different campaigns (base vs Gambler's Chest) have different ways to gain patterns
+
+## Themes
+
+- Inspiration and creativity
+- Invention beyond necessity
+- Understanding leading to insight
+- Crafting as a narrative journey
+- Consequences of creation
+- Era-based progression (I-IV)
+
+## Era System
+
+- **Era I**: Node 1 monsters
+- **Era II**: Node 2 monsters
+- **Era III**: Node 3 monsters
+- **Era IV**: Node 4 monsters
+
+Resources used must come from monsters in the seed pattern's era or later.
+
+## Related Concepts
+
+- Insight story event
+- Understanding (survivor attribute)
+- Monster Nodes (1-4)
+- Eras (I-IV)
+- Settlement Development phase
+- People of the Dream Keeper (Gambler's Chest campaign)
+- Designs and Dandelions story event
+

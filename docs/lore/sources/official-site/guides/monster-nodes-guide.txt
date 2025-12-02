@@ -1,0 +1,223 @@
+# Monster Nodes Guide
+
+> Source: https://kingdomdeath.myshopify.com/pages/nodes-in-monster-campaigns
+> Scraped: 2025-12-02
+> Category: Official Guide / Game Structure
+
+---
+
+## Overview
+
+**Kingdom Death: Monster is a game with countless emergent possibilities. Monster nodes provide a guide to adding new expansions to your game, curating a unique mix of changes to the story of your settlement each time you start a fresh campaign.**
+
+## Monster Campaigns
+
+A campaign of Kingdom Death: Monster starts when desperate survivors suddenly awaken in the darkness. If they survive, their fragile settlement will continue to grow, face new challenges, and reveal the secret of their existence until they reach the finale of their story.
+
+### Campaign Elements
+- **Quarry monsters** - Survivors hunt these for resources
+- **Nemesis monsters** - Arise to challenge the settlement's existence
+- **Core monsters** - Define your story
+- **Finale monsters** - Bring your story to its glorious end
+
+### Campaign Timeline
+Campaigns take place over a span of lantern years. Each lantern year you will:
+- Grow your settlement
+- Hunt a quarry in the darkness OR fend off an assault from a nemesis
+- Survive long enough to face the core monster at the heart of your story
+- Meet your end in the finale
+
+## Monster Nodes Explained
+
+Monsters are organized by their node in your campaign. Nodes indicate:
+- The **type** of monster (quarry, nemesis, core, finale)
+- The **challenge level** indicated by a number
+
+### Quarry Nodes (NQ1-NQ4)
+Quarry monsters arrive in your campaign in node order: **NQ1, NQ2, NQ3, NQ4**
+
+When a quarry monster is added to your campaign, you can:
+- Hunt it to reap the rewards of triumph
+- Or perish in surprising new ways
+
+### Nemesis Nodes (NN1-NN3)
+Nemesis monsters arrive at designated points on the timeline to challenge your settlement's existence.
+
+### Core Monster (Co)
+Each campaign has ONE core monster. The delicate ecological balance between a settlement's survival and the darkness teeming with monsters is embodied in this lynchpin foe.
+
+### Finale Monster (Fi)
+Campaigns have one finale monster - your settlement's final challenge! The many lantern years of campaigning have led to this moment.
+
+## Core Game Monster Nodes
+
+The Kingdom Death: Monster core game has these monster nodes:
+
+| Node | Monster |
+|------|---------|
+| NQ1 | White Lion |
+| NQ2 | Screaming Antelope |
+| NQ3 | Phoenix |
+| NN1 | Butcher |
+| NN2 | King's Man |
+| NN3 | The Hand |
+| Co | Watcher |
+| Fi | Gold Smoke Knight |
+
+These weave together into your first campaign: **People of the Lantern**.
+
+## Complete Node Reference
+
+### NQ1 (Node Quarry 1)
+- White Lion (Core)
+- Gorm (Expansion)
+- Crimson Crocodile (Gambler's Chest)
+- Frogdog (Expansion)
+
+### NQ2 (Node Quarry 2)
+- Screaming Antelope (Core)
+- Spidicules (Expansion)
+- Flower Knight (Expansion)
+- Smog Singers (Gambler's Chest)
+
+### NQ3 (Node Quarry 3)
+- Phoenix (Core)
+- Dragon King (Expansion)
+- Sunstalker (Expansion)
+
+### NQ4 (Node Quarry 4)
+- Dung Beetle Knight (Expansion)
+- Lion God (Expansion)
+- King (Gambler's Chest)
+
+### NN1 (Node Nemesis 1)
+- Butcher (Core)
+- Manhunter (Expansion)
+- Pariah (Expansion)
+
+### NN2 (Node Nemesis 2)
+- King's Man (Core)
+- Lion Knight (Expansion)
+- Slenderman (Expansion)
+- Atnas (Gambler's Chest)
+- Red Witches (Expansion)
+
+### NN3 (Node Nemesis 3)
+- The Hand (Core)
+- Black Knight (Expansion)
+
+### Co (Core Monster)
+- Watcher (People of the Lantern)
+- Dragon King (People of the Stars)
+- Sunstalker (People of the Sun)
+- Gambler (People of the Dream Keeper)
+
+### Fi (Finale Monster)
+- Gold Smoke Knight (Core)
+- Godhand (Gambler's Chest)
+
+## Available Campaigns
+
+### People of the Lantern (Core Campaign)
+Standard campaign included in the core game.
+
+### People of the Sun (Sunstalker Expansion)
+| Node | Monster |
+|------|---------|
+| NQ1 | White Lion |
+| NQ2 | Screaming Antelope |
+| NQ3 | Phoenix |
+| NN1 | Butcher |
+| NN2 | King's Man |
+| NN3 | The Hand |
+| Co | Ancient Sunstalker |
+| Fi | None |
+
+*Note: Has a unique nemesis challenge at the end. Use monster levels listed on settlement record sheet for any new nemesis swapped in.*
+
+### People of the Stars (Dragon King Expansion)
+| Node | Monster |
+|------|---------|
+| NQ1 | White Lion |
+| NQ2 | Screaming Antelope |
+| NQ3 | Phoenix |
+| NN1 | Tyrant |
+| NN2 | King's Man |
+| NN3 | The Hand |
+| Co | Death of the Dragon King |
+| Fi | None |
+
+*Note: Survivors are tied to their godking. Do NOT replace NN1 with any other nemesis monster.*
+
+### People of the Dream Keeper (Gambler's Chest)
+| Node | Monster |
+|------|---------|
+| NQ1 | Crimson Crocodile |
+| NQ2 | Smog Singers |
+| NQ3 | Phoenix |
+| NQ4 | The King |
+| NN1 | Butcher |
+| NN2 | Atnas the Child Eater |
+| NN3 | The Hand |
+| Co | The Gambler |
+| Fi | Godhand |
+
+## Adding Expansion Monsters
+
+### General Rule
+When you add an expansion, remove any monster of the same node from the settlement's timeline and quarry list (erase its corresponding story events, showdowns, and encounters).
+
+### Monster Crests
+Expansion content is marked with unique monster crests, allowing for quick installation and removal between campaigns.
+
+## Modified Node Rules for Legacy Expansions
+
+Some older expansions (Slenderman, Manhunter, Lion Knight) can be converted to the modern node system:
+
+### [NN2] Slenderman
+- **Remove**: King's Man from timeline
+- **Add LY6**: Story Event - It's Already Here
+- **Timeline**:
+  - LY9: Slenderman Level 1
+  - LY19: Slenderman Level 2
+  - LY28: Slenderman Level 3
+
+### [NN1] Manhunter
+- **Remove**: Butcher from timeline
+- **Add LY5**: Story Event - Hanged Man
+- **Timeline**:
+  - LY10: Manhunter Level 2
+  - LY16: Manhunter Level 3
+  - LY22: Manhunter Level 4
+
+### [NN2] Lion Knight
+- **Remove**: King's Man from timeline
+- **Add LY6**: Story Event - An Uninvited Guest
+- **Timeline**:
+  - LY8: Lion Knight Level 1
+  - LY12: Lion Knight Level 2
+  - LY16: Lion Knight Level 3
+
+## Key Lore Points
+
+1. Survivors "suddenly awaken in the darkness" at campaign start
+2. The campaign tells the story of revealing "the secret of their existence"
+3. There's a "delicate ecological balance" between settlements and monsters
+4. Core monsters are the "lynchpin" of this balance
+5. Four distinct campaigns with different narrative focuses:
+   - People of the Lantern: The Watcher's judgment
+   - People of the Sun: The Ancient Sunstalker
+   - People of the Stars: The Dragon King's tyranny
+   - People of the Dream Keeper: The Gambler's games
+6. "Atnas the Child Eater" - a dark nemesis name revealing brutal world
+
+## Related Concepts
+
+- Lantern Years (time measurement)
+- Settlement Timeline
+- Monster Levels (1-4)
+- Quarry hunting
+- Nemesis encounters
+- Core/Finale showdowns
+- Campaign design
+
