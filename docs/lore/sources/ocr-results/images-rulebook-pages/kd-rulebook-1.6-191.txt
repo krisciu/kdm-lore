@@ -1,0 +1,45 @@
+# OCR Result: kd-rulebook-1.6-191.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-191.png
+Processed: 2025-12-02T17:35:22.951Z
+Tokens: 2161
+
+---
+
+**WATCHED**
+
+*Dark spots spread across the lantern hoard. A nervous hush falls over the settlement. Slowly, the most daring survivors peer past the darkened lanterns, venturing beneath them into a vast chamber, unknown and undreamed of. Slumbering in the center of the chamber, the survivors can feel a presence of immense danger. Their ultimate predator would soon wake, extinguishing the lantern light that holds the endless darkness at bay.*
+
+Starting with this settlement phase, the survivors may awaken and face the sleeping menace. You may move **X Nemesis Encounter - Watcher** to the current lantern year. You cannot move it to a year that already has a Nemesis Encounter on the timeline.
+
+The settlements have a different response to the discovery based on their **Conviction**.
+
+**Barbaric Response**
+
+The survivors decide they must craft the perfect weapon to prepare themselves. Gain the **Ultimate Weapon Innovation**. This does not count towards your settlement's innovation total. Nominate a survivor and roll 1d10.
+
+◆◆◆◆◆
+
+The survivor begins to make preparations. Add **Hands of Heat** to the timeline 4 years from now.
+
+◇◇◇◇◇
+
+The survivor silently decides they are the true hero. They gain +10 insanity, and the **Quixotic** disorder.
+
+**Romantic Response**
+
+The survivors decide they must learn the perfect fighting art to prepare themselves. Gain the **Final Fighting Art Innovation**. This does not count towards your settlement's innovation total. Nominate a survivor and roll 1d10.
+
+◆◆◆◆◆
+
+Without saying a word, the survivor runs into the darkness, never to be found again. Add **Bone Witch** to the timeline 4 years from now.
+
+◇◇◇◇◇
+
+The survivor bursts into an unhealthy laughter. They gain +10 insanity, +1 permanent strength, and the **Immortal** disorder.
+
+*Finale*
+
+Kingdom Death: Monster Core Game **187**
+
+---

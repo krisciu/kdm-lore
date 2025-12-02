@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-23.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-23.png
+Processed: 2025-12-02T17:40:45.533Z
+Tokens: 1730
+
+---
+
+*The man with the lantern scrambled to his feet, his weapon clenched in his fist. He took a deep breath and roared into the darkness.*
+
+Kingdom Death: Monster Core Game **19**
+
+---

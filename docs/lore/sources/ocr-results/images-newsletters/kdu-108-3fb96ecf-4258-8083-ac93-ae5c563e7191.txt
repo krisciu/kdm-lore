@@ -1,0 +1,41 @@
+# OCR Result: kdu-108-3fb96ecf-4258-8083-ac93-ae5c563e7191.jpg
+
+Source: official-site/images/newsletters/kdu-108-3fb96ecf-4258-8083-ac93-ae5c563e7191.jpg
+Processed: 2025-12-02T18:06:30.545Z
+Tokens: 903
+
+---
+
+Looking at this image, I can see it's a website navigation menu for Kingdom Death: Monster, but it appears to be a screenshot of the website interface rather than game content. Here's the visible text:
+
+**Navigation Menu:**
+- Monster
+- News
+- Rules
+- Hobby
+- Shop
+- Support
+- Account of Death
+
+**Shop Categories:**
+- New
+- Game
+- Limited Edition Resin
+- Miniatures
+- Accessories
+- Simulator
+- Shop Your Region
+
+**Regional Options:**
+- U.S.
+- Europe
+- United Kingdom
+- Australia
+- Canada
+
+**Main Content Area:**
+**New**
+
+This appears to be a website interface screenshot rather than actual game content like cards, rules, or lore text from Kingdom Death: Monster.
+
+---

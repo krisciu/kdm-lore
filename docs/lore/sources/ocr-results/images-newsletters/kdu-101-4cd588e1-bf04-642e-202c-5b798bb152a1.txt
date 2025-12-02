@@ -1,0 +1,13 @@
+# OCR Result: kdu-101-4cd588e1-bf04-642e-202c-5b798bb152a1.jpg
+
+Source: official-site/images/newsletters/kdu-101-4cd588e1-bf04-642e-202c-5b798bb152a1.jpg
+Processed: 2025-12-02T17:18:30.289Z
+Tokens: 1784
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing what looks like a Christmas or holiday-themed scene with a young woman with curly red hair sitting near some wrapped presents, surrounded by large, monstrous creatures with tentacles and claws in a dark, atmospheric setting. The image appears to be decorative artwork rather than a game card or component with readable text elements.
+
+---

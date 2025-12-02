@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-122.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-122.png
+Processed: 2025-12-02T17:24:17.378Z
+Tokens: 1754
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dramatic scene with a large monster creature consuming or attacking human figures. The image contains no visible text, card names, rules, or other readable content - it appears to be artwork that would accompany game content rather than containing game mechanics itself.
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-18.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-18.png
+Processed: 2025-12-02T17:34:13.830Z
+Tokens: 1787
+
+---
+
+[No text found]
+
+This appears to be a purely artistic/decorative image from Kingdom Death: Monster showing a dramatic scene with a character with white/silver hair in the foreground and what appears to be a menacing creature with glowing red eyes in the background. The image has an atmospheric, apocalyptic feel with warm orange/yellow lighting in the foreground contrasting with dark, stormy skies. There is no visible text, rules, or game mechanics present in this illustration.
+
+---

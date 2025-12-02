@@ -1,0 +1,23 @@
+# OCR Result: kd-rulebook-1.6-208.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-208.png
+Processed: 2025-12-02T17:37:35.010Z
+Tokens: 1906
+
+---
+
+Looking at this manga-style comic page, I can extract the following text:
+
+**Sound Effects and Onomatopoeia:**
+- Multiple instances of katakana text that appear to be sound effects (typical in manga)
+- "PAK!!" 
+- "HA HA"
+- Various other Japanese sound effect characters scattered throughout the panels
+
+**Dialogue:**
+- "!!" (exclamation marks in speech bubbles)
+- Some speech bubbles contain what appears to be Japanese text/characters
+
+**Note:** This appears to be a page from a Japanese manga with primarily visual storytelling. Most of the text consists of sound effects written in katakana and minimal dialogue. The scene depicts what appears to be an action sequence with a character with long hair in combat or intense situations across multiple panels. Without being able to clearly read all the Japanese characters in the image quality provided, I cannot provide a complete transcription of every text element, but the dominant textual elements are the sound effects and exclamations typical of manga action scenes.
+
+---

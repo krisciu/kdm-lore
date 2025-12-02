@@ -1,0 +1,27 @@
+# Vercel Ignore - Exclude large files and development-only content
+
+# Large extracted assets (3.3GB+) - too big for deployment
+docs/lore/sources/rulebooks/extracted/images/
+docs/lore/sources/rulebooks/ocr/
+
+# Source files that are processed at build time
+docs/lore/sources/kickstarter/images/
+docs/lore/sources/official-site/images/
+
+# Scripts used for local extraction only
+scripts/
+
+# Local data files (these are runtime-generated)
+data/
+
+# Development files
+*.log
+.env.local
+.env*.local
+
+# Python virtual environments and cache
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+

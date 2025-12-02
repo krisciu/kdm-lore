@@ -1,0 +1,17 @@
+# OCR Result: kd-rulebook-1.6-218.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-218.png
+Processed: 2025-12-02T17:39:06.945Z
+Tokens: 1825
+
+---
+
+Looking at this manga-style illustration, I can only make out a few text elements:
+
+**AH** - appears in the upper right corner
+
+The image appears to be primarily an artistic illustration showing what looks like a dramatic battle scene with fantasy creatures, rendered in detailed black and white manga/comic style. The scene depicts various monstrous or creature-like forms in combat, with dynamic action lines and explosive effects typical of manga artwork.
+
+The vast majority of this image is illustration rather than text content. If there are other text elements present, they are either too small, stylized, or integrated into the artwork in a way that makes them difficult to distinguish from the artistic elements.
+
+---

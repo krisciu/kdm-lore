@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-184.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-184.png
+Processed: 2025-12-02T17:34:29.642Z
+Tokens: 1756
+
+---
+
+[No text found]
+
+This appears to be an artwork/illustration image from Kingdom Death: Monster showing two female figures in a dramatic scene, but I cannot detect any readable text, card names, rules text, or other game mechanics visible in this image. The image appears to be purely artistic/decorative content without any text overlay or game information.
+
+---

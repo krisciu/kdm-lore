@@ -1,0 +1,20 @@
+# OCR Result: kd-rulebook-1.6-227.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-227.png
+Processed: 2025-12-02T17:40:39.776Z
+Tokens: 1793
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text:
+
+**Panel text (sound effects and dialogue):**
+- HA!
+- Fu
+- Fū
+- AH
+- TAK
+
+The image appears to be a black and white manga page showing various panels with a character with long hair in what seems to be an action or dramatic sequence. Most of the content is visual storytelling with minimal text, consisting primarily of sound effects and brief exclamations typical of manga formatting.
+
+---

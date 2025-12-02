@@ -1,0 +1,83 @@
+# OCR Result: kd-rulebook-1.6-31.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-31.png
+Processed: 2025-12-02T17:46:02.124Z
+Tokens: 2452
+
+---
+
+**White Lion**
+*(Level 1 - First Story Variant)*
+
+**Monster Attributes**
+- Movement: 6
+- Toughness: 6
+- Speed: -
+- Damage: -
+
+**Basic Action**
+*If no other action is available*
+
+**Pick Target**
+- closest survivor, in field of view
+- no target: sniff
+
+**Move & Attack Target**
+Move - Attack - Move
+2 - 2+ - 1
+
+**Sniff:** *The White Lion uses its powerful nose to find its prey and once its turn. Until the end of the next round, all survivors are now threats, even if they are knocked down or used an effort that says otherwise.*
+
+---
+
+**Showdown**
+
+The showdown proceeds in rounds. The White Lion takes its turn, then the survivors take a turn consisting of 1 act per survivor. This is considered one full round.
+
+**① Select the Monster Controller**
+Choose a player to take the monster controller tile. After every round, pass the monster controller tile clockwise to the next player.
+
+For that round, the monster controller will take the monster's turn, handle any reactions if the monster is attacked or the survivors' turn, as well as controlling their own survivor.
+
+**② Draw the Claw Attack**
+The White Lion attacks! The monster controller draws the top AI card of the AI deck and reads it.
+
+**③ Determine Monster's Target**
+Consult the *Pick Target* on the AI card. This action tells the monster controller which survivor to target. Starting at the top, check each item to see if any survivors satisfy the target rule. STOP when the first target is found. If more than one survivor can be targeted, it's up to the monster controller to choose. Common target list terms include:
+
+**Closest threat:** Closest standing survivor. A knocked down survivor is not a threat.
+
+**Facing:** All spaces in front of the monster miniature.
+
+**In range:** If the monster's movement can end adjacent to a survivor, they are in range (6 spaces in any direction for the White Lion).
+
+**In field of view:** Not in the blind spot (above diagram).
+
+---
+
+**Claw**
+
+**Pick Target**
+- closest threat, facing, in range
+- closest threat, in field of view
+- no target: sniff
+
+**Move & Attack Target**
+Move - Attack - Move
+2 - 2+ - 1
+
+---
+
+In the case of **Claw**, the first item in the Pick Target list is *closest threat, facing, in range*. If the monster must move 6 or fewer spaces to reach a threat, in the direction that the White Lion is facing, one of those survivors is the target (see above diagram).
+
+If not, check the next item: *closest threat, in field of view*. The monster controller should find any threat not in the White Lion's blind spot. Note, even if the closest survivor is out of the White Lion's movement, they still become the target.
+
+If no other targeting directives can be met, the final item on the list is *no target: sniff*. The White Lion will fall back on an instinct behavior, **sniff**, if a target is not found. The rules for **sniff** are described above. If the White Lion sniffs, its turn will end.
+
+Once a target is selected, move to the next section of the AI card.
+
+---
+
+*Kingdom Death: Monster Core Game* **27**
+
+---

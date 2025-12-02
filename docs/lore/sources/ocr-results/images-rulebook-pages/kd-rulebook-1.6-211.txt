@@ -1,0 +1,29 @@
+# OCR Result: kd-rulebook-1.6-211.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-211.png
+Processed: 2025-12-02T17:38:07.612Z
+Tokens: 1890
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text:
+
+**Sound Effects and Dialogue:**
+- "Guu!!"
+- "CHEW"
+- "CHEW"
+- "Ha..."
+- "Fu..."
+- "Hmm..."
+- "ERK"
+- "AH!"
+- "Fuuu"
+
+**Japanese Text (in speech bubbles):**
+- Various Japanese characters in speech bubbles throughout the panels that appear to be dialogue or internal monologue
+
+This appears to be a page from a manga or comic featuring a character (appears to be a young girl with light hair) in various panels showing eating and emotional reactions. The text is minimal and consists primarily of sound effects and brief exclamations, with additional Japanese text that would require translation for full meaning.
+
+The overall layout shows multiple panels depicting what seems to be a sequence involving the character eating something and having various reactions to it.
+
+---

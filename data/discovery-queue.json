@@ -1,0 +1,885 @@
+[
+  {
+    "name": "Allister",
+    "type": "character",
+    "subType": null,
+    "brief": "One of the four starting survivors from Kingdom Death: Monster, reimagined as a 10th Anniversary figure showing the ingenuity and grit required to endure the darkness.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925955-fd5dpx",
+    "discoveredAt": "2025-12-02T17:18:45.955Z",
+    "status": "queued"
+  },
+  {
+    "name": "Zachary",
+    "type": "character",
+    "subType": null,
+    "brief": "One of the four starting survivors from Kingdom Death: Monster, reimagined as a 10th Anniversary figure showing the ingenuity and grit required to endure the darkness.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925955-emaiib",
+    "discoveredAt": "2025-12-02T17:18:45.955Z",
+    "status": "queued"
+  },
+  {
+    "name": "Lucy",
+    "type": "character",
+    "subType": null,
+    "brief": "One of the four starting survivors from Kingdom Death: Monster, reimagined as a 10th Anniversary figure showing the ingenuity and grit required to endure the darkness.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925955-4xdd3n",
+    "discoveredAt": "2025-12-02T17:18:45.955Z",
+    "status": "queued"
+  },
+  {
+    "name": "Erza",
+    "type": "character",
+    "subType": null,
+    "brief": "One of the four starting survivors from Kingdom Death: Monster, reimagined as a 10th Anniversary figure showing the ingenuity and grit required to endure the darkness.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925955-d6e11r",
+    "discoveredAt": "2025-12-02T17:18:45.955Z",
+    "status": "queued"
+  },
+  {
+    "name": "Seed Patterns",
+    "type": "concept",
+    "subType": null,
+    "brief": "A spark of crafting inspiration that accompanies insight gleaned about the world. When survivors reach their insights, they draw a Pattern that describes what to use and how to craft brand new gear.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 2,
+    "id": "entity-1764695925955-yrdh2r",
+    "discoveredAt": "2025-12-02T17:18:45.955Z",
+    "status": "queued"
+  },
+  {
+    "name": "Twilight Knights",
+    "type": "faction",
+    "subType": null,
+    "brief": "Warriors who stand on the edge of the known world, their lives devoted to battling foul creatures and horrifying abominations to shield the weak from such peril.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/allison-the-twilight-knight.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925955-9mtuyf",
+    "discoveredAt": "2025-12-02T17:18:45.955Z",
+    "status": "queued"
+  },
+  {
+    "name": "Hooded Knight",
+    "type": "event",
+    "subType": null,
+    "brief": "A story event in Kingdom Death: Monster that receives an upgrade through the Allison expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/allison-the-twilight-knight.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925956-05ho5y",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tattered Parcel",
+    "type": "item",
+    "subType": null,
+    "brief": "A story event sticker that can be affixed to the Kingdom Death: Monster core rulebook to upgrade the Hooded Knight story event.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/allison-the-twilight-knight.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925956-9kyu90",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Dormant Twilight Cloak",
+    "type": "item",
+    "subType": null,
+    "brief": "A rare gear card accessible through the Tattered Parcel story event upgrade.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/allison-the-twilight-knight.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925956-igrlv3",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Blue Lantern",
+    "type": "item",
+    "subType": null,
+    "brief": "A rare gear card accessible through the Tattered Parcel story event upgrade.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/allison-the-twilight-knight.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925956-awgzsn",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Ashbloom",
+    "type": "character",
+    "subType": null,
+    "brief": "A character known for unflagging optimism that causes Gnostin to pray for death. Featured as a collectible bust with dynamic details from the original sculpt.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/ashbloom-bust.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925956-jgfxb5",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Gnostin",
+    "type": "character",
+    "subType": null,
+    "brief": "A character who prays for death due to Ashbloom's unflagging optimism.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/ashbloom-bust.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925956-mqvtny",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Aya the Survivor",
+    "type": "character",
+    "subType": null,
+    "brief": "A survivor whose exploits are followed in a series of sculptures. She is on a journey and hunt, armed with powerful weapons that suggest she is pursuing a dangerous quarry.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925956-x4uxsb",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Black Sword",
+    "type": "item",
+    "subType": null,
+    "brief": "A deadly weapon wielded by Aya the Survivor at the start of her journey.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925956-o98qmg",
+    "discoveredAt": "2025-12-02T17:18:45.956Z",
+    "status": "queued"
+  },
+  {
+    "name": "Beacon Shield",
+    "type": "item",
+    "subType": null,
+    "brief": "A weapon carried by Aya the Survivor alongside her Black Sword at the beginning of her hunt.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925957-ilc4ca",
+    "discoveredAt": "2025-12-02T17:18:45.957Z",
+    "status": "queued"
+  },
+  {
+    "name": "Vagabond Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set worn by Aya that provides unique bonuses, included as a game card in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925957-5ja2wk",
+    "discoveredAt": "2025-12-02T17:18:45.957Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tabard",
+    "type": "item",
+    "subType": null,
+    "brief": "A gear item that is part of the Vagabond Armor set, included as a game card.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925957-vvfah3",
+    "discoveredAt": "2025-12-02T17:18:45.957Z",
+    "status": "queued"
+  },
+  {
+    "name": "White Dragon Gauntlets",
+    "type": "item",
+    "subType": null,
+    "brief": "Gauntlets that are part of the Vagabond Armor set, included as a gear card for gameplay use.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925957-eh1uya",
+    "discoveredAt": "2025-12-02T17:18:45.957Z",
+    "status": "queued"
+  },
+  {
+    "name": "Black Friday Formal Erza",
+    "type": "character",
+    "subType": null,
+    "brief": "A character presented in formal black tie attire for Black Friday, described as arriving in bold style for the darkest day of the year. Available as a painters scale photoresin miniature.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-friday-formal-erza-painters-scale.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925957-bcitik",
+    "discoveredAt": "2025-12-02T17:18:45.957Z",
+    "status": "queued"
+  },
+  {
+    "name": "Black Knight Order",
+    "type": "faction",
+    "subType": null,
+    "brief": "A once-great organization with secretive artifices and squires. The order has a citadel where squires serve under the auspices of the restless guardian.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925958-9o0me9",
+    "discoveredAt": "2025-12-02T17:18:45.958Z",
+    "status": "queued"
+  },
+  {
+    "name": "Black Knight's Citadel",
+    "type": "location",
+    "subType": null,
+    "brief": "The claustrophobic remains of the Black Knight's domain where chaotic, ruinous battles take place. It is located on an inverted mountain with dangerous edges.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925958-8mpdzy",
+    "discoveredAt": "2025-12-02T17:18:45.958Z",
+    "status": "queued"
+  },
+  {
+    "name": "Cliffside Sanctuary",
+    "type": "location",
+    "subType": null,
+    "brief": "The location where the feral guardian Black Knight awaits, summoned by the tolling of a strange bell.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925958-0p2ocl",
+    "discoveredAt": "2025-12-02T17:18:45.958Z",
+    "status": "queued"
+  },
+  {
+    "name": "Inverted Mountain",
+    "type": "location",
+    "subType": null,
+    "brief": "A dangerous mountainous location with treacherous edges where survivors can careen off during battle with the Black Knight.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925958-ee1qpy",
+    "discoveredAt": "2025-12-02T17:18:45.958Z",
+    "status": "queued"
+  },
+  {
+    "name": "Cain",
+    "type": "character",
+    "subType": null,
+    "brief": "One of four dutybound squires whose fate can be learned through the Squires of the Citadel campaign.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925958-sg5grh",
+    "discoveredAt": "2025-12-02T17:18:45.958Z",
+    "status": "queued"
+  },
+  {
+    "name": "Iola",
+    "type": "character",
+    "subType": null,
+    "brief": "One of four dutybound squires whose fate can be learned through the Squires of the Citadel campaign.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925958-c8ta58",
+    "discoveredAt": "2025-12-02T17:18:45.958Z",
+    "status": "queued"
+  },
+  {
+    "name": "Elle",
+    "type": "character",
+    "subType": null,
+    "brief": "One of four dutybound squires whose fate can be learned through the Squires of the Citadel campaign.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925959-3b7tdd",
+    "discoveredAt": "2025-12-02T17:18:45.959Z",
+    "status": "queued"
+  },
+  {
+    "name": "Owen",
+    "type": "character",
+    "subType": null,
+    "brief": "One of four dutybound squires whose fate can be learned through the Squires of the Citadel campaign.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925959-9es206",
+    "discoveredAt": "2025-12-02T17:18:45.959Z",
+    "status": "queued"
+  },
+  {
+    "name": "Squires of the Citadel Campaign",
+    "type": "concept",
+    "subType": null,
+    "brief": "A 5 lantern year campaign exploring the secretive life of squires in the Black Knight's citadel. It tells the tale of four dutybound squires using ready-to-play gear grids and survivor vignette cards.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925959-vfv9sj",
+    "discoveredAt": "2025-12-02T17:18:45.959Z",
+    "status": "queued"
+  },
+  {
+    "name": "Dragon King",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A node 3 quarry monster whose species is long dead, remaining alone and clinging to memories of its once mighty race. It stalks the darkness with wildly swinging moods from impotent rage to obsessive nostalgia, emanating ruinous pain from its glowing heart.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925959-wwub7k",
+    "discoveredAt": "2025-12-02T17:18:45.959Z",
+    "status": "pending_review"
+  },
+  {
+    "name": "Phoenix",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A monster that the Dragon King expansion replaces in Kingdom Death: Monster campaigns.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925959-16d5kp",
+    "discoveredAt": "2025-12-02T17:18:45.959Z",
+    "status": "pending_review"
+  },
+  {
+    "name": "People of the Stars",
+    "type": "concept",
+    "subType": null,
+    "brief": "A brand new 25 lantern year campaign included in the Dragon King expansion that tells the story of a settlement raised by the Tyrant. It includes unique stories, advantages, and challenges leading up to final judgement.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925959-ufez8v",
+    "discoveredAt": "2025-12-02T17:18:45.959Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tyrant",
+    "type": "monster",
+    "subType": null,
+    "brief": "An ancient being that molds survivors in the image of its lost civilization, raising settlements in the People of the Stars campaign.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925960-1cgw0o",
+    "discoveredAt": "2025-12-02T17:18:45.960Z",
+    "status": "pending_review"
+  },
+  {
+    "name": "Flower Knight",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "An enigmatic knight known for its ethereal beauty and unmatchable swordplay. This node 2 quarry monster rewards luck and punishes survivors who try to gang up on it, with rewards that explore themes of addiction and short-term gain coupled with long-term losses.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925960-c9z3co",
+    "discoveredAt": "2025-12-02T17:18:45.960Z",
+    "status": "queued"
+  },
+  {
+    "name": "Screaming Antelope",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A quarry monster that can be replaced by the Flower Knight in Kingdom Death: Monster campaigns.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925960-7mtuen",
+    "discoveredAt": "2025-12-02T17:18:45.960Z",
+    "status": "queued"
+  },
+  {
+    "name": "Fairy Ring",
+    "type": "location",
+    "subType": null,
+    "brief": "A terrain feature associated with the Flower Knight expansion, represented by 4 sections included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925960-b6d5zh",
+    "discoveredAt": "2025-12-02T17:18:45.960Z",
+    "status": "queued"
+  },
+  {
+    "name": "Bullfrogdog",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A variant of the Frogdog lurking at the farthest edges of the darkness, representing a new threat that emerges as campaigns progress beyond the mightiest Frogdogs.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925960-56dgau",
+    "discoveredAt": "2025-12-02T17:18:45.960Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tusked Horror",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A tusked variant of the Bullfrogdog described as a powerfully toothy beast that provides a completely different showdown experience with new AI, HL, and resource cards.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925960-4udcjg",
+    "discoveredAt": "2025-12-02T17:18:45.960Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tuskworks",
+    "type": "location",
+    "subType": "null",
+    "brief": "A settlement location mentioned in the contents, likely related to the Bullfrogdog and tusked variants.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925961-6wd7hl",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "Gambler's Chest",
+    "type": "item",
+    "subType": null,
+    "brief": "An expansion that allows players to hunt new monsters, grow deviant survivors, and change the rules of Kingdom Death: Monster.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925961-bqj09r",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "Atnas the Child-Eater",
+    "type": "monster",
+    "subType": null,
+    "brief": "A named monster included in the Gambler's Chest expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925961-mzj168",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "The Gambler",
+    "type": "character",
+    "subType": null,
+    "brief": "A character included in the Gambler's Chest expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925961-rwirza",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "Godhand",
+    "type": "character",
+    "subType": null,
+    "brief": "A character included in the Gambler's Chest expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925961-stxoie",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "Crimson Crocodile",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A monster in the expansion that comes with associated armor set miniatures.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925961-8qxwef",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "Smog Singers",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A monster in the expansion that comes with associated armor set miniatures.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925961-bc2clw",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "Bone Eaters",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "Encounter Monsters that increase the danger of the hunt.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764695925961-0q87me",
+    "discoveredAt": "2025-12-02T17:18:45.961Z",
+    "status": "queued"
+  },
+  {
+    "name": "The King",
+    "type": "character",
+    "subType": null,
+    "brief": "A character included in the Gambler's Chest expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-vnbpbp",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "White Fang",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-w7p1cz",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "Last Axeman Standing",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-86a308",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "Scouts of Death",
+    "type": "character",
+    "subType": null,
+    "brief": "Male and female scout models that add new difficulty to the game.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-9s4xg6",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "Murderer",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-0scdxd",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "Bowmaster of Deadrock",
+    "type": "character",
+    "subType": null,
+    "brief": "A character from the location Deadrock included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-as0xec",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "Bloody Sword of Deadrock",
+    "type": "character",
+    "subType": null,
+    "brief": "A character from the location Deadrock included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925962-rp56nx",
+    "discoveredAt": "2025-12-02T17:18:45.962Z",
+    "status": "queued"
+  },
+  {
+    "name": "Deadrock",
+    "type": "location",
+    "subType": null,
+    "brief": "A location referenced in character names, associated with the Bowmaster and Bloody Sword characters.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925963-ot1emh",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Dark Eye",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925963-rs2rz9",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Romantic Adventurer",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925963-dzutin",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Screaming Hoarder",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925963-fs64vm",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Cockroach Queen",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925963-i7jkxw",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Nightmare Adam",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925963-det5h0",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Anna, Gourmet Hunter",
+    "type": "character",
+    "subType": null,
+    "brief": "A named character who is described as a gourmet hunter.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925963-cxfv93",
+    "discoveredAt": "2025-12-02T17:18:45.963Z",
+    "status": "queued"
+  },
+  {
+    "name": "Sci-Fi Aya",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature with a science fiction theme included in the expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925964-jpfzir",
+    "discoveredAt": "2025-12-02T17:18:45.964Z",
+    "status": "queued"
+  },
+  {
+    "name": "Neko Twilight Knight",
+    "type": "character",
+    "subType": null,
+    "brief": "A character miniature that appears to be a cat-themed version of a Twilight Knight.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764695925964-2pfxl6",
+    "discoveredAt": "2025-12-02T17:18:45.964Z",
+    "status": "queued"
+  },
+  {
+    "name": "Wanderers",
+    "type": "concept",
+    "subType": null,
+    "brief": "Visitors that come to your settlement whose stories intertwine with the survivors' stories.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925964-icce2e",
+    "discoveredAt": "2025-12-02T17:18:45.964Z",
+    "status": "queued"
+  },
+  {
+    "name": "Encounter Monsters",
+    "type": "concept",
+    "subType": null,
+    "brief": "A type of monster that increases the danger of hunts.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764695925964-p91ash",
+    "discoveredAt": "2025-12-02T17:18:45.964Z",
+    "status": "queued"
+  }
+]

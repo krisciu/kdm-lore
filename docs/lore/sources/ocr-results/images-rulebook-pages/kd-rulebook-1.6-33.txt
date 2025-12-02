@@ -1,0 +1,96 @@
+# OCR Result: kd-rulebook-1.6-33.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-33.png
+Processed: 2025-12-02T17:47:03.291Z
+Tokens: 2496
+
+---
+
+# **WHAT HAPPENS WHEN A WHITE LION HITS TWICE?**
+
+## Hit Location Results
+
+**Dual 1 damage to 2 hit locations**
+*[Image shows dice and character illustrations]*
+
+**Waist hit location is rolled**
+*[Image shows character with marking]*
+
+**Body hit location is rolled**
+*[Image shows character with marking]*
+
+## Damage Resolution
+
+**Player decides order**
+**Waist then body**
+*[Image shows female character]*
+
+**1 damage to waist**
+**reduces armor points to zero**
+*[Image shows male character with marking]*
+
+**1 damage to body with zero armor**
+**points fills the first unfilled injury level**
+*[Image shows bearded character with marking]*
+
+---
+
+# **Severe Injuries & Death**
+
+When a survivor's hit location has no remaining armor points and all injury levels are filled, they are in danger. Any further damage to this hit location will cause a **severe injury** (roll for that hit location on the Severe Injury story event table in this book).
+
+Remember, survivors may spend survival to **dodge 1** hit in these dire circumstances.
+
+**Roll once on the table each time the hit location is damaged even if the amount of damage is over 1.**
+Record effects of severe injuries in the Impairments section of the survivor record sheet.
+
+Most often, survivors gain bleeding tokens when they suffer severe injuries. When a survivor has **5 bleeding tokens, they die**. Survivors can also die from results on the Severe Injury table. When they die, remove the survivor's miniature from the board.
+
+---
+
+# **Triggered Effects**
+
+Some attack profiles have trigger sections that indicate when to apply additional attack effects listed below the attack profile.
+
+**Before Damage:** Apply effects after determining the number of hits but before rolling hit location dice.
+
+**After Damage:** Resolve damage from all hits in this attack then apply additional effects.
+
+Triggered effects appear directly under the attack profile. In the above example, After Damage from the attack is applied, trigger **knockback 6**.
+
+---
+
+# **Intimidate Actions**
+
+Rather than physically harming survivors, intimidate actions cripple the mind by causing **brain damage** (damage to the Brain hit location). Each AI card explains how to perform a specific intimidation.
+
+**The White Lion does not need to be adjacent to its target to intimidate.**
+
+---
+
+# **Brain Traumas**
+
+Insanity is armor for your Brain. If the survivor's Brain has no remaining Insanity and the Brain injury level is filled, further damage to the Brain causes a roll on the **Brain Trauma table** in this book. Like damage to other hit locations, rolling on the Brain Trauma table expands any remaining brain damage.
+
+Survivors may gain disorders as a result of brain trauma. These are found in the **Disorder Deck**. Draw one at random and apply the rules to the survivor.
+
+---
+
+# **Moods**
+
+Moods are AI cards that remain in play after the monster turn ends instead of being discarded. They have rules text that persistently modify the behavior of the White Lion once they come into play. When moods are discarded place them face up in the AI discard pile.
+
+## **Enraged** 
+**Mood**
+
+*When this comes into play, draw [symbol].*
+
+*While Enraged is in play, White Lion gains*
+
+**Enraged** gives the White Lion a **+1 damage token**, which increases all damage dealt from attack profiles by 1. This does not include brain damage.
+
+---
+
+*Kingdom Death: Monster Core Game* **29**
+
+---

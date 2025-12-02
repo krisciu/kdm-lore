@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-178.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-178.png
+Processed: 2025-12-02T17:34:06.862Z
+Tokens: 1745
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a dramatic battle scene between what looks like a large dragon or monster and a smaller humanoid figure with glowing energy. The image is atmospheric fantasy artwork without any visible text, card titles, rules, or other readable content.
+
+---

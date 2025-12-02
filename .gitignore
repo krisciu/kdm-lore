@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Large extracted assets (too big for git - 3.3GB+)
+docs/lore/sources/rulebooks/extracted/images/
+
+# Python virtual environments and cache
+__pycache__/
+*.py[cod]
+venv/
+.venv/

@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-202.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-202.png
+Processed: 2025-12-02T17:36:34.936Z
+Tokens: 1778
+
+---
+
+Looking at this manga-style comic page, I can see several panels with characters and Japanese text/sound effects, but the text is not clearly legible enough for me to accurately transcribe. The image appears to be a black and white manga page showing various characters in dramatic scenes with speech bubbles and sound effects, but the resolution and contrast make it difficult to read the specific text content reliably.
+
+[Text not clearly legible due to image quality]
+
+---

@@ -1,0 +1,15 @@
+# OCR Result: kd-rulebook-1.6-148.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-148.png
+Processed: 2025-12-02T17:32:28.633Z
+Tokens: 1713
+
+---
+
+**MINERAL GATHERING**
+
+Every survivor with a **Pickaxe** rolls on the Mineral Gathering table.
+
+144
+
+---

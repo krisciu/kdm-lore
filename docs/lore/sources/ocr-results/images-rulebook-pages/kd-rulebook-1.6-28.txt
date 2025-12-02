@@ -1,0 +1,49 @@
+# OCR Result: kd-rulebook-1.6-28.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-28.png
+Processed: 2025-12-02T17:44:42.760Z
+Tokens: 2168
+
+---
+
+**Create a Survivor**
+
+**Gear Grid and Starting Gear**
+Each player uses a gear grid to arrange the gear their survivor currently has. Starting survivors begin with 1 Cloth armor gear card and 1 Founding Stone weapon gear card. Place these two cards right-side up in any two boxes on your gear grid.
+
+The left side of the gear grid has a reference area describing the survivor's turn, spending survival, and fighting bare-handed with Fist & Tooth.
+
+**Survivor Record Sheets**
+Use a survivor record sheet for each survivor. The record sheet maintains vital information about a survivor's life.
+
+Pencils and erasers are recommended for record sheets, as you will change them often. Fortune is fleeting, after all.
+
+Only the survivor characteristics vital for a starting survivor's first showdown are discussed below. Complete rules can be found in the Survivors section of this rulebook.
+
+**Name Your Survivor**
+Name your survivor in the space provided. Your survivor gains a survival and hunting a name. Add "1" to the record sheet in the box labeled Survival.
+
+**Learn about Survival**
+Survival represents the desperate desire to cling to life. In the First Story, survival can only be spent to dodge.
+
+As you play, you will gain up to four more life-saving survival actions: dash, encourage, surge, and endure.
+
+When survival is spent, decrease the number in the Survival box by 1. Survival does not automatically replenish and must be earned through gameplay.
+
+**Learn About Attributes**
+Survivors' attributes describe their advantages or disadvantages. Except for movement, attributes start at zero. While most won't be used during the First Story, all attributes are listed below.
+
+**Movement (5):** the number of spaces a survivor can move each turn.
+**Speed (0):** attack rate
+**Accuracy (0):** attack precision
+**Strength (0):** attack power
+
+---
+
+**Gear Grid with Cloth and Founding Stone Gear**
+
+**Survivor Record Sheet**
+
+[The image shows game components including a gear grid with spaces labeled "G", survivor turn reference cards, and a detailed character sheet with various stats and tracking areas]
+
+---

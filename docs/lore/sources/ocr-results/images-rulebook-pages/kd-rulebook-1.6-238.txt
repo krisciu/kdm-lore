@@ -1,0 +1,105 @@
+# OCR Result: kd-rulebook-1.6-238.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-238.png
+Processed: 2025-12-02T17:41:51.087Z
+Tokens: 3653
+
+---
+
+**Pulse Discoveries:** A series of abilities that can be unlocked via Lantern Research. A Pulse Discovery can be performed by a survivor with the Death Die.
+
+**Puzzle Affinity:** A gear special rule. Puzzle affinity bonuses can only be gained if the affinities are completed using the affinities on that specific card (indicated by puzzle pieces printed on it).
+
+**Quarry:** The monster that the survivors have elected to hunt.
+
+**Random Hit Location (Survivor):** Determine using the included hit location dice.
+
+**Random Hunt Event:** Roll d100 and apply the hunt event corresponding to this number on the Hunt Event table.
+
+**Random Survivor:** The monster controller can randomly determine a survivor by chance, using an equal probability of all possible outcomes.
+
+**Range (Gear):** A gear special rule. Survivors this many or fewer spaces away from a monster may attack with this weapon. Ranged weapons cannot be used if field of view to the monster is blocked by terrain with the Obstacle rule).
+
+**Ranged:** A gear keyword. A ranged weapon, like a bow or dart, allows survivors to attack from a distance.
+
+**Rawhide:** A gear keyword. This gear is crafted of uncured hides.
+
+**Reach:** A gear keyword. Reach weapons are long enough to attack monsters when the survivor is not adjacent. Reach specifies the maximum number of spaces away that a survivor can attack with this weapon.
+
+**Reactions:** Reactions are monster abilities under movement, failure, and Reflex, each specifies the conditions for a reaction to occur. Reactions occur after rolling to wound the hit location they are found on and before resolving the next hit location.
+
+**Record and Archive:** An instruction on certain cards, such as disorders and fighting arts. Make a note of the listed effects and return the card to the game box.
+
+**Reflex (Reaction):** A type of monster reaction. This reaction occurs regardless of whether a wound attempt succeeds or fails.
+
+**Remove from the Showdown Board (Monster):** Remove the monster miniature from the showdown board. Some cards will direct you to remove the monster from the showdown board. Set it aside and only place it back on the board when instructed to. Survivors cannot attack a monster while it is removed from the showdown board. Monsters still draw AI cards while removed from the showdown board unless otherwise stated.
+
+**Remove from the Showdown Board (Survivor):** Remove the survivor miniature from the showdown board. Place it on its survivor status card so that it is no longer on the showdown board. This survivor is an Art but may not spend movement, activation or perform survival actions. Unless stated otherwise they do not affect and are not affected by anything on the showdown board. When the showdown ends, any survivors who are removed from the board (but not dead) continue to the Aftermath as normal.
+
+**Resolved:** A card is resolved when there are no more instructions to follow on it. This may be due to performing every indicated action, or as a result of specific instructions on the card.
+
+**Resources:** Resources cards are gained from defeating monsters and various events. They are spent to develop the settlement and craft gear. There are 4 kinds: Basic, Monster, Strange, and Vermin.
+
+**Resource Type:** In addition to the specific name listed, all resource cards have one or more types that the card may be used as. Common examples include Bone, Hide, Organ, and Scrap.
+
+**Reveal:** Turn a card face up and examine it. (Do not play it.) Do not reshuffle a deck to reveal more cards than are in a deck.
+
+**Retired:** When the final XP box is filled, the survivor retires. Gain developments and seven injuries also Loses retirement. Retired survivors cannot depart, but still contribute to the total population of the settlement, and may participate in settlement events and endeavors.
+
+**Returning Survivors:** All survivors that inhabited the previous showdown are returning survivors.
+
+**Rewards:** Rewards are gained by defeating monsters. They are listed on monster showdown story events. Gain rewards as a group, once per victorious showdown (unless stated otherwise).
+
+**Round (Showdown):** The Showdown proceeds in rounds, consisting of the monster's turn followed by the survivors' turn. Rounds continue until the monster is dead or all the survivors are dead.
+
+**Run Away:** Once a settlement has innovated Pictographs, survivors may abandon a Hunt or Showdown. Raise all any time. Follow the instructions on the Run Away story event.
+
+**Savage:** A gear special rule. Once per attack, if you cause 1 additional wound. This effect does not apply to impervious hit locations.
+
+**Secret Fighting Arts:** Secret fighting arts are fighting arts that cannot be gained normally. Each secret fighting art has a corresponding card that describes the rules for using it. These count toward your fighting art maximum of 4.
+
+**Selfish:** A gear special rule. A gear with this rule may not be in the same gear grid with any gear with the "Other" keyword.
+
+**Sentient:** A gear special rule. A survivor must be insane to activate this gear.
+
+**Session:** A typical session is comprised of three phases: Hunt Phase, Showdown Phase, and Settlement Phase. Some events may make survivors skip one or more of these phases. For example, Nemesis Encounters have no Hunt Phase.
+
+**Set:** A gear keyword listed on some armor cards. This means this armor is part of an armor set.
+
+**Settlement:** The unique civilization of survivors, provisioners, gear, resources and survivors that represent the survivors' home. Survivors are all part of the same settlement during the Settlement Phase.
+
+**Settlement Board:** The settlement board is located on the reverse side of the Hunt Board. The spaces on the board correspond to steps in the Settlement Phase to guide players along.
+
+**Settlement Event:** An event occurring during the Settlement Phase.
+
+**Settlement Phase:** During the Settlement Phase, survivors experience settlement and life events, spend endeavors, craft gear, and determine which survivors depart on the next hunt. This is the only phase where survivors may change or rearrange their gear grids.
+
+**Settlement Record Sheet:** Helps the players keep track of the development of their settlement.
+
+**Severe [Location] Injury:** When survivors' armor points and injury levels are exhausted, they may accumulate temporary or permanent severe injuries from the severe injury table. When a survivor suffers permanent injuries, note the name and rules on your record sheet and adjust their attributes as necessary. Some injuries fill the Skip Next Hunt box on the survivor record sheet. Otherwise, severe injuries last until the end of the showdown and are marked by attribute tokens.
+
+**Severe Injury Tables:** Contains sections of possible severe injuries in hit locations. Each hit that causes a severe injury prompts a roll on that location's severe injury table.
+
+**Sharp:** A gear special rule. Add d10 strength to each wound attempt using this gear. This d10 is not a wound roll, and cannot cause critical wounds.
+
+**Shield:** Gear with this keyword is a shield weapon. Survivors may gain levels of shield weapon proficiency with this weapon.
+
+**Showdown Board:** Used to represent the area where the survivors face the monster in battle. Specific rules for setting up the showdown board are found at the start of each monster's Showdown story event.
+
+**Showdown Board Edge:** Generally, monsters or survivors cannot move off the edge of the showdown board. Any knockback or full move effects that would bring a miniature past a board edge stops at the edge instead.
+
+**Showdown Phase:** The part of a session where survivors face off against a monster. See individual monster showdown pages for instructions on how to start and end the Showdown Phase.
+
+**Showdown Setup:** A component of each monster's showdown story event. Contains instructions for setting up certain tiles and monster and survivor positions on the showdown board before a battle.
+
+**Sickle:** A gear keyword. In certain situations, this can be used to harvest herbs.
+
+**Skewer:** After you slam, spend ⭘ to move 1 space and activate a melee weapon with +2 strength. If you wound with a spear, apply that wound roll result to the next selected hit location this attack.
+
+**Skip Next Hunt:** Fill in the Skip Next Hunt box on the survivor's record sheet. The survivor may not be selected as a departing survivor. After departing survivors are chosen, erase all filled Skip Next Hunt boxes on all survivor record sheets.
+
+**Slam:** A gear special rule. Spend ⭘ and full move forward in a straight line. If you move 4+ spaces and stop adjacent to a monster, it suffers knockback 1 and 1 toughness until the end of the round.
+
+**Slow:** A gear special rule. Slow weapons always have an attack speed of 1. Do not add speed modifiers.
+
+---

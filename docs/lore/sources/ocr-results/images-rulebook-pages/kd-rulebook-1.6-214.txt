@@ -1,0 +1,15 @@
+# OCR Result: kd-rulebook-1.6-214.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-214.png
+Processed: 2025-12-02T17:38:28.605Z
+Tokens: 1791
+
+---
+
+Looking at this manga-style image, I can see it contains Japanese text in speech bubbles, but the text is not clearly legible enough for me to accurately transcribe. The image appears to be a black and white illustration showing anime/manga characters in what looks like a dramatic scene.
+
+[Text present but not clearly legible - appears to be Japanese characters in speech bubbles]
+
+The image quality and stylistic rendering make it difficult to accurately extract the specific text content without risk of misinterpretation.
+
+---

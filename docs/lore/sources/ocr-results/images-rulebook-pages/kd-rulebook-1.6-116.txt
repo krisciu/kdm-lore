@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-116.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-116.png
+Processed: 2025-12-02T17:23:42.625Z
+Tokens: 1759
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a dramatic black and white sketch/etching style drawing of a figure with flowing hair and intense shadowed eyes. The image has a woodcut or engraving aesthetic with cross-hatched shading techniques, but contains no visible text, titles, rules, or game mechanics to extract.
+
+---

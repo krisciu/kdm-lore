@@ -1,0 +1,84 @@
+# OCR Result: kdu-106-27b246ae-69a4-be28-188d-3c4a9e912bbb.jpg
+
+Source: official-site/images/newsletters/kdu-106-27b246ae-69a4-be28-188d-3c4a9e912bbb.jpg
+Processed: 2025-12-02T18:03:52.803Z
+Tokens: 1843
+
+---
+
+# **SEVERE INJURY CHART**
+*- Fine & Functional Art Print -*
+
+## **Severe Injuries**
+
+### **Head**
+
+1-2 **Head explosion!** Dead. All other survivors lose survival.
+
+3-4 **Decapitation.** Instant death.
+
+5 **Intracranial hemorrhage.** You can no longer use or gain any survival. ▲
+
+6 **Deaf.** Suffer -1 permanent evasion. ▲
+
+7 **Blind.** Lose an eye! First: -1 permanent accuracy. Second: -4 permanent accuracy and retire at end of showdown. ▲
+
+8 **Concussion.** Gain a random disorder. ▲
+
+9 **Shattered jaw.** You cannot consume or encourage. ▲
+
+10 **Destroyed tooth.** +2 insanity if you have 3+ courage, otherwise knocked down.
+
+### **Arm**
+
+1-2 **Die of shock.** Both you
+
+3 **Bleeding.** Gain 2 bleed
+
+4 **Dismembered arm.** Fi 2 handed weapons. Se weapons. ▲
+
+5 **Ruptured muscle.** Car Permanent. ▲
+
+6 **Contracture.** -1 perma
+
+7 **Broken arm.** -1 perma permanent strength. Ga
+
+8 **Spiral fracture.** -2 stre next hunt. ▲
+
+9 **Dislocated shoulder.** \ two-handed, paired we
+
+10 **Hit the dirt.** You are kn
+
+### **Waist**
+
+1-2 **Final breath.** Dead. You utter words of bravery. Adjacent survivors gain +1 Survival.
+
+3 **Ruptured kidneys.** Gain 2 bleeding tokens. ▲ ▲
+
+4 **Intestinal prolapse.** No more waist gear. ▲
+
+5 **Warped pelvis.** -1 permanent luck. ▲
+
+6 **Destroyed genitals.** No more intimacy. Gain +3 insanity. Gain a random disorder. ▲
+
+7 **Broken hip.** No more Dodge. -1 permanent movement. ▲
+
+8 **Slashed back.** No more surging this showdown.
+
+### **Leg**
+
+1-2 **Blood geyser.** Dead.
+
+3 **Bleeding.** Gain 2 bleed
+
+4 **Dismembered leg.** -2 no more dash. ▲
+
+5 **Hamstring.** No abiliti
+
+6 **Torn achilles tendon.** heavy or severe injurie Skip next hunt. ▲
+
+7 **Torn muscle.** No more showdown. Skip the
+
+8 **Broken leg.** -1 perman
+
+---

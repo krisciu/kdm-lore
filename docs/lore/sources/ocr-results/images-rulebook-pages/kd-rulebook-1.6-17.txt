@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-17.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-17.png
+Processed: 2025-12-02T17:33:46.836Z
+Tokens: 1726
+
+---
+
+*The people were no match for the monster. It tore their flesh and crushed their bones between its teeth. Some, it devoured whole.*
+
+Kingdom Death: Monster Core Game **13**
+
+---

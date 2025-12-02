@@ -1,0 +1,19 @@
+# OCR Result: kd-rulebook-1.6-27.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-27.png
+Processed: 2025-12-02T17:44:22.110Z
+Tokens: 1730
+
+---
+
+**Assemble Starting Miniatures**
+
+4 Starting Survivors
+White Lion
+
+You can find detailed instructions online at:
+build.kingdomdeath.com
+
+Kingdom Death: Monster Core Game 23
+
+---

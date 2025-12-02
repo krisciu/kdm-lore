@@ -1,0 +1,20 @@
+# OCR Result: kd-rulebook-1.6-201.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-201.png
+Processed: 2025-12-02T17:36:26.394Z
+Tokens: 1850
+
+---
+
+Looking at this manga-style comic page, I can see several sound effects and onomatopoeia:
+
+**Sound Effects:**
+- HA (appears multiple times - breathing/panting sounds)
+- DUNK (impact sound)
+- AAH (exclamation/scream)
+
+The image appears to be from a manga or comic book showing an action sequence with a character in distress or combat. The text is primarily sound effects rather than dialogue or narrative text. The artwork shows dynamic movement and appears to depict someone falling or being thrown, with heavy shading and motion lines typical of manga style.
+
+[Note: This appears to be a manga page with minimal text content, consisting mainly of sound effects and onomatopoeia rather than substantial readable text or game rules.]
+
+---

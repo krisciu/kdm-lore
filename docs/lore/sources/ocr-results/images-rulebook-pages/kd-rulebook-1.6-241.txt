@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-241.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-241.png
+Processed: 2025-12-02T17:43:53.619Z
+Tokens: 1755
+
+---
+
+[No text found]
+
+This image appears to be a decorative pattern or background featuring repeating skull and crossbones motifs in a sepia/brown color on a black background. It looks like it could be a card back design or decorative page element from the Kingdom Death: Monster game materials, but contains no readable text content.
+
+---

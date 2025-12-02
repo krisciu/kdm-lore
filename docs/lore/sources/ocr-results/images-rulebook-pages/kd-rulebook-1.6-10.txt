@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-10.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-10.png
+Processed: 2025-12-02T17:17:42.094Z
+Tokens: 1768
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a figure with light-colored hair sitting in contemplation near what appears to be a bright fire or light source, surrounded by what looks like skulls or bones on the ground. The image has a dark, atmospheric quality with warm orange/yellow lighting effects, but contains no visible text, card names, rules, or other readable content.
+
+---

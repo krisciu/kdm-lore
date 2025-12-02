@@ -1,0 +1,23 @@
+# OCR Result: kd-rulebook-1.6-146.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-146.png
+Processed: 2025-12-02T17:32:23.011Z
+Tokens: 1863
+
+---
+
+# **LEGENDARY MONSTERS**
+
+Legendary monsters are the survivors' ultimate quarry. Make sure to read and follow each monster's setup instructions carefully. They are set up like their counterparts at Lv1 3 and under, with a few exceptions:
+
+**Life Trait:** Legendary monsters use the **Life** trait. Full rules for Life are found in the Monster Section.
+
+**Hit Locations:** Use the hit location deck associated with each legendary monster's species but archive all hit locations listed in the special instructions before the showdown begins.
+
+**Trait Cards:** Legendary monsters combine trait cards from multiple AI Decks. Remember to resolve any conflicts that arise from the rules with the Rule of Death.
+
+**Once per Campaign:** Each legendary monster may only be defeated once per campaign. They are singular, special monsters.
+
+142
+
+---

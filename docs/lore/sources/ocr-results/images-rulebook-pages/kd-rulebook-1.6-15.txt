@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-15.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-15.png
+Processed: 2025-12-02T17:32:33.534Z
+Tokens: 1716
+
+---
+
+*Suddenly, a monster emerged from the darkness, its eyes wild with hunger. It attacked.*
+
+**Kingdom Death: Monster Core Game** 11
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-168.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-168.png
+Processed: 2025-12-02T17:33:40.479Z
+Tokens: 1768
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a dramatic scene with a person encountering a large, grotesque creature covered in eyes in what looks like a rocky, desolate landscape. The image is rendered in a detailed, comic book or graphic novel style with muted colors. There is no visible text, card information, rules content, or other readable elements in this illustration.
+
+---

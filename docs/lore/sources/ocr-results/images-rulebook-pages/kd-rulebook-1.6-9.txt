@@ -1,0 +1,17 @@
+# OCR Result: kd-rulebook-1.6-9.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-9.png
+Processed: 2025-12-02T17:49:49.051Z
+Tokens: 1791
+
+---
+
+Looking at this Kingdom Death: Monster rulebook page, I can extract the following text:
+
+*Once upon a time, there was a place of carved stone faces. A man with a lantern lay sleeping a dreamless sleep. The man knew nothing.*
+
+**Kingdom Death: Monster Core Game 5**
+
+The page features an ornate decorative initial letter "O" with elaborate medieval-style illumination and scrollwork designs. This appears to be the beginning of a story or lore section from the game.
+
+---

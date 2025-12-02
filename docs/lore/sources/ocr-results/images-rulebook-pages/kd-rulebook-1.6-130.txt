@@ -1,0 +1,21 @@
+# OCR Result: kd-rulebook-1.6-130.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-130.png
+Processed: 2025-12-02T17:24:45.291Z
+Tokens: 1806
+
+---
+
+**HERB GATHERING**
+
+Each survivor must make a special gathering roll.
+
+To make a gathering roll, a survivor nominates any number of d10s and rolls them. If two or more die results are the same, your score is 0. Otherwise, add all your die results to determine your gathering score.
+
+Add all the survivors' gathering scores to make a single final score and consult the **Herb Exploration** table.
+
+Add +10 to the final score if the survivors have passed the **Overwhelming Darkness** space on the hunt board.
+
+126
+
+---

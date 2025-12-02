@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-134.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-134.png
+Processed: 2025-12-02T17:24:58.928Z
+Tokens: 1750
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a figure in a sketched, cross-hatched art style against a yellow/golden background. The image contains no visible text, titles, rules, or game mechanics - it appears to be decorative artwork from the Kingdom Death: Monster game.
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: kdu-107-dbe22123-0d0f-52a4-c3f0-5948ba2c65d1.png
+
+Source: official-site/images/newsletters/kdu-107-dbe22123-0d0f-52a4-c3f0-5948ba2c65d1.png
+Processed: 2025-12-02T18:06:00.250Z
+Tokens: 1833
+
+---
+
+Looking at this image, I can see someone holding what appears to be a Kingdom Death: Monster game component (likely a card or game board) with some artwork visible on it. However, the text in the image is not clearly legible due to the lighting, angle, and image quality. The artwork appears to show some kind of creature or monster illustration, but I cannot make out the specific text content reliably enough to transcribe it accurately.
+
+[Text not clearly legible due to image quality and lighting]
+
+---

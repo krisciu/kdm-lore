@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-12-02T18:06:00Z",
+  "totalUpdates": 134,
+  "scrapedUpdates": 2,
+  "updates": [
+    {
+      "number": 134,
+      "title": "Black Friday - 2025",
+      "date": "November 27, 2025",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4550627",
+      "content": "BLACK FROGDAY 2025 sale, Abyssal Woods expansion preview, Philosophies of Death updates",
+      "images": [],
+      "localImages": [],
+      "hasLore": true,
+      "tags": ["shipping", "expansion", "sale", "abyssal-woods", "philosophies"]
+    },
+    {
+      "number": 133,
+      "title": "Halloween 2025 - Screaming God Update",
+      "date": "October 31, 2025",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4528510",
+      "content": "Screaming God expansion production update, final sizing determined",
+      "images": [],
+      "localImages": [],
+      "hasLore": true,
+      "tags": ["expansion", "monster", "screaming-god", "production"]
+    }
+  ]
+}
+

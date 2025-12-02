@@ -1,0 +1,89 @@
+# OCR Result: kd-rulebook-1.6-108.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-108.png
+Processed: 2025-12-02T17:22:35.252Z
+Tokens: 3189
+
+---
+
+**Rules**
+
+*Insane survivors consume what they find and make themselves sick, they gain +1 strength token. Sane survivors stop to* **investigate** *the mess. Each gains +1 courage, rolls 1d10, and adds their understanding.*
+
+**1d10 Each sane survivor - Investigate**
+
+**1-2** You become lightheaded sitting through the piles of dung, uncontrollable giggles ensue. Gain 1 strength token.
+
+**3-5** Heaving, eyes filled with tears, your shocking hunt pays off. Gain 1 random basic resource and suffer 1 event damage to a random hit location.
+
+**6** Your intuition pays off! Gain 1 random basic resource.
+
+**95 | Grim and Frostbitten**
+
+*There is a dead stillness in the air. The atmosphere becomes thick with worry and the survivors carry on nervously. A bitter, evil cold sets in and there is no shelter.*
+
+*The survivors huddle together for warmth, shivering loudly. Unless a survivor has armor gear at each hit location, they lose quarry monster level survival.*
+
+**96 | Cloaked Stranger**
+
+*A cloaked form steps out of a patch of darkness ahead of the survivors. Its ill-fitting garment shifts atop its form and its trudging leaves dark, black puddles in the mountains of the rain-slick stone on the ground.*
+
+*The event revealer approaches the stranger and rolls 1d10.*
+
+**1d10 Event revealer**
+
+**1-2** The stranger's approach fills your ears with painful static. There is a flash of light and a loud crack. You fall to the ground, holding your bloody chest in pain. Suffer the **ruptured spleen** severe body injury. All survivors suffer 2 brain event damage.
+
+**3-4** The stranger ripples in and out of focus as you approach. When you reach them, they are gone, their form impossible to remember. Gain 1 bleeding token and forget 1 fighting art of your choice.
+
+**5-6** As you near the stranger, you realize that they're floating in the air! You barely make out a dry rasping coming from the form that seems to resemble... laughter? After the stranger departs, you return to the group, face bone white, refusing to speak of what you saw. Suffer 3 brain event damage.
+
+**1d10 Event revealer**
+
+**7-8** The stranger raises its arms and moves to meet your approach. From beneath the folds of its cloak, you see it draw a wicked, rusted dagger. The blade extends from a sleeve and gently strokes your cheek, leaving a layer of viscous liquid behind. Wiping off the sludge, you find the bizarre experience strangely touching. You gain +1 survival, +1 understanding.
+
+**9** The stranger orders you to organize a test of strength among the survivors. Each survivor must roll 1d10 (roll off in case of ties). The highest scoring survivor wins the melee. The stranger marks their face with its glowing finger and they become **possessed**. The effect cannot be knocked down. Reduce all knockback you suffer to knockback 1. Record this ability. All survivors lose 4 survival from the exhausting fight.
+
+**97 | Living Stone**
+
+*The ground suddenly shifts and rises sharply into the air! The survivors find themselves clutching the back of a giant creature that lay sleeping beneath their feet.*
+
+*The creature stirs, and the survivors are absolutely terrified. Nominate a survivor to climb toward the top of the giant and see what lies ahead. They roll 1d10.*
+
+**1d10 Elected survivor**
+
+**1** Your motion irritates the giant, sending the survivors flying off in all directions by the ensuing violent random hit location. Archive all fragile gear.
+
+**2-7** You reach the top and have a perfect vantage point to see the world, if only there were enough light to see it. As your proximity to The giant carries you exactly where you need to go. Archive all gear with the **cumbersome** keyword.
+
+**8** You discover a bizarre creature with an inverted face silently creeping upon the giant's back. It discards damaged stone faces as it works. Each survivor catches one as it slipping. Gain **1 Founding Stone** starting gear. Eventually, the giant settles down into the ground as it slumbers and discover your quarry! Ambush the monster!
+
+**98 | Bloody Eyes**
+
+*The survivors find a trail of blood. It pools in the eye sockets of the stone-faced ground. The blood is still warm, ignoring the trail and end this event.*
+
+*The event revealer may* **Investigate** *and roll 1d10, or ignore the trail and end this event.*
+
+**1d10 Event revealer - Investigate**
+
+**1-3** One of your own is slumped at the end of the trail, bleeding terribly. Choose a random survivor, they gain 3 bleeding tokens. All survivors suffer 3 brain event damage.
+
+**4-6** The trail leads to a large box. Trapped inside is a young, red-haired survivor. Gain +1 population. The survivor has been starved and is close to death. All survivors suffer 3 brain event damage.
+
+**7-8** The trail leads to your quarry! The monster is wounded from a previous battle. Start the showdown immediately. At the start of the showdown, the monster suffers 1 wound.
+
+**99 | Portcullis**
+
+*The survivors approach a massive portcullis standing in the darkness. It is not attached to anything and does not bar their way.*
+
+*They may choose to walk around it. If they do, roll again where your legs before moving on the hunt board.*
+
+*If the settlement has the* **Portcullis Key**, *they may erase it from the settlement record sheet and use it. Each survivor gains +1 courage. The portcullis creaks open and the survivors step through. A dank gloom awaits the survivors inside.*
+
+**1d10 Event revealer**
+
+**1** The portcullis suddenly slams shut behind them and the lights of their lanterns begin to dim. The last thing the survivors see is the grimace of fear on each other's faces as the dark closes in. The survivors are dead.
+
+**2** At their feet lies an ornate crucible with a void in the shape of a mighty weapon. Gain the **Perfect Crucible** strange resource. If they have a Blacksmith in their settlement, they may now craft a **Perfect Slayer**.
+
+---

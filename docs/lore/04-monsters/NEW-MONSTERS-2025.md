@@ -1,3 +1,10 @@
+---
+title: "New Monsters (2025)"
+status: "draft"
+type: "research-notes"
+published: "false"
+---
+
 # New Monsters (2025)
 
 > **Research Status:** Active - Updated December 2025

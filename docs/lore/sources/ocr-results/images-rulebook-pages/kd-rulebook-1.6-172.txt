@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-172.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-172.png
+Processed: 2025-12-02T17:33:59.749Z
+Tokens: 1776
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a large, intimidating armored figure (likely the Watcher or similar entity) seated among skulls and bones in a hellish landscape, with a distressed figure visible in the background. The image contains no visible text, card titles, rules, or other readable game content - it appears to be concept art or atmospheric artwork from the game.
+
+---

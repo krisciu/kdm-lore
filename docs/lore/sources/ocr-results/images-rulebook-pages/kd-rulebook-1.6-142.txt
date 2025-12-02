@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-142.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-142.png
+Processed: 2025-12-02T17:25:39.112Z
+Tokens: 1748
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing an intricate, dark fantasy scene with tentacle-like creatures and swirling blue energy or portals. The image is decorative artwork without any visible text, titles, rules, or game mechanics displayed.
+
+---

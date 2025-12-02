@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-12.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-12.png
+Processed: 2025-12-02T17:24:09.324Z
+Tokens: 1731
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing two figures in an intimate moment with dramatic golden lighting. There is no visible text, card titles, rules text, or other readable content in this image.
+
+---

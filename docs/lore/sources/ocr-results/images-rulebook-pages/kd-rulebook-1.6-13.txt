@@ -1,0 +1,14 @@
+# OCR Result: kd-rulebook-1.6-13.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-13.png
+Processed: 2025-12-02T17:24:36.492Z
+Tokens: 1730
+
+---
+
+*A woman approached the man with the lantern. Her soft hand reached out to him.*
+*They had no words. They were a mystery to each other.*
+
+**Kingdom Death: Monster Core Game** 9
+
+---

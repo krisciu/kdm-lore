@@ -1,0 +1,20 @@
+# OCR Result: kd-rulebook-1.6-226.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-226.png
+Processed: 2025-12-02T17:40:30.321Z
+Tokens: 1817
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text:
+
+**Sound Effects:**
+- POW (appears multiple times)
+- ERK!
+- AH!
+- WAH!
+- HA! (appears multiple times in speech bubbles)
+
+The image appears to be a black and white manga/comic page showing action sequences with a female character. Most of the content is visual artwork with minimal text, consisting primarily of sound effects and brief exclamations typical of manga storytelling. The text is integrated into the artwork as sound effects and speech bubbles rather than as game rules or mechanical text.
+
+---

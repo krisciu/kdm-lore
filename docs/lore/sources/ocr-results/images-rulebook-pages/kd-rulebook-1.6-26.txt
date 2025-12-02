@@ -1,0 +1,31 @@
+# OCR Result: kd-rulebook-1.6-26.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-26.png
+Processed: 2025-12-02T17:44:16.650Z
+Tokens: 2012
+
+---
+
+**The First Story**
+
+The First Story is a prologue to *Monster*. It will teach you the fundamentals of the game. Always start the game with the First Story.
+
+This story picks up after the awakening of the survivors. Before they can take stock of their surroundings, the survivors must fight for their lives against a vicious White Lion.
+
+The game is designed around 4 survivors. To begin playing, if you have fewer than 4 players, some or all players should create more than one survivor so 4 survivors are represented.
+
+You will need to assemble the 4 starting survivor miniatures and the White Lion miniature.
+
+Although this is a prologue, Kingdom Death is a dangerous place. Even the starting survivors can perish before their story truly begins.
+
+**What is in the prologue?**
+
+The First Story is designed to guide the 4 survivors through their first encounter with a monster. If they prevail, they will create a brand new settlement. Players are meant to play as they read and learn the game.
+
+By the end of this prologue, you should understand the core rules of gameplay, complete your first showdown, create your settlement, and be ready for campaign play.
+
+During the prologue, questions may arise that are not completely addressed in this section. The aim of the prologue is to get you playing, so feel free to make decisions and mistakes. Full game rules that follow the prologue address the deeper nuances of gameplay once you've got the hang of the basics.
+
+22
+
+---

@@ -1,0 +1,19 @@
+# OCR Result: kd-rulebook-1.6-207.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-207.png
+Processed: 2025-12-02T17:37:23.458Z
+Tokens: 1880
+
+---
+
+Looking at this manga-style comic page, I can see various sound effects and onomatopoeia in Japanese style, but the text is stylized and integrated into the artwork in a way that makes it difficult to extract as clean readable text. The visible text elements appear to be:
+
+- Various "HA" sound effects
+- Some Japanese-style onomatopoeia rendered in stylized lettering
+- Sound effects like "KRRR" and similar action sounds
+
+However, this appears to be an artistic manga page rather than a Kingdom Death: Monster rulebook image. The style and content (showing what appears to be characters in combat or action sequences) doesn't match the typical layout or formatting of Kingdom Death game materials, which usually feature card layouts, stat blocks, and structured game text.
+
+[This appears to be manga artwork rather than Kingdom Death: Monster game content - contains stylized sound effects but no extractable rules text]
+
+---

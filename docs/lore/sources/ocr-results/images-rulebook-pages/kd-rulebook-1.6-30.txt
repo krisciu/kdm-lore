@@ -1,0 +1,67 @@
+# OCR Result: kd-rulebook-1.6-30.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-30.png
+Processed: 2025-12-02T17:45:34.360Z
+Tokens: 2290
+
+---
+
+# First Story: White Lion
+
+## 1 Create the White Lion AI Deck
+The White Lion AI deck controls the monster's actions. The First Story White Lion has a predetermined deck. In future showdowns, you will use the expanded mood rules to randomize AI decks.
+
+AI cards have ranks, denoted by a symbol in the top right corner: Basic, Advanced, and Legendary. Additional types of cards will be used later.
+
+Select the following from the White Lion AI cards:
+
+**B Basic**
+- 1x Claw
+- 1x Chomp
+- 1x Size Up
+- 1x Power Swat
+- 1x Grasp
+
+**A Advanced**
+- 1x Maul
+- 1x Terrifying Roar
+- 1x Enraged
+
+**L Legendary**
+- none
+
+Set **Claw** aside and shuffle the remaining cards. Place them in a stack face down on the monster control panel in the area for the AI deck. Place **Claw** face down on the top of the AI deck.
+
+Each type of monster card has a unique card back
+
+**AI** - Artificial Intelligence
+**H** - Hit Locations  
+**R** - White Lion Resources
+
+---
+
+# SHOWDOWN SETUP
+
+## 2 Set Up White Lion Hit Location Deck
+Hit location cards are used to determine where the White Lion is hit when it is attacked. Take the White Lion's hit location cards and set aside **Strange Hand**. Shuffle the remaining cards and place them in a stack face down on the monster control panel in the area for the Hit Location deck. Place **Strange Hand** face down on top of the Hit Location deck.
+
+## 3 Set Up White Lion's Basic Action
+Place the double-sided **Basic Action / Monster Reference** card on the monster control panel. The First Story White Lion's attributes are listed on one side and its Basic Action on the other.
+
+## 4 Set Up the Showdown Table
+Place the showdown board in the play area. Arrange the survivors' record sheets and gear grids so they are accessible to the players.
+
+## 5 Place the Miniatures on the Board
+Place the White Lion miniature at the center of the showdown board. Each player places their survivor miniature anywhere 8 spaces away from the White Lion miniature (counted cardinally, not diagonally). See blue squares in diagram above.
+
+**Monster Controller**
+*If a player quits their survivor dies, the remaining players choose a new Monster Controller. The Monster Controller targets their own survivor.*
+
+**Claw**
+Pick: Discard
+*claw attack. Quick: A basic attack on range*
+
+**Strange Hand**
+*A bizarre...*
+
+---

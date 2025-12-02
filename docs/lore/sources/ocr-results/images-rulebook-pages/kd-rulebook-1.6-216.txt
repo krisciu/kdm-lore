@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-216.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-216.png
+Processed: 2025-12-02T17:38:45.300Z
+Tokens: 1746
+
+---
+
+[No text found]
+
+This appears to be a manga-style illustration showing a dramatic action scene with characters in combat, but I cannot make out any readable text content in the image. The image appears to be purely illustrative artwork without any visible game text, rules, or card information to extract.
+
+---

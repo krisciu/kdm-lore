@@ -1,0 +1,29 @@
+# OCR Result: kd-rulebook-1.6-210.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-210.png
+Processed: 2025-12-02T17:37:58.152Z
+Tokens: 1869
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text elements:
+
+**Sound Effects/Onomatopoeia:**
+- Fuuu
+- Fu
+- Ah!
+- Mm-
+- Kuuu
+- Fre
+- Ah
+- Ha
+- Sa (appears multiple times)
+
+**Speech/Dialogue:**
+There appear to be some speech bubbles with Japanese characters or symbols that are difficult to read clearly in this black and white image.
+
+This appears to be a dramatic manga page showing a female character in various panels with emotional expressions. The text is minimal and consists primarily of sound effects and brief exclamations typical of manga storytelling rather than game rules or mechanics text.
+
+[Note: This does not appear to be from a Kingdom Death: Monster rulebook, but rather from a manga or similar comic publication]
+
+---

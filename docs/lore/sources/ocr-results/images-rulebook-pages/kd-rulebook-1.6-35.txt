@@ -1,0 +1,68 @@
+# OCR Result: kd-rulebook-1.6-35.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-35.png
+Processed: 2025-12-02T17:48:02.009Z
+Tokens: 2485
+
+---
+
+**Strange Hand**
+
+◆**Failure**
+*Instinctively striking back, the White Lion's oddly human hand darts forward.*
+
+Perform **Basic Action**, target the attacker.
+
+**Critical Wound**
+*You hack off the monster's hand. Spend 1 survival to treasure this moment and gain +1 permanent strength.*
+
+◆**Persistent Injury - Lost Hand**
+*Affects some AI cards.*
+
+**Persistent Injury | Keep in Play**
+
+---
+
+**AI Deck** → **AI Discard**
+↓
+**Wound Stack**
+
+---
+
+## Attempt to Wound a Location
+
+Strength determines if a hit can penetrate the monster's toughness to wound it. Make a wound roll by rolling 1d10. Then add the strength of your weapon to the result. If this total is equal to or greater than the White Lion's toughness (6), the monster is wounded. The Founding Stone's strength is 1, a wound roll of 5 or greater will wound.
+
+## Wound the Monster
+
+When a hit location is wounded, remove the top card of the AI deck without looking at it. Place it in the wound stack space on the monster control panel.
+
+If the AI deck is empty but there are AI cards in the discard pile, shuffle the discard to create a fresh AI deck and remove the top card.
+
+Cards in the wound stack are not part of the AI deck, and represent the number of wounds the monster has suffered. When **the monster is wounded** and no AI cards can be moved to the wound stack, the monster is dead.
+
+---
+
+Resolve any reactions on the wounded hit location type (Hit Wound, Reflex, ◆ Failure). Check for critical wounds. They discard the hit location card face up to the hit location discard pile in the monster control panel.
+
+## ◆Critical Wounds
+
+If a hit location has a critical wound effect and the attacker's wound roll result is a lantern 10 (the lantern face is showing), a critical wound occurs. Remove the top AI card from the AI deck and place it onto the wound stack as normal. Perform any critical wound effects and cancel any reactions listed on that hit location.
+
+Some critical wound effects award survivors extra spoils. Resources gained during a showdown should be placed face up next to the gear grid of the survivor who earned them. If that survivor perishes, another survivor may take these resources. If all survivors perish, these resources are lost.
+
+---
+
+**Example:** If the survivor critically wounds the **Strange Hand** hit location, the hit location (if they have any) to gain +1 permanent strength. Add "1" to the survivor record sheet in the space for the Strength attribute and add this strength attribute to future wound rolls along with weapon strength.
+
+In addition, **Strange Hand** has a persistent injury, **Lost Hand** that affects some AI cards. When **Strange Hand** is critically wounded, the card stays in play on the showdown board. Some AI cards will have persistent injury actions also called **Lost Hand**. This persistent injury action replaces the attack on the AI card if the persistent injury occurred.
+
+## Fighting with Fist & Tooth
+
+Survivors may use their **Fist and Tooth** to attack (this weapon's attributes are listed on the left side of the gear grid). **Fist & Tooth** is deadly (+1 Luck) in addition to its attack attributes. This means **Fist & Tooth** wound roll results cause critical wounds on a 9 or lantern 10.
+
+---
+
+*Kingdom Death: Monster Core Game* **31**
+
+---

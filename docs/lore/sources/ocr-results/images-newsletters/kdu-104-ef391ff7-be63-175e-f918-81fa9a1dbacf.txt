@@ -1,0 +1,49 @@
+# OCR Result: kdu-104-ef391ff7-be63-175e-f918-81fa9a1dbacf.png
+
+Source: official-site/images/newsletters/kdu-104-ef391ff7-be63-175e-f918-81fa9a1dbacf.png
+Processed: 2025-12-02T18:02:08.212Z
+Tokens: 2002
+
+---
+
+**Beast's Flank**
+
+💎 **Wound**
+*Cats hate this. The monster is very upset!*
+*Attacker gains the priority target token.*
+
+⚫8⚫
+**Critical Wound**
+*(Cancel 💎 on this card.)*
+
+*White Lion is knocked down.*
+
+*(While a monster is knocked down, all reactions are canceled and all hit rolls succeed on 3+.)*
+
+---
+
+**Strange Hand**
+
+**Pick Up**
+🔵
+**Flip:** Failure
+*After finishing drinking here, the White Lion's*
+**Rotate** *by human hand* 🔵 *forward.*
+
+**Discard** *form Basic Action, target the attacker.*
+
+**Archive**
+**Send To Inventory** 🔵
+⚫6⚫ **Critical Wound**
+*(Cancel 💎 on this card.)*
+
+*You hack off the monster's hand. Spend*
+*1 survival to treasure this moment and*
+*gain +1 permanent strength.*
+
+💀 **Persistent Injury - Lost Hand**
+*Affects some AI cards.*
+
+**Persistent Injury | Keep In Play**
+
+---

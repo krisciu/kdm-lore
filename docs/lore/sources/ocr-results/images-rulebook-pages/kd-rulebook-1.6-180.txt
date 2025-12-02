@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-180.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-180.png
+Processed: 2025-12-02T17:34:19.571Z
+Tokens: 1758
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dark, atmospheric scene with figures in combat against demonic or monstrous creatures. The image contains no visible text, card names, rules, or other readable game content - it appears to be decorative artwork or possibly a card back/splash page illustration.
+
+---

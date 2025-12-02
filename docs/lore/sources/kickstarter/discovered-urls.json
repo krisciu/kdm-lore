@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-12-02",
+  "note": "URLs discovered by clicking through updates page. Pattern: /posts/{postId}",
+  "knownPattern": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/{postId}",
+  "updates": [
+    {"number": 134, "postId": "4550627", "title": "Black Friday - 2025", "date": "November 27, 2025", "scraped": true},
+    {"number": 133, "postId": "4528510", "title": "Halloween 2025 - Screaming God Update", "date": "October 31, 2025", "scraped": true},
+    {"number": 132, "postId": "4498770", "title": "September 2025", "date": "September 30, 2025", "scraped": false},
+    {"number": 131, "postId": null, "title": "August 2025! Return from Gencon", "date": "August 29, 2025", "scraped": false},
+    {"number": 130, "postId": null, "title": "June 2025- REVAMPED SHIPPING WAVE 1", "date": "June 30, 2025", "scraped": false},
+    {"number": 129, "postId": null, "title": "May 2025- Revamped Shipping Wave 1 Production Complete", "date": "May 30, 2025", "scraped": false},
+    {"number": 128, "postId": null, "title": "April 2025 Update - Tariffs & EMBRACING THE CHAOS", "date": "April 30, 2025", "scraped": false},
+    {"number": 127, "postId": null, "title": "Remastered Wave 1 - Let's get Angry!", "date": "March 31, 2025", "scraped": false},
+    {"number": 126, "postId": null, "title": "February 2025- Happy Valentine's Day and Tariffs", "date": "March 3, 2025", "scraped": false},
+    {"number": 125, "postId": null, "title": "January 2025- A New Lantern Year, Pariah Samples", "date": "January 31, 2025", "scraped": false}
+  ],
+  "totalDiscovered": 10,
+  "urlsWithPostIds": 3,
+  "totalExpected": 134,
+  "scrapeInstructions": "Continue discovering URLs by navigating: Previous button on each update page"
+}

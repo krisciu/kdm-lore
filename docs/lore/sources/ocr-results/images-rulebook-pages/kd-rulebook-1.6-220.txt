@@ -1,0 +1,18 @@
+# OCR Result: kd-rulebook-1.6-220.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-220.png
+Processed: 2025-12-02T17:39:31.335Z
+Tokens: 1818
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text:
+
+**Sound Effects:**
+- AH
+- AAA
+- AH
+
+[The image appears to be a black and white manga page showing dramatic scenes with characters in distress. The main visible text consists of exclamatory sound effects/screams. The artwork depicts what appears to be bodies or figures scattered across a battlefield or tragic scene, with a character observing from above. The style is consistent with dark fantasy manga artwork that might be found in Kingdom Death: Monster materials, but the actual readable text content is limited to these vocal expressions/sound effects.]
+
+---

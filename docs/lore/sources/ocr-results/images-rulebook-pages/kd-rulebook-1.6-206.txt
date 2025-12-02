@@ -1,0 +1,22 @@
+# OCR Result: kd-rulebook-1.6-206.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-206.png
+Processed: 2025-12-02T17:37:12.560Z
+Tokens: 1867
+
+---
+
+Looking at this manga-style comic page, I can see several sound effects and onomatopoeia scattered throughout the panels:
+
+**Sound Effects/Onomatopoeia:**
+- HA
+- LHHHHH
+- TAK!
+- !!
+- Various Japanese-style sound effects that appear as stylized text integrated into the action scenes
+
+The page appears to depict an intense battle or confrontation scene with monsters/creatures and human characters. The text is primarily sound effects and exclamations rather than dialogue or narrative text. Much of the text is stylized as part of the artwork and some portions are difficult to read clearly due to the artistic integration with the dramatic action sequences.
+
+The overall layout suggests this is from a manga or graphic novel, with multiple panels showing dynamic action scenes between characters and what appear to be large, threatening creatures or monsters.
+
+---

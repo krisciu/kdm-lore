@@ -1,0 +1,21 @@
+# OCR Result: kd-rulebook-1.6-205.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-205.png
+Processed: 2025-12-02T17:37:03.431Z
+Tokens: 1873
+
+---
+
+Looking at this manga-style comic panel, I can see some sound effects and onomatopoeia, but the text is quite difficult to read clearly due to the artistic style and image quality. 
+
+The visible text appears to be:
+
+**Sound Effects:**
+- "HA" (repeated multiple times)
+- Some additional sound effects that are partially obscured or stylized
+
+The image shows what appears to be a horror/action scene with a character on the left side and some kind of monster or creature on the right, along with smaller panels below. However, most of the text consists of Japanese-style sound effects and onomatopoeia rather than readable English text with game rules or descriptions.
+
+Due to the artistic manga style and image quality, I cannot make out any clear rulebook text, card names, or game mechanics that would typically be found in a Kingdom Death: Monster rulebook page.
+
+---

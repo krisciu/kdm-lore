@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-20.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-20.png
+Processed: 2025-12-02T17:36:09.310Z
+Tokens: 1754
+
+---
+
+[No text found]
+
+This image appears to be purely artistic/illustrative, showing what looks like a dramatic scene with hands reaching toward a bright light or flame, rendered in warm golden/orange tones. There is no visible text, card titles, rules text, or other readable content in this Kingdom Death: Monster rulebook image.
+
+---

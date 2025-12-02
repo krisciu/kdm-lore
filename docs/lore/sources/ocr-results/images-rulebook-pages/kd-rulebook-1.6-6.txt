@@ -1,0 +1,33 @@
+# OCR Result: kd-rulebook-1.6-6.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-6.png
+Processed: 2025-12-02T17:48:53.205Z
+Tokens: 1970
+
+---
+
+**Introduction and How to Play**
+
+*Monster is a game about surviving in the darkness.*
+*You lose if your settlement's population reaches zero.*
+*You win if your settlement defeats the Gold Smoke Knight.*
+
+*Monster* is played by 1-4 players*. Together, players will hunt and fight monsters, using what they scavenge to grow a small settlement. Each player typically plays as one survivor and the players take turns controlling the monsters.
+
+This game is cooperative. Players are encouraged to make long-term and split-second decisions as a group, pooling their efforts to protect their future.
+
+*Monster* is designed to be played as a campaign. Groups of players will return to the same settlement, and even the same survivors, over the course of several play sessions. Simply pick up where you left off the last time you played. You can play with the same group of people each time or swap in new friends.
+
+*Monster* is a miniatures hobby game. An important component of this game is assembling, customizing, and painting your miniatures.
+
+To begin playing, you only need to assemble the four starting survivors and the first monster, a White Lion.
+
+**Starting Survivors**
+
+**White Lion**
+
+* 5-6 player variant appears later in this book. We do not recommend starting there.
+
+2
+
+---

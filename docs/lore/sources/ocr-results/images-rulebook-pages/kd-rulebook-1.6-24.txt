@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-24.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-24.png
+Processed: 2025-12-02T17:43:06.842Z
+Tokens: 1751
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing four figures in a dark, atmospheric scene with glowing orbs of light. The image appears to be concept art or decorative artwork from Kingdom Death: Monster, but contains no visible text, card names, rules, or other readable content to extract.
+
+---

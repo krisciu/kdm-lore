@@ -1,0 +1,65 @@
+# OCR Result: kd-rulebook-1.6-32.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-32.png
+Processed: 2025-12-02T17:46:33.985Z
+Tokens: 2556
+
+---
+
+**Monster Movement**
+
+**Damage Survivor Steps**
+
+**HIT**
+
+**1** Reduce 1 armor point and expend the damage dealt by 1. Repeat until no armor points remain. If damage remains, continue.
+
+**2** Fill one injury level box and expend damage dealt by 1 (☐ light, then ☐ heavy). Repeat until all injury levels are filled. If damage remains, continue.
+
+**3** If any damage remains, turn to the **Severe Injury** story event and roll once on the section for the hit location. This expends any remaining damage.
+
+When all damage dealt from a hit is reduced to zero, move on to the next hit and repeat this process. When no hits remain, the attack is complete.
+
+**Knocked Down**
+
+When the heavy injury level is filled, a survivor is knocked down and must be placed on its side. If a survivor is knocked down while performing an attack, their remaining unresolved hits are canceled. Knocked down survivors cannot spend activation or movement, or be knocked down again. They can spend survival to dodge, but stay knocked down. Knocked down survivors get up at the end of the next monster turn.
+
+**Move & Attack**
+
+The next action on the AI card is **Move & Attack**.
+
+Move the White Lion toward its target any number of spaces up to its current movement (6). Unless otherwise noted, a monster always turns to face its target.
+
+The White Lion should move by the most direct route possible, one adjacent (non-diagonal) space at a time. The White Lion must be adjacent to a survivor to attack.
+
+If the White Lion cannot reach its target, it will move the maximum available spaces towards the target, turn to face them, and end its turn.
+
+Moving the maximum number of spaces allowed by a movement attribute is known as a **full move**.
+
+**White Lion Attacks!**
+
+Once the White Lion is adjacent, follow the attack profile on the AI card and make an attack based on the speed, accuracy, and damage listed there.
+
+Speed determines the number of attack rolls. **Claw's** attack profile has 2 speed, so roll 2d10 to attack. Accuracy is the number an attack roll must meet or exceed to hit the target. **Claw** has 2 accuracy, so determine hits by checking how many roll results are 2 or over. If there are no hits, the monster misses, and it proceeds to the next action on the card. If there are none, the card is discarded.
+
+**Damage the Survivor**
+
+If there are any hits in the attack, the target suffers damage equal to the damage listed on the attack profile. This damage injures survivors, reducing their armor, then causing injuries.
+
+Roll the hit location dice once for every hit to determine what hit locations are damaged. All hit location dice must be rolled before continuing.
+
+The target chooses what order to apply damage to hit locations and if they will use survival to **dodge** a hit. Apply damage from all hits to complete the attack.
+
+The **Claw** attack profile has 1 damage. The damage dealt by each hit is 1 (other attacks may have more damage). Receive this damage according to the **Damage Survivor Steps** described above. Resolve any hits from **Claw** now.
+
+Reducing armor points at a location to 0 does not cause the armor to be discarded. However, armor points do not replenish during the showdown.
+
+Injury levels can only be filled in once, and cannot be used to reduce damage again once they are filled. When a heavy injury level with a bolded box is filled, the survivor is knocked down (see above).
+
+**End of Monster Turn**
+
+Once **Claw** is completed, place it face up in the AI discard pile on the monster control panel. End the monster's turn. The next page contains information for controlling this monster in future rounds. To start the survivor turn, turn the page.
+
+28
+
+---

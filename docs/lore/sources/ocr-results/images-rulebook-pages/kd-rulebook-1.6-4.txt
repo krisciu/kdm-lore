@@ -1,0 +1,49 @@
+# OCR Result: kd-rulebook-1.6-4.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-4.png
+Processed: 2025-12-02T17:48:22.102Z
+Tokens: 2210
+
+---
+
+**I ♥ POOTS**
+
+**1.6**
+
+**Dedicated to Jeffrey Andrew Whitehead**
+
+**Creator / Lead Design**  
+Adam Poots
+
+**Game Design**  
+Adam Poots, Anna Poots, Zach Mcront, Jacob Hohlbaum
+
+**Art**  
+Zeen Chin, Danny Cruz, Nat Kay Cokran, DCWJ, Caitlin Hackett, Raquel Huitomo, Lokman Lam, Chris NG, Yasmine Putri, Lomola Tomko
+
+**Graphic Design**  
+Adam Poots
+
+**Human Game Language**  
+Anna Poots
+
+**Sculpture**  
+Thomas David, Stephanie Alison Everett, Forge Studios, Jonah Gilbert, Jacques-Alexandre Gillois, Jin, Hector Moran
+
+**Copy Editing**  
+Margot Atwell, Alex Carsiana, Giaco Furino, Megan Trank
+
+**1.6 Version Additional Credits**  
+Zachery Barash (Game Design), Joe Poulos (Layouts), Zac Clark (Focus Testing)
+
+**Playtest**  
+Stuart Aboda, Zachery Barash, Austin Cantrell, Zac Clark, Scott Coppeland, Rujal Cummins, Eric Finer, Josh Freydkis, Jacob Hohlbaum, Mo Isa, Eric Lindenhof, Zach Mcront, Joe Poulos, Dylan Rachubrger, Eric Safin, Nick Stamm, Richard Surovy, Matthew Liu, Bennett Kolber, Ashton Baker, and the many other players, strangers, and friends that came to play valiantly over the years.
+
+**Special Thanks**  
+Our fans, backers, and backers. Thanks for playing our game. Thanks for creating fine typo document. Thanks for being a badass community!
+
+**ISBN:** 978-0-578-83840-8  
+© 2007-2020 Kingdom Death, LLC. All rights reserved.  
+*Je suis Death™, characters, logo, graphics, designs, names, and fine art sculptures are property of Adam Poots.*
+
+---

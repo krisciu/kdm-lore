@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-128.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-128.png
+Processed: 2025-12-02T17:24:31.843Z
+Tokens: 1759
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a dramatic scene with a woman surrounded by flames, skulls, and mystical elements. There is no visible game text, card titles, rules, or other readable content in this image. It appears to be artwork from the Kingdom Death: Monster universe, but contains no extractable text elements.
+
+---

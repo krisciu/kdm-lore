@@ -1,0 +1,13 @@
+# OCR Result: kdu-105-ba4e234a-a026-a108-5fb5-55d7a4314eb6.png
+
+Source: official-site/images/newsletters/kdu-105-ba4e234a-a026-a108-5fb5-55d7a4314eb6.png
+Processed: 2025-12-02T18:03:03.376Z
+Tokens: 1229
+
+---
+
+[No text found]
+
+This appears to be a promotional or showcase image of a painted miniature figure from Kingdom Death: Monster. The image shows a detailed miniature of a female character in gothic/dark fantasy styling, but contains no visible text, card information, rules, or other readable content to extract. It appears to be purely a display image of the painted model against a black background with what looks like a logo in the upper left corner.
+
+---

@@ -97,8 +97,8 @@ function scanDirectory(dirPath: string, type: SourceFile['type'], results: Sourc
 /**
  * Get source files by priority
  */
-export function getSourcesByPriority(limit?: number): SourceFile[] {
-  const config = loadConfig();
+export async function getSourcesByPriority(limit?: number): Promise<SourceFile[]> {
+  const config = await loadConfig();
   const allFiles = getAllSourceFiles();
   
   // Sort by priority
@@ -341,8 +341,12 @@ Only include entities with clear descriptions. Be thorough but accurate.`;
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 4096,
+        model: 'claude-opus-4-5-20251101',
+        max_tokens: 16000,
+        thinking: {
+          type: 'enabled',
+          budget_tokens: 8000,
+        },
         messages: [{ role: 'user', content: prompt }],
       }),
     });
@@ -353,7 +357,14 @@ Only include entities with clear descriptions. Be thorough but accurate.`;
     }
 
     const data = await response.json();
-    const text = data.content[0].text;
+    
+    // Find the text block (thinking mode returns thinking + text blocks)
+    const textBlock = data.content.find((block: { type: string }) => block.type === 'text');
+    if (!textBlock) {
+      return extractEntitiesFromPatterns(source); // Fallback
+    }
+    
+    const text = textBlock.text;
     
     // Parse JSON from response
     const jsonMatch = text.match(/\[[\s\S]*\]/);
@@ -387,7 +398,7 @@ export async function runDiscovery(options?: {
   entities: DiscoveredEntity[];
 }> {
   const existingNames = getExistingEntryNames();
-  const sources = getSourcesByPriority(options?.maxSources || 20);
+  const sources = await getSourcesByPriority(options?.maxSources || 20);
   
   const allEntities: ExtractedEntity[] = [];
   const entitySources: Map<string, string[]> = new Map();
@@ -437,7 +448,7 @@ export async function runDiscovery(options?: {
     if (entity.type === 'monster') priority += 3;
     if (entity.type === 'character') priority += 2;
     
-    const discovered = addToDiscoveryQueue({
+    const discovered = await addToDiscoveryQueue({
       name: entity.name,
       type: entity.type,
       subType: entity.subType,

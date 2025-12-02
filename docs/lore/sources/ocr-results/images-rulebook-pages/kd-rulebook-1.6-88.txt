@@ -1,0 +1,72 @@
+# OCR Result: kd-rulebook-1.6-88.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-88.png
+Processed: 2025-12-02T17:49:42.606Z
+Tokens: 2474
+
+---
+
+**Innovations**
+
+**Drums**
+*music, language consequence*
+
+[Image of drums]
+
+**Bone Beats** - Select one:
+• You also above. Gain +2 Insanity.
+• Rhythmic trance. Gain +2 survival.
+• Gain Rhythm Chaser fighting art or
+  Synchronized Strike secret fighting art.
+
+*Add drums consequences to the
+Innovation deck.*
+
+**Name:** The name of the Innovation.
+
+**Keywords:** Innovations have a type (Paint's type is art) and an origin (Paint is a *language consequence*).
+
+**Rules:** Some innovations, like Language, have persistent benefits. Others will allow you to endeavor at these innovations for potential gain.
+
+If an endeavor cost is listed, one or more players may nominate a survivor, spend their endeavors at this innovation, and apply any resulting rules.
+
+**Consequences:** Some innovations direct you to add further innovations to the innovation deck.
+
+**The Innovation Deck**
+A settlement's innovation deck is a persistent deck that grows during the campaign. It represents the potential cultural and technological growth of your settlement, and will grow as a consequence of gained innovation cards.
+
+Whenever your settlement gains a new innovation, search the innovation cards for all innovations that are a *consequence* of the new innovation. Shuffle them into the innovation deck.
+
+The innovation deck is persistent. Make sure to preserve the unique combination of cards in your deck between play sessions.
+
+The starting innovation deck of a new settlement arises from the first innovation, **Language**, which is gained from the **First Day** settlement event. It consists of the 6 innovations marked *language consequence*: Paint, Ingredients, Drums, Ammonia, Symposium, and Hovel.
+
+**Adding Innovations**
+When a new innovation is added to your settlement, place it in the play area with all other innovations and update your Settlement Record Sheet innovation list.
+
+**Survival Limit**
+Some innovations change your settlement's Survival Limit. When these are innovated, increase the Survival Limit on the Settlement Record Sheet. If these innovations are lost, decrease the Survival Limit.
+
+Place any unused gear in the allotted space in the game box. Retrieve these cards in future settlement phases. (Players can keep a written gear list.)
+
+Finish cleaning the play area by returning the settlement's locations, event cards, and unused survivor record sheets to the game box.
+
+**Weapon Masteries**
+
+Weapon masteries are innovations, they are permanently added to the list of settlement innovations.
+
+When any survivor attains a weapon mastery with a weapon type, that mastery imparts benefits to everyone in the settlement. All other survivors automatically gain the **Specialist** bonus for that weapon type and may use this in addition to whatever weapon proficiencies they have earned.
+
+**Principles**
+
+Principles are the guiding philosophies of your settlement. They have two components, a story event and a principle card.
+
+When a principle's story event is triggered, it will prompt your settlement to make a choice. Follow the rules on each story event. Record the chosen principle on the Settlement Record Sheet and add that principle's card to the settlement play area.
+
+Principle cards describe persistent effects of your chosen principles. Apply any benefits of your principle as survivors are born, when they die, and at any other appropriate time.
+
+**Settlement Locations**
+
+The majority of a settlement's resources are spent at settlement locations. At the start of the campaign, survivors have one settlement location—the **Lantern Hoard**. Additional locations are added to the settlement from existing settlement locations and from story events.
+
+---

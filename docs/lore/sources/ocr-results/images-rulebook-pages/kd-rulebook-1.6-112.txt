@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-112.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-112.png
+Processed: 2025-12-02T17:23:31.230Z
+Tokens: 1755
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dramatic scene with armored figures around what appears to be a fire or light source. The image contains no visible text, card names, rules, or other readable content - it appears to be concept art or a decorative illustration from the game.
+
+---

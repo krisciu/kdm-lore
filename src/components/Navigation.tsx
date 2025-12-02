@@ -10,7 +10,7 @@ import SearchModal from './SearchModal';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/lore', label: 'Compendium' },
-  { href: '/generator', label: 'Generator' },
+  { href: '/agent', label: 'Agent' },
   { href: '/changelog', label: 'Changelog' },
 ];
 

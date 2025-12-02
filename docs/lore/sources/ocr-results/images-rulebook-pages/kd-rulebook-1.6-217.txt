@@ -1,0 +1,20 @@
+# OCR Result: kd-rulebook-1.6-217.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-217.png
+Processed: 2025-12-02T17:38:53.724Z
+Tokens: 1830
+
+---
+
+Looking at this manga-style comic page, I can see some sound effects and minimal text:
+
+**Sound Effects:**
+- **AH** (in top right panel)
+- **KA KA** (in bottom left panel)
+- **AH** (in bottom right panel)
+
+The image appears to be a dramatic sequence showing a character in what looks like a threatening or dangerous situation, with most of the storytelling being conveyed through the artwork rather than text. The panels show various close-up shots and what appears to be some kind of creature or monster with fur or feathers.
+
+[Most content is visual storytelling with minimal text - primarily sound effects in Japanese manga style]
+
+---

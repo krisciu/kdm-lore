@@ -1,0 +1,43 @@
+# OCR Result: kd-rulebook-1.6-157.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-157.png
+Processed: 2025-12-02T17:33:08.668Z
+Tokens: 2221
+
+---
+
+# PRINCIPLE: CONVICTION
+
+**Story Event**
+
+*The survivors must find a reason to be.*
+*Treasure the darkness in all its mystery, or seek to master it and grow strong.*
+
+The group must choose one.
+
+## Master the Darkness
+
+*Life is finding the perfect death. The lantern is power. By its light, all will be led to their final glorious moment. Add "**Hands of Heat**" to next year on the timeline.*
+
+The settlement gains the **Conviction Principle: Barbaric**. Find and place the card on the settlement board and note it on the settlement record sheet. After adding the card to the settlement, roll 1d10.
+
+| 1d10 | Result |
+|------|--------|
+| 1-5  | The settlement celebrates with a destructive feast. Lose all resources (including the storage). If 10 or more resources were lost this way, **departing survivors gain +1 permanent speed** and the **Honorable** disorder. |
+| 6-10 | Nominate a survivor. They gain +4 courage and the following ability: **Thundercaller**: Once in a lifetime, on a hunt board space after **Overwhelming Darkness**, in place of rolling a random hunt event, use "100" as your result. |
+
+## Treasure the Mystery
+
+*Life is like a quickly fading lantern. Every precious moment must be lived to its absolute fullest! Add "**Bone Witch**" to next year on the timeline.*
+
+The settlement gains the **Conviction Principle: Romantic**. Find and place the card on the settlement board and note it on the settlement record sheet. After adding the card to the settlement, roll 1d10.
+
+| 1d10 | Result |
+|------|--------|
+| 1-5  | The settlement celebrates with an excessive feast. Lose all resources (including the storage). If 10 or more resources were lost this way, **departing survivors gain +1 permanent luck** and the **Prey** disorder. |
+| 6-10 | Nominate a survivor. They gain +4 understanding and the following ability: **Legendcaller**: Once in a lifetime, on a hunt board space after **Overwhelming Darkness**, in place of rolling a random hunt event, use "33" as your result. |
+
+---
+*Kingdom Death: Monster Core Game* **153**
+
+---

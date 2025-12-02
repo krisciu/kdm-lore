@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-152.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-152.png
+Processed: 2025-12-02T17:32:48.824Z
+Tokens: 1762
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dramatic scene with figures in flowing robes amid lightning and storm clouds. The image is rendered in a distinctive Japanese art style with muted colors (grays, purples, and blues) but contains no visible text, card names, rules, or other readable content to extract.
+
+---

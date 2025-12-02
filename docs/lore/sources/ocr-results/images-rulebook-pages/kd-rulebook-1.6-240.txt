@@ -1,0 +1,61 @@
+# OCR Result: kd-rulebook-1.6-240.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-240.png
+Processed: 2025-12-02T17:43:48.057Z
+Tokens: 2954
+
+---
+
+**Turn (Survivors'):** The second part of a round is the survivors' turn. During this phase, survivors may act one at a time, each completing their entire act before another survivor may take their act. Survivors may choose to act in any order.
+
+**Two-handed:** A gear keyword. This weapon requires two hands to use. Some gear and rules do not work with two-handed weapons.
+
+**Undeathable:** A gear special rule. If the survivor dies, roll 1d10. On a result of 6+, the survivor lives. If this roll occurs from the survivor having a lethal amount of bleeding tokens, do not remove bleeding tokens until they gain another bleeding token.
+
+**Understanding:** A survivor attribute based on the survivor record sheet. Represents a survivor's insight about the world. Reaching an understanding level of 3 will trigger the Insight Story Event, while reaching a level of 9 will trigger the White Secret story event.
+
+**Uninhibited Rage:** Add +1d10 strength to a wound attempt. After a wound attempt is rolled you may roll the Death Die and add the result to the strength of your wound attempt.
+
+**Unique:** A gear special rule. A settlement may only have one copy of this gear card at a time.
+
+**Unchakeable:** A gear special rule. When this survivor draws a trap card, roll 1d10. On a result of 6+, ignore the trap. Discard it and shuffle the hit location deck.
+
+**Unstoppable:** A gear special rule. Replace all wound rolls with a 1d10 roll. On 1-5, fail to wound, on 6+ wound. You may not inflict a critical wound when using this rule.
+
+**Unwieldy:** A gear special rule. If any attack dice roll results are 1, the weapon causes 1 random damage to the survivor for each 1 rolled. Continue the attack as normal.
+
+**Vermin Resources:** Vermin resources can be found in Bug Patches during showdowns or as a result of events. Vermin cards describe how each vermin can be used. Vermin can also be used in the Cooking Story Event.
+
+**Victory:** Part of a monster's Aftermath, use this result if the monster is defeated. Add that monster to the Defeated Monsters section of the settlement record sheet. If a Nemesis monster was defeated, update the Nemesis monster section as well.
+
+**Vital:** A gear special rule. If the settlement has any gear with this rule, the survivors cannot depart without this gear. If the survivor holding vital gear perishes before the showdown, another survivor must pick up the vital gear (discarding gear to make room in their grid if needed).
+
+**Waist:** A survivor hit location. Damage to the waist beyond the heavy injury level results in a roll on the Waist section of the Severe Injury table.
+
+**Wear:** Wearing a piece of gear refers to a piece of armor or accessory gear in your gear grid. If an effect restricts the type of gear you can wear, you cannot place that type of gear into your gear grid.
+
+**Weapon:** A type of gear card. Weapon types in the core game include axe, bow, club, dagger, fist & tooth, grand, katana, katar, shield, spear, sword, thrown, twilight sword, and whip.
+
+**Weapon Mastery:** Achieved when a survivor has eight or more levels of weapon proficiency. When any survivor attains a weapon mastery, it applies to the settlement as an innovation. All survivors automatically gain the Specialist bonus for that weapon type in addition to any weapon proficiencies they already have.
+
+**Weapon Proficiency:** A survivor attribute listed on the survivor record sheet. Represents a survivor's skill with a particular weapon type. May be gained for the following weapon types: axe, bow, club, dagger, fist & tooth, grand, katar, shield, spear, sword, light sword, and whip. After reaching the first Hunt XP milestone, survivors can declare a weapon type to gain weapon proficiency in.
+
+A survivor must first declare a weapon type before departing on a hunt (write it in the space on the record sheet) and then wound a monster at least once during a showdown with that weapon type in order to gain levels of weapon proficiency.
+
+**Weapon Specialization:** Achieved when a survivor has three or more levels of weapon proficiency. Survivors develop new skills which often empower that weapon.
+
+**Whip:** Gear with this keyword is a whip weapon. Survivors may gain levels of whip weapon proficiency with this weapon.
+
+**Wind:** When you successfully wounds a monster, remove the top card from its AI Deck and place it in the Wound Stack. If the AI deck is empty, shuffle the AI discard to create a new deck first.
+
+**Wound (Reaction):** Listed on some monster hit location cards. An action that a monster performs in response to a successful wound attempt at certain hit locations.
+
+**Wound Attempt:** The total power of a survivor's hit. Add the wound roll result (d10) to the attacking weapon's strength, along with any other strength modifiers. If a wound attempt total meets or exceeds the monster's toughness, then the hit location is wounded.
+
+**Wound Roll:** Represents the variable ferocity of a survivor's hit. Roll 1d10 and add the result to the wound attempt. The result of this d10 (adding luck modifiers) determines whether or not a critical wound is caused on locations with critical wound effects.
+
+**Zone of [ ]: / [ ] Zone:** The indicated area for actions and reactions on some monster AI and hit location cards.
+
+236
+
+---

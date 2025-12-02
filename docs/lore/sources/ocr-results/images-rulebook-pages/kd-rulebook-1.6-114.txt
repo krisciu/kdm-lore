@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-114.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-114.png
+Processed: 2025-12-02T17:23:36.302Z
+Tokens: 1743
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration without any visible text content. The image shows a decorative mural or artwork with figures in an ornate border design, but contains no readable text, card names, rules, or other textual elements to extract.
+
+---

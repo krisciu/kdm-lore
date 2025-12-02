@@ -1,0 +1,40 @@
+# OCR Result: kd-rulebook-1.6-199.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-199.png
+Processed: 2025-12-02T17:35:57.557Z
+Tokens: 2039
+
+---
+
+**HAMMER AND NAIL**
+*- Finale -*
+
+*You pour all of your might into resisting the unstoppable strike, your fingernails peel backwards and hair grows downwards back into your scalp.*
+
+You must **Bend or Break**.
+
+**Bend or Break** - roll 1d10
+
+**1 2 3 4**
+
+Your body cannot withstand the immense pressure. You are driven into ground, your legs crumpling.
+
+You are knocked down, suffer the dismembered leg severe injury and archive your **Thunder Maul**.
+
+**5 6 7 8**
+
+Your weapon collides with the Gold Smoke Knight's, sending a cloud of dust and stone faces careening in all directions. Your lion-faced maul meets its match, but your body is found wanting. You manage to deflect the blow, but shatter in the process.
+
+Suffer the **broken arm** severe injury.
+
+Cancel the monster's **Blacken** action.
+
+**9 10**
+
+You search within for strength, falling deeper and deeper into your subconscious. You see yourself from the inside out. Visceral bloody machinery slow to a crawl as time drags. Electricity crackles from your brain, supercharging your heart. Muscles bulge with lightning speed as your swing generates a sonic boom. Everything shatters.
+
+Suffer the **frenzy brain** trauma four times. Destroy all armor at all hit locations. Gain the **Immortal** disorder. Cancel the monster's **Blacken** action.
+
+Kingdom Death: Monster Core Game **195**
+
+---

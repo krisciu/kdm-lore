@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-2.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-2.png
+Processed: 2025-12-02T17:36:03.923Z
+Tokens: 1779
+
+---
+
+Looking at this black and white illustration, I can see what appears to be a landscape filled with skulls and a monument or pillar in the background. However, I cannot make out any clearly readable text in this image. The artistic style suggests this is from Kingdom Death: Monster artwork, but any text that might be present is either too small, stylized, or obscured by the artistic elements to be legibly extracted.
+
+[No clearly readable text found]
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-213.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-213.png
+Processed: 2025-12-02T17:38:20.277Z
+Tokens: 1781
+
+---
+
+[No text found]
+
+This appears to be a black and white artistic illustration showing a dramatic landscape scene with what looks like a large structure or monument in a stormy environment. The image uses white line art on a black background in an etching or woodcut style. There is no visible text, numbers, or game mechanics present in this image - it appears to be purely decorative artwork, likely used as atmosphere or story illustration in the Kingdom Death: Monster rulebook.
+
+---

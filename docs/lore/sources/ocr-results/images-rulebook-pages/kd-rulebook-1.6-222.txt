@@ -1,0 +1,25 @@
+# OCR Result: kd-rulebook-1.6-222.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-222.png
+Processed: 2025-12-02T17:39:50.698Z
+Tokens: 1843
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text:
+
+**Sound Effects:**
+- POW
+- ERK
+- HA
+- AHHHH
+- TOK TA
+- TOK TA
+- AHHAHH
+
+**Other Text:**
+- There appears to be some Japanese text in speech bubbles that is difficult to read clearly in this resolution
+
+This appears to be an action sequence from a manga showing combat between characters, with various sound effects and what seem to be character exclamations. The text is primarily onomatopoeia (sound effects) rather than dialogue or descriptive text. Some speech bubbles contain text that is too small or unclear to transcribe accurately from this image quality.
+
+---

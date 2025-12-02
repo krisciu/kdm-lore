@@ -43,7 +43,7 @@ export interface SourceContext {
 /**
  * Find all sources that mention an entity
  */
-export function gatherSourcesForEntity(entityName: string): SourceContext[] {
+export async function gatherSourcesForEntity(entityName: string): Promise<SourceContext[]> {
   const allSources = getAllSourceFiles();
   const contexts: SourceContext[] = [];
   const searchTerms = [
@@ -74,7 +74,7 @@ export function gatherSourcesForEntity(entityName: string): SourceContext[] {
   }
   
   // Sort by source type priority
-  const config = loadConfig();
+  const config = await loadConfig();
   const priorityMap: Record<string, number> = {};
   config.sources.priority.forEach((type, i) => {
     priorityMap[type] = config.sources.priority.length - i;
@@ -240,8 +240,12 @@ Return the complete markdown entry.`;
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 4096,
+        model: 'claude-opus-4-5-20251101',
+        max_tokens: 16000,
+        thinking: {
+          type: 'enabled',
+          budget_tokens: 10000,
+        },
         messages: [{ role: 'user', content: prompt }],
       }),
     });
@@ -252,7 +256,15 @@ Return the complete markdown entry.`;
     }
 
     const data = await response.json();
-    const generatedText = data.content[0].text;
+    
+    // Find the text block (thinking mode returns thinking + text blocks)
+    const textBlock = data.content.find((block: { type: string }) => block.type === 'text');
+    if (!textBlock) {
+      console.error('No text block in response');
+      return null;
+    }
+    
+    const generatedText = textBlock.text;
     
     // Parse the generated content
     return parseGeneratedEntry(generatedText, entity, sources, images);
@@ -418,15 +430,15 @@ export async function generateEntryForEntity(
   }
 ): Promise<PendingEntry | null> {
   // Update entity status
-  updateEntityStatus(entity.id, 'generating');
+  await updateEntityStatus(entity.id, 'generating');
   
   try {
     // Gather sources
-    const sources = gatherSourcesForEntity(entity.name);
+    const sources = await gatherSourcesForEntity(entity.name);
     
     if (sources.length === 0) {
       console.log(`No sources found for ${entity.name}`);
-      updateEntityStatus(entity.id, 'queued'); // Put back in queue
+      await updateEntityStatus(entity.id, 'queued'); // Put back in queue
       return null;
     }
     
@@ -442,12 +454,12 @@ export async function generateEntryForEntity(
     const generated = await generateEntryWithAI(entity, sources, images, apiKey);
     
     if (!generated) {
-      updateEntityStatus(entity.id, 'queued'); // Put back in queue
+      await updateEntityStatus(entity.id, 'queued'); // Put back in queue
       return null;
     }
     
     // Add to pending entries
-    const pending = addPendingEntry({
+    const pending = await addPendingEntry({
       entityId: entity.id,
       entityName: entity.name,
       content: generated.content,
@@ -460,12 +472,12 @@ export async function generateEntryForEntity(
     });
     
     // Update entity status
-    updateEntityStatus(entity.id, 'pending_review');
+    await updateEntityStatus(entity.id, 'pending_review');
     
     return pending;
   } catch (error) {
     console.error(`Error generating entry for ${entity.name}:`, error);
-    updateEntityStatus(entity.id, 'queued'); // Put back in queue
+    await updateEntityStatus(entity.id, 'queued'); // Put back in queue
     return null;
   }
 }
@@ -527,25 +539,45 @@ export function saveApprovedEntry(entry: PendingEntry): {
  * Build full markdown content with frontmatter
  */
 function buildFullMarkdown(entry: PendingEntry): string {
-  // Build frontmatter
-  const fm = entry.frontmatter;
+  // Build clean frontmatter - only include valid keys
+  const validKeys = [
+    'title', 'category', 'type', 'expansion', 'confidence', 
+    'sources', 'images', 'lastUpdated', 'generatedBy'
+  ];
+  
   let frontmatter = '---\n';
   
-  for (const [key, value] of Object.entries(fm)) {
-    if (typeof value === 'string') {
+  // Add string fields
+  for (const key of ['title', 'category', 'type', 'expansion', 'confidence', 'lastUpdated', 'generatedBy']) {
+    const value = entry.frontmatter[key];
+    if (value && typeof value === 'string') {
       frontmatter += `${key}: "${value}"\n`;
-    } else if (Array.isArray(value)) {
-      frontmatter += `${key}:\n`;
-      for (const item of value) {
-        if (typeof item === 'object') {
-          frontmatter += `  - path: "${item.path}"\n`;
-          frontmatter += `    caption: "${item.caption}"\n`;
-        } else {
-          frontmatter += `  - "${item}"\n`;
+    }
+  }
+  
+  // Add sources if present
+  if (entry.frontmatter.sources) {
+    const sources = entry.frontmatter.sources;
+    if (typeof sources === 'string') {
+      frontmatter += `sources: "${sources}"\n`;
+    } else if (Array.isArray(sources)) {
+      frontmatter += `sources:\n`;
+      for (const s of sources) {
+        if (typeof s === 'string') {
+          frontmatter += `  - "${s}"\n`;
         }
       }
-    } else {
-      frontmatter += `${key}: ${value}\n`;
+    }
+  }
+  
+  // Add images from entry.images (not frontmatter, which may be corrupted)
+  if (entry.images && entry.images.length > 0) {
+    frontmatter += `images:\n`;
+    for (const img of entry.images) {
+      if (img && typeof img === 'object' && img.path) {
+        frontmatter += `  - path: "${img.path}"\n`;
+        frontmatter += `    caption: "${img.caption || 'Product image'}"\n`;
+      }
     }
   }
   

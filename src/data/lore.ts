@@ -222,13 +222,25 @@ The People of the Lantern hold that light is sacred—the only defense against t
   },
 ];
 
-// This will be populated at runtime
+// This will be populated at runtime - NOTE: cache disabled for dev to pick up new entries
 let _loreEntries: LoreEntry[] | null = null;
+
+/**
+ * Clear the lore entries cache (useful after agent generates new content)
+ */
+export function clearLoreCache(): void {
+  _loreEntries = null;
+}
 
 /**
  * Get all lore entries - loads from docs on server, uses seed data on client
  */
 export function getLoreEntries(): LoreEntry[] {
+  // In development, always reload to pick up new entries
+  if (process.env.NODE_ENV === 'development') {
+    _loreEntries = null;
+  }
+  
   // Return cached if available
   if (_loreEntries) {
     return _loreEntries;

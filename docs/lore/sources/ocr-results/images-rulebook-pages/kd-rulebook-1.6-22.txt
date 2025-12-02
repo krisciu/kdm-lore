@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-22.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-22.png
+Processed: 2025-12-02T17:39:20.973Z
+Tokens: 1745
+
+---
+
+[No text found]
+
+This appears to be a dramatic artwork showing a character with blonde hair screaming or roaring with an intense, frightening expression. The image has warm orange/amber lighting and appears to be purely illustrative artwork without any visible text, rules, or game mechanics displayed.
+
+---

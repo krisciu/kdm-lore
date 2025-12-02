@@ -1,0 +1,14 @@
+# OCR Result: kdu-102-d09e2f0e-9890-2160-efb4-3a5af0384205.jpg
+
+Source: official-site/images/newsletters/kdu-102-d09e2f0e-9890-2160-efb4-3a5af0384205.jpg
+Processed: 2025-12-02T17:59:25.786Z
+Tokens: 1250
+
+---
+
+**CAMELLIA**
+*- Frozen Survivor -*
+
+[This appears to be a miniature figure showcase image rather than a game card. The only visible text is the character name "CAMELLIA" and the subtitle "Frozen Survivor". The image shows a detailed miniature figure of a character in flowing robes and wrappings, holding what appears to be a lantern or light source.]
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-11.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-11.png
+Processed: 2025-12-02T17:22:40.980Z
+Tokens: 1742
+
+---
+
+*One day, the man woke up. He rubbed the dried ink caked over his eyes and opened them. Around him, he saw other people stirring, and beyond, a horizon of unbroken darkness.*
+
+**Kingdom Death: Monster Core Game 7**
+
+---

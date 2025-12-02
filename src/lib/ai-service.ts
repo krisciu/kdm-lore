@@ -144,7 +144,7 @@ async function callAnthropic(prompt: string, config: AIConfig): Promise<Generate
 }
 
 async function callAnthropicRaw(prompt: string, config: AIConfig): Promise<string> {
-  const model = config.model || 'claude-sonnet-4-20250514';
+  const model = config.model || 'claude-opus-4-5-20251101';
   
   const response = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
@@ -155,7 +155,11 @@ async function callAnthropicRaw(prompt: string, config: AIConfig): Promise<strin
     },
     body: JSON.stringify({
       model,
-      max_tokens: 4096,
+      max_tokens: 16000,
+      thinking: {
+        type: 'enabled',
+        budget_tokens: 10000,
+      },
       system: LORE_SYSTEM_PROMPT,
       messages: [{ role: 'user', content: prompt }],
     }),
@@ -167,7 +171,14 @@ async function callAnthropicRaw(prompt: string, config: AIConfig): Promise<strin
   }
 
   const data = await response.json();
-  return data.content[0].text;
+  
+  // Find the text block (thinking mode returns thinking + text blocks)
+  const textBlock = data.content.find((block: { type: string }) => block.type === 'text');
+  if (!textBlock) {
+    throw new Error('No text block in response');
+  }
+  
+  return textBlock.text;
 }
 
 /**
@@ -222,7 +233,7 @@ export function getAIConfig(): AIConfig | null {
     return {
       provider: 'anthropic',
       apiKey: process.env.ANTHROPIC_API_KEY,
-      model: process.env.ANTHROPIC_MODEL || 'claude-sonnet-4-20250514',
+      model: process.env.ANTHROPIC_MODEL || 'claude-opus-4-5-20251101',
     };
   }
   

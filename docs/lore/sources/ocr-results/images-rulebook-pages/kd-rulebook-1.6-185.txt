@@ -1,0 +1,53 @@
+# OCR Result: kd-rulebook-1.6-185.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-185.png
+Processed: 2025-12-02T17:34:51.542Z
+Tokens: 2252
+
+---
+
+**WHITE SECRET**
+
+*Story Event*
+
+*A dream, buried deep in memory, suddenly surfaces. You feel her hot breath bathing your ear, hissing whispers. She had come to you bearing the secrets of the world and you had merely forgotten, until now.*
+
+Your brain swells and you scream out in pain.
+Suffer the **Lunacy** brain trauma and **Remember the Story**.
+
+**Remember the Story** - roll 1d10
+
+**1 2**
+**Story of the Ageless Man**
+
+You remember the story of a young man in his prime. The man was so grateful for his body's ability to protect his loved ones. He decided to honor it by punching the dark sky above a million times. As long as he never finished his vow, he never aged a single day again.
+
+Your body transforms to its physical peak.
+Permanently gain +1 accuracy and +1 strength.
+Gain the following ability:
+
+**Ageless**: You may hunt if you are retired. When you gain Hunt XP, you may decide not to gain it. Saviors age unnaturally and cannot use Ageless.
+
+*If the settlement has the **Romantic** Conviction Principle, the survivor **inherits** the **Story of the Ageless Man**.*
+
+**3 4 5 6 7 8**
+**Story of the Survivor**
+
+You remember the story of a smart young girl that, despite all odds, constantly outwitted the superior beings she encountered. You also recall that her own vanity lead to her death. Gain the **Quixotic** disorder and the following ability:
+
+**Peerless**: When you gain insanity, you may gain an equal amount of survival.
+
+**9 10**
+**Story of the Invisible Hair**
+
+You remember the story of a woman with long hair so fine it couldn't even be seen. She claimed she could feel anything her hair touched. On her deathbed, she cut it all off and gifted a single strand to any who visited her. What was left over was scattered, floating in the wind, waiting to be grasped by those who learn this story.
+
+You gain the **Extra Senses** fighting art and the following ability:
+
+**Leyline Walker**: While there is no armor or accessory gear in your gear grid, gain +3 evasion.
+
+*If the settlement has the **Barbaric** Conviction Principle, the survivor **inherits** the **Story of the Invisible Hair**.*
+
+Kingdom Death: Monster Core Game **181**
+
+---

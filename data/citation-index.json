@@ -1,0 +1,126 @@
+{
+  "lastUpdated": "2025-12-02T17:19:56.491Z",
+  "nextNumber": 476,
+  "citations": [
+    {
+      "id": "cit-1764695953428",
+      "range": "[416-420]",
+      "source": "dragon-king-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt",
+      "topic": "Dragon King",
+      "dateAdded": "2025-12-02T17:19:13.428Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695953428",
+      "range": "[421-425]",
+      "source": "indomitable-survivor-tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "topic": "Dragon King",
+      "dateAdded": "2025-12-02T17:19:13.428Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695953428",
+      "range": "[426-430]",
+      "source": "campaigns-of-death",
+      "type": "shop",
+      "path": "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "topic": "Dragon King",
+      "dateAdded": "2025-12-02T17:19:13.428Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695953428",
+      "range": "[431-435]",
+      "source": "tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/tyrant-slayer-scarlet.txt",
+      "topic": "Dragon King",
+      "dateAdded": "2025-12-02T17:19:13.428Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695972014",
+      "range": "[436-440]",
+      "source": "dragon-king-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt",
+      "topic": "Phoenix",
+      "dateAdded": "2025-12-02T17:19:32.014Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695972014",
+      "range": "[441-445]",
+      "source": "indomitable-survivor-tachyon-nodachi-rubi",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "topic": "Phoenix",
+      "dateAdded": "2025-12-02T17:19:32.014Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695972014",
+      "range": "[446-450]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Phoenix",
+      "dateAdded": "2025-12-02T17:19:32.014Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695972014",
+      "range": "[451-455]",
+      "source": "sunstalker-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/sunstalker-expansion.txt",
+      "topic": "Phoenix",
+      "dateAdded": "2025-12-02T17:19:32.014Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695996490",
+      "range": "[456-460]",
+      "source": "dragon-king-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt",
+      "topic": "Tyrant",
+      "dateAdded": "2025-12-02T17:19:56.490Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695996491",
+      "range": "[461-465]",
+      "source": "indomitable-survivor-tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "topic": "Tyrant",
+      "dateAdded": "2025-12-02T17:19:56.491Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695996491",
+      "range": "[466-470]",
+      "source": "tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/tyrant-slayer-scarlet.txt",
+      "topic": "Tyrant",
+      "dateAdded": "2025-12-02T17:19:56.491Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764695996491",
+      "range": "[471-475]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Tyrant",
+      "dateAdded": "2025-12-02T17:19:56.491Z",
+      "quality": "official"
+    }
+  ]
+}

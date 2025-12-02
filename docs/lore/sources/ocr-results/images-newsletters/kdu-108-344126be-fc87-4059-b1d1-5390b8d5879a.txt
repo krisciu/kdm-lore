@@ -1,0 +1,19 @@
+# OCR Result: kdu-108-344126be-fc87-4059-b1d1-5390b8d5879a.jpg
+
+Source: official-site/images/newsletters/kdu-108-344126be-fc87-4059-b1d1-5390b8d5879a.jpg
+Processed: 2025-12-02T18:06:22.949Z
+Tokens: 1853
+
+---
+
+Looking at this Kingdom Death: Monster game image, I can see several miniatures on what appears to be a game board with some cards, but the text is largely out of focus or at angles that make it difficult to read clearly.
+
+The only clearly visible text I can make out is:
+
+**Scorn**
+
+The rest of the text on the cards and any other game materials in the image is either too blurry, at too steep an angle, or too small to read reliably in this photograph. The image appears to show a game in progress with various miniatures positioned on terrain tiles, but the focus and lighting make text extraction challenging for most elements beyond that single card title.
+
+[Most text unclear due to image focus and angles]
+
+---

@@ -1,0 +1,21 @@
+# OCR Result: kd-rulebook-1.6-203.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-203.png
+Processed: 2025-12-02T17:36:45.134Z
+Tokens: 1838
+
+---
+
+Looking at this manga-style comic page, I can see several speech bubbles with text, but the resolution and stylized lettering makes most of the text difficult to read clearly. 
+
+What I can make out:
+
+In the bottom right panel: **"No...!"**
+
+The other speech bubbles contain text that appears to be dialogue, but the stylized manga lettering and image quality make it too unclear for me to transcribe accurately without potentially misreading the content.
+
+This appears to be a dramatic scene showing a character in some kind of underground or cave setting, with what looks like a confrontation or dangerous situation unfolding across the four panels.
+
+[Most text unclear due to image resolution and stylized lettering]
+
+---

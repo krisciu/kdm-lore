@@ -1,18 +1,10 @@
 /**
  * Lore API Routes
- * Provides endpoints for lore file operations, stats, and search
+ * Provides endpoints for lore entries and categories
  */
 
 import { NextRequest, NextResponse } from 'next/server';
-import {
-  getAllLoreFiles,
-  getLoreStats,
-  searchLoreFiles,
-  getBacklinks,
-  findBrokenLinks,
-  LORE_DIRECTORIES,
-} from '@/lib/lore-service';
-import { getLoreEntries, getLoreBySlug, searchLore } from '@/data/lore';
+import { getLoreEntries, getLoreBySlug, searchLore, getCategoriesWithCounts } from '@/data/lore';
 
 /**
  * GET /api/lore
@@ -34,8 +26,11 @@ export async function GET(request: NextRequest) {
           entries = entries.filter(e => e.category === category);
         }
         
+        const categories = getCategoriesWithCounts();
+        
         return NextResponse.json({
           entries: entries.slice(0, limit),
+          categories,
           total: entries.length,
         });
       }
@@ -53,17 +48,7 @@ export async function GET(request: NextRequest) {
           return NextResponse.json({ error: 'Entry not found' }, { status: 404 });
         }
         
-        // Get backlinks
-        const backlinks = getBacklinks(slug);
-        
-        return NextResponse.json({
-          entry,
-          backlinks: backlinks.map(f => ({
-            slug: f.slug,
-            title: f.title,
-            category: f.category,
-          })),
-        });
+        return NextResponse.json({ entry });
       }
 
       case 'search': {
@@ -74,75 +59,24 @@ export async function GET(request: NextRequest) {
         }
         
         const entries = searchLore(query);
-        const files = searchLoreFiles(query);
         
         return NextResponse.json({
           entries: entries.slice(0, 20),
-          files: files.slice(0, 20).map(f => ({
-            slug: f.slug,
-            title: f.title,
-            category: f.category,
-            directory: f.directory,
-          })),
+          total: entries.length,
         });
       }
 
       case 'stats': {
-        const stats = getLoreStats();
-        const directories = Object.entries(LORE_DIRECTORIES).map(([key, config]) => ({
-          key,
-          ...config,
-          count: stats.byDirectory[key] || 0,
-        }));
+        const entries = getLoreEntries();
+        const categories = getCategoriesWithCounts();
         
         return NextResponse.json({
-          ...stats,
-          directories,
-        });
-      }
-
-      case 'files': {
-        const directory = searchParams.get('directory');
-        let files = getAllLoreFiles();
-        
-        if (directory) {
-          files = files.filter(f => f.directory === directory);
-        }
-        
-        return NextResponse.json({
-          files: files.map(f => ({
-            slug: f.slug,
-            title: f.title,
-            category: f.category,
-            directory: f.directory,
-            lastModified: f.lastModified,
-          })),
-        });
-      }
-
-      case 'broken-links': {
-        const files = getAllLoreFiles();
-        const brokenByFile: Record<string, any[]> = {};
-        
-        files.forEach(file => {
-          const broken = findBrokenLinks(file.path);
-          if (broken.length > 0) {
-            brokenByFile[file.slug] = broken;
-          }
-        });
-        
-        return NextResponse.json({
-          totalBroken: Object.values(brokenByFile).flat().length,
-          byFile: brokenByFile,
-        });
-      }
-
-      case 'directories': {
-        return NextResponse.json({
-          directories: Object.entries(LORE_DIRECTORIES).map(([key, config]) => ({
-            key,
-            ...config,
-          })),
+          total: entries.length,
+          categories,
+          byCategory: categories.reduce((acc, cat) => {
+            acc[cat.id] = cat.count;
+            return acc;
+          }, {} as Record<string, number>),
         });
       }
 
@@ -157,4 +91,3 @@ export async function GET(request: NextRequest) {
     );
   }
 }
-

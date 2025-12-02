@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-21.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-21.png
+Processed: 2025-12-02T17:37:49.103Z
+Tokens: 1746
+
+---
+
+*But the man did not want to die. Desperately grasping at the cold stone faces, he felt a crack, and tore at it with all his might. A piece of stone came free. It was sharp and deadly.*
+
+**Kingdom Death: Monster Core Game** 17
+
+---

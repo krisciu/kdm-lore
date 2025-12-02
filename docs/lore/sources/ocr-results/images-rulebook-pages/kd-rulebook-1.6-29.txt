@@ -1,0 +1,91 @@
+# OCR Result: kd-rulebook-1.6-29.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-29.png
+Processed: 2025-12-02T17:45:12.557Z
+Tokens: 2585
+
+---
+
+# **Attributes**
+
+Survivors and monsters may gain permanent increases or decreases to their attributes.
+
+If a survivor's attributes are permanently affected, update the appropriate box on the survivor record sheet to reflect changes. All survivor attributes have a box with a space to pencil in the values of these attributes.
+
+If a survivor gains temporary modifiers to their attributes, place tokens on the record sheet instead of changing the sheet. Remove these tokens at the end of the showdown.
+
+If a monster's attributes change, place attribute modifier tokens on the monster control panel.
+
+**Be sure to consider attribute changes when monsters and survivors attack.**
+
+## Attribute Tokens:
+- **+1 Movement**
+- **+1 Accuracy** 
+- **+1 Strength**
+- **+1 Speed**
+- **+1 Evasion**
+- **+1 Luck**
+
+---
+
+## **Survivor Hit Locations**
+
+**Head**
+- Knocked Down
+
+**Arms** 
+- Knocked Down
+
+**Body**
+- Knocked Down
+
+**Waist**
+- Knocked Down
+
+**Legs**
+- Knocked Down
+
+---
+
+**Evasion (0):** the ability to avoid attacks.
+**Luck (0):** the likelihood of lucky attacks.
+**Survival (1 for your name):** self-preservation.
+**Insanity (0):** mental guard against terror.
+**Courage (0):** bravery.
+**Understanding (0):** wisdom.
+**Hunt Experience (0):** accrued experience.
+**Weapon Proficiency (0):** experience with a weapon.
+
+## **How Movement Works**
+A starting survivor's movement is 5, meaning they may move up to 5 adjacent unoccupied spaces each turn, counted cardinally not diagonally.
+
+## **Survivor Hit Locations**
+Survivors have 5 hit locations vulnerable to damage and capable of wearing protective armor: **Head, Arms, Body, Waist, and Legs.**
+Hit locations have light and heavy injury levels (light and heavy-lined boxes).
+
+---
+
+## **Armor Points**
+The Cloth starting gear card provides 1 armor point at the waist location (indicated by a +1 in the shield accompanied by the waist symbol at the top left of the card). Record "1" in the shield-shaped space next to Waist on your survivor record sheet to represent the armor points gained from the **Cloth**.
+
+## **Brain and Insanity**
+The Brain location is a survivor's mental fitness. The fragile Brain has only one injury level. Instead of armor, survivors use insanity to shield their brains.
+
+Only **brain damage** harms the Brain location. Actions that cause brain damage are clearly marked. When suffering brain damage, insanity protects the Brain the same way armor protects hit locations.
+
+**Insanity** keeps survivors steadfast in the face of a roaring, toothy maw that would bring a sane person to their knees. **Insanity is persistent, and is gained and lost through gameplay.**
+
+---
+
+## **Check Your Weapons**
+A starting survivor has two available weapons — the **Founding Stone** and **Fist & Tooth**. The rules for the **Founding Stone** can be found on the **Founding Stone** gear card and the rules for **Fist & Tooth** can be found on the left side of the gear grid, along with useful reference information for survivors.
+
+Each weapon has attack attributes that determine the outcome of a survivor's attack. Details about making attacks follow later in this section.
+
+The survivors' **Founding Stones** have a special ability (on the bottom right of the gear card). Instead of attacking the monster with the **Founding Stone** in hand, survivors may throw it at a monster from anywhere on the showdown board, causing an automatic critical wound. Afterwards, the **Founding Stone** is lost forever and archived (returned to the game box).
+
+---
+
+*Kingdom Death: Monster Core Game* **25**
+
+---

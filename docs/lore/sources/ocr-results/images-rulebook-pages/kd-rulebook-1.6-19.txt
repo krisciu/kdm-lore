@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-19.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-19.png
+Processed: 2025-12-02T17:35:04.252Z
+Tokens: 1729
+
+---
+
+*Overcome with terror and grief, the man with the lantern collapsed to the ground. Cold stone noses pushed into his side. There was no escape.*
+
+**Kingdom Death: Monster Core Game 15**
+
+---

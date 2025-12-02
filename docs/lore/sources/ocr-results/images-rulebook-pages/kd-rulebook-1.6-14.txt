@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-14.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-14.png
+Processed: 2025-12-02T17:25:18.740Z
+Tokens: 1751
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a fierce, wolf-like or beast creature with glowing red eyes and bared fangs. The image is rendered in dark, atmospheric tones with dramatic lighting effects, but contains no visible text, titles, rules, or game mechanics to extract.
+
+---

@@ -1,0 +1,99 @@
+# OCR Result: kd-rulebook-1.6-239.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-239.png
+Processed: 2025-12-02T17:43:00.238Z
+Tokens: 3682
+
+---
+
+**Sniff:** The White Lion's instinct. Described on the White Lion's showdown story event.
+
+**Soluble:** A gear keyword. Able to be dissolved in liquid.
+
+**Sour Death:** An ability. When you are knocked down, you may encourage yourself (even if you are dead). If you do, gain +1 strength token.
+
+**Spear:** Gear with this keyword is a spear weapon. Survivors may gain levels of spear weapon proficiency with this weapon.
+
+**Special Showdown:** Special showdowns interrupt the Settlement Phase. After they conclude (regardless of victory or defeat) the Settlement Phase continues where it left off. Do not generate endeavors or trigger new story events. Each Special Showdown's details are listed on the story event or innovation that triggered it.
+
+**Speed (Attack Profile/Weapon):** The number of attack rolls (number of dice rolled). Usually determined by a monster AI card's attack profile or speed on a survivor's weapon.
+
+**Speed (Attribute/Modifier/Bonus):** Speed is added to a survivor's weapon speed or a monster's attack profile speed to determine the number of attack rolls. If speed is negative, subtract it from the number of dice rolled for an attack. A monster or survivor attack with less than one speed still has one attack roll. Weapons with the slow keyword cannot benefit from positive speed bonuses.
+
+**Stalwart:** An ability. Ignore knocked down effects of brain trauma and intimidation actions.
+
+**Starvation:** If the survivors move into this space (including starting a showdown) apply the rules listed on the Hunt Board.
+
+**Stinky:** A gear keyword. This item has a strong odor.
+
+**Story of the Forsaker:** An ability. You cannot be knocked down during a showdown with a nemesis monster.
+
+**Story of the Goblin:** An ability. Once per showdown, you may roll 1d10. On a 3+, gain the priority target token and the monster gains +1 damage token.
+
+**Story of the Young Hero:** An ability. At the start of each of your acts, you may choose to gain 1 survival and 2 bleeding tokens.
+
+**Story Event:** An event which impacts the settlement/survivors. Common categories include: the settlement timeline, weapon table, stones in Hunt XV/courage/understanding, monster cards, settlement events. When ⚔ appears, trigger the story event by turning to the appropriate page in the rulebook and following its instructions.
+
+**Strain Fighting Art:** Strain fighting arts are special fighting arts that are added to your game via strain milestones. A campaign can have a maximum of 5 strain fighting arts in the fighting arts deck. If you would add a 6th strain fighting art, replace an old strain fighting art (remove it from the deck) with the new one instead. If any survivors have the removed fighting art, they still keep it. When you start a new campaign, if you have earned more than 2 strain fighting arts, you must randomly determine which 5 to add to your fighting arts deck. Any other earned strain fighting arts should be stored in your game box for later campaigns.
+
+**Strain Milestone:** A strain milestone describes a rare milestone event that, if reached, will permanently alter the future of your Kingdom Death Monster campaigns. During the Check Milestones step (step 8) of the settlement phase, check if you have achieved its requirements. Conditions: if you have resolve its permanence, mark the innovation and this strain card from your game. It can not be used again.
+
+**Strange Resources:** Resource cards only gained in specific circumstances. Strange monster resources are not shuffled into monster resource decks.
+
+**Strength (Attribute/Modifier/Bonus):** Strength is added to the result of a wound attempt. If strength is a negative number, subtract it from the wound attempt result.
+
+**Strength (Weapon):** The number a weapon adds to wound attempt.
+
+**Super Dense:** A type of hit location. This hit location is impenetrable. If a survivor attempts to wound one of these locations with a fist weapon, it is destroyed and archived at the end of the attack.
+
+**Surge:** A type of survival action. When opportunity permits, a survivor may spend 1 survival to surge. Gain +1 ☁ which must be spent immediately. This allows them to activate a weapon, interact with terrain, use gear, and anything else spending an activation allows them to do. Resolve the results of the surge (including any monster reactions) before resuming the turn. Each survivor may only surge once per round, and only if the settlement has the Inner Lantern innovation.
+
+**Survival:** Survival is the desperate desire to cling to life. Survival points are gained and lost throughout the campaign. They are spent to perform extraordinary feats and change your fate. Update the survival box on your character record sheet as it is gained and lost.
+
+**Survival Action:** Survival actions are the most common uses for survival. There are 5 dodge, encourage, dash, endure, and surge.
+
+**Survival Limit:** Survival limit is the maximum amount of survival a survivor may have. Survival limit is recorded on the settlement record sheet. Innovations and events raise the settlement's survival limit. At the start of the campaign, the survival limit is 1. Survival gained over the survival limit is lost.
+
+**Survival Opportunity:** The only times that survivors may dash or surge. Survival opportunities exist at the following times: during flows on monster AI cards, between actions on the survivors' turn, before performing reactions, after critical wound effects, or when a monster is knocked down.
+
+**Survivor Record Sheet:** Represents the permanent status of a survivor. Some sections include: attributes, Hunt XP, Weapon Proficiency, and permanent changes.
+
+**Survivor Status Card:** Special 10 AI cards that track conditions for an individual survivor rather than the monster. When a survivor gains a survivor status card, shuffle it into the monster's AI deck. Its effects apply only to them. Some status cards change and need to be tracked. Some grant survivors unique actions. If a monster's story event has a Survivor Stats card in its setup, all survivors gain the card at the start of the showdown.
+
+**Sweet Battle:** An ability. Once per round, you may surge without spending survival. If you do, end all activation abilities unless you activate a weapon. You may use Sweet Battle even if your settlement cannot normally surge. You may also use Sweet Battle when you have no survival and/or cannot spend survival. This does not let you surge more than once per round.
+
+**Sword:** Gear with this keyword is a sword weapon. Survivors may gain levels of sword weapon proficiency with this weapon.
+
+**Target:** The recipient of an attack or effect. Some attacks or effects may impact survivors other than the target.
+
+**Terrain Cards:** Represent terrain that can be encountered during the Showdown Phase and contain rules for how monsters and survivors interact with them. Terrain cards also set up the terrain tiles on the Showdown Board.
+
+**Terrain Tile:** Terrain tiles are placed on the Showdown Board to represent physical features. The type and amount of terrain added to the Showdown Board is determined by the terrain card's specified in the setup section of each monster's showdown story event.
+
+**The Penalty:** The Hunt's verdict. Described on The Hunt's showdown story event and back action card.
+
+**Threat:** A threat is any survivor that is not knocked down or using special gear, terrain, or abilities to prevent being considered a threat.
+
+**Thrown:** Gear with this keyword is a thrown weapon. Survivors may not gain levels of thrown weapon proficiency.
+
+**Thundercaller:** An ability. Once a lifetime, on a Hunt Board space after Overwhelming Darkness, in place of rolling a random hunt event, use "100" as your result.
+
+**Timeline:** Tracks the number of lantern years since the establishment of your settlement on the Settlement Record Sheet. Trigger story events innovations as the timeline advances.
+
+**Tinker:** An ability. When you are a returning survivor, gain +1☁.
+
+**Tool:** A gear keyword. Some tools trigger story events or grant bonuses.
+
+**Toughness:** Toughness is the number a wound attempt total must meet or exceed to successfully wound a monster.
+
+**Toward (Movement):** A direction used in reference to another point on the showdown board, such as a monster, survivor, terrain tile, or board edge.
+
+**Trait:** A type of monster AI card. Describes permanent changes to the characteristics or behaviors of the monster. Trait cards are not discarded at the end of the monster turn.
+
+**Trap:** A type of monster hit location. A trap cancels all the attacks, its hits, rolls their attack, and causes the monster to stand, in addition to the actions listed on the card. After the Trap's activation is resolved, shuffle the entire hit location deck.
+
+**Trigger:** Part of a monster's attack profile. Indicates that an Attack Effect is part of this attack.
+
+**Turn (Monster):** The first part
+
+---

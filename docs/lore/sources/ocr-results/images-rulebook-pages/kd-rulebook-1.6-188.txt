@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-188.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-188.png
+Processed: 2025-12-02T17:34:58.944Z
+Tokens: 1737
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a person surrounded by menacing wolf-like or beast creatures in a dark, atmospheric style. The image contains no visible text, titles, rules, or other written content to extract.
+
+---

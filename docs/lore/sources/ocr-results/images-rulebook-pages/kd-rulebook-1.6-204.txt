@@ -1,0 +1,18 @@
+# OCR Result: kd-rulebook-1.6-204.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-204.png
+Processed: 2025-12-02T17:36:54.020Z
+Tokens: 1855
+
+---
+
+Looking at this manga-style comic page, I can see several Japanese sound effects and onomatopoeia scattered throughout the panels, but the text is quite small and stylized in the typical manga format. The visible text elements appear to be:
+
+- Various Japanese sound effects/onomatopoeia (ザッ, ドッ, etc.)
+- Some speech bubbles with Japanese text that is too small/unclear to read accurately
+
+[Most text is too small or stylized to transcribe accurately]
+
+This appears to be a page from a Japanese manga or comic showing action sequences with characters in what looks like a fantasy/adventure setting. The text consists primarily of sound effects and dialogue in Japanese characters, but the resolution and artistic styling makes it difficult to provide an accurate transcription of the specific text content.
+
+---

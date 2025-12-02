@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-164.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-164.png
+Processed: 2025-12-02T17:33:23.838Z
+Tokens: 1756
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dark fantasy scene with an armored figure standing over fallen bodies surrounded by skulls. There is no visible text, rules content, card titles, or other readable elements in this image - it appears to be concept art or atmospheric artwork from the game.
+
+---

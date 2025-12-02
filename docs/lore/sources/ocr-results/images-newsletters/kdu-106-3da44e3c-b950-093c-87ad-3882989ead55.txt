@@ -1,0 +1,13 @@
+# OCR Result: kdu-106-3da44e3c-b950-093c-87ad-3882989ead55.png
+
+Source: official-site/images/newsletters/kdu-106-3da44e3c-b950-093c-87ad-3882989ead55.png
+Processed: 2025-12-02T18:03:57.979Z
+Tokens: 1150
+
+---
+
+[No text found]
+
+This appears to be a promotional or showcase image of a Kingdom Death: Monster miniature figure rather than a game card or rules content. The image shows a detailed painted miniature of a female character with cat-like ears holding a lantern, accompanied by skeletal remains, but contains no visible text, rules, or card information to extract.
+
+---

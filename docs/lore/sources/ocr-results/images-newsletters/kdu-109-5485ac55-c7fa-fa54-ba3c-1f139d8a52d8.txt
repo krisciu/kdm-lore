@@ -1,0 +1,14 @@
+# OCR Result: kdu-109-5485ac55-c7fa-fa54-ba3c-1f139d8a52d8.jpg
+
+Source: official-site/images/newsletters/kdu-109-5485ac55-c7fa-fa54-ba3c-1f139d8a52d8.jpg
+Processed: 2025-12-02T18:07:46.945Z
+Tokens: 1253
+
+---
+
+**ARCO**
+*- Indomitable Survivor -*
+
+[This appears to be a miniature figure showcase image rather than a game card with rules text. The only visible text is the character name "ARCO" and the subtitle "Indomitable Survivor". The image shows a detailed miniature figure of what appears to be a female warrior character in ornate armor and clothing, mounted on a round base.]
+
+---

@@ -1,24 +1,51 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { Suspense, useState, useMemo, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { motion } from 'framer-motion';
-import { Search, X, Grid, List, Filter } from 'lucide-react';
-import { getCategoriesWithCounts, getLoreEntries, searchLore } from '@/data/lore';
-import { LoreCategory } from '@/types/lore';
+import { Search, X, Grid, List, Filter, Loader2 } from 'lucide-react';
+import { categories, seedLoreEntries } from '@/data/lore';
+import { LoreEntry, LoreCategory, CategoryInfo } from '@/types/lore';
 import LoreCard from '@/components/LoreCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
-export default function LorePage() {
+function LorePageContent() {
   const searchParams = useSearchParams();
   const initialCategory = searchParams.get('category') as LoreCategory | null;
   
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<LoreCategory | 'all'>(initialCategory || 'all');
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
+  const [loreEntries, setLoreEntries] = useState<LoreEntry[]>(seedLoreEntries);
+  const [isLoading, setIsLoading] = useState(true);
   
-  const loreEntries = getLoreEntries();
-  const categoriesWithCounts = getCategoriesWithCounts();
+  // Fetch lore entries from API on mount
+  useEffect(() => {
+    async function fetchLore() {
+      try {
+        const res = await fetch('/api/lore');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.entries && data.entries.length > 0) {
+            setLoreEntries(data.entries);
+          }
+        }
+      } catch (error) {
+        console.error('Failed to fetch lore:', error);
+      } finally {
+        setIsLoading(false);
+      }
+    }
+    fetchLore();
+  }, []);
+  
+  // Calculate categories with counts
+  const categoriesWithCounts: CategoryInfo[] = useMemo(() => {
+    return categories.map(cat => ({
+      ...cat,
+      count: loreEntries.filter(entry => entry.category === cat.id).length,
+    }));
+  }, [loreEntries]);
 
   const filteredEntries = useMemo(() => {
     let entries = loreEntries;
@@ -28,10 +55,13 @@ export default function LorePage() {
     }
     
     if (searchQuery.trim()) {
-      entries = searchLore(searchQuery);
-      if (selectedCategory !== 'all') {
-        entries = entries.filter(entry => entry.category === selectedCategory);
-      }
+      const lowerQuery = searchQuery.toLowerCase();
+      entries = entries.filter(entry => 
+        entry.title.toLowerCase().includes(lowerQuery) ||
+        entry.summary.toLowerCase().includes(lowerQuery) ||
+        entry.content.toLowerCase().includes(lowerQuery) ||
+        entry.tags.some(tag => tag.toLowerCase().includes(lowerQuery))
+      );
     }
     
     return entries;
@@ -162,7 +192,14 @@ export default function LorePage() {
 
         {/* Results Count */}
         <p className="text-sm text-[var(--text-muted)] mb-6">
-          {filteredEntries.length} {filteredEntries.length === 1 ? 'entry' : 'entries'}
+          {isLoading ? (
+            <span className="inline-flex items-center gap-2">
+              <Loader2 className="w-4 h-4 animate-spin" />
+              Loading entries...
+            </span>
+          ) : (
+            `${filteredEntries.length} ${filteredEntries.length === 1 ? 'entry' : 'entries'}`
+          )}
         </p>
 
         {/* Results */}
@@ -197,5 +234,27 @@ export default function LorePage() {
         )}
       </div>
     </div>
+  );
+}
+
+// Loading fallback for Suspense
+function LorePageLoading() {
+  return (
+    <div className="min-h-screen pt-24 pb-20">
+      <div className="max-w-7xl mx-auto px-6 lg:px-8">
+        <div className="flex items-center justify-center py-20">
+          <Loader2 className="w-8 h-8 animate-spin text-[var(--text-muted)]" />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// Main export with Suspense boundary
+export default function LorePage() {
+  return (
+    <Suspense fallback={<LorePageLoading />}>
+      <LorePageContent />
+    </Suspense>
   );
 }

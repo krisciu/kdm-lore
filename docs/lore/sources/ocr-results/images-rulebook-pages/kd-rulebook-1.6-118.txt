@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-118.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-118.png
+Processed: 2025-12-02T17:23:48.940Z
+Tokens: 1742
+
+---
+
+[No text found]
+
+This appears to be a black and white illustration showing a female character with raised arms in an ornate, decorative outfit with intricate patterns. The image appears to be purely artistic/illustrative without any visible text, rules, or game mechanics displayed.
+
+---

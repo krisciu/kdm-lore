@@ -1,0 +1,32 @@
+# OCR Result: kd-rulebook-1.6-7.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-7.png
+Processed: 2025-12-02T17:49:06.616Z
+Tokens: 1957
+
+---
+
+**Hunt**
+
+**Showdown** ← → **Settlement**
+
+*A game session is a complete cycle of 3 phases. We encourage taking hobby breaks with friends when you complete a game session.*
+
+This game includes more monsters and many options for customizing your survivors. You can build new versions to represent them as they obtain new gear or build entirely new survivors as some are lost and new ones start out on the hunt.
+
+This game includes dice, 10-sided dice (known as d10s) and hit location dice (a 6-sided die representing parts of the body).
+
+At its core, *Monster* is a game about the fragility of human life, the ferocity of the human spirit, and the wonder of exploration.
+
+Your story will be shaped by the decisions you make, the strengths and weaknesses of your settlement, and the growth of your survivors. The game begins with a story that will introduce you to the basic concepts of the game.
+
+**d10 - 10 sided dice**
+
+**Hit Location Dice**
+
+**📖 Prologue**
+Begin your campaign. Gather some friends. Turn the page, read the First Story, and start playing the prologue!
+
+*Kingdom Death: Monster Core Game* **3**
+
+---

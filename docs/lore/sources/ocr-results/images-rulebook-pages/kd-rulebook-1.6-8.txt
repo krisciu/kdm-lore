@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-8.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-8.png
+Processed: 2025-12-02T17:49:11.903Z
+Tokens: 1741
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing figures gathered around a bright light source, with many faces visible in the background. There is no visible text, card titles, rules text, or other readable content in this image.
+
+---

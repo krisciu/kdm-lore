@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-170.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-170.png
+Processed: 2025-12-02T17:33:52.442Z
+Tokens: 1751
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dark, horror-themed scene with a demonic or monstrous figure surrounded by ghostly faces with glowing eyes. The image is atmospheric artwork without any visible text, card names, rules, or other readable content.
+
+---

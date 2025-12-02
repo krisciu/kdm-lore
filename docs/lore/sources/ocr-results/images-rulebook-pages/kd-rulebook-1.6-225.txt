@@ -1,0 +1,23 @@
+# OCR Result: kd-rulebook-1.6-225.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-225.png
+Processed: 2025-12-02T17:40:21.934Z
+Tokens: 1860
+
+---
+
+Looking at this manga-style comic page, I can identify the following text elements:
+
+**Sound Effects:**
+- POW (appears multiple times)
+- ERK
+- CLAA (or similar slashing sound effect)
+
+**Japanese Text:**
+- Several speech bubbles contain Japanese characters/text that I cannot accurately transcribe without being able to read Japanese fluently
+
+**Note:** This appears to be a page from a Japanese manga featuring action sequences with characters in combat. The text is primarily in Japanese with English sound effects typical of manga translation conventions. Without being able to read Japanese, I cannot provide accurate translations of the dialogue and speech bubbles, but the sound effects and onomatopoeia are clearly visible in English.
+
+The page shows dynamic action scenes with what appears to be fantasy/adventure characters engaged in combat or intense situations.
+
+---

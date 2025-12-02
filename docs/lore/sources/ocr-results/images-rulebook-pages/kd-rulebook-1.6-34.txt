@@ -1,0 +1,62 @@
+# OCR Result: kd-rulebook-1.6-34.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-34.png
+Processed: 2025-12-02T17:47:30.600Z
+Tokens: 2440
+
+---
+
+**Foundling Stone**
+*weapon, melee, stone*
+
+Speed: 2
+Accuracy: 7
+Strength: 1
+
+*Spend 1 activation to attack with this weapon* -1❍
+
+*Speed 1* during the stone from anywhere on the board. Spend this card for 1 automatic hit that inflicts a critical wound.
+
+**Archive** Return this card to the game box.
+
+Speed | Number of attack rolls in the attack.
+Accuracy | Attack roll result required to hit.
+Strength | Modifier added to wound roll.
+
+---
+
+**Survivors' Turn!**
+Each turn, every survivor has an act. Each survivor takes their acts one at a time. There is no set order. Players should decide their order strategically. After all players acts are finished, the round is over and it becomes the monster's turn again.
+
+**Survivor Act**
+When a survivor takes their act, they gain 1 movement ❶ and 1 activation ❷. These can be spent in any order and are not cumulative from act to act. Each movement and activation must be completed before another can begin. When a survivor finishes their act, they lose any unused ❶❷ before another survivor may begin their act.
+
+**Survivor Movement**
+When a survivor spends their movement ❶, they can move up to their movement attribute (5), one board space at a time to any unoccupied, adjacent, non-diagonal space.
+
+A survivor cannot divide their movement into multiple parts. They cannot move 2 spaces, spend an activation, then resume their movement and move another 3 spaces.
+
+**Move a survivor adjacent to the White Lion to attack.**
+
+**Survivor Activation**
+Survivors spend their activation ❷ to attack with the Foundling Stone or sling it by following the special rule at the bottom of the card. When an activation is resolved, it will be denoted by ❷.
+
+**Attack with the Foundling Stone**
+Starting survivors have two weapons: **Foundling Stone** and **Fist & Tooth**. Each weapon has 3 attack attributes: speed, accuracy, and strength. Once adjacent to the monster, spend your ❷ to attack with the **Foundling Stone**!
+
+**Make Attack Rolls**
+Speed determines the number of attack rolls. This represents how quickly you strike. The Foundling Stone's speed is 2. Roll 2d10 to attack.
+
+**Count the Number of Hits**
+Accuracy is the number each attack roll must meet or exceed to hit. The Foundling Stone's accuracy is 7. Every attack roll result of 7 or greater is a hit! If there were no hits, the attacker misses and their attack ends. Survivors attacking from a monster's blind spot are at an advantage, and gain +1 to the results of their attack rolls. In the blind spot, an attack roll of 6 with a Foundling Stone becomes 7, making this result a hit.
+
+**Draw Hit Locations**
+Draw 1 hit location card for each hit. Select what order to try to wound them in. Attempt to wound each hit location one at a time.
+
+---
+
+**Monster's Blind Spot** [with progress bar indicator]
+
+[Game board image showing a miniature figure on terrain with movement arrows and a red X marking, indicating possible moves and restricted areas]
+
+---

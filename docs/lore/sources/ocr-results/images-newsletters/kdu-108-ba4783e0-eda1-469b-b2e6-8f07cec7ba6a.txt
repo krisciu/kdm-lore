@@ -1,0 +1,20 @@
+# OCR Result: kdu-108-ba4783e0-eda1-469b-b2e6-8f07cec7ba6a.jpg
+
+Source: official-site/images/newsletters/kdu-108-ba4783e0-eda1-469b-b2e6-8f07cec7ba6a.jpg
+Processed: 2025-12-02T18:07:06.929Z
+Tokens: 1013
+
+---
+
+Looking at this image, I can see a black box that appears to be the Kingdom Death: Monster game box sitting on a wooden surface. 
+
+The visible text I can extract is:
+
+**KINGDOM DEATH**
+**MONSTER**
+
+There appears to be a white decorative design/logo on the top of the box that looks like a stylized creature or emblem, but any additional text within or around that design is not clearly legible in this image.
+
+The box appears to be photographed at an angle on what looks like a wooden table or surface with white walls in the background.
+
+---

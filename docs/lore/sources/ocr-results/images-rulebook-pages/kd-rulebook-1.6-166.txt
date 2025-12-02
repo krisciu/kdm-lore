@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-166.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-166.png
+Processed: 2025-12-02T17:33:32.414Z
+Tokens: 1753
+
+---
+
+[No text found]
+
+This appears to be a detailed pencil illustration showing a dramatic scene with figures among skulls and skeletal remains, but there is no visible text content to extract from this image. It appears to be artwork from the Kingdom Death: Monster game, likely used as atmospheric illustration rather than containing game rules or text.
+
+---

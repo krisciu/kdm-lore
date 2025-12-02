@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-16.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-16.png
+Processed: 2025-12-02T17:33:14.206Z
+Tokens: 1745
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dramatic combat scene with a large monster creature and human figures silhouetted against firelight. The image is atmospheric artwork without any visible text, card titles, rules, or other readable content.
+
+---

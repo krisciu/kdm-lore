@@ -1,14 +1,13 @@
 /**
  * Agent Core - Main agent loop, scheduling, and state management
  * Orchestrates the autonomous research pipeline
+ * 
+ * Uses storage abstraction for cross-environment compatibility:
+ * - Local development: File system
+ * - Production/Vercel: Vercel KV
  */
 
-import fs from 'fs';
-import path from 'path';
-
-const DATA_PATH = path.join(process.cwd(), 'data');
-const STATE_FILE = path.join(DATA_PATH, 'agent-state.json');
-const CONFIG_FILE = path.join(DATA_PATH, 'agent-config.json');
+import { storage, STORAGE_KEYS, isUsingKV } from './storage';
 
 // =============================================================================
 // TYPES
@@ -97,7 +96,7 @@ const DEFAULT_CONFIG: AgentConfig = {
     apiDelayMs: 2000,
   },
   ai: {
-    model: 'claude-sonnet-4-20250514',
+    model: 'claude-opus-4-5-20251101',
     maxTokens: 4096,
     temperature: 0.7,
   },
@@ -128,57 +127,31 @@ const DEFAULT_STATE: AgentState = {
 };
 
 // =============================================================================
-// STATE MANAGEMENT
+// STATE MANAGEMENT (Async - supports both file and KV storage)
 // =============================================================================
 
-function ensureDataDir(): void {
-  if (!fs.existsSync(DATA_PATH)) {
-    fs.mkdirSync(DATA_PATH, { recursive: true });
-  }
+export async function loadConfig(): Promise<AgentConfig> {
+  const config = await storage().get<AgentConfig>(STORAGE_KEYS.AGENT_CONFIG, DEFAULT_CONFIG);
+  return { ...DEFAULT_CONFIG, ...config };
 }
 
-export function loadConfig(): AgentConfig {
-  ensureDataDir();
-  if (fs.existsSync(CONFIG_FILE)) {
-    try {
-      const data = JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf-8'));
-      return { ...DEFAULT_CONFIG, ...data };
-    } catch {
-      // Return default on error
-    }
-  }
-  saveConfig(DEFAULT_CONFIG);
-  return DEFAULT_CONFIG;
+export async function saveConfig(config: AgentConfig): Promise<boolean> {
+  return storage().set(STORAGE_KEYS.AGENT_CONFIG, config);
 }
 
-export function saveConfig(config: AgentConfig): void {
-  ensureDataDir();
-  fs.writeFileSync(CONFIG_FILE, JSON.stringify(config, null, 2));
+export async function loadState(): Promise<AgentState> {
+  const state = await storage().get<AgentState>(STORAGE_KEYS.AGENT_STATE, DEFAULT_STATE);
+  return { ...DEFAULT_STATE, ...state };
 }
 
-export function loadState(): AgentState {
-  ensureDataDir();
-  if (fs.existsSync(STATE_FILE)) {
-    try {
-      const data = JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8'));
-      return { ...DEFAULT_STATE, ...data };
-    } catch {
-      // Return default on error
-    }
-  }
-  saveState(DEFAULT_STATE);
-  return DEFAULT_STATE;
+export async function saveState(state: AgentState): Promise<boolean> {
+  return storage().set(STORAGE_KEYS.AGENT_STATE, state);
 }
 
-export function saveState(state: AgentState): void {
-  ensureDataDir();
-  fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
-}
-
-export function updateState(updates: Partial<AgentState>): AgentState {
-  const state = loadState();
+export async function updateState(updates: Partial<AgentState>): Promise<AgentState> {
+  const state = await loadState();
   const newState = { ...state, ...updates };
-  saveState(newState);
+  await saveState(newState);
   return newState;
 }
 
@@ -186,27 +159,18 @@ export function updateState(updates: Partial<AgentState>): AgentState {
 // DISCOVERY QUEUE
 // =============================================================================
 
-const DISCOVERY_QUEUE_FILE = path.join(DATA_PATH, 'discovery-queue.json');
-
-export function loadDiscoveryQueue(): DiscoveredEntity[] {
-  ensureDataDir();
-  if (fs.existsSync(DISCOVERY_QUEUE_FILE)) {
-    try {
-      return JSON.parse(fs.readFileSync(DISCOVERY_QUEUE_FILE, 'utf-8'));
-    } catch {
-      return [];
-    }
-  }
-  return [];
+export async function loadDiscoveryQueue(): Promise<DiscoveredEntity[]> {
+  return storage().get<DiscoveredEntity[]>(STORAGE_KEYS.DISCOVERY_QUEUE, []);
 }
 
-export function saveDiscoveryQueue(queue: DiscoveredEntity[]): void {
-  ensureDataDir();
-  fs.writeFileSync(DISCOVERY_QUEUE_FILE, JSON.stringify(queue, null, 2));
+export async function saveDiscoveryQueue(queue: DiscoveredEntity[]): Promise<boolean> {
+  return storage().set(STORAGE_KEYS.DISCOVERY_QUEUE, queue);
 }
 
-export function addToDiscoveryQueue(entity: Omit<DiscoveredEntity, 'id' | 'discoveredAt' | 'status'>): DiscoveredEntity {
-  const queue = loadDiscoveryQueue();
+export async function addToDiscoveryQueue(
+  entity: Omit<DiscoveredEntity, 'id' | 'discoveredAt' | 'status'>
+): Promise<DiscoveredEntity> {
+  const queue = await loadDiscoveryQueue();
   
   // Check for duplicates
   const existing = queue.find(e => e.name.toLowerCase() === entity.name.toLowerCase());
@@ -214,7 +178,7 @@ export function addToDiscoveryQueue(entity: Omit<DiscoveredEntity, 'id' | 'disco
     // Merge source files and images
     existing.sourceFiles = [...new Set([...existing.sourceFiles, ...entity.sourceFiles])];
     existing.images = [...new Set([...existing.images, ...entity.images])];
-    saveDiscoveryQueue(queue);
+    await saveDiscoveryQueue(queue);
     return existing;
   }
   
@@ -226,27 +190,27 @@ export function addToDiscoveryQueue(entity: Omit<DiscoveredEntity, 'id' | 'disco
   };
   
   queue.push(newEntity);
-  saveDiscoveryQueue(queue);
+  await saveDiscoveryQueue(queue);
   return newEntity;
 }
 
-export function getNextEntityToProcess(): DiscoveredEntity | null {
-  const queue = loadDiscoveryQueue();
+export async function getNextEntityToProcess(): Promise<DiscoveredEntity | null> {
+  const queue = await loadDiscoveryQueue();
   const queued = queue
     .filter(e => e.status === 'queued')
     .sort((a, b) => b.priority - a.priority);
   return queued[0] || null;
 }
 
-export function updateEntityStatus(
+export async function updateEntityStatus(
   entityId: string, 
   status: DiscoveredEntity['status']
-): void {
-  const queue = loadDiscoveryQueue();
+): Promise<void> {
+  const queue = await loadDiscoveryQueue();
   const entity = queue.find(e => e.id === entityId);
   if (entity) {
     entity.status = status;
-    saveDiscoveryQueue(queue);
+    await saveDiscoveryQueue(queue);
   }
 }
 
@@ -254,27 +218,18 @@ export function updateEntityStatus(
 // PENDING ENTRIES
 // =============================================================================
 
-const PENDING_ENTRIES_FILE = path.join(DATA_PATH, 'pending-entries.json');
-
-export function loadPendingEntries(): PendingEntry[] {
-  ensureDataDir();
-  if (fs.existsSync(PENDING_ENTRIES_FILE)) {
-    try {
-      return JSON.parse(fs.readFileSync(PENDING_ENTRIES_FILE, 'utf-8'));
-    } catch {
-      return [];
-    }
-  }
-  return [];
+export async function loadPendingEntries(): Promise<PendingEntry[]> {
+  return storage().get<PendingEntry[]>(STORAGE_KEYS.PENDING_ENTRIES, []);
 }
 
-export function savePendingEntries(entries: PendingEntry[]): void {
-  ensureDataDir();
-  fs.writeFileSync(PENDING_ENTRIES_FILE, JSON.stringify(entries, null, 2));
+export async function savePendingEntries(entries: PendingEntry[]): Promise<boolean> {
+  return storage().set(STORAGE_KEYS.PENDING_ENTRIES, entries);
 }
 
-export function addPendingEntry(entry: Omit<PendingEntry, 'id' | 'createdAt' | 'status'>): PendingEntry {
-  const entries = loadPendingEntries();
+export async function addPendingEntry(
+  entry: Omit<PendingEntry, 'id' | 'createdAt' | 'status'>
+): Promise<PendingEntry> {
+  const entries = await loadPendingEntries();
   
   const newEntry: PendingEntry = {
     ...entry,
@@ -284,20 +239,21 @@ export function addPendingEntry(entry: Omit<PendingEntry, 'id' | 'createdAt' | '
   };
   
   entries.push(newEntry);
-  savePendingEntries(entries);
+  await savePendingEntries(entries);
   return newEntry;
 }
 
-export function getPendingForReview(): PendingEntry[] {
-  return loadPendingEntries().filter(e => e.status === 'pending');
+export async function getPendingForReview(): Promise<PendingEntry[]> {
+  const entries = await loadPendingEntries();
+  return entries.filter(e => e.status === 'pending');
 }
 
-export function updatePendingEntryStatus(
+export async function updatePendingEntryStatus(
   entryId: string,
   status: PendingEntry['status'],
   notes?: string
-): PendingEntry | null {
-  const entries = loadPendingEntries();
+): Promise<PendingEntry | null> {
+  const entries = await loadPendingEntries();
   const entry = entries.find(e => e.id === entryId);
   
   if (!entry) return null;
@@ -305,7 +261,7 @@ export function updatePendingEntryStatus(
   entry.status = status;
   if (notes) entry.reviewNotes = notes;
   
-  savePendingEntries(entries);
+  await savePendingEntries(entries);
   return entry;
 }
 
@@ -313,9 +269,9 @@ export function updatePendingEntryStatus(
 // SCHEDULING
 // =============================================================================
 
-export function shouldRunAgent(): boolean {
-  const state = loadState();
-  const config = loadConfig();
+export async function shouldRunAgent(): Promise<boolean> {
+  const state = await loadState();
+  const config = await loadConfig();
   
   // Don't run if paused or already running
   if (state.status === 'paused' || state.status === 'running') {
@@ -335,14 +291,14 @@ export function shouldRunAgent(): boolean {
   return minutesSinceLastRun >= config.schedule.intervalMinutes;
 }
 
-export function calculateNextRun(): string {
-  const config = loadConfig();
+export async function calculateNextRun(): Promise<string> {
+  const config = await loadConfig();
   const nextRun = new Date();
   nextRun.setMinutes(nextRun.getMinutes() + config.schedule.intervalMinutes);
   return nextRun.toISOString();
 }
 
-export function startRun(): AgentRunLog {
+export async function startRun(): Promise<AgentRunLog> {
   const runLog: AgentRunLog = {
     id: `run-${Date.now()}`,
     startedAt: new Date().toISOString(),
@@ -353,7 +309,7 @@ export function startRun(): AgentRunLog {
     errors: [],
   };
   
-  updateState({
+  await updateState({
     status: 'running',
     currentTask: 'Starting research cycle',
     error: null,
@@ -362,17 +318,20 @@ export function startRun(): AgentRunLog {
   return runLog;
 }
 
-export function completeRun(runLog: AgentRunLog, status: 'success' | 'partial' | 'failed'): void {
+export async function completeRun(
+  runLog: AgentRunLog, 
+  status: 'success' | 'partial' | 'failed'
+): Promise<void> {
   runLog.completedAt = new Date().toISOString();
   runLog.status = status;
   
-  const state = loadState();
+  const state = await loadState();
   state.history = [runLog, ...state.history.slice(0, 49)]; // Keep last 50 runs
   state.stats.totalRuns++;
   state.stats.entitiesDiscovered += runLog.discovered;
   state.stats.entriesGenerated += runLog.generated;
   state.lastRun = runLog.completedAt;
-  state.nextRun = calculateNextRun();
+  state.nextRun = await calculateNextRun();
   state.status = 'idle';
   state.currentTask = null;
   
@@ -380,19 +339,19 @@ export function completeRun(runLog: AgentRunLog, status: 'success' | 'partial' |
     state.error = runLog.errors[0];
   }
   
-  saveState(state);
+  await saveState(state);
 }
 
-export function pauseAgent(): void {
-  updateState({ status: 'paused' });
+export async function pauseAgent(): Promise<void> {
+  await updateState({ status: 'paused' });
 }
 
-export function resumeAgent(): void {
-  const state = loadState();
+export async function resumeAgent(): Promise<void> {
+  const state = await loadState();
   if (state.status === 'paused') {
-    updateState({ 
+    await updateState({ 
       status: 'idle',
-      nextRun: calculateNextRun(),
+      nextRun: await calculateNextRun(),
     });
   }
 }
@@ -401,7 +360,14 @@ export function resumeAgent(): void {
 // STATUS
 // =============================================================================
 
-export function getAgentStatus(): {
+/**
+ * Check if we're using KV storage (production) or file storage (local)
+ */
+export function isUsingKVStorage(): boolean {
+  return isUsingKV();
+}
+
+export async function getAgentStatus(): Promise<{
   state: AgentState;
   config: AgentConfig;
   queue: {
@@ -410,11 +376,12 @@ export function getAgentStatus(): {
     generating: number;
     pendingReview: number;
   };
-} {
-  const state = loadState();
-  const config = loadConfig();
-  const discoveryQueue = loadDiscoveryQueue();
-  const pendingEntries = loadPendingEntries();
+  storageMode: 'kv' | 'file';
+}> {
+  const state = await loadState();
+  const config = await loadConfig();
+  const discoveryQueue = await loadDiscoveryQueue();
+  const pendingEntries = await loadPendingEntries();
   
   return {
     state,
@@ -425,6 +392,6 @@ export function getAgentStatus(): {
       generating: discoveryQueue.filter(e => e.status === 'generating').length,
       pendingReview: pendingEntries.filter(e => e.status === 'pending').length,
     },
+    storageMode: isUsingKV() ? 'kv' : 'file',
   };
 }
-

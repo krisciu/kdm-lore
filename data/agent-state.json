@@ -1,0 +1,25 @@
+{
+  "status": "running",
+  "lastRun": "2025-12-02T17:19:58.496Z",
+  "nextRun": null,
+  "currentTask": "Discovering entities from sources...",
+  "error": null,
+  "stats": {
+    "totalRuns": 1,
+    "entitiesDiscovered": 63,
+    "entriesGenerated": 3,
+    "entriesApproved": 4,
+    "entriesRejected": 0
+  },
+  "history": [
+    {
+      "id": "run-1764695828010",
+      "startedAt": "2025-12-02T17:17:08.010Z",
+      "completedAt": "2025-12-02T17:19:58.496Z",
+      "status": "success",
+      "discovered": 63,
+      "generated": 3,
+      "errors": []
+    }
+  ]
+}

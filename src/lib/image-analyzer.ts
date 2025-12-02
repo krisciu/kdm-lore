@@ -43,8 +43,8 @@ export interface ImageAnalysis {
 /**
  * Get all available images from source directories
  */
-export function getAllImages(): ImageFile[] {
-  const config = loadConfig();
+export async function getAllImages(): Promise<ImageFile[]> {
+  const config = await loadConfig();
   const images: ImageFile[] = [];
   
   for (const dir of config.sources.imageDirectories) {
@@ -98,8 +98,8 @@ function scanImagesInDirectory(
 /**
  * Find images that might be relevant to an entity by filename matching
  */
-export function findImagesByName(entityName: string): ImageFile[] {
-  const images = getAllImages();
+export async function findImagesByName(entityName: string): Promise<ImageFile[]> {
+  const images = await getAllImages();
   const searchTerms = generateSearchTerms(entityName);
   
   return images.filter(img => {
@@ -196,11 +196,11 @@ export function scoreImageMatch(image: ImageFile, entityName: string): number {
 /**
  * Get best matching images for an entity
  */
-export function getBestImagesForEntity(
+export async function getBestImagesForEntity(
   entityName: string, 
   limit: number = 5
-): ImageFile[] {
-  const candidates = findImagesByName(entityName);
+): Promise<ImageFile[]> {
+  const candidates = await findImagesByName(entityName);
   
   return candidates
     .map(img => ({ img, score: scoreImageMatch(img, entityName) }))
@@ -255,8 +255,12 @@ Respond in JSON format:
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1024,
+        model: 'claude-opus-4-5-20251101',
+        max_tokens: 8000,
+        thinking: {
+          type: 'enabled',
+          budget_tokens: 4000,
+        },
         messages: [{
           role: 'user',
           content: [
@@ -283,7 +287,14 @@ Respond in JSON format:
     }
 
     const data = await response.json();
-    const text = data.content[0].text;
+    
+    // Find the text block (thinking mode returns thinking + text blocks)
+    const textBlock = data.content.find((block: { type: string }) => block.type === 'text');
+    if (!textBlock) {
+      return null;
+    }
+    
+    const text = textBlock.text;
     
     // Parse JSON response
     const jsonMatch = text.match(/\{[\s\S]*\}/);
@@ -307,7 +318,7 @@ export async function matchImagesForEntity(
   apiKey?: string,
   analyzeWithVision: boolean = false
 ): Promise<MatchedImage[]> {
-  const candidates = getBestImagesForEntity(entityName);
+  const candidates = await getBestImagesForEntity(entityName);
   const matched: MatchedImage[] = [];
   
   for (const image of candidates) {
@@ -413,13 +424,13 @@ export function getEntityImages(entityName: string): MatchedImage[] {
 // STATISTICS
 // =============================================================================
 
-export function getImageStats(): {
+export async function getImageStats(): Promise<{
   totalImages: number;
   byType: Record<string, number>;
   byDirectory: Record<string, number>;
   indexedEntities: number;
-} {
-  const allImages = getAllImages();
+}> {
+  const allImages = await getAllImages();
   const index = loadImageIndex();
   
   const byType: Record<string, number> = {};

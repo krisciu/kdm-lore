@@ -1,0 +1,13 @@
+# OCR Result: kdu-105-44515458-aa7f-ad25-8998-9d565cd10b85.png
+
+Source: official-site/images/newsletters/kdu-105-44515458-aa7f-ad25-8998-9d565cd10b85.png
+Processed: 2025-12-02T18:02:29.872Z
+Tokens: 1769
+
+---
+
+[No text found]
+
+This image shows a painted miniature figure from Kingdom Death: Monster on a display base with purple crystals, but there is no visible text to extract. It appears to be a showcase/display image of the miniature rather than a card or rules content.
+
+---

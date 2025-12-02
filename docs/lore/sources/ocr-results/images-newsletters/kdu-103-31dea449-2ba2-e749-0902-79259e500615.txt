@@ -1,0 +1,13 @@
+# OCR Result: kdu-103-31dea449-2ba2-e749-0902-79259e500615.png
+
+Source: official-site/images/newsletters/kdu-103-31dea449-2ba2-e749-0902-79259e500615.png
+Processed: 2025-12-02T18:00:05.609Z
+Tokens: 1768
+
+---
+
+[No text found]
+
+This image appears to be purely artwork showing a fantasy warrior character in ornate armor with a spear, standing on a base of skulls. It's a decorative illustration without any visible game text, card information, rules, or other readable content that would typically be found on Kingdom Death: Monster game components.
+
+---

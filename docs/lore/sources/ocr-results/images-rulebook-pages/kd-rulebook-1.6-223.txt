@@ -1,0 +1,21 @@
+# OCR Result: kd-rulebook-1.6-223.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-223.png
+Processed: 2025-12-02T17:39:59.768Z
+Tokens: 1883
+
+---
+
+Looking at this manga-style comic page, I can see several sound effects and onomatopoeia in Japanese style:
+
+- **ドキドキ** (in the top left panel)
+- **ズシャアアア** (in the top middle panel showing what appears to be an explosion or impact)
+- **ギャア** (in the top right panel)
+- **アアアア** (in the left middle panel)
+- Various other Japanese sound effects scattered throughout the panels including **ゴゴゴ** and similar onomatopoeia
+
+The image appears to be from a manga or comic showing dramatic action scenes with characters in distress or combat situations. The text is primarily Japanese sound effects and exclamations rather than dialogue or narrative text.
+
+[Note: This appears to be a manga page rather than a Kingdom Death: Monster rulebook image as initially suggested in the prompt]
+
+---

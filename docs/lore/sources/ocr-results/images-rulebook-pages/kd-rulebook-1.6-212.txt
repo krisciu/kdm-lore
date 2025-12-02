@@ -1,0 +1,15 @@
+# OCR Result: kd-rulebook-1.6-212.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-212.png
+Processed: 2025-12-02T17:38:14.283Z
+Tokens: 1819
+
+---
+
+Looking at this dark, artistic image that appears to be from Kingdom Death: Monster, I can see what looks like a nighttime or underground scene with flowing, wind-like patterns rendered in white lines against a black background. There appear to be some speech bubbles or text boxes with what looks like Japanese or stylized text characters, but the text is too small, stylized, or unclear for me to accurately transcribe.
+
+The image appears to be more of an atmospheric illustration or story scene rather than a rules page, but without being able to clearly read the text content, I cannot provide an accurate transcription.
+
+[Text present but not clearly readable]
+
+---

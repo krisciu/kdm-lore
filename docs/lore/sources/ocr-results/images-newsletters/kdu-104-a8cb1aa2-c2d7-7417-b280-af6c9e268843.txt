@@ -1,0 +1,14 @@
+# OCR Result: kdu-104-a8cb1aa2-c2d7-7417-b280-af6c9e268843.jpg
+
+Source: official-site/images/newsletters/kdu-104-a8cb1aa2-c2d7-7417-b280-af6c9e268843.jpg
+Processed: 2025-12-02T18:01:24.900Z
+Tokens: 1255
+
+---
+
+**HOLLOW**
+- Bust -
+
+[This appears to be a product image showing a detailed miniature bust/statue. The only visible text is the title "HOLLOW" and the subtitle "- Bust -" at the top of the image. The rest of the image shows an intricately sculpted white/grey miniature figure with ornate details, horns, and decorative elements, but contains no additional readable text.]
+
+---

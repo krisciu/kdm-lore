@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-126.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-126.png
+Processed: 2025-12-02T17:24:24.195Z
+Tokens: 1753
+
+---
+
+[No text found]
+
+This image appears to be a purely artistic illustration showing a dark, atmospheric scene with a figure hunched over in what looks like a cave or underground setting. The image is rendered in dark, moody tones and appears to be concept art or flavor artwork rather than a rules page or card with text content.
+
+---

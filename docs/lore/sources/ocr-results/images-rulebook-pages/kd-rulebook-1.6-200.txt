@@ -1,0 +1,19 @@
+# OCR Result: kd-rulebook-1.6-200.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-200.png
+Processed: 2025-12-02T17:36:16.775Z
+Tokens: 1817
+
+---
+
+Looking at this manga-style comic page, I can extract the following text:
+
+**Sound Effects:**
+- TAK TAK (appears multiple times)
+- HA (speech/breathing sound)
+
+The image appears to be from a black and white manga or comic showing action sequences with a character moving through what looks like a rocky or cave-like environment. The text is minimal, consisting primarily of onomatopoeia (sound effects) typical of manga formatting.
+
+The "TAK TAK" sounds appear to represent footsteps or movement sounds, while "HA" likely represents breathing or exertion from the character.
+
+---

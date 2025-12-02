@@ -30,6 +30,10 @@ interface MarkdownFrontmatter {
   release?: string;
   alignment?: string;
   source?: string;
+  // Quality/publishing fields
+  generatedBy?: string;
+  published?: string;
+  confidence?: string;
 }
 
 // ParsedMarkdown interface - for future use with full document parsing
@@ -42,18 +46,52 @@ interface MarkdownFrontmatter {
 
 /**
  * Parse frontmatter from markdown content
+ * Supports both YAML frontmatter (---) and inline metadata (**Key:** Value)
  */
 function parseFrontmatter(content: string): { frontmatter: MarkdownFrontmatter; body: string } {
   const frontmatter: MarkdownFrontmatter = {};
-  const body = content;
+  let body = content;
 
-  // Extract title from first H1
-  const titleMatch = content.match(/^#\s+(.+?)$/m);
-  if (titleMatch) {
-    frontmatter.title = titleMatch[1].trim();
+  // First, try to parse YAML frontmatter (between --- delimiters)
+  const yamlMatch = content.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (yamlMatch) {
+    const yamlContent = yamlMatch[1];
+    body = yamlMatch[2];
+    
+    // Simple YAML parsing for our frontmatter fields
+    const lines = yamlContent.split('\n');
+    for (const line of lines) {
+      // Skip array items and complex structures
+      if (line.trim().startsWith('-') || line.trim().startsWith('{')) continue;
+      
+      const colonIndex = line.indexOf(':');
+      if (colonIndex > 0) {
+        const key = line.slice(0, colonIndex).trim();
+        let value = line.slice(colonIndex + 1).trim();
+        
+        // Remove quotes
+        if ((value.startsWith('"') && value.endsWith('"')) ||
+            (value.startsWith("'") && value.endsWith("'"))) {
+          value = value.slice(1, -1);
+        }
+        
+        // Map YAML keys to our frontmatter structure
+        if (key && value) {
+          (frontmatter as Record<string, string>)[key] = value;
+        }
+      }
+    }
   }
 
-  // Extract metadata lines (like **Category:** Monster)
+  // Extract title from first H1 if not in frontmatter
+  if (!frontmatter.title) {
+    const titleMatch = body.match(/^#\s+(.+?)$/m);
+    if (titleMatch) {
+      frontmatter.title = titleMatch[1].trim();
+    }
+  }
+
+  // Extract inline metadata (like **Category:** Monster) as fallback
   const metadataPatterns = [
     { key: 'category', pattern: /\*\*Category:\*\*\s*(.+?)(?:\s{2,}|\n|$)/i },
     { key: 'type', pattern: /\*\*Type:\*\*\s*(.+?)(?:\s{2,}|\n|$)/i },
@@ -66,9 +104,12 @@ function parseFrontmatter(content: string): { frontmatter: MarkdownFrontmatter; 
   ];
 
   metadataPatterns.forEach(({ key, pattern }) => {
-    const match = content.match(pattern);
-    if (match) {
-      (frontmatter as Record<string, string>)[key] = match[1].trim();
+    // Only use inline metadata if not already in YAML frontmatter
+    if (!(frontmatter as Record<string, string>)[key]) {
+      const match = body.match(pattern);
+      if (match) {
+        (frontmatter as Record<string, string>)[key] = match[1].trim();
+      }
     }
   });
 
@@ -196,6 +237,64 @@ function extractTags(content: string, frontmatter: MarkdownFrontmatter): string[
 }
 
 /**
+ * Check if an entry is high enough quality to show in the compendium
+ */
+function isPublishableEntry(content: string, frontmatter: MarkdownFrontmatter, summary: string): boolean {
+  // Skip if explicitly marked as unpublished
+  if (frontmatter.published === 'false') return false;
+  
+  // Explicitly published entries are always shown
+  if (frontmatter.published === 'true') return true;
+  
+  // Agent-generated entries are quality checked
+  if (frontmatter.generatedBy === 'agent') return true;
+  
+  // Skip if explicitly marked as draft, product, or research-notes
+  if (frontmatter.status === 'draft' || frontmatter.status === 'product' || 
+      frontmatter.type === 'research-notes') return false;
+  
+  // Skip generic "Lore entry for X" summaries (auto-generated stubs)
+  if (summary.startsWith('Lore entry for ')) return false;
+  
+  // Skip product listings (check for product-specific content)
+  const productIndicators = [
+    'packaged in a',
+    'includes:',
+    'x Hard plastic',
+    'x Gear Cards',
+    'x AI cards',
+    'Art:',
+    'Sculpture:',
+    'Limit 1 per customer',
+    'Limit 2 per customer',
+    'First Run Collector',
+    'Deathgrey edition',
+    'This entry was extracted from official Kingdom Death product descriptions',
+  ];
+  
+  const lowerContent = content.toLowerCase();
+  const productMatches = productIndicators.filter(indicator => 
+    lowerContent.includes(indicator.toLowerCase())
+  ).length;
+  
+  // If it has 3+ product indicators, it's probably a product page
+  if (productMatches >= 3) return false;
+  
+  // Check for quality content indicators
+  const hasOverview = content.includes('## Overview');
+  const hasSubstantialContent = content.length > 1500;
+  const hasLoreSection = content.includes('## Lore') || content.includes('## History') || 
+                         content.includes('## Behavior') || content.includes('## Significance');
+  
+  // If it has good structure and content, show it
+  if (hasOverview && hasSubstantialContent) return true;
+  if (hasLoreSection) return true;
+  
+  // Default: don't show uncertain entries
+  return false;
+}
+
+/**
  * Parse a markdown file into a LoreEntry
  */
 export function parseMarkdownFile(filePath: string, category: LoreCategory): LoreEntry | null {
@@ -214,6 +313,11 @@ export function parseMarkdownFile(filePath: string, category: LoreCategory): Lor
     const summary = extractSummary(content);
     const sources = extractSources(content);
     const tags = extractTags(content, frontmatter);
+    
+    // Filter out low-quality entries
+    if (!isPublishableEntry(content, frontmatter, summary)) {
+      return null;
+    }
 
     // Determine monster type if applicable
     let monsterType: LoreEntry['monsterType'];

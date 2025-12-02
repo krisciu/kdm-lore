@@ -1,0 +1,14 @@
+# OCR Result: kd-rulebook-1.6-25.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-25.png
+Processed: 2025-12-02T17:44:01.696Z
+Tokens: 1732
+
+---
+
+*Somewhere in the place of stone faces, nameless men and women stand together.*
+*They have nothing but a need to survive and a lantern to light their struggle.*
+
+Kingdom Death: Monster Core Game **21**
+
+---

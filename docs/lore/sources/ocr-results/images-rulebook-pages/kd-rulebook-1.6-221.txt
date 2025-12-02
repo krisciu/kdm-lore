@@ -1,0 +1,21 @@
+# OCR Result: kd-rulebook-1.6-221.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-221.png
+Processed: 2025-12-02T17:39:40.711Z
+Tokens: 1850
+
+---
+
+Looking at this manga-style comic page, I can extract the following visible text:
+
+**Sound Effects and Exclamations:**
+- "AH"
+- "FUUU"
+
+**Other visible text elements:**
+- Various small speech bubbles with minimal or unclear text
+- Some Japanese-style sound effects that are difficult to read clearly in the scan quality
+
+[Note: This appears to be a page from a manga or comic rather than a Kingdom Death: Monster rulebook. The image shows what appears to be a dramatic scene with tentacle-like creatures and characters in distress, drawn in black and white manga style. Much of the text consists of sound effects and emotional exclamations typical of manga, with most dialogue or text being either very small or unclear in this scan quality.]
+
+---

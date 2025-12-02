@@ -1,0 +1,13 @@
+# OCR Result: kd-rulebook-1.6-196.png
+
+Source: rulebooks/extracted/images/rulebook-pages/kd-rulebook-1.6-196.png
+Processed: 2025-12-02T17:35:35.133Z
+Tokens: 1762
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration from Kingdom Death: Monster showing a dramatic battle scene with armored warriors fighting what appears to be a large monster or creature. The image is rendered in a detailed, monochromatic style with yellow/gold accents, but contains no visible text, card names, rules, or other readable content to extract.
+
+---
