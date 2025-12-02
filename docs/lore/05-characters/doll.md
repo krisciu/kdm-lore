@@ -1,0 +1,33 @@
+---
+title: "Doll"
+category: characters
+source: doll.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# Doll
+
+Collector's Edition: Limit 1 per customerEncore Edition: Limit 2 per customer.
+Built with fanatical care, the automata was a gift to the newborn heir of an island rich in mystical fresh water. Playing with her young charge in a strange pool, the doll suddenly started to speak foreboding prophesies that vexed the island's rulers. Thrown far into the depths of the Rust Ocean, the mechanical wonder's water-logged voice still foretells its ghastly predictions.Artwork: Wenjuinn PngSculpture: Thomas David
+The First Run Collector's Edition is enclosed in a hand-stamped kraft box, limited to 500 and includes:
+Photoresin Doll
+1 x Hard Plastic Kingdom Death 30mm round insert and base
+Large Matte Art Print
+Character Art Card
+Beta Rules - 2x Gear Card, 1x Glossary Card
+First run collector's edition: Signed and numbered authenticity note
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `doll.txt`
+- **Category:** concepts
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Concepts](../_index.md)

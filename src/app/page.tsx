@@ -1,14 +1,25 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { getCategoriesWithCounts, getLoreEntries, categories } from '@/data/lore';
+import { LoreEntry, CategoryInfo } from '@/types/lore';
 import LoreCard from '@/components/LoreCard';
 
 export default function Home() {
-  const loreEntries = getLoreEntries();
-  const categoriesWithCounts = getCategoriesWithCounts();
+  // Use state to avoid hydration mismatch - data fetched client-side only
+  const [loreEntries, setLoreEntries] = useState<LoreEntry[]>([]);
+  const [categoriesWithCounts, setCategoriesWithCounts] = useState<CategoryInfo[]>([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    setLoreEntries(getLoreEntries());
+    setCategoriesWithCounts(getCategoriesWithCounts());
+    setIsLoaded(true);
+  }, []);
+
   const featuredEntries = loreEntries.slice(0, 4);
   const monsterCount = loreEntries.filter(e => e.category === 'monster').length;
 
@@ -82,9 +93,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
             {[
-              { label: 'Lore Entries', value: loreEntries.length },
+              { label: 'Lore Entries', value: isLoaded ? loreEntries.length : '—' },
               { label: 'Categories', value: categories.length },
-              { label: 'Monsters', value: monsterCount },
+              { label: 'Monsters', value: isLoaded ? monsterCount : '—' },
               { label: 'Research Active', value: '∞' },
             ].map((stat, idx) => (
               <motion.div
@@ -95,7 +106,10 @@ export default function Home() {
                 transition={{ delay: idx * 0.1 }}
                 className="text-center"
               >
-                <div className="font-[var(--font-display)] text-3xl md:text-4xl text-white mb-2 tracking-wider">
+                <div 
+                  className="font-[var(--font-display)] text-3xl md:text-4xl text-white mb-2 tracking-wider"
+                  suppressHydrationWarning
+                >
                   {stat.value}
                 </div>
                 <div className="text-[10px] tracking-[0.2em] uppercase text-[var(--text-muted)]">

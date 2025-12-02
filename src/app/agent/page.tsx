@@ -486,11 +486,12 @@ export default function AgentDashboard() {
 
       {/* Tab Navigation */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-        <div className="flex items-center gap-2 border-b border-[var(--weathered-bone)]/20 pb-4 mb-6">
+        <div className="flex items-center gap-2 border-b border-[var(--weathered-bone)]/20 pb-4 mb-6 overflow-x-auto">
           {[
             { id: 'overview', label: 'Overview', icon: Activity },
+            { id: 'pipeline', label: 'Pipeline', icon: Layers },
+            { id: 'entities', label: 'Entities', icon: Target, badge: extractedEntities.length },
             { id: 'queue', label: 'Review Queue', icon: Clock, badge: pendingTasks.length },
-            { id: 'sources', label: 'Source Data', icon: Database },
             { id: 'settings', label: 'Settings', icon: Settings },
           ].map((tab) => (
             <button
@@ -523,40 +524,43 @@ export default function AgentDashboard() {
               exit={{ opacity: 0, y: -20 }}
               className="grid md:grid-cols-2 gap-6"
             >
-              {/* Recent Activity */}
+              {/* Pipeline Status */}
               <div className="bg-[var(--dark-stone)]/30 rounded-lg p-6 border border-[var(--weathered-bone)]/20">
                 <h3 className="text-lg font-[var(--font-display)] tracking-wider mb-4 flex items-center gap-2">
-                  <Sparkles className="w-5 h-5 text-violet-400" />
-                  Agent Activity
+                  <Layers className="w-5 h-5 text-violet-400" />
+                  Pipeline Status
                 </h3>
                 <div className="space-y-3">
                   <div className="flex items-center justify-between text-sm">
-                    <span className="text-[var(--text-muted)]">Last Run</span>
-                    <span>{formatDate(schedulerState?.lastRun)}</span>
+                    <span className="text-[var(--text-muted)]">Sources Indexed</span>
+                    <span className="text-sky-400">{pipelineState?.stages.index.sourcesIndexed || 0}</span>
                   </div>
                   <div className="flex items-center justify-between text-sm">
-                    <span className="text-[var(--text-muted)]">Last Success</span>
-                    <span className="text-emerald-400">{formatDate(schedulerState?.stats.lastSuccessfulRun)}</span>
+                    <span className="text-[var(--text-muted)]">Entities Extracted</span>
+                    <span className="text-emerald-400">{pipelineState?.stages.extract.entitiesExtracted || 0}</span>
                   </div>
                   <div className="flex items-center justify-between text-sm">
-                    <span className="text-[var(--text-muted)]">Tasks Processed</span>
-                    <span>{schedulerState?.stats.totalTasksProcessed || 0}</span>
+                    <span className="text-[var(--text-muted)]">Connections Found</span>
+                    <span className="text-amber-400">{pipelineState?.stages.analyze.connectionsFound || 0}</span>
                   </div>
                   <div className="flex items-center justify-between text-sm">
-                    <span className="text-[var(--text-muted)]">Run Interval</span>
-                    <span>{schedulerState?.intervalMinutes || 30} minutes</span>
+                    <span className="text-[var(--text-muted)]">Entries Generated</span>
+                    <span className="text-violet-400">{pipelineState?.stages.generate.entriesGenerated || 0}</span>
                   </div>
                 </div>
               </div>
 
-              {/* Source Stats */}
+              {/* Entity Types */}
               <div className="bg-[var(--dark-stone)]/30 rounded-lg p-6 border border-[var(--weathered-bone)]/20">
                 <h3 className="text-lg font-[var(--font-display)] tracking-wider mb-4 flex items-center gap-2">
-                  <Database className="w-5 h-5 text-sky-400" />
-                  Source Breakdown
+                  <Target className="w-5 h-5 text-sky-400" />
+                  Entity Breakdown
                 </h3>
                 <div className="space-y-3">
-                  {sourceStats?.byType && Object.entries(sourceStats.byType).map(([type, count]) => (
+                  {pipelineState?.stats.byType && Object.entries(pipelineState.stats.byType)
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 6)
+                    .map(([type, count]) => (
                     <div key={type} className="flex items-center justify-between text-sm">
                       <span className="text-[var(--text-muted)] capitalize">{type}s</span>
                       <span className="px-2 py-0.5 bg-[var(--weathered-bone)]/10 rounded text-xs">
@@ -572,18 +576,23 @@ export default function AgentDashboard() {
                 <h3 className="text-lg font-[var(--font-display)] tracking-wider mb-4">Quick Actions</h3>
                 <div className="flex flex-wrap gap-3">
                   <button
+                    onClick={() => runPipelineStage('all')}
+                    disabled={runningStage !== null}
+                    className="flex items-center gap-2 px-4 py-2 bg-violet-500/20 text-violet-300 rounded-lg hover:bg-violet-500/30 transition-all disabled:opacity-50"
+                  >
+                    {runningStage === 'all' ? (
+                      <RefreshCw className="w-4 h-4 animate-spin" />
+                    ) : (
+                      <Cpu className="w-4 h-4" />
+                    )}
+                    Run Full Pipeline
+                  </button>
+                  <button
                     onClick={generateTasks}
                     className="flex items-center gap-2 px-4 py-2 bg-emerald-500/20 text-emerald-300 rounded-lg hover:bg-emerald-500/30 transition-all"
                   >
                     <TrendingUp className="w-4 h-4" />
-                    Generate Tasks from Sources
-                  </button>
-                  <button
-                    onClick={() => {/* TODO */}}
-                    className="flex items-center gap-2 px-4 py-2 bg-sky-500/20 text-sky-300 rounded-lg hover:bg-sky-500/30 transition-all"
-                  >
-                    <CheckCircle className="w-4 h-4" />
-                    Approve All Pending
+                    Generate Tasks
                   </button>
                   <Link
                     href="/lore"
@@ -594,6 +603,163 @@ export default function AgentDashboard() {
                   </Link>
                 </div>
               </div>
+            </motion.div>
+          )}
+
+          {activeTab === 'pipeline' && (
+            <motion.div
+              key="pipeline"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+            >
+              <div className="grid md:grid-cols-4 gap-4 mb-8">
+                {[
+                  { stage: 'index', label: 'Index Sources', icon: Database, count: pipelineState?.stages.index.sourcesIndexed || 0, color: 'sky' },
+                  { stage: 'extract', label: 'Extract Entities', icon: Target, count: pipelineState?.stages.extract.entitiesExtracted || 0, color: 'emerald' },
+                  { stage: 'analyze', label: 'Analyze Connections', icon: GitBranch, count: pipelineState?.stages.analyze.connectionsFound || 0, color: 'amber' },
+                  { stage: 'generate', label: 'Generate Entries', icon: FileText, count: pipelineState?.stages.generate.entriesGenerated || 0, color: 'violet' },
+                ].map(({ stage, label, icon: Icon, count, color }) => (
+                  <div key={stage} className={`bg-[var(--dark-stone)]/30 rounded-lg p-4 border border-[var(--weathered-bone)]/20`}>
+                    <div className="flex items-center justify-between mb-3">
+                      <Icon className={`w-5 h-5 text-${color}-400`} />
+                      <span className={`text-2xl font-bold text-${color}-400`}>{count}</span>
+                    </div>
+                    <div className="text-sm text-[var(--text-muted)] mb-3">{label}</div>
+                    <button
+                      onClick={() => runPipelineStage(stage as any)}
+                      disabled={runningStage !== null}
+                      className={`w-full flex items-center justify-center gap-2 px-3 py-2 bg-${color}-500/20 text-${color}-300 rounded-lg hover:bg-${color}-500/30 transition-all disabled:opacity-50 text-sm`}
+                    >
+                      {runningStage === stage ? (
+                        <RefreshCw className="w-4 h-4 animate-spin" />
+                      ) : (
+                        <Play className="w-4 h-4" />
+                      )}
+                      Run
+                    </button>
+                  </div>
+                ))}
+              </div>
+
+              <div className="bg-[var(--dark-stone)]/30 rounded-lg p-6 border border-[var(--weathered-bone)]/20">
+                <h3 className="text-lg font-[var(--font-display)] tracking-wider mb-4">Pipeline Flow</h3>
+                <div className="flex items-center justify-between gap-2">
+                  {['Index', 'Extract', 'Analyze', 'Generate', 'Review'].map((step, i) => (
+                    <div key={step} className="flex items-center gap-2 flex-1">
+                      <div className={`flex-1 h-2 rounded-full ${i < 4 ? 'bg-emerald-500/30' : 'bg-[var(--weathered-bone)]/20'}`}>
+                        <div className="h-full bg-emerald-500 rounded-full" style={{ width: '100%' }} />
+                      </div>
+                      {i < 4 && <ChevronRight className="w-4 h-4 text-[var(--text-muted)]" />}
+                    </div>
+                  ))}
+                </div>
+                <div className="flex justify-between mt-2 text-xs text-[var(--text-muted)]">
+                  <span>Index</span>
+                  <span>Extract</span>
+                  <span>Analyze</span>
+                  <span>Generate</span>
+                  <span>Review</span>
+                </div>
+              </div>
+            </motion.div>
+          )}
+
+          {activeTab === 'entities' && (
+            <motion.div
+              key="entities"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+            >
+              <div className="mb-6">
+                <div className="relative">
+                  <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--text-muted)]" />
+                  <input
+                    type="text"
+                    placeholder="Search extracted entities..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="w-full pl-10 pr-4 py-3 bg-[var(--dark-stone)] border border-[var(--weathered-bone)]/30 rounded-lg"
+                  />
+                </div>
+              </div>
+
+              {extractedEntities.length === 0 ? (
+                <div className="text-center py-20">
+                  <Database className="w-16 h-16 text-[var(--text-muted)]/50 mx-auto mb-4" />
+                  <h3 className="text-xl font-[var(--font-display)] tracking-wider mb-2">No Entities Yet</h3>
+                  <p className="text-[var(--text-muted)] mb-4">Run the pipeline to extract entities from sources.</p>
+                  <button
+                    onClick={() => runPipelineStage('all')}
+                    className="px-4 py-2 bg-violet-500/20 text-violet-300 rounded-lg hover:bg-violet-500/30 transition-all"
+                  >
+                    Run Pipeline
+                  </button>
+                </div>
+              ) : (
+                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {extractedEntities
+                    .filter(e => 
+                      !searchQuery || 
+                      e.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                      e.description.toLowerCase().includes(searchQuery.toLowerCase())
+                    )
+                    .map((entity, index) => (
+                      <motion.div
+                        key={entity.id}
+                        initial={{ opacity: 0, scale: 0.95 }}
+                        animate={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: index * 0.03 }}
+                        className="bg-[var(--dark-stone)]/30 rounded-lg p-4 border border-[var(--weathered-bone)]/20 hover:border-violet-500/30 transition-all"
+                      >
+                        <div className="flex items-start justify-between mb-2">
+                          <h4 className="font-medium truncate flex-1">{entity.name}</h4>
+                          <div className="flex items-center gap-2 ml-2">
+                            <span className={`px-2 py-0.5 text-xs rounded-full ${
+                              entity.type === 'monster' || entity.type === 'quarry' || entity.type === 'nemesis'
+                                ? 'bg-red-500/20 text-red-300'
+                                : entity.type === 'character'
+                                ? 'bg-sky-500/20 text-sky-300'
+                                : entity.type === 'faction'
+                                ? 'bg-violet-500/20 text-violet-300'
+                                : 'bg-amber-500/20 text-amber-300'
+                            } capitalize`}>
+                              {entity.type}
+                            </span>
+                          </div>
+                        </div>
+                        <p className="text-sm text-[var(--text-muted)] line-clamp-2 mb-3">
+                          {entity.description}
+                        </p>
+                        <div className="flex items-center justify-between">
+                          <div className="flex flex-wrap gap-1">
+                            {entity.tags.slice(0, 2).map((tag) => (
+                              <span key={tag} className="px-2 py-0.5 text-xs bg-[var(--weathered-bone)]/10 rounded">
+                                {tag}
+                              </span>
+                            ))}
+                          </div>
+                          {!entity.hasLoreEntry && (
+                            <button
+                              onClick={() => createEntityEntry(entity.id)}
+                              className="flex items-center gap-1 px-2 py-1 text-xs bg-emerald-500/20 text-emerald-300 rounded hover:bg-emerald-500/30 transition-all"
+                            >
+                              <FileText className="w-3 h-3" />
+                              Create Entry
+                            </button>
+                          )}
+                          {entity.hasLoreEntry && (
+                            <span className="flex items-center gap-1 text-xs text-emerald-400">
+                              <CheckCircle className="w-3 h-3" />
+                              Has Entry
+                            </span>
+                          )}
+                        </div>
+                      </motion.div>
+                    ))}
+                </div>
+              )}
             </motion.div>
           )}
 

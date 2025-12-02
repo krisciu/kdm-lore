@@ -1,0 +1,33 @@
+{
+  "stages": {
+    "index": {
+      "sourcesIndexed": 305,
+      "lastRun": "2025-12-02T16:23:51.059Z"
+    },
+    "extract": {
+      "entitiesExtracted": 0
+    },
+    "analyze": {
+      "connectionsFound": 0
+    },
+    "generate": {
+      "entriesGenerated": 0
+    },
+    "review": {
+      "pending": 0,
+      "approved": 0,
+      "rejected": 0
+    }
+  },
+  "stats": {
+    "totalSources": 305,
+    "totalEntities": 0,
+    "byType": {},
+    "byConfidence": {},
+    "coverage": {
+      "withLoreEntry": 0,
+      "needsEntry": 0,
+      "needsExpansion": 0
+    }
+  }
+}

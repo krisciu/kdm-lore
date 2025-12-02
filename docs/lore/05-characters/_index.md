@@ -1,66 +1,124 @@
-# Characters and Survivors
+---
+title: "Characters"
+---
 
-The human (and human-adjacent) characters of Kingdom Death range from nameless survivors to legendary figures whose deeds echo through the ages.
+# 👤 Characters
 
-## Contents
-
-### Survivor Types
-- [Survivors](./survivors.md) - General information about survivors
-- [Saviors](./saviors.md) - Specially gifted individuals
-
-### Notable Characters
-- [The Forsaker](./forsaker.md) - One who rejected the Entity
-- [The Preacher](./preacher.md) - Harbinger of doom
-- [The Scribe](./scribe.md) - Keeper of knowledge
-- [The Twilight Knight](./twilight-knight.md) - Legendary monster hunter
-
-## Survivor Lifecycle
-
-```
-┌────────────────────────────────────────────────────────────┐
-│                    SURVIVOR LIFECYCLE                       │
-├────────────────────────────────────────────────────────────┤
-│                                                             │
-│   BIRTH ────► CHILDHOOD ────► ADULTHOOD ────► DEATH        │
-│     │            │              │              │            │
-│     │            │              │              │            │
-│     ▼            ▼              ▼              ▼            │
-│  Random       Learning       Hunting      • Combat         │
-│  traits       skills         monsters     • Age            │
-│               (Weapon        Building     • Madness        │
-│               proficiency)   settlement   • Sacrifice      │
-│                                                             │
-└────────────────────────────────────────────────────────────┘
-```
-
-## The Nature of Survivors
-
-Survivors in Kingdom Death are:
-- **Born from the darkness** - Emerging from stone faces
-- **Fragile yet resilient** - Easily killed but capable of great deeds
-- **Defined by trauma** - Disorders and fighting arts shape identity
-- **Mortal yet transcendent** - Some achieve legendary status
-
-## Character Archetypes
-
-| Archetype | Role | Examples |
-|-----------|------|----------|
-| **Hunter** | Combat specialist | Twilight Knight |
-| **Crafter** | Equipment creator | Settlement artisans |
-| **Leader** | Settlement management | Saviors |
-| **Mystic** | Entity connection | White Speakers |
-| **Scholar** | Knowledge keeper | The Scribe |
-
-## Named Characters in Lore
-
-The following characters appear in story events and flavor text:
-
-1. **The First Survivors** - The four who awoke facing the White Lion
-2. **Zachary** - A survivor whose fate is tied to the Butcher
-3. **The Twilight Knight** - Master of the Twilight Sword
-4. **The Forsaker** - Rejected the Entity's gift
+Named characters, survivors, and figures
 
 ---
 
-[← Monsters](../04-monsters/_index.md) | [Next: Concepts →](../06-concepts/_index.md)
+## Entries (108)
 
+- [10th Anniversary Survivors](./10th-anniversary-survivors.md)
+- [15th Anniversary Survivors](./15th-anniversary-survivors.md)
+- [Allison the Twilight Knight](./allison-the-twilight-knight.md)
+- [Ambitionism Survivors](./ambitionism-survivors.md)
+- [Ammo Slave](./ammo-slave.md)
+- [Ashbloom of Dedheim](./ashbloom-of-dedheim.md)
+- [Astri the Promised](./astri-the-promised.md)
+- [Biomech Butcher](./biomech-butcher.md)
+- [Björn](./bjorn.md)
+- [Black Friday Formal Erza - Painters Scale](./black-friday-formal-erza-painters-scale.md)
+- [Blushing Owl](./blushing-owl-photoresin.md)
+- [Brave + Hollow](./brave-hollow.md)
+- [Caster Hunter](./caster-hunter.md)
+- [Champion Weaponsmith](./champion-weaponsmith.md)
+- [Court Barrister](./court-barrister.md)
+- [Court Investigator](./court-investigator.md)
+- [Cupid Lucy](./cupid-lucy.md)
+- [Dark Confidant](./dark-confidant.md)
+- [Dark Of Star](./dark-of-star.md)
+- [Dark Soldier](./dark-soldier.md)
+- [Death High - Disciple of the Witch One (2024)](./death-high-disciple-of-the-witch-one-2024.md)
+- [Death High - Disciple of the Witch One](./death-high-disciple-of-the-witch-one.md)
+- [Death High Dragon Sacrifice](./death-high-dragon-sacrifice.md)
+- [Death High - Dung Beetle Knight](./death-high-dung-beetle-knight.md)
+- [Death High - Enforcer](./death-high-enforcer.md)
+- [Death High Erza](./death-high-erza.md)
+- [Death High - Esther](./death-high-esther.md)
+- [Death High - Herb Gatherer](./death-high-herb-gatherer.md)
+- [Death High - Intimacy Couple](./death-high-intimacy-couple.md)
+- [Death High Lucy](./death-high-lucy.md)
+- [Death High - Male Preacher (2024)](./death-high-male-preacher-2024.md)
+- [Death High Moss](./death-high-moss.md)
+- [Death High - Necromancer](./death-high-necromancer.md)
+- [Death High Satan Twins - Painter's Scale](./death-high-satan-twins-painters-scale.md)
+- [Death High - Satan X](./death-high-satan-x.md)
+- [Death High - Savior](./death-high-savior.md)
+- [Death High Senior Allister - Painters scale](./death-high-senior-allister-painters-scale.md)
+- [Death High - Twilight Knight (2024)](./death-high-twilight-knight-2024.md)
+- [Death High - White Lion](./death-high-white-lion-1.md)
+- [Death High - White Speaker (2024)](./death-high-white-speaker-2024.md)
+- [Death High White Speaker](./death-high-white-speaker.md)
+- [Death High Zachary](./death-high-zachary.md)
+- [Deathmas - Cockroach Queen Painters Scale](./deathmas-cockroach-queen-painters-scale.md)
+- [Deathmas - Cockroach Queen](./deathmas-cockroach-queen.md)
+- [Deathmas Percival - Painters scale](./deathmas-percival-painters-scale.md)
+- [Disciple of the Witch - One](./disciple-of-the-witch-one.md)
+- [Disciple of the Witch - Six](./disciple-of-the-witch-six.md)
+- [Disciple of the Witch - Two](./disciple-of-the-witch-two.md)
+- [Doll](./doll.md)
+- [Dragon Slayer](./dragon-slayer.md)
+- [Early Survivor - Zelda](./early-survivor-zelda.md)
+- [Edlen](./edlen.md)
+- [Elsbeth](./elsbeth.md)
+- [Energy Potion Maker](./energy-potion-maker.md)
+- [Entobra the Walker](./entobra-the-walker.md)
+- [EOD Thief Variant - Painter's Scale](./eod-thief-variant-painter.md)
+- [Erza of Dedheim](./erza-of-dedheim.md)
+- [Estate Hero](./estate-hero.md)
+- [Pillar Survivor Fade](./fade-pillar-survivor.md)
+- [False Messengers](./false-messengers.md)
+- [Forge God - Archival Remaster](./forgegod-archival-remaster.md)
+- [Forsaker](./forsaker.md)
+- [Frozen Survivor - Camellia](./frozen-survivor-camellia.md)
+- [Frozen Survivor - Galanthus](./frozen-survivor-galanthus.md)
+- [Generic Male Knight](./generic-male-knight.md)
+- [Glow](./glow.md)
+- [Golden Bat Hunter - Foltron](./golden-bat-hunter-foltron.md)
+- [Golden Bat](./golden-bat.md)
+- [Great Game Hunter - Bravado](./great-game-hunter-bravado.md)
+- [Grimmory](./grimmory.md)
+- [Guinevere](./guinevere.md)
+- [Gunborg Painters Scale](./gunborg-painters-scale.md)
+- [Gunborg](./gunborg.md)
+- [Hellebore - A Frozen Survivor](./hellebore-a-frozen-survivor.md)
+- [Deathmas Nico - Painters Scale](./holiday-white-speaker-nico-painters-scale.md)
+- [Hollowheart Rene - Painters Scale](./hollowheart-rene-painters-scale.md)
+- [Hospitalar](./hospitalar.md)
+- [Illuminated Lady 2](./illuminated-lady-2.md)
+- [Indomitable Survivor - Dashing Reaper Paleun](./indomitable-dashing-reaper-paleun.md)
+- [Indomitable Survivor - Fated Dagger Domino](./indomitable-survivor-fated-dagger-domino.md)
+- [Indomitable Survivor - Poison Partisan Ritika](./indomitable-survivor-poison-partisan-ritika.md)
+- [Indomitable Survivor - Roaring Harmonica Kale](./indomitable-survivor-roaring-harmonica-kale.md)
+- [Indomitable Survivor - Tachyon Nodachi Rubi](./indomitable-survivor-tachyon-nodachi-rubi.md)
+- [Indomitable Survivor - Thumping Timpani Ledla](./indomitable-survivor-thumping-timpani-ledla.md)
+- [Indomitable Survivor - Tyrant Slayer Scarlet](./indomitable-survivor-tyrant-slayer-scarlet.md)
+- [Indomitable Survivors Bundle](./indomitable-survivors-bundle.md)
+- [KDS - Xell](./kds-xell.md)
+- [Kingdom Death: Monster 1.6](./kingdom-death-monster-1-5.md)
+- [Kingslayer Twilight Knight - Painters Scale](./kingslayer-twilight-knight.md)
+- [Lagomorph Survivors](./lagomorph-survivors.md)
+- [Indomitable Survivor - Longclaw Lenore](./longclaw-lenore.md)
+- [Mox The Healer](./mox-the-healer.md)
+- [Black Cat - Painters Scale](./painters-scale-black-cat.md)
+- [Pillar - Percival](./pillar-percival.md)
+- [Detective Twilight Knight](./pinup-detective-twilight-knight.md)
+- [Saviors](./saviors.md)
+- [Seed Pattern - Jackel](./seed-pattern-jackel.md)
+- [Legendary Character - Snow the Savior](./snow-the-savior.md)
+- [Indomitable Survivor - Stampede Glaive Xell](./stampede-glaive-xell.md)
+- [Survivors of Death I](./survivors-of-death-1.md)
+- [Survivors of Death II](./survivors-of-death-2.md)
+- [The Twilight Knight](./twilight-knight.md)
+- [Death Crown Inheritor Aya](./valentines-day-aya.md)
+- [Female Visionary](./visionary-female.md)
+- [Wanderer - Aeneas](./wanderer-aeneas.md)
+- [Wanderer - Candy](./wanderer-candy.md)
+- [Wanderer - Death Drifter](./wanderer-death-drifter.md)
+- [Wanderer - Goth](./wanderer-goth.md)
+
+---
+
+[← Back to Compendium](../README.md)

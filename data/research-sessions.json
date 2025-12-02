@@ -7,5 +7,14 @@
     "findingsGenerated": 6,
     "errors": [],
     "endedAt": "2025-12-02T10:37:22.223Z"
+  },
+  {
+    "id": "session-1764692813726",
+    "startedAt": "2025-12-02T16:26:53.726Z",
+    "tasksProcessed": 3,
+    "entriesCreated": 0,
+    "findingsGenerated": 6,
+    "errors": [],
+    "endedAt": "2025-12-02T16:26:53.948Z"
   }
 ]
