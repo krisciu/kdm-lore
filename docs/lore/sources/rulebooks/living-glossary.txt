@@ -1,0 +1,94 @@
+# Kingdom Death: Monster - Living Glossary
+Source: https://kingdomdeath.com/rules/living-glossary
+Scraped: 2025-12-02
+
+---
+
+## About the Living Glossary
+
+The Living Glossary is the official rules reference for Kingdom Death: Monster. It contains definitions for game terms, abilities, keywords, and mechanics. The glossary is regularly updated by Adam Poots Games.
+
+---
+
+## Sample Entries (Alphabetical)
+
+### Abilities
+Skills and techniques learned by survivors, usually through story events, and recorded on the Survivor Record Sheet.
+*Updated 6 years ago*
+
+### Absorb
+The Watcher's instinct. Described on the Watcher's showdown story event and basic action card.
+*Updated 5 years ago*
+
+### Acceleration
+Add +1d10 movement to a move action. Before moving, you may roll the Death Die and add the result to your movement for one move action this round.
+*Updated 5 years ago*
+
+### Accessory
+A gear special rule. Accessory gear may be worn in addition to armor on a hit location. Each accessory specifies the hit location it covers.
+*Updated 6 years ago*
+
+### Accuracy (Attribute)
+Represents permanent changes to attack rolls. Positive attribute adds to the dice roll, while negative attribute subtracts from the dice roll.
+*Updated 6 years ago*
+
+### Accuracy (Weapon/Attack Profile)
+The number that each attack roll result must meet or exceed in order to be considered a hit. Listed on monster attack profiles and weapon gear.
+*Updated 6 years ago*
+
+### Acid Palms
+An ability. Add 1d10 strength to wound attempts when attacking with Fist & Tooth.
+*Updated 6 years ago*
+
+### Act
+The part of the survivors' turn in which an individual survivor gains movement and activation. Each survivor must complete their act before another may start theirs, and all unused movement and activations are lost when a survivor ends their act.
+*Updated 6 years ago*
+
+### Action
+Most things a survivor or monster can do during the Showdown Phase, like moving and attacking, are actions.
+*Updated 6 years ago*
+
+### Activation
+Activation can be spent to attack, activate some gear, and interact with terrain. Survivors gain one activation during that survivor's act.
+*Updated 5 years ago*
+
+### Activation Limit X
+A gear special rule. A survivor may only activate/spend Q on this gear the listed number of times during a showdown.
+*Updated 3 years ago*
+
+### Adjacent (Miniature)
+A miniature is adjacent to another when it occupies a space one space in a cardinal (non-diagonal) direction from a square occupied by the other miniature.
+*Updated 6 years ago*
+
+### Advanced Play
+An ability. You may set aside 2 dice with the High Roller knowledge. These dice must be from separate attacks.
+*Updated 2 years ago*
+
+### Advance (Instinct)
+The Tyrant's instinct. Described on the Tyrant's showdown story event and basic action card.
+*Updated 2 years ago*
+
+### Advance (Knowledge)
+A knowledge advances when appropriate observation conditions are met. Advancing a knowledge transforms it into something more powerful. When this happens, immediately replace the old knowledge with the new one on your survivor record sheet. Update your knowledge deck and the settlement record sheet, if applicable.
+*Updated 2 years ago*
+
+### Affinity Bonus
+A type of gear special rule. Having the indicated number of colored affinities will trigger the effect. Each affinity bonus only applies once, regardless of how many extra affinities a survivor has.
+*Updated 6 years ago*
+
+---
+
+## Note
+
+The Living Glossary contains hundreds of entries. This file captures a sample.
+Full glossary available at the source URL.
+
+Key categories include:
+- Abilities (survivor skills)
+- Actions (things survivors/monsters do)
+- Attributes (stats and modifiers)
+- Gear keywords (weapon/armor special rules)
+- Monster keywords (AI behaviors)
+- Game phases (settlement, hunt, showdown)
+- Status effects (conditions affecting survivors/monsters)
+

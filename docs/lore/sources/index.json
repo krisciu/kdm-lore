@@ -1,0 +1,51 @@
+{
+  "official-site/shop/kingdom-death-monster-1-6": {
+    "url": "https://shop.kingdomdeath.com/products/kingdom-death-monster-1-5",
+    "scrapedAt": "2025-12-02T00:00:00.000Z",
+    "category": "product",
+    "source": "official-site",
+    "subCategory": "core-game",
+    "title": "Kingdom Death: Monster 1.6"
+  },
+  "official-site/shop/gorm-expansion-1-6": {
+    "url": "https://shop.kingdomdeath.com/products/gorm-expansion-1-6",
+    "scrapedAt": "2025-12-02T00:00:00.000Z",
+    "category": "product",
+    "source": "official-site",
+    "subCategory": "expansion",
+    "title": "Gorm Expansion 1.6"
+  },
+  "official-site/shop/dragon-king-expansion-1-6": {
+    "url": "https://shop.kingdomdeath.com/products/dragon-king-expansion-1-6",
+    "scrapedAt": "2025-12-02T00:00:00.000Z",
+    "category": "product",
+    "source": "official-site",
+    "subCategory": "expansion",
+    "title": "Dragon King Expansion 1.6"
+  },
+  "official-site/news/kdu-109-august-2025": {
+    "url": "https://kingdomdeath.com/news/mc-f54efd621f",
+    "scrapedAt": "2025-12-02T00:00:00.000Z",
+    "category": "newsletter",
+    "source": "official-site",
+    "subCategory": "kdu",
+    "title": "KDU #109 - August 2025"
+  },
+  "kickstarter/kdm-1-5-campaign": {
+    "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15",
+    "scrapedAt": "2025-12-02T00:00:00.000Z",
+    "category": "campaign",
+    "source": "kickstarter",
+    "subCategory": "main-campaign",
+    "title": "Kingdom Death: Monster 1.5 Kickstarter"
+  },
+  "rulebooks/living-glossary": {
+    "url": "https://kingdomdeath.com/rules/living-glossary",
+    "scrapedAt": "2025-12-02T00:00:00.000Z",
+    "category": "rules",
+    "source": "rulebook",
+    "subCategory": "glossary",
+    "title": "Living Glossary"
+  }
+}
+
