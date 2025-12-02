@@ -1,0 +1,1740 @@
+{
+  "scrapedAt": "2025-12-02T16:11:21.581Z",
+  "products": [
+    {
+      "slug": "kingdom-death-monster-1-5",
+      "title": "Kingdom Death: Monster 1.6",
+      "filename": "kingdom-death-monster-1-5.txt",
+      "descLength": 1776,
+      "contentsCount": 97,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "kingdom-death-monster-1-5",
+      "title": "Kingdom Death: Monster 1.6",
+      "filename": "kingdom-death-monster-1-5.txt",
+      "descLength": 1776,
+      "contentsCount": 97,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "frogdog-expansion",
+      "title": "FROGDOG",
+      "filename": "frogdog-expansion.txt",
+      "descLength": 1555,
+      "contentsCount": 12,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-knight-expansion",
+      "title": "BLACK KNIGHT",
+      "filename": "black-knight-expansion.txt",
+      "descLength": 1678,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "flower-knight-expansion-1-6",
+      "title": "Flower Knight Expansion 1.6",
+      "filename": "flower-knight-expansion-1-6.txt",
+      "descLength": 1436,
+      "contentsCount": 15,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dragon-king-expansion-1-6",
+      "title": "Dragon King Expansion 1.6",
+      "filename": "dragon-king-expansion-1-6.txt",
+      "descLength": 2325,
+      "contentsCount": 21,
+      "hasLoreQuotes": true,
+      "isHighValue": true
+    },
+    {
+      "slug": "dung-beetle-expansion-1-6",
+      "title": "Dung Beetle Knight Expansion 1.6",
+      "filename": "dung-beetle-expansion-1-6.txt",
+      "descLength": 1637,
+      "contentsCount": 15,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "sunstalker-expansion",
+      "title": "Sunstalker Expansion 1.6",
+      "filename": "sunstalker-expansion.txt",
+      "descLength": 2433,
+      "contentsCount": 17,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "gorm-expansion-1-6",
+      "title": "Gorm Expansion 1.6",
+      "filename": "gorm-expansion-1-6.txt",
+      "descLength": 1530,
+      "contentsCount": 14,
+      "hasLoreQuotes": true,
+      "isHighValue": true
+    },
+    {
+      "slug": "lonely-tree-expansion-1-6",
+      "title": "Lonely Tree Expansion 1.6",
+      "filename": "lonely-tree-expansion-1-6.txt",
+      "descLength": 1481,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "spidicules-expansion-1-6",
+      "title": "Spidicules Expansion 1.6",
+      "filename": "spidicules-expansion-1-6.txt",
+      "descLength": 1545,
+      "contentsCount": 17,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "lion-god-expansion-1-6",
+      "title": "Lion God Expansion 1.6",
+      "filename": "lion-god-expansion-1-6.txt",
+      "descLength": 1618,
+      "contentsCount": 12,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "lion-knight-expansion-1-6",
+      "title": "Lion Knight Expansion 1.6",
+      "filename": "lion-knight-expansion-1-6.txt",
+      "descLength": 1468,
+      "contentsCount": 14,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "slenderman-expansion-1-6",
+      "title": "Slenderman Expansion 1.6",
+      "filename": "slenderman-expansion-1-6.txt",
+      "descLength": 1478,
+      "contentsCount": 10,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "red-witches-expansion",
+      "title": "Red Witches",
+      "filename": "red-witches-expansion.txt",
+      "descLength": 1805,
+      "contentsCount": 50,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "pariah-expansion",
+      "title": "PARIAH",
+      "filename": "pariah-expansion.txt",
+      "descLength": 1765,
+      "contentsCount": 48,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "us-expansion-bundle",
+      "title": "Expansion of Death 2025 Bundle",
+      "filename": "us-expansion-bundle.txt",
+      "descLength": 144,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-one",
+      "title": "Echoes of Death",
+      "filename": "echoes-of-death-one.txt",
+      "descLength": 848,
+      "contentsCount": 9,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "vignette-of-death-white-gigalion",
+      "title": "Vignette of Death: White Gigalion",
+      "filename": "vignette-of-death-white-gigalion.txt",
+      "descLength": 1735,
+      "contentsCount": 14,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "10th-anniversary-survivors",
+      "title": "10th Anniversary Survivors",
+      "filename": "10th-anniversary-survivors.txt",
+      "descLength": 1344,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-two",
+      "title": "Echoes of Death 2",
+      "filename": "echoes-of-death-two.txt",
+      "descLength": 1025,
+      "contentsCount": 12,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-three",
+      "title": "Echoes of Death 3",
+      "filename": "echoes-of-death-three.txt",
+      "descLength": 1006,
+      "contentsCount": 13,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "vignette-of-death-killennium-butcher",
+      "title": "KILLENNIUM BUTCHER",
+      "filename": "vignette-of-death-killennium-butcher.txt",
+      "descLength": 733,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "15th-anniversary-survivors",
+      "title": "15th Anniversary Survivors",
+      "filename": "15th-anniversary-survivors.txt",
+      "descLength": 1919,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-four",
+      "title": "Echoes of Death 4",
+      "filename": "echoes-of-death-four.txt",
+      "descLength": 862,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "longclaw-lenore",
+      "title": "Indomitable Survivor - Longclaw Lenore",
+      "filename": "longclaw-lenore.txt",
+      "descLength": 1296,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "stampede-glaive-xell",
+      "title": "Indomitable Survivor - Stampede Glaive Xell",
+      "filename": "stampede-glaive-xell.txt",
+      "descLength": 1895,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "vignette-of-death-screaming-nukealope",
+      "title": "Screaming Nukealope",
+      "filename": "vignette-of-death-screaming-nukealope.txt",
+      "descLength": 705,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "survivors-of-death-1",
+      "title": "Survivors of Death I",
+      "filename": "survivors-of-death-1.txt",
+      "descLength": 1400,
+      "contentsCount": 18,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "lantern-armor-aya",
+      "title": "Lantern Armor Aya",
+      "filename": "lantern-armor-aya.txt",
+      "descLength": 1079,
+      "contentsCount": 14,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "glow",
+      "title": "Glow",
+      "filename": "glow.txt",
+      "descLength": 816,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "guinevere",
+      "title": "Guinevere",
+      "filename": "guinevere.txt",
+      "descLength": 1023,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-tachyon-nodachi-rubi",
+      "title": "Indomitable Survivor - Tachyon Nodachi Rubi",
+      "filename": "indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "descLength": 1585,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-thumping-timpani-ledla",
+      "title": "Indomitable Survivor - Thumping Timpani Ledla",
+      "filename": "indomitable-survivor-thumping-timpani-ledla.txt",
+      "descLength": 1512,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "brave-hollow",
+      "title": "Brave + Hollow",
+      "filename": "brave-hollow.txt",
+      "descLength": 1167,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-poison-partisan-ritika",
+      "title": "Indomitable Survivor - Poison Partisan Ritika",
+      "filename": "indomitable-survivor-poison-partisan-ritika.txt",
+      "descLength": 1785,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "seed-pattern-jackel",
+      "title": "Seed Pattern - Jackel",
+      "filename": "seed-pattern-jackel.txt",
+      "descLength": 1290,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-roaring-harmonica-kale",
+      "title": "Indomitable Survivor - Roaring Harmonica Kale",
+      "filename": "indomitable-survivor-roaring-harmonica-kale.txt",
+      "descLength": 1302,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-dashing-reaper-paleun",
+      "title": "Indomitable Survivor - Dashing Reaper Paleun",
+      "filename": "indomitable-dashing-reaper-paleun.txt",
+      "descLength": 1572,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-tyrant-slayer-scarlet",
+      "title": "Indomitable Survivor - Tyrant Slayer Scarlet",
+      "filename": "indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "descLength": 1396,
+      "contentsCount": 9,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-fated-dagger-domino",
+      "title": "Indomitable Survivor - Fated Dagger Domino",
+      "filename": "indomitable-survivor-fated-dagger-domino.txt",
+      "descLength": 1438,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "survivors-of-death-2",
+      "title": "Survivors of Death II",
+      "filename": "survivors-of-death-2.txt",
+      "descLength": 1846,
+      "contentsCount": 18,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "fade-pillar-survivor",
+      "title": "Pillar Survivor Fade",
+      "filename": "fade-pillar-survivor.txt",
+      "descLength": 1084,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "phoenix-hunt-reenactment",
+      "title": "Phoenix  Hunt Reenactment",
+      "filename": "phoenix-hunt-reenactment.txt",
+      "descLength": 991,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "snow-the-savior",
+      "title": "Legendary Character - Snow the Savior",
+      "filename": "snow-the-savior.txt",
+      "descLength": 1490,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "mox-the-healer",
+      "title": "Mox The Healer",
+      "filename": "mox-the-healer.txt",
+      "descLength": 1349,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "philosophy-of-death-gatherism",
+      "title": "Philosophy of Death - Gatherism",
+      "filename": "philosophy-of-death-gatherism.txt",
+      "descLength": 1037,
+      "contentsCount": 12,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "pillar-percival",
+      "title": "Pillar - Percival",
+      "filename": "pillar-percival.txt",
+      "descLength": 697,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "wanderer-candy",
+      "title": "Wanderer - Candy",
+      "filename": "wanderer-candy.txt",
+      "descLength": 1053,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "wanderer-aeneas",
+      "title": "Wanderer - Aeneas",
+      "filename": "wanderer-aeneas.txt",
+      "descLength": 1049,
+      "contentsCount": 13,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "wanderer-death-drifter",
+      "title": "Wanderer - Death Drifter",
+      "filename": "wanderer-death-drifter.txt",
+      "descLength": 1003,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "wanderer-goth",
+      "title": "Wanderer - Goth",
+      "filename": "wanderer-goth.txt",
+      "descLength": 931,
+      "contentsCount": 9,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "false-messengers",
+      "title": "False Messengers",
+      "filename": "false-messengers.txt",
+      "descLength": 424,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-bundle",
+      "title": "Echoes of Death Bundle",
+      "filename": "echoes-of-death-bundle.txt",
+      "descLength": 629,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivors-bundle",
+      "title": "Indomitable Survivors Bundle",
+      "filename": "indomitable-survivors-bundle.txt",
+      "descLength": 1831,
+      "contentsCount": 28,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "pinups-of-death-series-3",
+      "title": "Pinups Of Death III",
+      "filename": "pinups-of-death-series-3.txt",
+      "descLength": 1263,
+      "contentsCount": 19,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "pinups-of-death-series-2",
+      "title": "Pinups Of Death II",
+      "filename": "pinups-of-death-series-2.txt",
+      "descLength": 928,
+      "contentsCount": 15,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "pinups-of-death-bundle",
+      "title": "Pinups of Death Bundle",
+      "filename": "pinups-of-death-bundle.txt",
+      "descLength": 3928,
+      "contentsCount": 78,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "10th-anniversary-survivors",
+      "title": "10th Anniversary Survivors",
+      "filename": "10th-anniversary-survivors.txt",
+      "descLength": 1344,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "15th-anniversary-survivors",
+      "title": "15th Anniversary Survivors",
+      "filename": "15th-anniversary-survivors.txt",
+      "descLength": 1919,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "8-5-x-11-art-prints-august-2025",
+      "title": "8.5 x 11 Art Prints August 2025",
+      "filename": "8-5-x-11-art-prints-august-2025.txt",
+      "descLength": 686,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "8-5-x-11-art-prints-halloween-2025",
+      "title": "8.5 x 11 Art Prints Halloween 2025",
+      "filename": "8-5-x-11-art-prints-halloween-2025.txt",
+      "descLength": 686,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "8-5-x-11-art-prints-september-2025",
+      "title": "8.5 x 11 Art Prints September 2025",
+      "filename": "8-5-x-11-art-prints-september-2025.txt",
+      "descLength": 686,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "allison-the-twilight-knight",
+      "title": "Allison the Twilight Knight",
+      "filename": "allison-the-twilight-knight.txt",
+      "descLength": 936,
+      "contentsCount": 5,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "ambitionism-survivors",
+      "title": "Ambitionism Survivors",
+      "filename": "ambitionism-survivors.txt",
+      "descLength": 1253,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "ammo-slave",
+      "title": "Ammo Slave",
+      "filename": "ammo-slave.txt",
+      "descLength": 695,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "ashbloom-bust",
+      "title": "Ashbloom Bust",
+      "filename": "ashbloom-bust.txt",
+      "descLength": 781,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "ashbloom-of-dedheim",
+      "title": "Ashbloom of Dedheim",
+      "filename": "ashbloom-of-dedheim.txt",
+      "descLength": 1304,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "astri-the-promised",
+      "title": "Astri the Promised",
+      "filename": "astri-the-promised.txt",
+      "descLength": 852,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "basara",
+      "title": "Basara",
+      "filename": "basara.txt",
+      "descLength": 1663,
+      "contentsCount": 10,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "before-the-wall",
+      "title": "Before the Wall",
+      "filename": "before-the-wall.txt",
+      "descLength": 821,
+      "contentsCount": 5,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "beyond-the-wall-1a",
+      "title": "Beyond the Wall",
+      "filename": "beyond-the-wall-1a.txt",
+      "descLength": 714,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "biomech-butcher",
+      "title": "Biomech Butcher",
+      "filename": "biomech-butcher.txt",
+      "descLength": 1196,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "bjorn",
+      "title": "Björn",
+      "filename": "bjorn.txt",
+      "descLength": 1068,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-and-red-dice",
+      "title": "Black and Red Dice",
+      "filename": "black-and-red-dice.txt",
+      "descLength": 892,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "painters-scale-black-cat",
+      "title": "Black Cat - Painters Scale",
+      "filename": "painters-scale-black-cat.txt",
+      "descLength": 1111,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-friday-death-dice",
+      "title": "Black Friday Death Dice",
+      "filename": "black-friday-death-dice.txt",
+      "descLength": 617,
+      "contentsCount": 2,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-friday-formal-erza-painters-scale",
+      "title": "Black Friday Formal Erza - Painters Scale",
+      "filename": "black-friday-formal-erza-painters-scale.txt",
+      "descLength": 817,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-knight-citadel-board-travel-edition",
+      "title": "Black Knight Citadel Board - Travel Edition",
+      "filename": "black-knight-citadel-board-travel-edition.txt",
+      "descLength": 1382,
+      "contentsCount": 10,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-knight-expansion",
+      "title": "BLACK KNIGHT",
+      "filename": "black-knight-expansion.txt",
+      "descLength": 1678,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "black-out-dice",
+      "title": "Black Out Death Dice",
+      "filename": "black-out-dice.txt",
+      "descLength": 967,
+      "contentsCount": 1,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "blushing-owl-photoresin",
+      "title": "Blushing Owl",
+      "filename": "blushing-owl-photoresin.txt",
+      "descLength": 1295,
+      "contentsCount": 3,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "bone-eater-t-shirt",
+      "title": "Bone Eater T-Shirt",
+      "filename": "bone-eater-t-shirt.txt",
+      "descLength": 574,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "brave-hollow",
+      "title": "Brave + Hollow",
+      "filename": "brave-hollow.txt",
+      "descLength": 1167,
+      "contentsCount": 7,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "butcher-bust",
+      "title": "Butcher Bust",
+      "filename": "butcher-bust.txt",
+      "descLength": 1437,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "caster-hunter",
+      "title": "Caster Hunter",
+      "filename": "caster-hunter.txt",
+      "descLength": 1744,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "champion-weaponsmith",
+      "title": "Champion Weaponsmith",
+      "filename": "champion-weaponsmith.txt",
+      "descLength": 690,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "classic-death-die",
+      "title": "Classic Death Dice",
+      "filename": "classic-death-die.txt",
+      "descLength": 881,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "court-barrister",
+      "title": "Court Barrister",
+      "filename": "court-barrister.txt",
+      "descLength": 1362,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "court-investigator",
+      "title": "Court Investigator",
+      "filename": "court-investigator.txt",
+      "descLength": 1196,
+      "contentsCount": 5,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "crimson-croc-t-shirt",
+      "title": "Crimson Croc T-Shirt",
+      "filename": "crimson-croc-t-shirt.txt",
+      "descLength": 567,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "cupid-lucy",
+      "title": "Cupid Lucy",
+      "filename": "cupid-lucy.txt",
+      "descLength": 854,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "cupid-lucy-painters-scale-copy",
+      "title": "Cupid Lucy - Painters Scale",
+      "filename": "cupid-lucy-painters-scale-copy.txt",
+      "descLength": 846,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dark-confidant",
+      "title": "Dark Confidant",
+      "filename": "dark-confidant.txt",
+      "descLength": 1311,
+      "contentsCount": 7,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dark-of-star",
+      "title": "Dark Of Star",
+      "filename": "dark-of-star.txt",
+      "descLength": 1366,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dark-soldier",
+      "title": "Dark Soldier",
+      "filename": "dark-soldier.txt",
+      "descLength": 1453,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "valentines-day-aya",
+      "title": "Death Crown Inheritor Aya",
+      "filename": "valentines-day-aya.txt",
+      "descLength": 1027,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-disciple-of-the-witch-one",
+      "title": "Death High - Disciple of the Witch One",
+      "filename": "death-high-disciple-of-the-witch-one.txt",
+      "descLength": 685,
+      "contentsCount": 6,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-disciple-of-the-witch-one-2024",
+      "title": "Death High - Disciple of the Witch One (2024)",
+      "filename": "death-high-disciple-of-the-witch-one-2024.txt",
+      "descLength": 748,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-dung-beetle-knight",
+      "title": "Death High - Dung Beetle Knight",
+      "filename": "death-high-dung-beetle-knight.txt",
+      "descLength": 828,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-enforcer",
+      "title": "Death High - Enforcer",
+      "filename": "death-high-enforcer.txt",
+      "descLength": 311,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-esther",
+      "title": "Death High - Esther",
+      "filename": "death-high-esther.txt",
+      "descLength": 813,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-herb-gatherer",
+      "title": "Death High - Herb Gatherer",
+      "filename": "death-high-herb-gatherer.txt",
+      "descLength": 834,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-intimacy-couple",
+      "title": "Death High - Intimacy Couple",
+      "filename": "death-high-intimacy-couple.txt",
+      "descLength": 580,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-male-preacher-2024",
+      "title": "Death High - Male Preacher (2024)",
+      "filename": "death-high-male-preacher-2024.txt",
+      "descLength": 1137,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-necromancer",
+      "title": "Death High - Necromancer",
+      "filename": "death-high-necromancer.txt",
+      "descLength": 1133,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-satan-x",
+      "title": "Death High - Satan X",
+      "filename": "death-high-satan-x.txt",
+      "descLength": 830,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-savior",
+      "title": "Death High - Savior",
+      "filename": "death-high-savior.txt",
+      "descLength": 382,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-twilight-knight-2024",
+      "title": "Death High - Twilight Knight (2024)",
+      "filename": "death-high-twilight-knight-2024.txt",
+      "descLength": 748,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-white-lion-1",
+      "title": "Death High - White Lion",
+      "filename": "death-high-white-lion-1.txt",
+      "descLength": 804,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-white-speaker-2024",
+      "title": "Death High - White Speaker (2024)",
+      "filename": "death-high-white-speaker-2024.txt",
+      "descLength": 1180,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-dragon-sacrifice",
+      "title": "Death High Dragon Sacrifice",
+      "filename": "death-high-dragon-sacrifice.txt",
+      "descLength": 1218,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-erza",
+      "title": "Death High Erza",
+      "filename": "death-high-erza.txt",
+      "descLength": 758,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-lucy",
+      "title": "Death High Lucy",
+      "filename": "death-high-lucy.txt",
+      "descLength": 494,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-moss",
+      "title": "Death High Moss",
+      "filename": "death-high-moss.txt",
+      "descLength": 930,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-satan-twins-painters-scale",
+      "title": "Death High Satan Twins - Painter's Scale",
+      "filename": "death-high-satan-twins-painters-scale.txt",
+      "descLength": 826,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-senior-allister-painters-scale",
+      "title": "Death High Senior Allister - Painters scale",
+      "filename": "death-high-senior-allister-painters-scale.txt",
+      "descLength": 1034,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-white-speaker",
+      "title": "Death High White Speaker",
+      "filename": "death-high-white-speaker.txt",
+      "descLength": 792,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "death-high-zachary",
+      "title": "Death High Zachary",
+      "filename": "death-high-zachary.txt",
+      "descLength": 855,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "deathmas-cockroach-queen",
+      "title": "Deathmas - Cockroach Queen",
+      "filename": "deathmas-cockroach-queen.txt",
+      "descLength": 1566,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "deathmas-cockroach-queen-painters-scale",
+      "title": "Deathmas - Cockroach Queen Painters Scale",
+      "filename": "deathmas-cockroach-queen-painters-scale.txt",
+      "descLength": 981,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "holiday-white-speaker-nico-painters-scale",
+      "title": "Deathmas Nico - Painters Scale",
+      "filename": "holiday-white-speaker-nico-painters-scale.txt",
+      "descLength": 1107,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "deathmas-percival-painters-scale",
+      "title": "Deathmas Percival - Painters scale",
+      "filename": "deathmas-percival-painters-scale.txt",
+      "descLength": 1139,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "pinup-detective-twilight-knight",
+      "title": "Detective Twilight Knight",
+      "filename": "pinup-detective-twilight-knight.txt",
+      "descLength": 810,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "disciple-of-the-witch-one",
+      "title": "Disciple of the Witch - One",
+      "filename": "disciple-of-the-witch-one.txt",
+      "descLength": 878,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "disciple-of-the-witch-six",
+      "title": "Disciple of the Witch - Six",
+      "filename": "disciple-of-the-witch-six.txt",
+      "descLength": 635,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "disciple-of-the-witch-two",
+      "title": "Disciple of the Witch - Two",
+      "filename": "disciple-of-the-witch-two.txt",
+      "descLength": 638,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "doll",
+      "title": "Doll",
+      "filename": "doll.txt",
+      "descLength": 840,
+      "contentsCount": 6,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "dragon-king-expansion-1-6",
+      "title": "Dragon King Expansion 1.6",
+      "filename": "dragon-king-expansion-1-6.txt",
+      "descLength": 2325,
+      "contentsCount": 21,
+      "hasLoreQuotes": true,
+      "isHighValue": true
+    },
+    {
+      "slug": "dragon-king-t-shirt",
+      "title": "Dragon King T-Shirt",
+      "filename": "dragon-king-t-shirt.txt",
+      "descLength": 563,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dragon-slayer",
+      "title": "Dragon Slayer",
+      "filename": "dragon-slayer.txt",
+      "descLength": 1653,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dung-beetle-expansion-1-6",
+      "title": "Dung Beetle Knight Expansion 1.6",
+      "filename": "dung-beetle-expansion-1-6.txt",
+      "descLength": 1637,
+      "contentsCount": 15,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "dungeon-deck-t-shirt",
+      "title": "Dungeon Deck T-Shirt",
+      "filename": "dungeon-deck-t-shirt.txt",
+      "descLength": 565,
+      "contentsCount": 1,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "early-survivor-zelda",
+      "title": "Early Survivor - Zelda",
+      "filename": "early-survivor-zelda.txt",
+      "descLength": 1101,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "easter-apotheosis",
+      "title": "Easter - Apotheosis",
+      "filename": "easter-apotheosis.txt",
+      "descLength": 1066,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-one",
+      "title": "Echoes of Death",
+      "filename": "echoes-of-death-one.txt",
+      "descLength": 848,
+      "contentsCount": 9,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-two",
+      "title": "Echoes of Death 2",
+      "filename": "echoes-of-death-two.txt",
+      "descLength": 1025,
+      "contentsCount": 12,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-three",
+      "title": "Echoes of Death 3",
+      "filename": "echoes-of-death-three.txt",
+      "descLength": 1006,
+      "contentsCount": 13,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-four",
+      "title": "Echoes of Death 4",
+      "filename": "echoes-of-death-four.txt",
+      "descLength": 862,
+      "contentsCount": 10,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "echoes-of-death-bundle",
+      "title": "Echoes of Death Bundle",
+      "filename": "echoes-of-death-bundle.txt",
+      "descLength": 629,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "edlen",
+      "title": "Edlen",
+      "filename": "edlen.txt",
+      "descLength": 1303,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "elsbeth",
+      "title": "Elsbeth",
+      "filename": "elsbeth.txt",
+      "descLength": 984,
+      "contentsCount": 5,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "endemic-life",
+      "title": "Endemic Life",
+      "filename": "endemic-life.txt",
+      "descLength": 2313,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "energy-potion-maker",
+      "title": "Energy Potion Maker",
+      "filename": "energy-potion-maker.txt",
+      "descLength": 1702,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "entobra-the-walker",
+      "title": "Entobra the Walker",
+      "filename": "entobra-the-walker.txt",
+      "descLength": 1545,
+      "contentsCount": 6,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "eod-thief-variant-painter",
+      "title": "EOD Thief Variant - Painter's Scale",
+      "filename": "eod-thief-variant-painter.txt",
+      "descLength": 1031,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "erza-of-dedheim",
+      "title": "Erza of Dedheim",
+      "filename": "erza-of-dedheim.txt",
+      "descLength": 1437,
+      "contentsCount": 7,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "estate-hero",
+      "title": "Estate Hero",
+      "filename": "estate-hero.txt",
+      "descLength": 933,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "us-expansion-bundle",
+      "title": "Expansion of Death 2025 Bundle",
+      "filename": "us-expansion-bundle.txt",
+      "descLength": 144,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "expansion-of-death-vol-1-6",
+      "title": "Expansion of Death Vol 1.6",
+      "filename": "expansion-of-death-vol-1-6.txt",
+      "descLength": 806,
+      "contentsCount": 11,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "fall-death-dice",
+      "title": "Fall Death Dice",
+      "filename": "fall-death-dice.txt",
+      "descLength": 604,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "false-messengers",
+      "title": "False Messengers",
+      "filename": "false-messengers.txt",
+      "descLength": 424,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "visionary-female",
+      "title": "Female Visionary",
+      "filename": "visionary-female.txt",
+      "descLength": 619,
+      "contentsCount": 4,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "flower-knight-bust",
+      "title": "Flower Knight Bust",
+      "filename": "flower-knight-bust.txt",
+      "descLength": 907,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "flower-knight-expansion-1-6",
+      "title": "Flower Knight Expansion 1.6",
+      "filename": "flower-knight-expansion-1-6.txt",
+      "descLength": 1436,
+      "contentsCount": 15,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "forgegod-archival-remaster",
+      "title": "Forge God - Archival Remaster",
+      "filename": "forgegod-archival-remaster.txt",
+      "descLength": 1170,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "forsaker",
+      "title": "Forsaker",
+      "filename": "forsaker.txt",
+      "descLength": 909,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "frogdog-expansion",
+      "title": "FROGDOG",
+      "filename": "frogdog-expansion.txt",
+      "descLength": 1555,
+      "contentsCount": 12,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "frozen-survivor-camellia",
+      "title": "Frozen Survivor - Camellia",
+      "filename": "frozen-survivor-camellia.txt",
+      "descLength": 1050,
+      "contentsCount": 7,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "frozen-survivor-galanthus",
+      "title": "Frozen Survivor - Galanthus",
+      "filename": "frozen-survivor-galanthus.txt",
+      "descLength": 1204,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "generic-male-knight",
+      "title": "Generic Male Knight",
+      "filename": "generic-male-knight.txt",
+      "descLength": 1409,
+      "contentsCount": 6,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "glow",
+      "title": "Glow",
+      "filename": "glow.txt",
+      "descLength": 816,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "god-hand-t-shirt",
+      "title": "Godhand T-Shirt",
+      "filename": "god-hand-t-shirt.txt",
+      "descLength": 574,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "gold-smoke-knight-bust",
+      "title": "Gold Smoke Knight Bust",
+      "filename": "gold-smoke-knight-bust.txt",
+      "descLength": 1325,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "golden-bat",
+      "title": "Golden Bat",
+      "filename": "golden-bat.txt",
+      "descLength": 1114,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "golden-bat-hunter-death-dice",
+      "title": "Golden Bat Death Dice",
+      "filename": "golden-bat-hunter-death-dice.txt",
+      "descLength": 903,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "golden-bat-hunter-foltron",
+      "title": "Golden Bat Hunter - Foltron",
+      "filename": "golden-bat-hunter-foltron.txt",
+      "descLength": 1287,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "gorm-expansion-1-6",
+      "title": "Gorm Expansion 1.6",
+      "filename": "gorm-expansion-1-6.txt",
+      "descLength": 1530,
+      "contentsCount": 14,
+      "hasLoreQuotes": true,
+      "isHighValue": true
+    },
+    {
+      "slug": "great-game-hunter-bravado",
+      "title": "Great Game Hunter - Bravado",
+      "filename": "great-game-hunter-bravado.txt",
+      "descLength": 2111,
+      "contentsCount": 7,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "green-knight-armor-expansion",
+      "title": "Green Knight Armor Expansion 1.6",
+      "filename": "green-knight-armor-expansion.txt",
+      "descLength": 739,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "grimmory",
+      "title": "Grimmory",
+      "filename": "grimmory.txt",
+      "descLength": 1158,
+      "contentsCount": 8,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "guinevere",
+      "title": "Guinevere",
+      "filename": "guinevere.txt",
+      "descLength": 1023,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "gunborg",
+      "title": "Gunborg",
+      "filename": "gunborg.txt",
+      "descLength": 894,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "gunborg-painters-scale",
+      "title": "Gunborg Painters Scale",
+      "filename": "gunborg-painters-scale.txt",
+      "descLength": 969,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "halloween-apotheosis",
+      "title": "Halloween - Apotheosis",
+      "filename": "halloween-apotheosis.txt",
+      "descLength": 1040,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "happy-holidays-t-shirt",
+      "title": "Happy Holidays - Atnas T-Shirt",
+      "filename": "happy-holidays-t-shirt.txt",
+      "descLength": 277,
+      "contentsCount": 3,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "hellebore-a-frozen-survivor",
+      "title": "Hellebore - A Frozen Survivor",
+      "filename": "hellebore-a-frozen-survivor.txt",
+      "descLength": 1375,
+      "contentsCount": 6,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "hollow-bust",
+      "title": "Hollow Bust",
+      "filename": "hollow-bust.txt",
+      "descLength": 761,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "hollowheart-rene-painters-scale",
+      "title": "Hollowheart Rene - Painters Scale",
+      "filename": "hollowheart-rene-painters-scale.txt",
+      "descLength": 829,
+      "contentsCount": 3,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "hospitalar",
+      "title": "Hospitalar",
+      "filename": "hospitalar.txt",
+      "descLength": 1654,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "illuminated-lady-2",
+      "title": "Illuminated Lady 2",
+      "filename": "illuminated-lady-2.txt",
+      "descLength": 1190,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-dashing-reaper-paleun",
+      "title": "Indomitable Survivor - Dashing Reaper Paleun",
+      "filename": "indomitable-dashing-reaper-paleun.txt",
+      "descLength": 1572,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "indomitable-survivor-fated-dagger-domino",
+      "title": "Indomitable Survivor - Fated Dagger Domino",
+      "filename": "indomitable-survivor-fated-dagger-domino.txt",
+      "descLength": 1438,
+      "contentsCount": 8,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    }
+  ],
+  "highValueVerified": [
+    "dragon-king-expansion-1-6",
+    "gorm-expansion-1-6",
+    "dragon-king-expansion-1-6",
+    "gorm-expansion-1-6"
+  ],
+  "failed": [
+    {
+      "url": "https://shop.kingdomdeath.com/collections/monster-expansions/products/gamblers-chest-expansion",
+      "reason": "Empty description"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/gamblers-chest-expansion",
+      "reason": "Empty description"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-greatest-gaxe-morg",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-greatest-gaxe-morg",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-greatest-gaxe-morg",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-greatest-gaxe-morg",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-greatest-gaxe-morg",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-poison-partisan-ritika",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-poison-partisan-ritika",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-poison-partisan-ritika",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-poison-partisan-ritika",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-poison-partisan-ritika",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-toxicimitar-badar",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-toxicimitar-badar",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-toxicimitar-badar",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-toxicimitar-badar",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivor-toxicimitar-badar",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivors-2025-collection-au",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivors-2025-collection-au",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivors-2025-collection-au",
+      "reason": "404 or error"
+    }
+  ]
+}
