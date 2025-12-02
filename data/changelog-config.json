@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "autoCommit": true,
+  "commitPrefix": "[agent]",
+  "branchName": "main",
+  "requireReview": false,
+  "retainDays": 365,
+  "maxEntriesInMemory": 1000
+}

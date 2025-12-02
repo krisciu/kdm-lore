@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "maxConcurrentTasks": 1,
+  "autoApprove": false,
+  "minConfidenceForAutoApprove": 0.9,
+  "researchIntervalMs": 60000,
+  "webResearchEnabled": true,
+  "sources": {
+    "rulebooks": true,
+    "kickstarter": true,
+    "communityWiki": true,
+    "forums": true,
+    "webSearch": true
+  }
+}

@@ -1,51 +1,197 @@
 {
-  "official-site/shop/kingdom-death-monster-1-6": {
-    "url": "https://shop.kingdomdeath.com/products/kingdom-death-monster-1-5",
-    "scrapedAt": "2025-12-02T00:00:00.000Z",
-    "category": "product",
-    "source": "official-site",
-    "subCategory": "core-game",
-    "title": "Kingdom Death: Monster 1.6"
+  "metadata": {
+    "lastUpdated": "2025-12-02",
+    "totalFiles": 36,
+    "totalSize": "684KB",
+    "completionRate": "18%"
   },
-  "official-site/shop/gorm-expansion-1-6": {
-    "url": "https://shop.kingdomdeath.com/products/gorm-expansion-1-6",
-    "scrapedAt": "2025-12-02T00:00:00.000Z",
-    "category": "product",
-    "source": "official-site",
-    "subCategory": "expansion",
-    "title": "Gorm Expansion 1.6"
+  "official-site": {
+    "shop": {
+      "core-game": {
+        "kingdom-death-monster-1-6": {
+          "path": "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/kingdom-death-monster-1-5",
+          "status": "complete",
+          "category": "core-game"
+        }
+      },
+      "quarry-expansions": {
+        "gorm-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/gorm-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/gorm-expansion-1-6",
+          "status": "complete",
+          "node": "NQ2"
+        },
+        "dragon-king-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/dragon-king-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/dragon-king-expansion-1-6",
+          "status": "complete",
+          "node": "NQ3"
+        },
+        "sunstalker-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/sunstalker-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/sunstalker-expansion",
+          "status": "complete",
+          "node": "NQ3"
+        },
+        "flower-knight-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/flower-knight-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/flower-knight-expansion-1-6",
+          "status": "complete",
+          "node": "NQ2"
+        },
+        "spidicules-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/spidicules-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/spidicules-expansion-1-6",
+          "status": "complete",
+          "node": "NQ2"
+        },
+        "dung-beetle-knight-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/dung-beetle-knight-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/dung-beetle-expansion-1-6",
+          "status": "complete",
+          "node": "NQ4"
+        },
+        "lion-god-expansion-1-6": {
+          "path": "official-site/shop/quarry-expansions/lion-god-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/lion-god-expansion-1-6",
+          "status": "complete",
+          "node": "NQ4"
+        },
+        "frogdog-expansion": {
+          "path": "official-site/shop/quarry-expansions/frogdog-expansion.txt",
+          "url": "https://shop.kingdomdeath.com/products/frogdog-expansion",
+          "status": "complete",
+          "node": "NQ1"
+        }
+      },
+      "nemesis-expansions": {
+        "lion-knight-expansion-1-6": {
+          "path": "official-site/shop/nemesis-expansions/lion-knight-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/lion-knight-expansion-1-6",
+          "status": "complete",
+          "node": "NN2"
+        },
+        "slenderman-expansion-1-6": {
+          "path": "official-site/shop/nemesis-expansions/slenderman-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/slenderman-expansion-1-6",
+          "status": "complete",
+          "node": "NN2"
+        },
+        "black-knight-expansion": {
+          "path": "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+          "url": "https://shop.kingdomdeath.com/products/black-knight-expansion",
+          "status": "complete",
+          "node": "NN3"
+        },
+        "red-witches-expansion": {
+          "path": "official-site/shop/nemesis-expansions/red-witches-expansion.txt",
+          "url": "https://shop.kingdomdeath.com/products/red-witches-expansion",
+          "status": "complete",
+          "node": "NN2"
+        },
+        "pariah-expansion": {
+          "path": "official-site/shop/nemesis-expansions/pariah-expansion.txt",
+          "url": "https://shop.kingdomdeath.com/products/pariah-expansion",
+          "status": "complete",
+          "node": "NN1"
+        }
+      },
+      "special-expansions": {
+        "gamblers-chest-expansion": {
+          "path": "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+          "url": "https://shop.kingdomdeath.com/products/gamblers-chest-expansion",
+          "status": "complete",
+          "category": "major-expansion"
+        },
+        "lonely-tree-expansion-1-6": {
+          "path": "official-site/shop/special-expansions/lonely-tree-expansion-1-6.txt",
+          "url": "https://shop.kingdomdeath.com/products/lonely-tree-expansion-1-6",
+          "status": "complete",
+          "category": "terrain-monster"
+        }
+      },
+      "needed": [
+        "manhunter-expansion",
+        "green-knight-armor",
+        "10th-anniversary-survivors",
+        "philosophy-of-death-gatherism",
+        "echoes-of-death-1-4"
+      ]
+    },
+    "news": {
+      "2025": {
+        "kdu-109-august-2025": {
+          "path": "official-site/news/2025/kdu-109-august-2025.txt",
+          "url": "https://kingdomdeath.com/news/mc-f54efd621f",
+          "status": "complete"
+        }
+      },
+      "needed": [
+        "kdu-108-july-2025",
+        "kdu-107-june-2025",
+        "kdu-106-may-2025",
+        "kdu-105-april-2025",
+        "kdu-104-march-2025",
+        "kdu-103-february-2025",
+        "kdu-102-january-2025",
+        "...and 90+ more issues"
+      ]
+    }
   },
-  "official-site/shop/dragon-king-expansion-1-6": {
-    "url": "https://shop.kingdomdeath.com/products/dragon-king-expansion-1-6",
-    "scrapedAt": "2025-12-02T00:00:00.000Z",
-    "category": "product",
-    "source": "official-site",
-    "subCategory": "expansion",
-    "title": "Dragon King Expansion 1.6"
+  "kickstarter": {
+    "kdm-1-5-campaign": {
+      "path": "kickstarter/kdm-1-5-campaign.txt",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15",
+      "status": "partial"
+    },
+    "needed": [
+      "all-campaign-updates",
+      "gamblers-chest-overview",
+      "wave-announcements"
+    ]
   },
-  "official-site/news/kdu-109-august-2025": {
-    "url": "https://kingdomdeath.com/news/mc-f54efd621f",
-    "scrapedAt": "2025-12-02T00:00:00.000Z",
-    "category": "newsletter",
-    "source": "official-site",
-    "subCategory": "kdu",
-    "title": "KDU #109 - August 2025"
+  "rulebooks": {
+    "living-glossary": {
+      "path": "rulebooks/living-glossary.txt",
+      "url": "https://kingdomdeath.com/rules/living-glossary",
+      "status": "partial"
+    },
+    "needed": [
+      "core-1.5-full",
+      "core-1.6-updates",
+      "expansion-rulebooks"
+    ]
   },
-  "kickstarter/kdm-1-5-campaign": {
-    "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15",
-    "scrapedAt": "2025-12-02T00:00:00.000Z",
-    "category": "campaign",
-    "source": "kickstarter",
-    "subCategory": "main-campaign",
-    "title": "Kingdom Death: Monster 1.5 Kickstarter"
-  },
-  "rulebooks/living-glossary": {
-    "url": "https://kingdomdeath.com/rules/living-glossary",
-    "scrapedAt": "2025-12-02T00:00:00.000Z",
-    "category": "rules",
-    "source": "rulebook",
-    "subCategory": "glossary",
-    "title": "Living Glossary"
+  "existing-research": {
+    "factions": {
+      "white-speakers": { "path": "existing-research/factions/white-speakers.txt", "status": "complete" },
+      "the-twilight-order": { "path": "existing-research/factions/the-twilight-order.txt", "status": "complete" }
+    },
+    "locations": {
+      "the-plane-of-faces": { "path": "existing-research/locations/the-plane-of-faces.txt", "status": "complete" },
+      "the-great-city": { "path": "existing-research/locations/the-great-city.txt", "status": "complete" },
+      "the-holy-lands": { "path": "existing-research/locations/the-holy-lands.txt", "status": "complete" },
+      "abyssal-woods": { "path": "existing-research/locations/abyssal-woods.txt", "status": "complete" }
+    },
+    "characters": {
+      "saviors": { "path": "existing-research/characters/saviors.txt", "status": "complete" },
+      "messengers": { "path": "existing-research/characters/messengers.txt", "status": "complete" },
+      "other-survivors": { "path": "existing-research/characters/other-survivors.txt", "status": "complete" }
+    },
+    "monsters": {
+      "black-knight": { "path": "existing-research/monsters/black-knight.txt", "status": "complete" },
+      "monsters-enemies-powers": { "path": "existing-research/monsters/monsters-enemies-powers.txt", "status": "complete" }
+    },
+    "rules": {
+      "core-rules-01-ocr": { "path": "existing-research/rules/core-rules-01-ocr.txt", "status": "complete" },
+      "02-core-rules-ocr": { "path": "existing-research/rules/02-core-rules-ocr.txt", "status": "complete" },
+      "03-story-events-ocr": { "path": "existing-research/rules/03-story-events-ocr.txt", "status": "complete" },
+      "05-game-variants-glossary-ocr": { "path": "existing-research/rules/05-game-variants-glossary-ocr.txt", "status": "complete" },
+      "dragon-king-ocr": { "path": "existing-research/rules/dragon-king-ocr.txt", "status": "complete" }
+    },
+    "meta": {
+      "kdm-designer-notes": { "path": "existing-research/kdm-designer-notes.txt", "status": "complete" }
+    }
   }
 }
-

@@ -107,7 +107,7 @@ export async function POST(request: NextRequest) {
           return NextResponse.json({ error: 'Missing taskId' }, { status: 400 });
         }
 
-        const result = approveTask(taskId, reviewedBy);
+        const result = await approveTask(taskId, reviewedBy);
         return NextResponse.json(result);
       }
 

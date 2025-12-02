@@ -6,10 +6,7 @@ import {
   Clock, 
   Sun, 
   Moon, 
-  Flame,
-  Star,
   Eye,
-  Skull,
   Sparkles
 } from 'lucide-react';
 
@@ -18,7 +15,6 @@ interface TimelineEra {
   name: string;
   description: string;
   icon: React.ElementType;
-  color: string;
   events: TimelineEvent[];
 }
 
@@ -36,7 +32,6 @@ const timelineData: TimelineEra[] = [
     name: 'Before Time',
     description: 'The void before creation, when only darkness existed',
     icon: Eye,
-    color: '#6b21a8',
     events: [
       {
         id: 'void',
@@ -57,7 +52,6 @@ const timelineData: TimelineEra[] = [
     name: 'The Golden Age',
     description: 'A legendary era of civilization and light, now lost to time',
     icon: Sun,
-    color: '#f4a342',
     events: [
       {
         id: 'civilization',
@@ -85,7 +79,6 @@ const timelineData: TimelineEra[] = [
     name: 'The Age of Darkness',
     description: 'The current era where survivors struggle against endless night',
     icon: Moon,
-    color: '#3b82f6',
     events: [
       {
         id: 'fall',
@@ -128,7 +121,6 @@ const timelineData: TimelineEra[] = [
     name: 'The Unknown Future',
     description: 'What lies ahead? Only the brave will discover.',
     icon: Sparkles,
-    color: '#10b981',
     events: [
       {
         id: 'watcher',
@@ -148,14 +140,14 @@ const timelineData: TimelineEra[] = [
 ];
 
 const eventTypeStyles = {
-  major: 'border-l-[var(--lantern-glow)]',
+  major: 'border-l-[var(--red)]',
   minor: 'border-l-[var(--text-muted)]',
-  mysterious: 'border-l-[#8b5cf6]',
+  mysterious: 'border-l-[var(--gray)]',
 };
 
 export default function TimelinePage() {
   return (
-    <div className="min-h-screen py-12">
+    <div className="min-h-screen pt-24 pb-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <motion.div
@@ -163,9 +155,9 @@ export default function TimelinePage() {
           animate={{ opacity: 1, y: 0 }}
           className="text-center mb-16"
         >
-          <Clock className="w-12 h-12 mx-auto mb-6 text-lantern" />
+          <Clock className="w-12 h-12 mx-auto mb-6 text-[var(--red)]" />
           <h1 className="text-4xl md:text-5xl font-[var(--font-display)] tracking-wider mb-4">
-            THE <span className="text-lantern">TIMELINE</span>
+            THE <span className="text-[var(--red)]">TIMELINE</span>
           </h1>
           <p className="text-[var(--text-secondary)] max-w-2xl mx-auto">
             A reconstruction of history from fragments, legends, and survivor accounts. 
@@ -176,7 +168,7 @@ export default function TimelinePage() {
         {/* Timeline */}
         <div className="relative">
           {/* Central Line */}
-          <div className="absolute left-8 md:left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-transparent via-[var(--weathered-bone)]/50 to-transparent" />
+          <div className="absolute left-8 md:left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-transparent via-[var(--border)] to-transparent" />
 
           {timelineData.map((era, eraIdx) => {
             const EraIcon = era.icon;
@@ -193,20 +185,14 @@ export default function TimelinePage() {
                 {/* Era Header */}
                 <div className="flex items-center justify-center mb-8 relative">
                   <motion.div
-                    className="flex items-center gap-4 bg-abyss px-6 py-3 z-10"
+                    className="flex items-center gap-4 bg-[var(--black)] px-6 py-3 z-10"
                     whileHover={{ scale: 1.05 }}
                   >
-                    <div 
-                      className="p-3 rounded-full"
-                      style={{ backgroundColor: `${era.color}20`, border: `1px solid ${era.color}` }}
-                    >
-                      <EraIcon className="w-6 h-6" style={{ color: era.color }} />
+                    <div className="p-3 rounded-full bg-[var(--red)]/10 border border-[var(--red)]/30">
+                      <EraIcon className="w-6 h-6 text-[var(--red)]" />
                     </div>
                     <div className="text-center">
-                      <h2 
-                        className="text-2xl font-[var(--font-display)] tracking-wider"
-                        style={{ color: era.color }}
-                      >
+                      <h2 className="text-2xl font-[var(--font-display)] tracking-wider text-white">
                         {era.name}
                       </h2>
                       <p className="text-sm text-[var(--text-muted)]">
@@ -235,18 +221,19 @@ export default function TimelinePage() {
                           eventIdx % 2 === 0 
                             ? 'left-[-2.5rem] md:left-auto md:right-[-1rem]' 
                             : 'left-[-2.5rem] md:left-[-1rem]'
-                        } top-4 w-3 h-3 rounded-full border-2 bg-abyss`}
-                        style={{ borderColor: era.color }}
+                        } top-4 w-3 h-3 rounded-full border-2 bg-[var(--black)] ${
+                          event.type === 'mysterious' ? 'border-[var(--gray)]' : 'border-[var(--red)]'
+                        }`}
                       />
 
                       {/* Event Card */}
                       <div className={`lore-card p-5 border-l-2 ${eventTypeStyles[event.type]}`}>
                         <div className="flex items-start justify-between gap-2 mb-2">
-                          <h3 className="font-[var(--font-display)] tracking-wider">
+                          <h3 className="font-[var(--font-display)] tracking-wider text-white">
                             {event.title}
                           </h3>
                           {event.type === 'mysterious' && (
-                            <Eye className="w-4 h-4 text-purple-400 flex-shrink-0" />
+                            <Eye className="w-4 h-4 text-[var(--gray)] flex-shrink-0" />
                           )}
                         </div>
                         <p className="text-sm text-[var(--text-secondary)] mb-3">
@@ -259,7 +246,7 @@ export default function TimelinePage() {
                               <Link
                                 key={loreId}
                                 href={`/lore/${loreId}`}
-                                className="tag hover:border-lantern hover:text-lantern transition-colors"
+                                className="tag hover:border-[var(--red)] hover:text-[var(--red)] transition-colors"
                               >
                                 View Lore
                               </Link>
@@ -284,10 +271,10 @@ export default function TimelinePage() {
         >
           <div className="divider mb-8" />
           <p className="text-[var(--text-muted)] italic max-w-xl mx-auto">
-            "Time has no meaning in the darkness. We measure our existence in lantern years, 
-            in hunts survived, in children born. The past is a dream; the future, a hope."
+            &ldquo;Time has no meaning in the darkness. We measure our existence in lantern years, 
+            in hunts survived, in children born. The past is a dream; the future, a hope.&rdquo;
           </p>
-          <p className="text-lantern font-[var(--font-display)] tracking-wider mt-4">
+          <p className="text-[var(--red)] font-[var(--font-display)] tracking-wider mt-4">
             — Settlement Chronicle
           </p>
         </motion.div>
@@ -295,4 +282,3 @@ export default function TimelinePage() {
     </div>
   );
 }
-

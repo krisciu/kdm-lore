@@ -220,8 +220,9 @@ export function setSuggestedEntry(taskId: string, entry: SuggestedLoreEntry): vo
 
 /**
  * Approve a research task and save the generated entry
+ * Now with changelog integration for tracking
  */
-export function approveTask(taskId: string, reviewedBy?: string): { success: boolean; path?: string; error?: string } {
+export async function approveTask(taskId: string, reviewedBy?: string): Promise<{ success: boolean; path?: string; error?: string; changelogId?: string }> {
   const queue = loadQueue();
   const task = queue.tasks.find(t => t.id === taskId);
   
@@ -239,8 +240,11 @@ export function approveTask(taskId: string, reviewedBy?: string): { success: boo
     ([, config]) => config.category === category
   )?.[0] || 'concepts';
 
-  // Save the entry
-  const result = saveLoreEntry(
+  // Convert findings to string array for changelog
+  const findingStrings = task.findings?.map(f => f.content) || [];
+
+  // Save the entry with changelog tracking
+  const result = await saveLoreEntry(
     {
       title: task.suggestedEntry.title,
       category: task.suggestedEntry.category as any,
@@ -249,7 +253,12 @@ export function approveTask(taskId: string, reviewedBy?: string): { success: boo
       tags: task.suggestedEntry.tags,
       confidence: task.suggestedEntry.confidence,
     },
-    directory as any
+    directory as any,
+    {
+      source: 'agent_research',
+      taskId: task.id,
+      findings: findingStrings,
+    }
   );
 
   if (result.success) {

@@ -1,0 +1,1224 @@
+{
+  "tasks": [
+    {
+      "id": "task-1764671842172-3j053bmno",
+      "type": "create_entry",
+      "status": "approved",
+      "topic": "Settlement Phase is a great place to start and",
+      "description": "Create lore entry for Settlement Phase is a great place to start and based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "settlement"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.172Z",
+      "startedAt": "2025-12-02T10:37:22.188Z",
+      "findings": [
+        {
+          "id": "finding-task-1764671842172-3j053bmno-main",
+          "content": "The Settlement Phase is a great place to start and end your game sessions. After survivors return from battle, players develop their settlement and spend resources before a new group sets off. Update the record of what you've earned so that you are ready to hunt when you return to the game. During the Hunt Phase a group of survivors departs from the settlement to track their quarry through the bizarre landscapes of Monster. The price of their failure is grim: if the survivors perish or return emp- ty-handed, the settlement will starve Hunting takes place on the hunt board, which acts as a stage for the chaotic events that befall the survivors while in pursuit of a monster Lethal risks and strange rewards await the survivors on the hunt. Even the journey to the battle can be potentially fatal. When hunting the monster, players take turns guid- ing the group through each event. Use this as an opportunity to create suspense and surprise. Read hunt events scenarios aloud without revealing the possible outcomes. Decide how to approach each situation, then make any rolls and face any outcomes together. Defeating monsters 1n the Showdown Phase 1s the primary way of gathering resources, evolving survi- vors, and passing lantern years. The Showdown Phase 1s the longest phase of the game, and requires the most in-depth coopera- The showdown consists of a battle between the en- tire group of survivors against a single monstrous intelligence. Each showdown m Monster is unique. Players take turns controlling the monster using a pair of randomized decks that govern its behavior. Monsters are also tough. Your group will utilize all of its weapons, gear, innovations, and survivor characteristics to their full potential to defeat each Kingdom Death: Monster Core Game 37 rersisr£1r1r Innovation D£\"c.k lnriov.ihons aro socml and tochnolog,cal d1scoverios lhlll profoundly affoct lho futuro of your solllomonl Thay cnn grant new combat i1b11il1os, accoss 10 now rcsourcos . sottloment ac1,v,110s . and expand lho pos • ,t,,lities of 1he setllemont s future Each new 1nnovat1on 1s perm;rnently added lo tho i:otttemont Soltlement ,nnovat1ons are recorded on tho settlement rccord shoot ond slorod oport from The 1r1nova11on dock contains Iha settlement's polen- t1;il When survivors innovate. gaining cards from the dock to add to thelf soltlement. tho innovation deck grows Innovations direct you lo add new 1nnovat1ons to tile innovation deck as they are discovered As a result, the innovation deck 1s persistent, and grows un,quoly based on your settlement's de ets,ons There 1s a spec1at place in the box to store your settlements un,que innovation deck to keep track of 1t between game sessions. A story event ,s a moment in time s h players When a story event is triggered, every! ing that is currently happening in lhe game freezes Pass the game book to a player, turn to the in· d1cated story event, and read out loud what happens next Share tho full page artwork with everyone. Once lhe story evenl is resolved, and all outcomes have been recorded. the game unfreezes and any- thing that was happening resumes. Story events arise as survivors confront import- ant ph1losoph1cal dec1s1ons, explore and gather re- sources during the hunt, discover new monsters, and Each monster has a showdown story event that has all the information you will need to hunt and fight When you see the Ill icon, trigger the indi- cated story event right now! Story Events are listed on the settlement's timeline, on some monster cards, on tnnovattons, and even on the survivor record Milestones. indicated by heavy-lined unfilled boxes on the survivor and settlement record sheets, have s ecial rules that occur when they are filled in. Mile- s~ones can be reached by individual survivors and by As survivors gain hunt experience, they will reach milestones These milestones trigger the Age story event, which will increase the survivor's power. Sur- vivors also encounter milestones as they gain cour- age, understanding, and weapon proficiency.",
+          "source": "rulebook",
+          "confidence": "confirmed",
+          "relevance": 1,
+          "timestamp": "2025-12-02T10:37:22.199Z"
+        },
+        {
+          "id": "finding-task-1764671842172-3j053bmno-connections",
+          "content": "Connected to: King, Settlement",
+          "source": "ai_inference",
+          "confidence": "likely",
+          "relevance": 0.8,
+          "timestamp": "2025-12-02T10:37:22.199Z"
+        }
+      ],
+      "suggestedEntry": {
+        "title": "Settlement Phase is a great place to start and",
+        "category": "monster",
+        "summary": "The Settlement Phase is a great place to start and end your game sessions. After survivors return from battle, players develop their settlement and spend resources before a new group sets off. Update ...",
+        "content": "# Settlement Phase is a great place to start and\n\n> **Type:** Monster  \n> **Source:** 02-core-rules-ocr.txt  \n> **Confidence:** confirmed\n\n---\n\n## Overview\n\nThe Settlement Phase is a great place to start and end your game sessions. After survivors return from battle, players develop their settlement and spend resources before a new group sets off. Update the record of what you've earned so that you are ready to hunt when you return to the game. During the Hunt Phase a group of survivors departs from the settlement to track their quarry through the bizarre landscapes of Monster. The price of their failure is grim: if the survivors perish or return emp- ty-handed, the settlement will starve Hunting takes place on the hunt board, which acts as a stage for the chaotic events that befall the survivors while in pursuit of a monster Lethal risks and strange rewards await the survivors on the hunt. Even the journey to the battle can be potentially fatal. When hunting the monster, players take turns guid- ing the group through each event. Use this as an opportunity to create suspense and surprise. Read hunt events scenarios aloud without revealing the possible outcomes. Decide how to approach each situation, then make any rolls and face any outcomes together. Defeating monsters 1n the Showdown Phase 1s the primary way of gathering resources, evolving survi- vors, and passing lantern years. The Showdown Phase 1s the longest phase of the game, and requires the most in-depth coopera- The showdown consists of a battle between the en- tire group of survivors against a single monstrous intelligence. Each showdown m Monster is unique. Players take turns controlling the monster using a pair of randomized decks that govern its behavior. Monsters are also tough. Your group will utilize all of its weapons, gear, innovations, and survivor characteristics to their full potential to defeat each Kingdom Death: Monster Core Game 37 rersisr£1r1r Innovation D£\"c.k lnriov.ihons aro socml and tochnolog,cal d1scoverios lhlll profoundly affoct lho futuro of your solllomonl Thay cnn grant new combat i1b11il1os, accoss 10 now rcsourcos . sottloment ac1,v,110s . and expand lho pos • ,t,,lities of 1he setllemont s future Each new 1nnovat1on 1s perm;rnently added lo tho i:otttemont Soltlement ,nnovat1ons are recorded on tho settlement rccord shoot ond slorod oport from The 1r1nova11on dock contains Iha settlement's polen- t1;il When survivors innovate. gaining cards from the dock to add to thelf soltlement. tho innovation deck grows Innovations direct you lo add new 1nnovat1ons to tile innovation deck as they are discovered As a result, the innovation deck 1s persistent, and grows un,quoly based on your settlement's de ets,ons There 1s a spec1at place in the box to store your settlements un,que innovation deck to keep track of 1t between game sessions. A story event ,s a moment in time s h players When a story event is triggered, every! ing that is currently happening in lhe game freezes Pass the game book to a player, turn to the in· d1cated story event, and read out loud what happens next Share tho full page artwork with everyone. Once lhe story evenl is resolved, and all outcomes have been recorded. the game unfreezes and any- thing that was happening resumes. Story events arise as survivors confront import- ant ph1losoph1cal dec1s1ons, explore and gather re- sources during the hunt, discover new monsters, and Each monster has a showdown story event that has all the information you will need to hunt and fight When you see the Ill icon, trigger the indi- cated story event right now! Story Events are listed on the settlement's timeline, on some monster cards, on tnnovattons, and even on the survivor record Milestones. indicated by heavy-lined unfilled boxes on the survivor and settlement record sheets, have s ecial rules that occur when they are filled in. Mile- s~ones can be reached by individual survivors and by As survivors gain hunt experience, they will reach milestones These milestones trigger the Age story event, which will increase the survivor's power. Sur- vivors also encounter milestones as they gain cour- age, understanding, and weapon proficiency.\n\n## Connections\n\nThis entry is connected to:\n\n- [King](/lore/king)\n- [Settlement](/lore/settlement)\n\n## Tags\n\n`lantern` `settlement` `core-game` `quarry` `survivor` `weapon`\n\n---\n\n*This entry was generated by the Research Agent from source material.*\n*Last updated: 2025-12-02*\n",
+        "tags": [
+          "lantern",
+          "settlement",
+          "core-game",
+          "quarry",
+          "survivor",
+          "weapon"
+        ],
+        "confidence": "confirmed",
+        "sources": [
+          {
+            "name": "02-core-rules-ocr.txt",
+            "type": "rulebook"
+          }
+        ],
+        "connections": [
+          {
+            "slug": "king",
+            "type": "related"
+          },
+          {
+            "slug": "settlement",
+            "type": "related"
+          }
+        ]
+      },
+      "completedAt": "2025-12-02T10:37:22.200Z",
+      "reviewedAt": "2025-12-02T10:37:37.016Z",
+      "reviewedBy": "User"
+    },
+    {
+      "id": "task-1764671842172-9ctgkxbdj",
+      "type": "create_entry",
+      "status": "needs_review",
+      "topic": "Settlement Milestone Story Event section on the",
+      "description": "Create lore entry for Settlement Milestone Story Event section on the based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "lantern",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.172Z",
+      "startedAt": "2025-12-02T10:37:22.200Z",
+      "findings": [
+        {
+          "id": "finding-task-1764671842172-9ctgkxbdj-main",
+          "content": "The Settlement Milestone Story Event section on the settlement record sheet includes many milestones. like the settlement's first birth, its first death and a game over when the population reaches O. When these milestones are reached , fill their box and im- mediately trigger their corresponding story events. ......... ~- ...,._,.._ __ _...,.,.,.,,.~~..........,.. Throughout the game, you will roll dice to determine the outcomes of everything from attacks to choosing When the game instructs you to roll d10s, it re- fers to the 10-sided dice included with the game. The values on the dice are 1 to 1O (the 1O face is repre- sented by a lantern). The number of dice you need to roll is specified by the number before \"d1 O\", so 2d10 is 2 dice. If the game instructs you to roll a d5, roll a d 1O and divide the result in half (rounded up). Rolling on tables is an important component of the game, introducing an element of chance to events. Many moments in the game are accompa- nied by a table , everything from determining the out- comes of severe injuries to the results of story events contains an element of chance. Some tables are even affected by existing inno- vations and principles the group has already chosen. Lantern 10 refers to a die roll result where the lantern face Is showing. Natural 1 refers to a roll result where the number \"1'' face showing During the showdown, it is possible to encounter situations where It Is impossible to succeed or fail at hitting or wounding. In such cases, Lantern 1O's al- ways succeed and 1's always fail. This way, the pos- sibility of success or failure exists, even in the most one-sided circumstances. For instance, players may find themselves fac- ing monsters with toughness so high that the maxi- mum die result (10) combined with their strength Is not enough to penetrate the monster's toughness. In this case, when a lantern 10 Is rolled, it will still wound (and cause critical wounds, if luck allows). Conversely, monsters may face situations where an attack roll will always hit. For example, at- tacking a survivor with negative evasion mght mean it would hit on a 1 or higher. In these cases a natural Conflicts and the Rule of Death As in any game with many moving parts and rules, confltct may occasionally anse regarding rules inter- pretations, group decisions, or exceptions. First and foremost, this game is designed to provide time well spent with friends. Use this as the guiding principle for solving any problems that arise. In addition, here are some technical guidelines for When conflict arises over contradictions in rules, apply specific rules found on cards (Al , gear etc) and story events, before any rules lound in the rulebook If confhcts arise that slow or halt a play ses- sions completely, use the Rule of Death: always rule against the survivors. Kingdom Death is a dangerous place, and the survivors' future is bleak. Make sure that any ambiguities resolve against the survivors' At its core, Monster is a cooperative experience. Be respectful of others as you navigate the game's Kmgdorn oeath: Monste r Core Game 39 Each surv,vor has a record sheet that keeps track of essenhal Informatron players will need to hunt, fight, and interact with the settlement. Make sure to use a Players use miniatures to represent their survivors on the hunt and showdown boards. Monster includes 4 starting survivor miniatures that represent the survi- vors In their most primitive state. Survivors change as they progress over lantern years, gaining gear and losing limbs. Players are en- couraged to build new miniatures of their survivors by combining pieces from different armor sets to create a miniature that represents their survivor's favorite gear Survivor miniatures don 't need to accurately re- flect the gear a player uses in the game . However, 11 your group decides to play this way, it is usually pos- sible to do so. Survivor miniatures use 30 mm bases. Naming your survivor gives them substance and a conneclton to the player Survival Is the desperate desire to cling to hie. Survival are gained and lost throughout the cam- paign, and may be spent to perform extraordinary feats and change your fate. When you name your survivor, they gain + 1 survival. For a brand-new sur- vivor, add a \"1\" In the survival box when you name As the amount of survival increases and de- creases, update the survival box on your record Survival Limit Is the maximum amount of survival any survivor may have. Survival Limit is recorded on the settlement record sheet and applies to all survivors. Innovations and events will raise the settlement's At the start of the campaign, the Survival Lurnt is 1 . When the settlement innovates Language, the Survival Limit is increased by 1 to 2. Any add1t1onal survival gained over the Survival Limit Is lost Survival may be spent to dash , dodge, encourage, and surge. In the First Story, starting survivors can Other survival actions are added as a result of adding innovations to the settlement. When the settlement innovates Language. Paint, and Inner Lantern. survivors gain the ability to encourage dash , and surge respectively As these become available 1n your settlement. fill in the appropnate box on current and new survivor record sheets 3 Survivor Attributes Survivor attnbutes are used In the course of light- ing monsters They include: movement, accuracy, strength, evasion, luck, and speed A survivor may gain permanent increases or de- creases to their attnbutes Update the values in the appropriate box on the record sheet to reflect these If a survivor gains temporary modifiers to their attributes, place tokens on the record sheet instead of changing the sheet. Remove these tokens al the 0 000 0 000 0 0000 0• ■ .i;.- • Ell- •- c- ■- CD• D Kingdom Death: Monster Core Game A ,1311 ng ,urv,vor s movement ,s 5 MovllfflOOl 15 the maiimum numtJOf ol waCOll a , urvlvor can move 1n II s1no 10 act ion A survrvor wi th 1ess tha n t movement may ~, I movl' 1 £pa ce every 1urn ~ c,u rvrvor s accuracy 0 Aoc ur icy ,, added to a hrl roll rosull 10 dotermrno succ(!ss ful Accuracy can be a negat,vo number ,n which case ti ,~ subtra ctod from tho roll result A s11r1,ng ~urvrvor s strength is O Strongth ,s added to tho result of a wound roll to dfltorn1Ino tho force ot tho attack Strength can be a negatrvo number in wh h rs sublfactod from tho roll result E rvrvor s evasron 1s o ' ., c proftle accuracy to doter mine the drffrculty of the att.ick ,n which egalive number case rt ,s subtracted f ' tho attack profile . rom Luck ,s a survivor's chance to cause a cn t1 cal wo d ound roll A sta rting s . cause critical ey only of 10 (lantern ~ounds on a result Luck ,ncreases the range of wound roll results con11idered crrtrcaf + 1 luck causes a cntrca l wound on an unmodrfred result of 9 or 10. +2 luck on 8, 9, or 10, and so on A luck modifier can be a negative number rnaktn9 11 1rnposs1ble to roll a cntrcal wound A starting survivor's speed 1s O speed Is added to a survi· vor's weapon speed to deter- mine the number of rolls to hit 1n an attack. Speed can be a negative number, 1n which case 11 is subtracted from the number of dice rolled for an attack. 4 I survivor Locations • ~.WV lnJUIY Kno<k,d 00wn vv InIurv Kno<k,d [l()Wn • tt,,J\\/\\1 llljUI V' Knock,d OOY,n ■ H•a\\/y lnJU,Y Mocl<ed ■ ~vy llljU,Y Knock,d Down wear arrnor and suffer damag e T he hit head. arms , body , wa ist, and l eg s. ns are . Hit locations have a space f or arrnor drcated by a shield ,con ). W ithou t a rmo h points (in. have O armor points. r. rt locations Hit locations have a light inJury lev el . by an hght-hned unfilled bo x) and a h . (mdicated (1nd1cated by a heavier-li ned unfilled bo ry level The head is an exception s·, x). more fragile and can w i thstand l ess in·u . ead rs a heavy injury level. v,vor record sheet th . m1ury levels on th as noted below ea~h ~ltr lsurv'.vor is knocked : sur- ,s 3•. you are insane.",
+          "source": "rulebook",
+          "confidence": "confirmed",
+          "relevance": 1,
+          "timestamp": "2025-12-02T10:37:22.210Z"
+        },
+        {
+          "id": "finding-task-1764671842172-9ctgkxbdj-connections",
+          "content": "Connected to: King, Lantern, Settlement, Survivor",
+          "source": "ai_inference",
+          "confidence": "likely",
+          "relevance": 0.8,
+          "timestamp": "2025-12-02T10:37:22.210Z"
+        }
+      ],
+      "suggestedEntry": {
+        "title": "Settlement Milestone Story Event section on the",
+        "category": "monster",
+        "summary": "The Settlement Milestone Story Event section on the settlement record sheet includes many milestones. like the settlement's first birth, its first death and a game over when the population reaches O. ...",
+        "content": "# Settlement Milestone Story Event section on the\n\n> **Type:** Monster  \n> **Source:** 02-core-rules-ocr.txt  \n> **Confidence:** confirmed\n\n---\n\n## Overview\n\nThe Settlement Milestone Story Event section on the settlement record sheet includes many milestones. like the settlement's first birth, its first death and a game over when the population reaches O. When these milestones are reached , fill their box and im- mediately trigger their corresponding story events. ......... ~- ...,._,.._ __ _...,.,.,.,,.~~..........,.. Throughout the game, you will roll dice to determine the outcomes of everything from attacks to choosing When the game instructs you to roll d10s, it re- fers to the 10-sided dice included with the game. The values on the dice are 1 to 1O (the 1O face is repre- sented by a lantern). The number of dice you need to roll is specified by the number before \"d1 O\", so 2d10 is 2 dice. If the game instructs you to roll a d5, roll a d 1O and divide the result in half (rounded up). Rolling on tables is an important component of the game, introducing an element of chance to events. Many moments in the game are accompa- nied by a table , everything from determining the out- comes of severe injuries to the results of story events contains an element of chance. Some tables are even affected by existing inno- vations and principles the group has already chosen. Lantern 10 refers to a die roll result where the lantern face Is showing. Natural 1 refers to a roll result where the number \"1'' face showing During the showdown, it is possible to encounter situations where It Is impossible to succeed or fail at hitting or wounding. In such cases, Lantern 1O's al- ways succeed and 1's always fail. This way, the pos- sibility of success or failure exists, even in the most one-sided circumstances. For instance, players may find themselves fac- ing monsters with toughness so high that the maxi- mum die result (10) combined with their strength Is not enough to penetrate the monster's toughness. In this case, when a lantern 10 Is rolled, it will still wound (and cause critical wounds, if luck allows). Conversely, monsters may face situations where an attack roll will always hit. For example, at- tacking a survivor with negative evasion mght mean it would hit on a 1 or higher. In these cases a natural Conflicts and the Rule of Death As in any game with many moving parts and rules, confltct may occasionally anse regarding rules inter- pretations, group decisions, or exceptions. First and foremost, this game is designed to provide time well spent with friends. Use this as the guiding principle for solving any problems that arise. In addition, here are some technical guidelines for When conflict arises over contradictions in rules, apply specific rules found on cards (Al , gear etc) and story events, before any rules lound in the rulebook If confhcts arise that slow or halt a play ses- sions completely, use the Rule of Death: always rule against the survivors. Kingdom Death is a dangerous place, and the survivors' future is bleak. Make sure that any ambiguities resolve against the survivors' At its core, Monster is a cooperative experience. Be respectful of others as you navigate the game's Kmgdorn oeath: Monste r Core Game 39 Each surv,vor has a record sheet that keeps track of essenhal Informatron players will need to hunt, fight, and interact with the settlement. Make sure to use a Players use miniatures to represent their survivors on the hunt and showdown boards. Monster includes 4 starting survivor miniatures that represent the survi- vors In their most primitive state. Survivors change as they progress over lantern years, gaining gear and losing limbs. Players are en- couraged to build new miniatures of their survivors by combining pieces from different armor sets to create a miniature that represents their survivor's favorite gear Survivor miniatures don 't need to accurately re- flect the gear a player uses in the game . However, 11 your group decides to play this way, it is usually pos- sible to do so. Survivor miniatures use 30 mm bases. Naming your survivor gives them substance and a conneclton to the player Survival Is the desperate desire to cling to hie. Survival are gained and lost throughout the cam- paign, and may be spent to perform extraordinary feats and change your fate. When you name your survivor, they gain + 1 survival. For a brand-new sur- vivor, add a \"1\" In the survival box when you name As the amount of survival increases and de- creases, update the survival box on your record Survival Limit Is the maximum amount of survival any survivor may have. Survival Limit is recorded on the settlement record sheet and applies to all survivors. Innovations and events will raise the settlement's At the start of the campaign, the Survival Lurnt is 1 . When the settlement innovates Language, the Survival Limit is increased by 1 to 2. Any add1t1onal survival gained over the Survival Limit Is lost Survival may be spent to dash , dodge, encourage, and surge. In the First Story, starting survivors can Other survival actions are added as a result of adding innovations to the settlement. When the settlement innovates Language. Paint, and Inner Lantern. survivors gain the ability to encourage dash , and surge respectively As these become available 1n your settlement. fill in the appropnate box on current and new survivor record sheets 3 Survivor Attributes Survivor attnbutes are used In the course of light- ing monsters They include: movement, accuracy, strength, evasion, luck, and speed A survivor may gain permanent increases or de- creases to their attnbutes Update the values in the appropriate box on the record sheet to reflect these If a survivor gains temporary modifiers to their attributes, place tokens on the record sheet instead of changing the sheet. Remove these tokens al the 0 000 0 000 0 0000 0• ■ .i;.- • Ell- •- c- ■- CD• D Kingdom Death: Monster Core Game A ,1311 ng ,urv,vor s movement ,s 5 MovllfflOOl 15 the maiimum numtJOf ol waCOll a , urvlvor can move 1n II s1no 10 act ion A survrvor wi th 1ess tha n t movement may ~, I movl' 1 £pa ce every 1urn ~ c,u rvrvor s accuracy 0 Aoc ur icy ,, added to a hrl roll rosull 10 dotermrno succ(!ss ful Accuracy can be a negat,vo number ,n which case ti ,~ subtra ctod from tho roll result A s11r1,ng ~urvrvor s strength is O Strongth ,s added to tho result of a wound roll to dfltorn1Ino tho force ot tho attack Strength can be a negatrvo number in wh h rs sublfactod from tho roll result E rvrvor s evasron 1s o ' ., c proftle accuracy to doter mine the drffrculty of the att.ick ,n which egalive number case rt ,s subtracted f ' tho attack profile . rom Luck ,s a survivor's chance to cause a cn t1 cal wo d ound roll A sta rting s . cause critical ey only of 10 (lantern ~ounds on a result Luck ,ncreases the range of wound roll results con11idered crrtrcaf + 1 luck causes a cntrca l wound on an unmodrfred result of 9 or 10. +2 luck on 8, 9, or 10, and so on A luck modifier can be a negative number rnaktn9 11 1rnposs1ble to roll a cntrcal wound A starting survivor's speed 1s O speed Is added to a survi· vor's weapon speed to deter- mine the number of rolls to hit 1n an attack. Speed can be a negative number, 1n which case 11 is subtracted from the number of dice rolled for an attack. 4 I survivor Locations • ~.WV lnJUIY Kno<k,d 00wn vv InIurv Kno<k,d [l()Wn • tt,,J\\/\\1 llljUI V' Knock,d OOY,n ■ H•a\\/y lnJU,Y Mocl<ed ■ ~vy llljU,Y Knock,d Down wear arrnor and suffer damag e T he hit head. arms , body , wa ist, and l eg s. ns are . Hit locations have a space f or arrnor drcated by a shield ,con ). W ithou t a rmo h points (in. have O armor points. r. rt locations Hit locations have a light inJury lev el . by an hght-hned unfilled bo x) and a h . (mdicated (1nd1cated by a heavier-li ned unfilled bo ry level The head is an exception s·, x). more fragile and can w i thstand l ess in·u . ead rs a heavy injury level. v,vor record sheet th . m1ury levels on th as noted below ea~h ~ltr lsurv'.vor is knocked : sur- ,s 3•. you are insane.\n\n## Notable Quotes\n\n> \"d1 O\"\n\n> \"1'' face showing During the showdown, it is possible to encounter situations where It Is impossible to succeed or fail at hitting or wounding. In such cases, Lantern 1O's al- ways succeed and 1's always fail. This way, the pos- sibility of success or failure exists, even in the most one-sided circumstances. For instance, players may find themselves fac- ing monsters with toughness so high that the maxi- mum die result (10) combined with their strength Is not enough to penetrate the monster's toughness. In this case, when a lantern 10 Is rolled, it will still wound (and cause critical wounds, if luck allows). Conversely, monsters may face situations where an attack roll will always hit. For example, at- tacking a survivor with negative evasion mght mean it would hit on a 1 or higher. In these cases a natural Conflicts and the Rule of Death As in any game with many moving parts and rules, confltct may occasionally anse regarding rules inter- pretations, group decisions, or exceptions. First and foremost, this game is designed to provide time well spent with friends. Use this as the guiding principle for solving any problems that arise. In addition, here are some technical guidelines for When conflict arises over contradictions in rules, apply specific rules found on cards (Al , gear etc) and story events, before any rules lound in the rulebook If confhcts arise that slow or halt a play ses- sions completely, use the Rule of Death: always rule against the survivors. Kingdom Death is a dangerous place, and the survivors' future is bleak. Make sure that any ambiguities resolve against the survivors' At its core, Monster is a cooperative experience. Be respectful of others as you navigate the game's Kmgdorn oeath: Monste r Core Game 39 Each surv,vor has a record sheet that keeps track of essenhal Informatron players will need to hunt, fight, and interact with the settlement. Make sure to use a Players use miniatures to represent their survivors on the hunt and showdown boards. Monster includes 4 starting survivor miniatures that represent the survi- vors In their most primitive state. Survivors change as they progress over lantern years, gaining gear and losing limbs. Players are en- couraged to build new miniatures of their survivors by combining pieces from different armor sets to create a miniature that represents their survivor's favorite gear Survivor miniatures don 't need to accurately re- flect the gear a player uses in the game . However, 11 your group decides to play this way, it is usually pos- sible to do so. Survivor miniatures use 30 mm bases. Naming your survivor gives them substance and a conneclton to the player Survival Is the desperate desire to cling to hie. Survival are gained and lost throughout the cam- paign, and may be spent to perform extraordinary feats and change your fate. When you name your survivor, they gain + 1 survival. For a brand-new sur- vivor, add a \"\n\n## Connections\n\nThis entry is connected to:\n\n- [King](/lore/king)\n- [Lantern](/lore/lantern)\n- [Settlement](/lore/settlement)\n- [Survivor](/lore/survivor)\n\n## Tags\n\n`lantern` `settlement` `core-game` `survivor` `armor` `weapon`\n\n---\n\n*This entry was generated by the Research Agent from source material.*\n*Last updated: 2025-12-02*\n",
+        "tags": [
+          "lantern",
+          "settlement",
+          "core-game",
+          "survivor",
+          "armor",
+          "weapon"
+        ],
+        "confidence": "confirmed",
+        "sources": [
+          {
+            "name": "02-core-rules-ocr.txt",
+            "type": "rulebook"
+          }
+        ],
+        "connections": [
+          {
+            "slug": "king",
+            "type": "related"
+          },
+          {
+            "slug": "lantern",
+            "type": "related"
+          },
+          {
+            "slug": "settlement",
+            "type": "related"
+          },
+          {
+            "slug": "survivor",
+            "type": "related"
+          }
+        ]
+      },
+      "completedAt": "2025-12-02T10:37:22.211Z"
+    },
+    {
+      "id": "task-1764671842173-t5nj0vyo9",
+      "type": "create_entry",
+      "status": "needs_review",
+      "topic": "Brain Is a survivor localion different from hit loca",
+      "description": "Create lore entry for Brain Is a survivor localion different from hit loca based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "butcher",
+        "king",
+        "phoenix",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z",
+      "startedAt": "2025-12-02T10:37:22.212Z",
+      "findings": [
+        {
+          "id": "finding-task-1764671842173-t5nj0vyo9-main",
+          "content": "The Brain Is a survivor localion different from hit loca tIons . and represents a survivor's mental fitne ss. The Brain can only be damaged by brain damage Since the human mind Is fragile, there ,s only one 1n1ury level tor the Brain (indicated by the hght - Insanity protects the Brain location the same way that armor protects hit locations. The more insane a survivor Is, the less likely they are to be shaken by lhe horrors that befall them. Insanity points are gained and lost throughout the campaign. Having 3+ insanity makes a survivor Insane, which can stand in the way of making ratio- nal decisions dunng some events. As the amount of insanity increases and de creases, update the insanity box on your record 5 / Hunt Experience ( Hunt XP) Hunr XP D a DD D a DD □ a □ □ □ □ a a ■ [!J -., ■■ [!J 118\" ■ ■■ [!J Ap ■ ■■■ [!J All\" a Retlrvd Survivors gain Hunt Experience during the aftermath of a victorious showdown. When a survivor gains Hunt XP, update their record sheet by filling in the next unfilled Hunt XP Some hunt expenence levels have milestones (indicated by a heavy-hned box) that trigger the Age story event. The number of milestones filled indicates which Age rules to apply. When the final hunt experience box is filled, the survivor is too old to hunt, and must retire. 6 I Weapon Proficiency When a survivor re ach es the first Hunt XP milestone. the Age Story event grants them weapon proficiency They may select a weapon type and start gaining weapon prof1c1ency levels with this weapo n. A weapon's type Is a keyword on the gear ca rd below the name. The following weapons may be selected as a weapon proficiency. axe, bow, cl ub, dagger, fist & tooth, grand weapon, kata r, shield, spear, sword, and whip. Earning Weapon Proficiency Levels Dunng a showdown , a survivor must wound a mon- ster at least once with their chosen weapon type to become eligible to gain 1 level of weapon proftc1ency During the Aftermath , 11 they are victorious, eligi- ble survivors gain 1 weapon proficiency level Fill ,n the next unfilled box on the survivors record sheet to A survivor cannot gain weapon proficiency 11 they do not have a weapon type selected (unless stated otherwise) . They have not yet dedicated themselves to training and thus, cannot learn. Changing your Weapon Type A survivor may change their selected weapon type when they depart for a hunt. If they do , lose all ac- crued levels of weapon proficiency, including weapon specializations. Erase any filled boxes and start over with the new weapon type. Weapon Specialist / Mastery When a survivor reaches the specialization milestone. they gain the benehts of the specialization card for their selected weapon type. Spec1alizat1ons are advanced ab1ht1es that can be used with that weapon They keep these benefits while their mile- When a survivor reaches a weapon mastery, It is permanently added to your settlement as an innovation The survivor's command of the weapon Is so extensive that all current and future survivors of that settlement gain that weapon's spec1ahza11on ab1hty m addition to their own weapon prohc1encIes. The master will keep the full benefits of the mastery, so long as the mnova\\lon remains in the settlement. If a new survivor wants to gain the benefits of a mastery that Is already an innovation m the settle- ment, they must gain all 8 weapon proficiency levels. 7 Courage and Understanding ■ CD t-\"' ■■ CD \"\"''\"\"' ■ CD - ■■ CD -•s.u.t ..-Add•>loyoor\\nvostl· Q :::~ :C::W Vffien a Courage and understanding will aid survivors throughout the hunt and showdown . Some events require levels of courage or understandi ng to partic- Courage is a survivor's potentially ill- adv i sed bravery, and understanding is a survivor 's insight. Courage and understanding have milestones (indi- cated by heavy-hned boxes on the record sheet) that trigger story events the first time a survivor reaches that milestone. They can only be triggered once in a lifetime tor each survivor. Kingdom Oeath: Monster Core Game 4. r1gh1tng ans can be learned from innovations and events Some f1ghhng arts are maneuvers that can be acllvarcd ,n place of weapon gear to make at- tacks Fighting arts can have add1t1onal costs or pre - requI sItcs to use , but usually have exciting effects . Each fighting art has a corresponding card in the Fighting Art deck that describes the rules for using 11. When a survivor gains a fighting art , record 1t on the survivor record sheet Survivors can have up to 3 fighting arts . Any further fighting arts gained must replace an existing fighting art of your choice If a survivor would gain a lighting art they already have, nothing happens . Secret fighting arts are unique maneuvers that cannot be gained randomly . Each secret fighting art has a corresponding card In the Secret Fighting Art deck that describes the rules for using 11. These count toward your fighting art maximum of 3. Disorders t,IJxunum J. The horrors of their existence can cause survivors to develop mental disorders. Survivors can gain a spec1f1c or random disorders . Disorder cards describe the effects of each dis- order . If a survivor gains a random disorder, shuffle all disorder cards and draw one When a survivor gains a particular disorder, draw the corresponding disorder card . . d. der record ,ts rules When a survivor gains a ,sor , on the survivor record sheet . d Any further Survivors can have up . disorders gained must rep . d'sorder they your choice . If a survivor would gain a I already have . nothing happens. ded Disorders can be cured on their own , at upgra settlement locations . as a resu and even during some events 10 I Abilities and Impairments Abilities & Impairments In their lifetime, survivors may gain abilities, severe injuries, ailments and other painful reminders of their journey. Record these In the Abilities & Impairments section of the survivor record sheet. A survivor may have any number or abilities and impairments. Abilities are unique rules acquired by survivors that can aid them dunng the hunt and showdown. When survivors' armor and injury levels are exhaust- ed, th ey accumulate severe injuries from the severe injury table. Severe injuries can be temporary or When you suffer permanent injuries, note the name and ru les on your record sheet and adjust the ~urviv~r's attributes as necessary. If a permanent injury is healed, erase it from your record sheet. . Some injuries require you to skip hunts (fill the Skip Next H~nt box on the survivor record sheet). Otherwise, severe injuries last until the end of th showdown. Use attribute tokens to mark such . . . e Bleeding tokens can be gained fro most severe In1unes , as well as some events and monster attacks . If a sur- vivor has 5 or more bleeding token they are dead. All tokens are removed at the end of each showdown. Attribute Modifier Tokens Attribute modifier tokens are used to i nd icate tempo- rary changes to attributes. Attribute modifier tokens are double-sided to represent gains and losses fo r As survivors gain or suffer non-permanent changes to their attributes, place the appropriate token on their record sheet to mark these changes. All tokens are removed at the end of each showdown. In rare instances, survivors retire, rather than perish. When the last Hunt XP box is filled , the survivor re- tires. A survivor may also be forced into early retire- ment by some severe injuries Retired survivors cannot hunt or participate in When a survivor retires, they still contribute to t~e total population of the settlement, and may par- t1c1pate in settlement events and endeavors. The gear currently ,n a survivor's gear gnd ,s what the survivor ,s wearing and carrying The gear grid has space for 9 gear cards, which can be arranged in any configuration as long as they are faced nght-s1de up. They cannot be rotated. Gear ,n gear gnds can only be rearranged during the Fist & Tooth describes a survivor fighting with their bare hands, and is a weapon available to all survi- vors. Rules for Fist & Tooth are listed on the side of the survivor gear grid and also below. Except for weapon s, a survivor may not have mul t1ple copies of the same gear in their gear grid A survivor gains the benefits of a weapon·s special rules only once, no matter how many copies they have. Additional copies of weapo ns still contribute Keywords are used to describe gear's important fea- tures Gear keywords may be referenced by events, monster cards, or other rules. For example, the Bone Earrings item requires survivors to only have bone gear In their gear grid to gain its bonus. This refers to gear with the bone Special rules are listed at the bottom of some gear cards. These rules include special abilities and lim- itations (e.g ., weapons can be Savage or Frail). The rules of lower-level gear are explained on their cards. However, rules on some higher-level gear are referred to by name only. Full explanations of all gear special rules can be found in the Glossary. A completed armor set will bestow the survivor with a bonus hsted on an armor set card. Usually, armor that Is part of a set all have names that begin with the While a survivor is wearing all armor from a single settlement location with the set keyword, they have completed the set and gain th e benet1ts on the corre- sponding armor set card A survrvor weanng the White Lion Helm, White Lion Gauntlets. White Lion Coat. White Lion Skirt. and White Lion Boots has completed the White Lion armor set and gains the completed set bonus hsted on the White Lion armor set card Some gear require an add1t1onal cost from the survi- vor in order to use them The most common cost as- sociated with using a gear Is spending an activation, but other costs-such as spending survival, or suffenng damage-also appear on gear cards. The Cat Gut Bow 1s Cumbersome, which re- qu,res survivors to spend their movement action ,n addition to an act1vat1on in order to be fired Some gear functions differently if survivors are insane, have a certain amount of survival, or meet at- tribute requirements. These will be noted in the rules descriptions or explained in the Glossary . Kingdom Death : Monster Core Game 41 EJ ' I. Rawhide Boocs wr..-n )'OIJ depart. Id'\" •J wrv,val Armor protects suNrvors by 1ncreasIng armor pornls at hrl location s. Armor rs worn by placing 11 ,n a suNrvor's gear grid. Only one p,ece of armor may be worn on 2 Tho gear's keywords . (Tllo armor keyword 1nd1caIes that thrs gear ,s armor) 3 Number of armor points gamed when worn 4 Hit location ,con indicates the hrt location that gains the armor points . 5 Special rules for this armor This includes extra abrhtrcs. affinity bonuses and restrrctrons from When you depart, update your current armor points d gear grid. If armor gear is lost unng the hunt or showdown, update your armor points to reflect this loss immediately Readl 2: May attaek from 2 squares away. weapons are primarily used to attack monsters. 1 The name of the gear . 2 I The gear 's keywords (The weapon keyword indica tes that this gear Is a weapon ) 3 Indicates spending 1 activation is required to attack with this weapon . 4 The weapon's speed attribute 5 The weapon 's accuracy attribute 6 The weapon's strength attribute. 7 The weapon's aff1n1ty 8 Special rules and abilities of th · th . is weapon. Unless o erwIse noted, these rules onl weapon is activated. Y apply when that When you depart. gain +l survival. o: Remove priority target token. You are not a threat until you attack. Items have effects that can aid survivors in the hunt and showdown. Each has unique rules described in detail on the gear card. 1 The name of the gear. 2 The gear's keywords. (The item keyword indicates that this gear is an item.) 3 The item's affinity. 4 Special rules for the item Unless othe . ,te'.'1 rul~s are always in effect (their benefits are ' gained Just by having the item in the gear grid). 5 Some item sp_ecial rules require the survivor to ~pend ac~Iva~Ion to trigger special rules (indicated Yan actIvatIon symbol beside the rule). some gear cards have red, blue, or green half- squares on the card edge. If a half-square 1s adJacent another half-square of the same color, the complete square they form 1s 1 affinity. Some gear cards have affinity bonuses that im- part special effects on the survivor if the affinity re- Affinity requirements are indicated by a number of small colored squares in the gear 's special rules . Each colored square represents one affinity that must be in a survivor's gear grid. You must have the affinities the rule specifies to gain the bonus of the For instance, the + 1 luck bonus on the Lucky Charm gear card has a requirement of 2 blue affini- The Survivor gains the + 1 luck affinity bonus from their Lucky Charm when they have two or more com- plete blue squares anywhere on their gear gnd In addition. some affinity bonuses can only be gained if the afflrnt1es are completed on that specific card (in- dicated by puzzle pieces instead of boxes). Instead of completing att1rnt1es anywhere on the grid, they must complete the specific att1nit1es attached to the edges An affinity bonus from a piece of gear is only gamed once. A survivor with a total of 5 blue affinities will only gain + 1 tuck from Lucky Charm. In addition, you cannot gain a second attinity bonus from a second identical gear. Lost Gear and Affinity Bonus If gear forming part of an affinity is lost during the hunt or showdown and no longer completes affinities in a survivor's gear grid, any affinity bonuses relying on these affinities are also lost. Kingdom ::: Monster Core Game 47 Monsters havo unique anatomies and behaviors Th e bizarro . inscrutable ,ntelhgence of monsters is repre- sented 1n the game by these unique components: Miniatures that physically represent the monster Story events that define a monster's attributes Unique Al decks that control the monster's actions. Hit location decks that descnbe the parts of mon- sters that survivors can attack. Monster resources gained from defeat,ng monsters . Hunt events that occur while hunting the monster. Miniatures are included to represent all 7 monsters that players will face. Some monsters have many parts and can be very large (hke !he Phoenix). Only the White Lion miniature is needed to begin the game. Players don't need to assemble a monster's miniature until they are ready to tight it. As you progress through the campaign, take the t,me to build new monsters as a part ot the hobby Monster miniatures are attached to 50 mm bases (White Lion, Screaming Antelope, Butcher, King's Man, The Hand, Watcher) or 100 mm bases (Phoenix). Showdown Story Events Monster showdown story events describe essential mformat,on about encounters with a monster. O SHOWDOWN : WHITE LION nw.onc. .... bllla ...... 1D .... ,...tGII .. ..... a.a ...... ~ • ..,,~ • ...., ...,__.Cffa\\ftt..,..,9\"'1' ....... l\"..tlen'lf• ..... -WW!I 1,-,.., .. .-l'W'I __ ~....,-... .,_,._.._.1re1 .. ~.., .... lld'l,_,...,.,s--- gr-.-...p_. ...... '--\",.... nw.._u..~._ ......,.. Vll ..... _...,f.#.,.._...,... ~ ..........,...,..... , ra1an.1-c..l2t•Or.1t._ ,,.,.,..~ardl .. Ill;!__._. ,_,.._.,....l..-.llflh _, .. ....., .,.._...~.,........._ ........ ._, ..., • lfflAI .,_., IWlaa All 1•10 o,. ••• ., .Nwa -~~-... .,_ ..........., .... -'i,....1 ..... ..... \"'-•----........ L.-.•~add ~.,.._.,...._.IOtalClta n.. ..- .,... ......... ._~l l ..... Ull ..... ...--,9\\.Nlllt!Q .......,,,,....,....... 111 .......... .._,.,.... Instincts describe what a monster does 1! 1t cannot find a target to attack. Each monster has a different instinct. A Screaming Antelope will graze around the board, but a White Lion will sniff to track its prey 41 Monster Characteristics & Attributes Monster's characteristics and attributes are orga- nized by level. Monster attributes include move- ment, toughness, speed , and damage. Monster characteristics include level, Al deck, special Al cards, and bonus tokens. This is a diagram of what spaces on the showdown board are the monster's blind spot. Higher-level monsters are more difficult foes. They have more Al and Special Al cards , as well as higher toughness , movement, and speed than lower-level monsters. Kingdom Death: Monste r Co re Garn o cunning, e Merciie.s. Tol<ons. +2 accuracy, +1 luck Mon ster level dotorminos the d1lt1cully of tho encoun tor and thO monster's placement on th o hunt board H•ghor•lovol monstors havo longer hunts This lists tho number of bnsIc, advanced, and log ondmy Al cards 1ha1 cornpnse a monster's Al deck. D01a1ls on building an Al dock are contained In tho Showdown Phaso sec tion of this book. Movement is tho number of spaces a monster can roughness Is tho monster's resilience. Toughness is the number a wound roll result must meet or exceed Speed Is added to tho speed listed on an attack pro- file 10 ca lcula te the total speed of a monster's attack. If a monster has no speed listed in this section, nott1,ng Is added to the speed of its attack profiles. Th e monster's damage attribute Is only added to the damage listed on an attack profile to calculate the total damage caused by a monster's attack Monster damage does not affect damage listed outside of attack profiles (e.g., damage from Grab or 8 0 Al Cards a nd Additional Rules This section describes any 0 (special) Al cards that start in play at the beginning of the showdown. 0 Al cards can change the monster's behavior attributes, or setup rules. ' Any other modifications spec ific to a monster's s extra attnbute tokens or Al cards) ar d in this section. The showdown beg,n with these additions in play. ve two unique attributes tokens (tough mage) corresponding to these unique mon- s Negative attribute to ens cannot re ster's damage , toughness , movement or eed attributes below 1 . sp During the showdown , use attribute tokens to indicate positive or negative changes to a monster's movement, toughness , speed , damage , accuracy, evasion, and luck. Attribute modifier tokens are dou - ble-sided to show gains and losses for that attribute. As the monster gains or suffers changes to its attributes, place the appropriate token on the mon - ster control panel to mark these changes . Monsters and survivors share the following attri- butes and tokens: movement , speed , accuracy, eva- sion, and luck. With the exception of luck , they attect monsters in the same way as survivors . Every positive monster luck token reduces the range of wound roll results considered critical. Normal- ly, the range of critical wounds is only lantern 1Os . Unless the attackers have positive luck modifiers to counteract it, a critical wound against a monster with 1 or more luck tokens is impossible. Every negative monster luck token increases the attackers ' critical The rule of la ntern 10 a l ways applies . Even if a monster 's high lu c k m akes critica lly wounding im- possib l e, a wo u nd roll o f a la n tern 10 will still cause a 5 / Hunt Board Diagram some monsters, like the White Lion, Screaming An- te/ope , and Phoenix, can be hunted. These monster's story events have hunt board diagrams that illustrate how to set up a hunt for that monster Hunting a monster is fully-detailed in the . 1 Tall Grass Terrain Card (2 Tall Grass Tiles) . . 2 random terrain cards, set up normally. . Place the White Lion in the center of the board. . Place survivors In the blue zone. Terrain and Deployment This section describes what terrain to set up on the showdown board, and where to place the survivors and monster. Terrain and setting up the showdown board are fully-detailed in the Showdown Phase and Terrain sections, respectively. The Aftermath section of a showdown event de- scribes what follows the end of the showdown, In- ctuding victory and defeat rules. Victory rules describe what happens when the sur- vivors kill a monster, including what resources and bonuses are gained 11 the survivors prevail These rules are broken down for each lev el of a monster Defeat rules describe what happens when the sur- vivors are defeated by the monster Follow these rules 11 all survivors are killed ,n the showdown or This section describes any spec1f1c rewards gained from defeating the monster for each monster level Basic Action / Reference Cards Double-sided Basic Action / Reference cards are included in the game as a small . portable overview of monster characteristics that are fully described on the monster's showdown story event They serve as a compact reminder of frequently-used monster in- formation to be used for each showdown A Monster's basic action Is detailed on its Basic Ac- tion card. A basic action consists of a target action and an attack action with an attack profile. Monsters will perform a basic action on some Al cards , in some reactions, or if there are no Al cards left to be drawn from the Al deck. Performing a basic action does not count as an Al card being drawn. A monster may perform ,ts basic action wi th a spec1f - Ic target listed. For example, the White Lton·s Trap hit locati on card directs the monster to perform a ba- sic action targeting the attacker In this case, instead of choosing a target. target the attacker and use the attack profile on the basic action to attack. dosesl SUMVO(, 1n field of v,e,, Jl/l()ve & Attack get • eun..,,., e M<roto.o. Tokens. •2 accuracy. •t luck. The White Lion sniffs and ends ,ts tu, n. until the end of the next round. all survNOrs are now threats. desp,te any effects that say otherwise. When a Level 3• White Lion performs snlff.11 gains •I accuracy token. Kingdom Death : Monster Core Game 51 own srory evont descobOS While ,i mon w s •hoWd the Al sy&rom is used to common r,a111 of a monsror ere ,re untQue mons \" f ach monster Jove ~,ed on the monster's story even cry ,howdo wn d1lforen1 t,om nd descobo a mynad Most Al cards are umque, a Howover every Al of srranqo and tom y,n flowing charactenst,cs card Ms somo, if not all, of rho o ,~ lM'J~ l;x,~ In rJJV C~l lhlt'~~ In f1t•ld ol Vlf'W - HWII«•A\"\",V, hot; !ht l,1tfll'I • • HO Jaw: ni. WhltP lion vomits blood JII Ovt>r itself. Any ;xt1acent l,UMVO,S g.1,n +I rnSJn,ty. Al Anatomy de up of actions . 11ow;def1n111ons Al cards are ma persistent injunes an Crest f a monster's cres The ,con-size d belongs to nates which Al deck the car The name of the Al car . 0 Card Level Bas ic Advanced, card levels are • ht f The most common . rk d on the top rig Legendary, and Special (ma e the card as 0 ,0 ,9 .0 )- There are 4 types of Al cards: Moods, Traits, Dura- tions, and Normal. A card is Normal unless another type 1s listed. Chomp is a Normal Al card. Al card types are described in the Showdown Phase section. v _ d terrnines a monsters target. Some re followed or replaced by diagrams Pick ar ne of the board to check within for No T arge! t ·tern indicates what action to per1orm nd Th is is most often _a monster's if no tar . When a monster cannot find a target r ns on the card are not performed. V . ented by a bar wI an arrow. n acti on . fl is performed after the action above it. ent a subtle hesItat1on or opening . b t that survivors may take advantage of by Alerts are represented by a bar with an alert symbol. Actions following an alert conta in important condition- al information that must be considered to determine if the action is performed. Continue to perfo rm any fur- ther actions on the Al card unless stated otherwi se . Survival may not be spent during an alert . Move & Attack Target Action A Move & Attack Target attack action includes any monster movement followed by an attack profile. This most often directly follows a flow after a Pick Target action, granting a surv i vor a chance to act before it is The attack profile 1s the part of an attack action that ,sts me speed, accuracy, and damage of an att k A Trigger describes when to apply any addition- al effects fisted after the attack profile. Attack effects change how damage 1s applied, or add follow-up con- sequences to a successful attack. Rules for attack effects are contained in a box below the a!Ulck profile, and applied when the trigger occurs. Persistent Injury A ctions Persistent 1n1uries are conditional actions that replace the normal rules of an Al card. Persistent injury ac- tions on Al cards are only performed when the mon- ster 1s suffering from its corresponding persistent inju- ry . When a persistent injury action is performed, any other actions on the card are ignored. Intimidate actions hurt a survivor's mental well-being. lnt1m1date actions most often cause brain damage but can have further detrimental effects. Grab: Place target knocked down 1n front of the monster. Target suffers 1 damage per monster level. Definitions are included on Al cards in gray corners, they explain terms in bold referenced elsewhere on the Al card. Definitions are not actions and are not Combat is chaos. Flailing thrashing blows ram down sides. A monster's complex anatomy , ,ts reactions to being attacked, and the unpredictable na- ture of battle are represented by the hit location deck. Each monster has a unique hit location deck composed of hit location cards. H,t location cards share the lollow,ng characteristics: _ . · . •~ , ~ianc To~ 0 ·2 toughness to wound this location. Blood and spittle erupt from the Screaming Antelope\"s wounded under-maw. If the wound roll result ,s even, suffer I brain damage. If the would roll result is odd, gain I insanity. Gain 1 Screaming Antelope resource. The name of the hit location on the monster. The card art designates which hit location deck the ... ...... ,...__,,..r.,. ..............-,a,\\. •• ..........~ ... ~•'lht..S H,t location cards can be. First Strike, Impervious, Super-Dense, Trap, and Normal cards. A card is Nor- mal unless another type is listed. Giant Tongue is a normal hit location card. H,t location type efiects are detailed in the Showdown Phase section 0 Hit Location Special Rules Some hit locations have special rules. For example, the Screaming Antelope 's Giant Tongue is easier to wound because 1t has -2 toughness. Sometimes monsters react to being hit. Reactions on hit location cards are represented by a black diamond with an R. A reaction occurs after rolling to wound the hit location it is found on . The three types of reactions are wound , failure, and reflex. Critical wounds are represented by a black diamond with a lantern symbol , followed by rules that specify what happens when a monster is critically wounded at that location. A hit location can only be critically wounded 11 it has this symbol. Critical wounds are not reactions. W hen a critical wound occurs, all reactions on that hit location car d are canceled. Kingdom Death: Mon ster Core Game S3 The t,' ,,.c#'>fToy!,1/l<' wtwr• uo,r,,aw • - Jl,tnt injury · No i.w Roll JdJO. Oo I rr,olr cl 5• Ille Wh•I~ 1Jonuo1 w111ft ol r ,r, 1.xM The aroclwr l\"M , 1coura, ilnd • J survival PffllJ41nl Jnfurv I Kc.i> In Play Wh on a monster suiters a cr1t1cal wound on a hit lo ca· t,on wrth II porsrs tont rniury , the hit location card rs put 1n pl ay in stead of be ing dis carded Some persistent 1niuries modify a mon ster's ovoroll behavior, while others only affect spo c1f1 c Al cards . For exa mpl e., 1f th e monster has the No Jaw per sis tcmt inJury wh en 1t draws Chomp, 11 performs the No Jaw per sistent rniury actron instead of any other . ....... itf1 tu'II\"\"\"' ' The hungry lion sniffs the survivo~• Move rhe White uon I space toward the the hunt t,oard . If it moves surv!VO(S on th White Lion inlo the survivors' space. .e ambushes the survivors. II the White Lion ambushes survivo~. they skip their first turn. Roll random hunt event Monster hunt event cards are events that are only en- countered when hunting a particular type of monster. They describe specific pitfalls and wonders that occur while tracking this monster Each hunt -able monster has their own set of hunt event cards . They are used with the hunt board to Monster resource cards are resources that are only gained from fighting that type of monster. There are separate decks of monster resource cards for all hunt-able monsters (White Lion, Screaming Antelope , Each monster resource has a resource type. For instance, Lion Claw is a bone type resource. _ Monster resources can be used and spent as their resource type or as their specific resource name . Some monster resources will have additional rules on the bottom of their cards. u s~ d1o·s to indicate t he mon ster·s c urren t hie The life card is a unique trait card that Is used for en- counters with some monsters and gameplay variants. It represents a monster's life in place of its Al deck. A pa ir of d1 O's should be placed in the marked spaces using the dice faces to represent a numerical value. When a monster has the 0 Life listed in its monster characteristics it will be followed by a number . This is the number of wounds the Life trait starts with. In- stead of removing wounds by removing Al cards to the wound stack, wound the monster by reducing the number on the Life trait. When the number on Life is of li t c monster is dead One consequence at a monster does not lose Al cards and Is a ways fighting with its full deckl a t trigger 'when the monster Is wounded still f~nction normally For instance 11 the Hand had the life trait, wounding the monster would still add tokens W hen a monster with life heals, 1f the mon ster 's Life number is less than its starting life, increase the num- be r on life for each wound healed by 1. If any rules would give the monster the life trait multi- ple times, com bine the hs ted amounts to find the life trait's starting number.",
+          "source": "rulebook",
+          "confidence": "confirmed",
+          "relevance": 1,
+          "timestamp": "2025-12-02T10:37:22.221Z"
+        },
+        {
+          "id": "finding-task-1764671842173-t5nj0vyo9-connections",
+          "content": "Connected to: White Lion, Butcher, King, Phoenix, Survivor",
+          "source": "ai_inference",
+          "confidence": "likely",
+          "relevance": 0.8,
+          "timestamp": "2025-12-02T10:37:22.221Z"
+        }
+      ],
+      "suggestedEntry": {
+        "title": "Brain Is a survivor localion different from hit loca",
+        "category": "monster",
+        "summary": "The Brain Is a survivor localion different from hit loca tIons . and represents a survivor's mental fitne ss. The Brain can only be damaged by brain damage Since the human mind Is fragile, there ,s on...",
+        "content": "# Brain Is a survivor localion different from hit loca\n\n> **Type:** Monster  \n> **Source:** 02-core-rules-ocr.txt  \n> **Confidence:** confirmed\n\n---\n\n## Overview\n\nThe Brain Is a survivor localion different from hit loca tIons . and represents a survivor's mental fitne ss. The Brain can only be damaged by brain damage Since the human mind Is fragile, there ,s only one 1n1ury level tor the Brain (indicated by the hght - Insanity protects the Brain location the same way that armor protects hit locations. The more insane a survivor Is, the less likely they are to be shaken by lhe horrors that befall them. Insanity points are gained and lost throughout the campaign. Having 3+ insanity makes a survivor Insane, which can stand in the way of making ratio- nal decisions dunng some events. As the amount of insanity increases and de creases, update the insanity box on your record 5 / Hunt Experience ( Hunt XP) Hunr XP D a DD D a DD □ a □ □ □ □ a a ■ [!J -., ■■ [!J 118\" ■ ■■ [!J Ap ■ ■■■ [!J All\" a Retlrvd Survivors gain Hunt Experience during the aftermath of a victorious showdown. When a survivor gains Hunt XP, update their record sheet by filling in the next unfilled Hunt XP Some hunt expenence levels have milestones (indicated by a heavy-hned box) that trigger the Age story event. The number of milestones filled indicates which Age rules to apply. When the final hunt experience box is filled, the survivor is too old to hunt, and must retire. 6 I Weapon Proficiency When a survivor re ach es the first Hunt XP milestone. the Age Story event grants them weapon proficiency They may select a weapon type and start gaining weapon prof1c1ency levels with this weapo n. A weapon's type Is a keyword on the gear ca rd below the name. The following weapons may be selected as a weapon proficiency. axe, bow, cl ub, dagger, fist & tooth, grand weapon, kata r, shield, spear, sword, and whip. Earning Weapon Proficiency Levels Dunng a showdown , a survivor must wound a mon- ster at least once with their chosen weapon type to become eligible to gain 1 level of weapon proftc1ency During the Aftermath , 11 they are victorious, eligi- ble survivors gain 1 weapon proficiency level Fill ,n the next unfilled box on the survivors record sheet to A survivor cannot gain weapon proficiency 11 they do not have a weapon type selected (unless stated otherwise) . They have not yet dedicated themselves to training and thus, cannot learn. Changing your Weapon Type A survivor may change their selected weapon type when they depart for a hunt. If they do , lose all ac- crued levels of weapon proficiency, including weapon specializations. Erase any filled boxes and start over with the new weapon type. Weapon Specialist / Mastery When a survivor reaches the specialization milestone. they gain the benehts of the specialization card for their selected weapon type. Spec1alizat1ons are advanced ab1ht1es that can be used with that weapon They keep these benefits while their mile- When a survivor reaches a weapon mastery, It is permanently added to your settlement as an innovation The survivor's command of the weapon Is so extensive that all current and future survivors of that settlement gain that weapon's spec1ahza11on ab1hty m addition to their own weapon prohc1encIes. The master will keep the full benefits of the mastery, so long as the mnova\\lon remains in the settlement. If a new survivor wants to gain the benefits of a mastery that Is already an innovation m the settle- ment, they must gain all 8 weapon proficiency levels. 7 Courage and Understanding ■ CD t-\"' ■■ CD \"\"''\"\"' ■ CD - ■■ CD -•s.u.t ..-Add•>loyoor\\nvostl· Q :::~ :C::W Vffien a Courage and understanding will aid survivors throughout the hunt and showdown . Some events require levels of courage or understandi ng to partic- Courage is a survivor's potentially ill- adv i sed bravery, and understanding is a survivor 's insight. Courage and understanding have milestones (indi- cated by heavy-hned boxes on the record sheet) that trigger story events the first time a survivor reaches that milestone. They can only be triggered once in a lifetime tor each survivor. Kingdom Oeath: Monster Core Game 4. r1gh1tng ans can be learned from innovations and events Some f1ghhng arts are maneuvers that can be acllvarcd ,n place of weapon gear to make at- tacks Fighting arts can have add1t1onal costs or pre - requI sItcs to use , but usually have exciting effects . Each fighting art has a corresponding card in the Fighting Art deck that describes the rules for using 11. When a survivor gains a fighting art , record 1t on the survivor record sheet Survivors can have up to 3 fighting arts . Any further fighting arts gained must replace an existing fighting art of your choice If a survivor would gain a lighting art they already have, nothing happens . Secret fighting arts are unique maneuvers that cannot be gained randomly . Each secret fighting art has a corresponding card In the Secret Fighting Art deck that describes the rules for using 11. These count toward your fighting art maximum of 3. Disorders t,IJxunum J. The horrors of their existence can cause survivors to develop mental disorders. Survivors can gain a spec1f1c or random disorders . Disorder cards describe the effects of each dis- order . If a survivor gains a random disorder, shuffle all disorder cards and draw one When a survivor gains a particular disorder, draw the corresponding disorder card . . d. der record ,ts rules When a survivor gains a ,sor , on the survivor record sheet . d Any further Survivors can have up . disorders gained must rep . d'sorder they your choice . If a survivor would gain a I already have . nothing happens. ded Disorders can be cured on their own , at upgra settlement locations . as a resu and even during some events 10 I Abilities and Impairments Abilities & Impairments In their lifetime, survivors may gain abilities, severe injuries, ailments and other painful reminders of their journey. Record these In the Abilities & Impairments section of the survivor record sheet. A survivor may have any number or abilities and impairments. Abilities are unique rules acquired by survivors that can aid them dunng the hunt and showdown. When survivors' armor and injury levels are exhaust- ed, th ey accumulate severe injuries from the severe injury table. Severe injuries can be temporary or When you suffer permanent injuries, note the name and ru les on your record sheet and adjust the ~urviv~r's attributes as necessary. If a permanent injury is healed, erase it from your record sheet. . Some injuries require you to skip hunts (fill the Skip Next H~nt box on the survivor record sheet). Otherwise, severe injuries last until the end of th showdown. Use attribute tokens to mark such . . . e Bleeding tokens can be gained fro most severe In1unes , as well as some events and monster attacks . If a sur- vivor has 5 or more bleeding token they are dead. All tokens are removed at the end of each showdown. Attribute Modifier Tokens Attribute modifier tokens are used to i nd icate tempo- rary changes to attributes. Attribute modifier tokens are double-sided to represent gains and losses fo r As survivors gain or suffer non-permanent changes to their attributes, place the appropriate token on their record sheet to mark these changes. All tokens are removed at the end of each showdown. In rare instances, survivors retire, rather than perish. When the last Hunt XP box is filled , the survivor re- tires. A survivor may also be forced into early retire- ment by some severe injuries Retired survivors cannot hunt or participate in When a survivor retires, they still contribute to t~e total population of the settlement, and may par- t1c1pate in settlement events and endeavors. The gear currently ,n a survivor's gear gnd ,s what the survivor ,s wearing and carrying The gear grid has space for 9 gear cards, which can be arranged in any configuration as long as they are faced nght-s1de up. They cannot be rotated. Gear ,n gear gnds can only be rearranged during the Fist & Tooth describes a survivor fighting with their bare hands, and is a weapon available to all survi- vors. Rules for Fist & Tooth are listed on the side of the survivor gear grid and also below. Except for weapon s, a survivor may not have mul t1ple copies of the same gear in their gear grid A survivor gains the benefits of a weapon·s special rules only once, no matter how many copies they have. Additional copies of weapo ns still contribute Keywords are used to describe gear's important fea- tures Gear keywords may be referenced by events, monster cards, or other rules. For example, the Bone Earrings item requires survivors to only have bone gear In their gear grid to gain its bonus. This refers to gear with the bone Special rules are listed at the bottom of some gear cards. These rules include special abilities and lim- itations (e.g ., weapons can be Savage or Frail). The rules of lower-level gear are explained on their cards. However, rules on some higher-level gear are referred to by name only. Full explanations of all gear special rules can be found in the Glossary. A completed armor set will bestow the survivor with a bonus hsted on an armor set card. Usually, armor that Is part of a set all have names that begin with the While a survivor is wearing all armor from a single settlement location with the set keyword, they have completed the set and gain th e benet1ts on the corre- sponding armor set card A survrvor weanng the White Lion Helm, White Lion Gauntlets. White Lion Coat. White Lion Skirt. and White Lion Boots has completed the White Lion armor set and gains the completed set bonus hsted on the White Lion armor set card Some gear require an add1t1onal cost from the survi- vor in order to use them The most common cost as- sociated with using a gear Is spending an activation, but other costs-such as spending survival, or suffenng damage-also appear on gear cards. The Cat Gut Bow 1s Cumbersome, which re- qu,res survivors to spend their movement action ,n addition to an act1vat1on in order to be fired Some gear functions differently if survivors are insane, have a certain amount of survival, or meet at- tribute requirements. These will be noted in the rules descriptions or explained in the Glossary . Kingdom Death : Monster Core Game 41 EJ ' I. Rawhide Boocs wr..-n )'OIJ depart. Id'\" •J wrv,val Armor protects suNrvors by 1ncreasIng armor pornls at hrl location s. Armor rs worn by placing 11 ,n a suNrvor's gear grid. Only one p,ece of armor may be worn on 2 Tho gear's keywords . (Tllo armor keyword 1nd1caIes that thrs gear ,s armor) 3 Number of armor points gamed when worn 4 Hit location ,con indicates the hrt location that gains the armor points . 5 Special rules for this armor This includes extra abrhtrcs. affinity bonuses and restrrctrons from When you depart, update your current armor points d gear grid. If armor gear is lost unng the hunt or showdown, update your armor points to reflect this loss immediately Readl 2: May attaek from 2 squares away. weapons are primarily used to attack monsters. 1 The name of the gear . 2 I The gear 's keywords (The weapon keyword indica tes that this gear Is a weapon ) 3 Indicates spending 1 activation is required to attack with this weapon . 4 The weapon's speed attribute 5 The weapon 's accuracy attribute 6 The weapon's strength attribute. 7 The weapon's aff1n1ty 8 Special rules and abilities of th · th . is weapon. Unless o erwIse noted, these rules onl weapon is activated. Y apply when that When you depart. gain +l survival. o: Remove priority target token. You are not a threat until you attack. Items have effects that can aid survivors in the hunt and showdown. Each has unique rules described in detail on the gear card. 1 The name of the gear. 2 The gear's keywords. (The item keyword indicates that this gear is an item.) 3 The item's affinity. 4 Special rules for the item Unless othe . ,te'.'1 rul~s are always in effect (their benefits are ' gained Just by having the item in the gear grid). 5 Some item sp_ecial rules require the survivor to ~pend ac~Iva~Ion to trigger special rules (indicated Yan actIvatIon symbol beside the rule). some gear cards have red, blue, or green half- squares on the card edge. If a half-square 1s adJacent another half-square of the same color, the complete square they form 1s 1 affinity. Some gear cards have affinity bonuses that im- part special effects on the survivor if the affinity re- Affinity requirements are indicated by a number of small colored squares in the gear 's special rules . Each colored square represents one affinity that must be in a survivor's gear grid. You must have the affinities the rule specifies to gain the bonus of the For instance, the + 1 luck bonus on the Lucky Charm gear card has a requirement of 2 blue affini- The Survivor gains the + 1 luck affinity bonus from their Lucky Charm when they have two or more com- plete blue squares anywhere on their gear gnd In addition. some affinity bonuses can only be gained if the afflrnt1es are completed on that specific card (in- dicated by puzzle pieces instead of boxes). Instead of completing att1rnt1es anywhere on the grid, they must complete the specific att1nit1es attached to the edges An affinity bonus from a piece of gear is only gamed once. A survivor with a total of 5 blue affinities will only gain + 1 tuck from Lucky Charm. In addition, you cannot gain a second attinity bonus from a second identical gear. Lost Gear and Affinity Bonus If gear forming part of an affinity is lost during the hunt or showdown and no longer completes affinities in a survivor's gear grid, any affinity bonuses relying on these affinities are also lost. Kingdom ::: Monster Core Game 47 Monsters havo unique anatomies and behaviors Th e bizarro . inscrutable ,ntelhgence of monsters is repre- sented 1n the game by these unique components: Miniatures that physically represent the monster Story events that define a monster's attributes Unique Al decks that control the monster's actions. Hit location decks that descnbe the parts of mon- sters that survivors can attack. Monster resources gained from defeat,ng monsters . Hunt events that occur while hunting the monster. Miniatures are included to represent all 7 monsters that players will face. Some monsters have many parts and can be very large (hke !he Phoenix). Only the White Lion miniature is needed to begin the game. Players don't need to assemble a monster's miniature until they are ready to tight it. As you progress through the campaign, take the t,me to build new monsters as a part ot the hobby Monster miniatures are attached to 50 mm bases (White Lion, Screaming Antelope, Butcher, King's Man, The Hand, Watcher) or 100 mm bases (Phoenix). Showdown Story Events Monster showdown story events describe essential mformat,on about encounters with a monster. O SHOWDOWN : WHITE LION nw.onc. .... bllla ...... 1D .... ,...tGII .. ..... a.a ...... ~ • ..,,~ • ...., ...,__.Cffa\\ftt..,..,9\"'1' ....... l\"..tlen'lf• ..... -WW!I 1,-,.., .. .-l'W'I __ ~....,-... .,_,._.._.1re1 .. ~.., .... lld'l,_,...,.,s--- gr-.-...p_. ...... '--\",.... nw.._u..~._ ......,.. Vll ..... _...,f.#.,.._...,... ~ ..........,...,..... , ra1an.1-c..l2t•Or.1t._ ,,.,.,..~ardl .. Ill;!__._. ,_,.._.,....l..-.llflh _, .. ....., .,.._...~.,........._ ........ ._, ..., • lfflAI .,_., IWlaa All 1•10 o,. ••• ., .Nwa -~~-... .,_ ..........., .... -'i,....1 ..... ..... \"'-•----........ L.-.•~add ~.,.._.,...._.IOtalClta n.. ..- .,... ......... ._~l l ..... Ull ..... ...--,9\\.Nlllt!Q .......,,,,....,....... 111 .......... .._,.,.... Instincts describe what a monster does 1! 1t cannot find a target to attack. Each monster has a different instinct. A Screaming Antelope will graze around the board, but a White Lion will sniff to track its prey 41 Monster Characteristics & Attributes Monster's characteristics and attributes are orga- nized by level. Monster attributes include move- ment, toughness, speed , and damage. Monster characteristics include level, Al deck, special Al cards, and bonus tokens. This is a diagram of what spaces on the showdown board are the monster's blind spot. Higher-level monsters are more difficult foes. They have more Al and Special Al cards , as well as higher toughness , movement, and speed than lower-level monsters. Kingdom Death: Monste r Co re Garn o cunning, e Merciie.s. Tol<ons. +2 accuracy, +1 luck Mon ster level dotorminos the d1lt1cully of tho encoun tor and thO monster's placement on th o hunt board H•ghor•lovol monstors havo longer hunts This lists tho number of bnsIc, advanced, and log ondmy Al cards 1ha1 cornpnse a monster's Al deck. D01a1ls on building an Al dock are contained In tho Showdown Phaso sec tion of this book. Movement is tho number of spaces a monster can roughness Is tho monster's resilience. Toughness is the number a wound roll result must meet or exceed Speed Is added to tho speed listed on an attack pro- file 10 ca lcula te the total speed of a monster's attack. If a monster has no speed listed in this section, nott1,ng Is added to the speed of its attack profiles. Th e monster's damage attribute Is only added to the damage listed on an attack profile to calculate the total damage caused by a monster's attack Monster damage does not affect damage listed outside of attack profiles (e.g., damage from Grab or 8 0 Al Cards a nd Additional Rules This section describes any 0 (special) Al cards that start in play at the beginning of the showdown. 0 Al cards can change the monster's behavior attributes, or setup rules. ' Any other modifications spec ific to a monster's s extra attnbute tokens or Al cards) ar d in this section. The showdown beg,n with these additions in play. ve two unique attributes tokens (tough mage) corresponding to these unique mon- s Negative attribute to ens cannot re ster's damage , toughness , movement or eed attributes below 1 . sp During the showdown , use attribute tokens to indicate positive or negative changes to a monster's movement, toughness , speed , damage , accuracy, evasion, and luck. Attribute modifier tokens are dou - ble-sided to show gains and losses for that attribute. As the monster gains or suffers changes to its attributes, place the appropriate token on the mon - ster control panel to mark these changes . Monsters and survivors share the following attri- butes and tokens: movement , speed , accuracy, eva- sion, and luck. With the exception of luck , they attect monsters in the same way as survivors . Every positive monster luck token reduces the range of wound roll results considered critical. Normal- ly, the range of critical wounds is only lantern 1Os . Unless the attackers have positive luck modifiers to counteract it, a critical wound against a monster with 1 or more luck tokens is impossible. Every negative monster luck token increases the attackers ' critical The rule of la ntern 10 a l ways applies . Even if a monster 's high lu c k m akes critica lly wounding im- possib l e, a wo u nd roll o f a la n tern 10 will still cause a 5 / Hunt Board Diagram some monsters, like the White Lion, Screaming An- te/ope , and Phoenix, can be hunted. These monster's story events have hunt board diagrams that illustrate how to set up a hunt for that monster Hunting a monster is fully-detailed in the . 1 Tall Grass Terrain Card (2 Tall Grass Tiles) . . 2 random terrain cards, set up normally. . Place the White Lion in the center of the board. . Place survivors In the blue zone. Terrain and Deployment This section describes what terrain to set up on the showdown board, and where to place the survivors and monster. Terrain and setting up the showdown board are fully-detailed in the Showdown Phase and Terrain sections, respectively. The Aftermath section of a showdown event de- scribes what follows the end of the showdown, In- ctuding victory and defeat rules. Victory rules describe what happens when the sur- vivors kill a monster, including what resources and bonuses are gained 11 the survivors prevail These rules are broken down for each lev el of a monster Defeat rules describe what happens when the sur- vivors are defeated by the monster Follow these rules 11 all survivors are killed ,n the showdown or This section describes any spec1f1c rewards gained from defeating the monster for each monster level Basic Action / Reference Cards Double-sided Basic Action / Reference cards are included in the game as a small . portable overview of monster characteristics that are fully described on the monster's showdown story event They serve as a compact reminder of frequently-used monster in- formation to be used for each showdown A Monster's basic action Is detailed on its Basic Ac- tion card. A basic action consists of a target action and an attack action with an attack profile. Monsters will perform a basic action on some Al cards , in some reactions, or if there are no Al cards left to be drawn from the Al deck. Performing a basic action does not count as an Al card being drawn. A monster may perform ,ts basic action wi th a spec1f - Ic target listed. For example, the White Lton·s Trap hit locati on card directs the monster to perform a ba- sic action targeting the attacker In this case, instead of choosing a target. target the attacker and use the attack profile on the basic action to attack. dosesl SUMVO(, 1n field of v,e,, Jl/l()ve & Attack get • eun..,,., e M<roto.o. Tokens. •2 accuracy. •t luck. The White Lion sniffs and ends ,ts tu, n. until the end of the next round. all survNOrs are now threats. desp,te any effects that say otherwise. When a Level 3• White Lion performs snlff.11 gains •I accuracy token. Kingdom Death : Monster Core Game 51 own srory evont descobOS While ,i mon w s •hoWd the Al sy&rom is used to common r,a111 of a monsror ere ,re untQue mons \" f ach monster Jove ~,ed on the monster's story even cry ,howdo wn d1lforen1 t,om nd descobo a mynad Most Al cards are umque, a Howover every Al of srranqo and tom y,n flowing charactenst,cs card Ms somo, if not all, of rho o ,~ lM'J~ l;x,~ In rJJV C~l lhlt'~~ In f1t•ld ol Vlf'W - HWII«•A\"\",V, hot; !ht l,1tfll'I • • HO Jaw: ni. WhltP lion vomits blood JII Ovt>r itself. Any ;xt1acent l,UMVO,S g.1,n +I rnSJn,ty. Al Anatomy de up of actions . 11ow;def1n111ons Al cards are ma persistent injunes an Crest f a monster's cres The ,con-size d belongs to nates which Al deck the car The name of the Al car . 0 Card Level Bas ic Advanced, card levels are • ht f The most common . rk d on the top rig Legendary, and Special (ma e the card as 0 ,0 ,9 .0 )- There are 4 types of Al cards: Moods, Traits, Dura- tions, and Normal. A card is Normal unless another type 1s listed. Chomp is a Normal Al card. Al card types are described in the Showdown Phase section. v _ d terrnines a monsters target. Some re followed or replaced by diagrams Pick ar ne of the board to check within for No T arge! t ·tern indicates what action to per1orm nd Th is is most often _a monster's if no tar . When a monster cannot find a target r ns on the card are not performed. V . ented by a bar wI an arrow. n acti on . fl is performed after the action above it. ent a subtle hesItat1on or opening . b t that survivors may take advantage of by Alerts are represented by a bar with an alert symbol. Actions following an alert conta in important condition- al information that must be considered to determine if the action is performed. Continue to perfo rm any fur- ther actions on the Al card unless stated otherwi se . Survival may not be spent during an alert . Move & Attack Target Action A Move & Attack Target attack action includes any monster movement followed by an attack profile. This most often directly follows a flow after a Pick Target action, granting a surv i vor a chance to act before it is The attack profile 1s the part of an attack action that ,sts me speed, accuracy, and damage of an att k A Trigger describes when to apply any addition- al effects fisted after the attack profile. Attack effects change how damage 1s applied, or add follow-up con- sequences to a successful attack. Rules for attack effects are contained in a box below the a!Ulck profile, and applied when the trigger occurs. Persistent Injury A ctions Persistent 1n1uries are conditional actions that replace the normal rules of an Al card. Persistent injury ac- tions on Al cards are only performed when the mon- ster 1s suffering from its corresponding persistent inju- ry . When a persistent injury action is performed, any other actions on the card are ignored. Intimidate actions hurt a survivor's mental well-being. lnt1m1date actions most often cause brain damage but can have further detrimental effects. Grab: Place target knocked down 1n front of the monster. Target suffers 1 damage per monster level. Definitions are included on Al cards in gray corners, they explain terms in bold referenced elsewhere on the Al card. Definitions are not actions and are not Combat is chaos. Flailing thrashing blows ram down sides. A monster's complex anatomy , ,ts reactions to being attacked, and the unpredictable na- ture of battle are represented by the hit location deck. Each monster has a unique hit location deck composed of hit location cards. H,t location cards share the lollow,ng characteristics: _ . · . •~ , ~ianc To~ 0 ·2 toughness to wound this location. Blood and spittle erupt from the Screaming Antelope\"s wounded under-maw. If the wound roll result ,s even, suffer I brain damage. If the would roll result is odd, gain I insanity. Gain 1 Screaming Antelope resource. The name of the hit location on the monster. The card art designates which hit location deck the ... ...... ,...__,,..r.,. ..............-,a,\\. •• ..........~ ... ~•'lht..S H,t location cards can be. First Strike, Impervious, Super-Dense, Trap, and Normal cards. A card is Nor- mal unless another type is listed. Giant Tongue is a normal hit location card. H,t location type efiects are detailed in the Showdown Phase section 0 Hit Location Special Rules Some hit locations have special rules. For example, the Screaming Antelope 's Giant Tongue is easier to wound because 1t has -2 toughness. Sometimes monsters react to being hit. Reactions on hit location cards are represented by a black diamond with an R. A reaction occurs after rolling to wound the hit location it is found on . The three types of reactions are wound , failure, and reflex. Critical wounds are represented by a black diamond with a lantern symbol , followed by rules that specify what happens when a monster is critically wounded at that location. A hit location can only be critically wounded 11 it has this symbol. Critical wounds are not reactions. W hen a critical wound occurs, all reactions on that hit location car d are canceled. Kingdom Death: Mon ster Core Game S3 The t,' ,,.c#'>fToy!,1/l<' wtwr• uo,r,,aw • - Jl,tnt injury · No i.w Roll JdJO. Oo I rr,olr cl 5• Ille Wh•I~ 1Jonuo1 w111ft ol r ,r, 1.xM The aroclwr l\"M , 1coura, ilnd • J survival PffllJ41nl Jnfurv I Kc.i> In Play Wh on a monster suiters a cr1t1cal wound on a hit lo ca· t,on wrth II porsrs tont rniury , the hit location card rs put 1n pl ay in stead of be ing dis carded Some persistent 1niuries modify a mon ster's ovoroll behavior, while others only affect spo c1f1 c Al cards . For exa mpl e., 1f th e monster has the No Jaw per sis tcmt inJury wh en 1t draws Chomp, 11 performs the No Jaw per sistent rniury actron instead of any other . ....... itf1 tu'II\"\"\"' ' The hungry lion sniffs the survivo~• Move rhe White uon I space toward the the hunt t,oard . If it moves surv!VO(S on th White Lion inlo the survivors' space. .e ambushes the survivors. II the White Lion ambushes survivo~. they skip their first turn. Roll random hunt event Monster hunt event cards are events that are only en- countered when hunting a particular type of monster. They describe specific pitfalls and wonders that occur while tracking this monster Each hunt -able monster has their own set of hunt event cards . They are used with the hunt board to Monster resource cards are resources that are only gained from fighting that type of monster. There are separate decks of monster resource cards for all hunt-able monsters (White Lion, Screaming Antelope , Each monster resource has a resource type. For instance, Lion Claw is a bone type resource. _ Monster resources can be used and spent as their resource type or as their specific resource name . Some monster resources will have additional rules on the bottom of their cards. u s~ d1o·s to indicate t he mon ster·s c urren t hie The life card is a unique trait card that Is used for en- counters with some monsters and gameplay variants. It represents a monster's life in place of its Al deck. A pa ir of d1 O's should be placed in the marked spaces using the dice faces to represent a numerical value. When a monster has the 0 Life listed in its monster characteristics it will be followed by a number . This is the number of wounds the Life trait starts with. In- stead of removing wounds by removing Al cards to the wound stack, wound the monster by reducing the number on the Life trait. When the number on Life is of li t c monster is dead One consequence at a monster does not lose Al cards and Is a ways fighting with its full deckl a t trigger 'when the monster Is wounded still f~nction normally For instance 11 the Hand had the life trait, wounding the monster would still add tokens W hen a monster with life heals, 1f the mon ster 's Life number is less than its starting life, increase the num- be r on life for each wound healed by 1. If any rules would give the monster the life trait multi- ple times, com bine the hs ted amounts to find the life trait's starting number.\n\n## Notable Quotes\n\n> \" ■ ■■ [!J Ap ■ ■■■ [!J All\"\n\n> \"' ■■ CD \"\n\n> \"''\"\n\n> \"' ■ CD - ■■ CD -•s.u.t ..-Add•>loyoor\\nvostl· Q :::~ :C::W Vffien a Courage and understanding will aid survivors throughout the hunt and showdown . Some events require levels of courage or understandi ng to partic- Courage is a survivor's potentially ill- adv i sed bravery, and understanding is a survivor 's insight. Courage and understanding have milestones (indi- cated by heavy-hned boxes on the record sheet) that trigger story events the first time a survivor reaches that milestone. They can only be triggered once in a lifetime tor each survivor. Kingdom Oeath: Monster Core Game 4. r1gh1tng ans can be learned from innovations and events Some f1ghhng arts are maneuvers that can be acllvarcd ,n place of weapon gear to make at- tacks Fighting arts can have add1t1onal costs or pre - requI sItcs to use , but usually have exciting effects . Each fighting art has a corresponding card in the Fighting Art deck that describes the rules for using 11. When a survivor gains a fighting art , record 1t on the survivor record sheet Survivors can have up to 3 fighting arts . Any further fighting arts gained must replace an existing fighting art of your choice If a survivor would gain a lighting art they already have, nothing happens . Secret fighting arts are unique maneuvers that cannot be gained randomly . Each secret fighting art has a corresponding card In the Secret Fighting Art deck that describes the rules for using 11. These count toward your fighting art maximum of 3. Disorders t,IJxunum J. The horrors of their existence can cause survivors to develop mental disorders. Survivors can gain a spec1f1c or random disorders . Disorder cards describe the effects of each dis- order . If a survivor gains a random disorder, shuffle all disorder cards and draw one When a survivor gains a particular disorder, draw the corresponding disorder card . . d. der record ,ts rules When a survivor gains a ,sor , on the survivor record sheet . d Any further Survivors can have up . disorders gained must rep . d'sorder they your choice . If a survivor would gain a I already have . nothing happens. ded Disorders can be cured on their own , at upgra settlement locations . as a resu and even during some events 10 I Abilities and Impairments Abilities & Impairments In their lifetime, survivors may gain abilities, severe injuries, ailments and other painful reminders of their journey. Record these In the Abilities & Impairments section of the survivor record sheet. A survivor may have any number or abilities and impairments. Abilities are unique rules acquired by survivors that can aid them dunng the hunt and showdown. When survivors' armor and injury levels are exhaust- ed, th ey accumulate severe injuries from the severe injury table. Severe injuries can be temporary or When you suffer permanent injuries, note the name and ru les on your record sheet and adjust the ~urviv~r's attributes as necessary. If a permanent injury is healed, erase it from your record sheet. . Some injuries require you to skip hunts (fill the Skip Next H~nt box on the survivor record sheet). Otherwise, severe injuries last until the end of th showdown. Use attribute tokens to mark such . . . e Bleeding tokens can be gained fro most severe In1unes , as well as some events and monster attacks . If a sur- vivor has 5 or more bleeding token they are dead. All tokens are removed at the end of each showdown. Attribute Modifier Tokens Attribute modifier tokens are used to i nd icate tempo- rary changes to attributes. Attribute modifier tokens are double-sided to represent gains and losses fo r As survivors gain or suffer non-permanent changes to their attributes, place the appropriate token on their record sheet to mark these changes. All tokens are removed at the end of each showdown. In rare instances, survivors retire, rather than perish. When the last Hunt XP box is filled , the survivor re- tires. A survivor may also be forced into early retire- ment by some severe injuries Retired survivors cannot hunt or participate in When a survivor retires, they still contribute to t~e total population of the settlement, and may par- t1c1pate in settlement events and endeavors. The gear currently ,n a survivor's gear gnd ,s what the survivor ,s wearing and carrying The gear grid has space for 9 gear cards, which can be arranged in any configuration as long as they are faced nght-s1de up. They cannot be rotated. Gear ,n gear gnds can only be rearranged during the Fist & Tooth describes a survivor fighting with their bare hands, and is a weapon available to all survi- vors. Rules for Fist & Tooth are listed on the side of the survivor gear grid and also below. Except for weapon s, a survivor may not have mul t1ple copies of the same gear in their gear grid A survivor gains the benefits of a weapon·s special rules only once, no matter how many copies they have. Additional copies of weapo ns still contribute Keywords are used to describe gear's important fea- tures Gear keywords may be referenced by events, monster cards, or other rules. For example, the Bone Earrings item requires survivors to only have bone gear In their gear grid to gain its bonus. This refers to gear with the bone Special rules are listed at the bottom of some gear cards. These rules include special abilities and lim- itations (e.g ., weapons can be Savage or Frail). The rules of lower-level gear are explained on their cards. However, rules on some higher-level gear are referred to by name only. Full explanations of all gear special rules can be found in the Glossary. A completed armor set will bestow the survivor with a bonus hsted on an armor set card. Usually, armor that Is part of a set all have names that begin with the While a survivor is wearing all armor from a single settlement location with the set keyword, they have completed the set and gain th e benet1ts on the corre- sponding armor set card A survrvor weanng the White Lion Helm, White Lion Gauntlets. White Lion Coat. White Lion Skirt. and White Lion Boots has completed the White Lion armor set and gains the completed set bonus hsted on the White Lion armor set card Some gear require an add1t1onal cost from the survi- vor in order to use them The most common cost as- sociated with using a gear Is spending an activation, but other costs-such as spending survival, or suffenng damage-also appear on gear cards. The Cat Gut Bow 1s Cumbersome, which re- qu,res survivors to spend their movement action ,n addition to an act1vat1on in order to be fired Some gear functions differently if survivors are insane, have a certain amount of survival, or meet at- tribute requirements. These will be noted in the rules descriptions or explained in the Glossary . Kingdom Death : Monster Core Game 41 EJ ' I. Rawhide Boocs wr..-n )'OIJ depart. Id'\"\n\n> \"'1' ....... l\"\n\n> \",.... nw.._u..~._ ......,.. Vll ..... _...,f.#.,.._...,... ~ ..........,...,..... , ra1an.1-c..l2t•Or.1t._ ,,.,.,..~ardl .. Ill;!__._. ,_,.._.,....l..-.llflh _, .. ....., .,.._...~.,........._ ........ ._, ..., • lfflAI .,_., IWlaa All 1•10 o,. ••• ., .Nwa -~~-... .,_ ..........., .... -'i,....1 ..... ..... \"\n\n> \" f ach monster Jove ~,ed on the monster's story even cry ,howdo wn d1lforen1 t,om nd descobo a mynad Most Al cards are umque, a Howover every Al of srranqo and tom y,n flowing charactenst,cs card Ms somo, if not all, of rho o ,~ lM'J~ l;x,~ In rJJV C~l lhlt'~~ In f1t•ld ol Vlf'W - HWII«•A\"\n\n> \",V, hot; !ht l,1tfll'I • • HO Jaw: ni. WhltP lion vomits blood JII Ovt>r itself. Any ;xt1acent l,UMVO,S g.1,n +I rnSJn,ty. Al Anatomy de up of actions . 11ow;def1n111ons Al cards are ma persistent injunes an Crest f a monster's cres The ,con-size d belongs to nates which Al deck the car The name of the Al car . 0 Card Level Bas ic Advanced, card levels are • ht f The most common . rk d on the top rig Legendary, and Special (ma e the card as 0 ,0 ,9 .0 )- There are 4 types of Al cards: Moods, Traits, Dura- tions, and Normal. A card is Normal unless another type 1s listed. Chomp is a Normal Al card. Al card types are described in the Showdown Phase section. v _ d terrnines a monsters target. Some re followed or replaced by diagrams Pick ar ne of the board to check within for No T arge! t ·tern indicates what action to per1orm nd Th is is most often _a monster's if no tar . When a monster cannot find a target r ns on the card are not performed. V . ented by a bar wI an arrow. n acti on . fl is performed after the action above it. ent a subtle hesItat1on or opening . b t that survivors may take advantage of by Alerts are represented by a bar with an alert symbol. Actions following an alert conta in important condition- al information that must be considered to determine if the action is performed. Continue to perfo rm any fur- ther actions on the Al card unless stated otherwi se . Survival may not be spent during an alert . Move & Attack Target Action A Move & Attack Target attack action includes any monster movement followed by an attack profile. This most often directly follows a flow after a Pick Target action, granting a surv i vor a chance to act before it is The attack profile 1s the part of an attack action that ,sts me speed, accuracy, and damage of an att k A Trigger describes when to apply any addition- al effects fisted after the attack profile. Attack effects change how damage 1s applied, or add follow-up con- sequences to a successful attack. Rules for attack effects are contained in a box below the a!Ulck profile, and applied when the trigger occurs. Persistent Injury A ctions Persistent 1n1uries are conditional actions that replace the normal rules of an Al card. Persistent injury ac- tions on Al cards are only performed when the mon- ster 1s suffering from its corresponding persistent inju- ry . When a persistent injury action is performed, any other actions on the card are ignored. Intimidate actions hurt a survivor's mental well-being. lnt1m1date actions most often cause brain damage but can have further detrimental effects. Grab: Place target knocked down 1n front of the monster. Target suffers 1 damage per monster level. Definitions are included on Al cards in gray corners, they explain terms in bold referenced elsewhere on the Al card. Definitions are not actions and are not Combat is chaos. Flailing thrashing blows ram down sides. A monster's complex anatomy , ,ts reactions to being attacked, and the unpredictable na- ture of battle are represented by the hit location deck. Each monster has a unique hit location deck composed of hit location cards. H,t location cards share the lollow,ng characteristics: _ . · . •~ , ~ianc To~ 0 ·2 toughness to wound this location. Blood and spittle erupt from the Screaming Antelope\"\n\n> \"M , 1coura, ilnd • J survival PffllJ41nl Jnfurv I Kc.i> In Play Wh on a monster suiters a cr1t1cal wound on a hit lo ca· t,on wrth II porsrs tont rniury , the hit location card rs put 1n pl ay in stead of be ing dis carded Some persistent 1niuries modify a mon ster's ovoroll behavior, while others only affect spo c1f1 c Al cards . For exa mpl e., 1f th e monster has the No Jaw per sis tcmt inJury wh en 1t draws Chomp, 11 performs the No Jaw per sistent rniury actron instead of any other . ....... itf1 tu'II\"\n\n## Connections\n\nThis entry is connected to:\n\n- [White Lion](/lore/white-lion)\n- [Butcher](/lore/butcher)\n- [King](/lore/king)\n- [Phoenix](/lore/phoenix)\n- [Survivor](/lore/survivor)\n\n## Tags\n\n`blood-magic` `lantern` `settlement` `core-game` `survivor` `armor` `weapon`\n\n---\n\n*This entry was generated by the Research Agent from source material.*\n*Last updated: 2025-12-02*\n",
+        "tags": [
+          "blood-magic",
+          "lantern",
+          "settlement",
+          "core-game",
+          "survivor",
+          "armor",
+          "weapon"
+        ],
+        "confidence": "confirmed",
+        "sources": [
+          {
+            "name": "02-core-rules-ocr.txt",
+            "type": "rulebook"
+          }
+        ],
+        "connections": [
+          {
+            "slug": "white-lion",
+            "type": "related"
+          },
+          {
+            "slug": "butcher",
+            "type": "related"
+          },
+          {
+            "slug": "king",
+            "type": "related"
+          },
+          {
+            "slug": "phoenix",
+            "type": "related"
+          },
+          {
+            "slug": "survivor",
+            "type": "related"
+          }
+        ]
+      },
+      "completedAt": "2025-12-02T10:37:22.223Z"
+    },
+    {
+      "id": "task-1764671842173-jx8vf45rp",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Great Goldir C t rrom the Legendary Monsters",
+      "description": "Create lore entry for Great Goldir C t rrom the Legendary Monsters based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z"
+    },
+    {
+      "id": "task-1764671842173-bqajhohzp",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Hunt Phase",
+      "description": "Create lore entry for Hunt Phase based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "butcher",
+        "king",
+        "darkness",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z"
+    },
+    {
+      "id": "task-1764671842173-efutfkgna",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Hunt Fails",
+      "description": "Create lore entry for Hunt Fails based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z"
+    },
+    {
+      "id": "task-1764671842173-9iyrexwku",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Showdown Rou",
+      "description": "Create lore entry for Showdown Rou based on source material",
+      "priority": 7,
+      "relatedEntries": [],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z"
+    },
+    {
+      "id": "task-1764671842173-oy47pw1ci",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Monster controller draws the top Al c",
+      "description": "Create lore entry for Monster controller draws the top Al c based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "white-lion"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z"
+    },
+    {
+      "id": "task-1764671842173-u8jwljer1",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White Lion s Ground Fighting mood states that",
+      "description": "Create lore entry for White Lion s Ground Fighting mood states that based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "butcher",
+        "king",
+        "phoenix",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.173Z"
+    },
+    {
+      "id": "task-1764671842174-p2w3y5d8f",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Trigger section of tho attack profile indicates",
+      "description": "Create lore entry for Trigger section of tho attack profile indicates based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-xqs1dv1d5",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Settlemen t",
+      "description": "Create lore entry for Settlemen t based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "locations",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-pwkixz0hd",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Settleme nt Phase",
+      "description": "Create lore entry for Settleme nt Phase based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "locations",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-uawppnuj1",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Settlement Board is located on the reverse side",
+      "description": "Create lore entry for Settlement Board is located on the reverse side based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "lantern",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-5qqcfwhbj",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Troll bi rd mocks and di stracts the monster as",
+      "description": "Create lore entry for Troll bi rd mocks and di stracts the monster as based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "gorm",
+        "lantern",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-rmclbdj9b",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Strangers Count People and take action",
+      "description": "Create lore entry for Strangers Count People and take action based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "settlement"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-gtkrb5fka",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Bone Witch mutters of the alluring",
+      "description": "Create lore entry for Bone Witch mutters of the alluring based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.174Z"
+    },
+    {
+      "id": "task-1764671842174-7zb0o768c",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Bone Wi tch spends whispers of the horrors",
+      "description": "Create lore entry for Bone Wi tch spends whispers of the horrors based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "phoenix",
+        "lantern",
+        "darkness",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842175-utosz9z06",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "First Harvest",
+      "description": "Create lore entry for First Harvest based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "locations",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842175-vljls7rei",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "First Grave",
+      "description": "Create lore entry for First Grave based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "lantern",
+        "darkness"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842175-sat3t6zro",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Hand accepts your challenge I Stop the",
+      "description": "Create lore entry for Hand accepts your challenge I Stop the based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "lantern",
+        "settlement"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842175-607l8s9uf",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Lantern Hoard is the source of all innovations and",
+      "description": "Create lore entry for Lantern Hoard is the source of all innovations and based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "butcher",
+        "king",
+        "phoenix",
+        "lantern",
+        "settlement",
+        "forsaker"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842175-74jnkatyt",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White uon sniffs the air and ends its",
+      "description": "Create lore entry for White uon sniffs the air and ends its based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "king"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842175-uac2c359v",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Story of the Ag el ess Man",
+      "description": "Create lore entry for Story of the Ag el ess Man based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "white-speaker",
+        "survivor"
+      ],
+      "targetCategory": "locations",
+      "createdAt": "2025-12-02T10:37:22.175Z"
+    },
+    {
+      "id": "task-1764671842176-1kgnipckt",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Story of the Forsaker",
+      "description": "Create lore entry for Story of the Forsaker based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "forsaker"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.176Z"
+    },
+    {
+      "id": "task-1764671842176-rhrhzo9zu",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White Speaker instructs the survivors to bind their hands together",
+      "description": "Create lore entry for White Speaker instructs the survivors to bind their hands together based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "white-speaker",
+        "lantern",
+        "survivor",
+        "forsaker"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.176Z"
+    },
+    {
+      "id": "task-1764671842176-889389vo0",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Abyssal Woods",
+      "description": "Create lore entry for Abyssal Woods based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.176Z"
+    },
+    {
+      "id": "task-1764671842176-bomyla1gm",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Flower Witch",
+      "description": "Create lore entry for Flower Witch based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.176Z"
+    },
+    {
+      "id": "task-1764671842176-k4gg50k7o",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Flower Knight",
+      "description": "Create lore entry for Flower Knight based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.176Z"
+    },
+    {
+      "id": "task-1764671842177-zy6prz47k",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Black Knight",
+      "description": "Create lore entry for Black Knight based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "characters",
+      "createdAt": "2025-12-02T10:37:22.177Z"
+    },
+    {
+      "id": "task-1764671842177-q6zud1a0x",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "First Story",
+      "description": "Create lore entry for First Story based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.177Z"
+    },
+    {
+      "id": "task-1764671842177-x8vlfxhr3",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White Lion does not",
+      "description": "Create lore entry for White Lion does not based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.177Z"
+    },
+    {
+      "id": "task-1764671842177-l4fdorunm",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White Lion is killed when it Is wounded and there",
+      "description": "Create lore entry for White Lion is killed when it Is wounded and there based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "lantern",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.177Z"
+    },
+    {
+      "id": "task-1764671842178-wnah2jh9v",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Drago n King",
+      "description": "Create lore entry for Drago n King based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "dragon-king",
+        "lantern"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.178Z"
+    },
+    {
+      "id": "task-1764671842178-z8ovdv073",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Tyrants showdown uses a Gate specra",
+      "description": "Create lore entry for Tyrants showdown uses a Gate specra based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king",
+        "lantern",
+        "settlement",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.178Z"
+    },
+    {
+      "id": "task-1764671842179-p324ybcxv",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Radiant Orb takes the place of the Lantern",
+      "description": "Create lore entry for Radiant Orb takes the place of the Lantern based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "lantern"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842179-6uggjpkr4",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Tyrant",
+      "description": "Create lore entry for Tyrant based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "white-lion",
+        "king",
+        "dragon-king",
+        "settlement"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842179-vnpc7re7q",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Tyrant turns its disappointed gaze on the",
+      "description": "Create lore entry for Tyrant turns its disappointed gaze on the based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "butcher",
+        "king",
+        "dragon-king",
+        "settlement"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842179-ii00objrq",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Gear System",
+      "description": "Create lore entry for Gear System based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "lantern",
+        "settlement"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842179-6rdgo5bic",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Game Board",
+      "description": "Create lore entry for Game Board based on source material",
+      "priority": 7,
+      "relatedEntries": [],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842179-gyqpapcdk",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Story System",
+      "description": "Create lore entry for Story System based on source material",
+      "priority": 10,
+      "relatedEntries": [
+        "king"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842179-m195orrj5",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Kings Hand",
+      "description": "Create lore entry for Kings Hand based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.179Z"
+    },
+    {
+      "id": "task-1764671842180-fyz2ru089",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "The Lion Knight",
+      "description": "Create lore entry for The Lion Knight based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-x9ethphgf",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Lion Knight Expansion introduces the first Monster that can sometimes directly help the",
+      "description": "Create lore entry for Lion Knight Expansion introduces the first Monster that can sometimes directly help the based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "king",
+        "survivor"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-h0zv0fk4f",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "The Dragon King",
+      "description": "Create lore entry for The Dragon King based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "king",
+        "dragon-king"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-hd4yd90s1",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "The Gorm",
+      "description": "Create lore entry for The Gorm based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "gorm"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-17q54h05u",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Dung Beetle knight is a beetle that evolved from the unique otherworldly bacteria found in",
+      "description": "Create lore entry for Dung Beetle knight is a beetle that evolved from the unique otherworldly bacteria found in based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "king"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-33euc0z0b",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Sunstalker",
+      "description": "Create lore entry for Sunstalker based on source material",
+      "priority": 7,
+      "relatedEntries": [],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-atq4xrkoc",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "The White Speaker",
+      "description": "Create lore entry for The White Speaker based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king",
+        "white-speaker"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842180-2dpdc22d3",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Chanting Ritual",
+      "description": "Create lore entry for Chanting Ritual based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "twilight-knight",
+        "white-speaker",
+        "forsaker"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.180Z"
+    },
+    {
+      "id": "task-1764671842181-e9y3huylr",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Gods of Men",
+      "description": "Create lore entry for Gods of Men based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king"
+      ],
+      "targetCategory": "locations",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842181-cdlxlfda8",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Scribe",
+      "description": "Create lore entry for Scribe based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king",
+        "lantern"
+      ],
+      "targetCategory": "locations",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842181-zhb5fj0gj",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Forge God",
+      "description": "Create lore entry for Forge God based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "entity"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842181-g0swancdn",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "The Illuminated Lady",
+      "description": "Create lore entry for The Illuminated Lady based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "characters",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842181-s5qeno3ft",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Illuminated Lady",
+      "description": "Create lore entry for Illuminated Lady based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king",
+        "satan"
+      ],
+      "targetCategory": "characters",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842181-3dkpmwymz",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Honeycomb Weaver",
+      "description": "Create lore entry for Honeycomb Weaver based on source material",
+      "priority": 7,
+      "relatedEntries": [],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842181-nmxb45n1z",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Apotheosis",
+      "description": "Create lore entry for Apotheosis based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "forsaker"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.181Z"
+    },
+    {
+      "id": "task-1764671842182-waju78ckr",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Forsaker",
+      "description": "Create lore entry for Forsaker based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "forsaker"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.182Z"
+    },
+    {
+      "id": "task-1764671842182-hbwg0lqxj",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Butcher is the remains of a Forsaker swallowed by long years of wrestling with the primal rage",
+      "description": "Create lore entry for Butcher is the remains of a Forsaker swallowed by long years of wrestling with the primal rage based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "butcher",
+        "forsaker"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.182Z"
+    },
+    {
+      "id": "task-1764671842182-d6gx3jxau",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Nightmare Ram",
+      "description": "Create lore entry for Nightmare Ram based on source material",
+      "priority": 7,
+      "relatedEntries": [],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.182Z"
+    },
+    {
+      "id": "task-1764671842182-zpizgoegz",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Slender Man",
+      "description": "Create lore entry for Slender Man based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "white-speaker",
+        "slender-man"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.182Z"
+    },
+    {
+      "id": "task-1764671842182-2yy7h27ol",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Preacher",
+      "description": "Create lore entry for Preacher based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.182Z"
+    },
+    {
+      "id": "task-1764671842183-oi0o4kq0x",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Visionary",
+      "description": "Create lore entry for Visionary based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "white-lion",
+        "survivor"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.183Z"
+    },
+    {
+      "id": "task-1764671842183-em9wfz413",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Super Savior is the vision of their true form that the Saviors take on in the domain of the Ethereal",
+      "description": "Create lore entry for Super Savior is the vision of their true form that the Saviors take on in the domain of the Ethereal based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.183Z"
+    },
+    {
+      "id": "task-1764671842183-civvdv1hk",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Great City",
+      "description": "Create lore entry for Great City based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.183Z"
+    },
+    {
+      "id": "task-1764671842183-y518vh2qj",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Great Game Hunter",
+      "description": "Create lore entry for Great Game Hunter based on source material",
+      "priority": 7,
+      "relatedEntries": [],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.183Z"
+    },
+    {
+      "id": "task-1764671842183-kbv8mz4hq",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Holy Lands",
+      "description": "Create lore entry for Holy Lands based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "entity"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.183Z"
+    },
+    {
+      "id": "task-1764671842186-zs5217dtl",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Lion Knight is the most human of the Golden Entities creations and is forever obsessed with truly",
+      "description": "Create lore entry for Lion Knight is the most human of the Golden Entities creations and is forever obsessed with truly based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "king",
+        "white-speaker",
+        "entity"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.186Z"
+    },
+    {
+      "id": "task-1764671842186-xcirc6ykh",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White Knight",
+      "description": "Create lore entry for White Knight based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "entity"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.186Z"
+    },
+    {
+      "id": "task-1764671842186-hx5kxbzbv",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Plain of Faces",
+      "description": "Create lore entry for Plain of Faces based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.186Z"
+    },
+    {
+      "id": "task-1764671842186-shzy78973",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "The King",
+      "description": "Create lore entry for The King based on source material",
+      "priority": 7,
+      "relatedEntries": [
+        "king",
+        "lantern"
+      ],
+      "targetCategory": "monsters",
+      "createdAt": "2025-12-02T10:37:22.186Z"
+    },
+    {
+      "id": "task-1764671842187-8st8svyin",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Hand",
+      "description": "Create lore entry for Hand based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.187Z"
+    },
+    {
+      "id": "task-1764671842187-qkxy1q1fl",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Twilight Order Knight",
+      "description": "Create lore entry for Twilight Order Knight based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king",
+        "twilight-knight"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.187Z"
+    },
+    {
+      "id": "task-1764671842187-5vzjlmuzo",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Twilight Relic Knight",
+      "description": "Create lore entry for Twilight Relic Knight based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "archivist"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.187Z"
+    },
+    {
+      "id": "task-1764671842187-crpfbrfd4",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Twilight Witch",
+      "description": "Create lore entry for Twilight Witch based on source material",
+      "priority": 5,
+      "relatedEntries": [],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.187Z"
+    },
+    {
+      "id": "task-1764671842187-m7ri82y42",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "White Speaker",
+      "description": "Create lore entry for White Speaker based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "king",
+        "twilight-knight",
+        "white-speaker"
+      ],
+      "targetCategory": "factions",
+      "createdAt": "2025-12-02T10:37:22.187Z"
+    },
+    {
+      "id": "task-1764671842187-sdo80ptro",
+      "type": "create_entry",
+      "status": "queued",
+      "topic": "Mountain Man",
+      "description": "Create lore entry for Mountain Man based on source material",
+      "priority": 5,
+      "relatedEntries": [
+        "white-speaker"
+      ],
+      "targetCategory": "concepts",
+      "createdAt": "2025-12-02T10:37:22.187Z"
+    }
+  ],
+  "lastUpdated": "2025-12-02T10:37:37.016Z",
+  "stats": {
+    "queued": 73,
+    "inProgress": 0,
+    "completed": 1,
+    "failed": 0,
+    "needsReview": 2
+  }
+}

@@ -1,7 +1,6 @@
 'use client';
 
 import Link from 'next/link';
-import { ChevronRight, Home } from 'lucide-react';
 
 interface BreadcrumbItem {
   label: string;
@@ -14,33 +13,23 @@ interface BreadcrumbsProps {
 
 export default function Breadcrumbs({ items }: BreadcrumbsProps) {
   return (
-    <nav className="flex items-center gap-2 text-sm text-[var(--text-muted)] mb-6 overflow-x-auto">
-      <Link 
-        href="/" 
-        className="flex items-center gap-1 hover:text-lantern transition-colors flex-shrink-0"
-      >
-        <Home className="w-4 h-4" />
-        <span className="sr-only">Home</span>
+    <nav className="flex items-center gap-2 text-xs text-[var(--text-muted)] mb-8">
+      <Link href="/" className="hover:text-white transition-colors">
+        Home
       </Link>
       
       {items.map((item, index) => (
-        <div key={index} className="flex items-center gap-2 flex-shrink-0">
-          <ChevronRight className="w-4 h-4 text-[var(--weathered-bone)]/50" />
+        <div key={index} className="flex items-center gap-2">
+          <span className="text-[var(--border)]">/</span>
           {item.href ? (
-            <Link 
-              href={item.href}
-              className="hover:text-lantern transition-colors whitespace-nowrap"
-            >
+            <Link href={item.href} className="hover:text-white transition-colors">
               {item.label}
             </Link>
           ) : (
-            <span className="text-[var(--text-primary)] whitespace-nowrap">
-              {item.label}
-            </span>
+            <span className="text-[var(--text-secondary)]">{item.label}</span>
           )}
         </div>
       ))}
     </nav>
   );
 }
-

@@ -479,3 +479,71 @@ tr:hover td {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* ===========================================
+   Lore Card Component
+   =========================================== */
+.lore-card {
+  background: var(--black-raised);
+  border: 1px solid var(--border-subtle);
+  border-radius: 0;
+  transition: all 0.2s ease;
+}
+
+.lore-card:hover {
+  border-color: var(--border);
+  background: var(--black-elevated);
+}
+
+/* Prose content for chat/research interfaces */
+.prose-content h2 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  letter-spacing: 0.1em;
+  color: var(--red);
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+}
+
+.prose-content h3 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  color: var(--white);
+  margin-bottom: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.prose-content h4 {
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+
+.prose-content p {
+  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+}
+
+.prose-content li {
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
+}
+
+.prose-content strong {
+  color: var(--white);
+}
+
+/* ===========================================
+   Legacy Variable Aliases (for backwards compatibility)
+   =========================================== */
+:root {
+  /* Map old names to new values */
+  --lantern: var(--red);
+  --lantern-glow: var(--red-glow);
+  --abyss: var(--black);
+  --dark-stone: var(--black-raised);
+  --weathered-bone: var(--gray);
+  --parchment: var(--white-soft);
+}

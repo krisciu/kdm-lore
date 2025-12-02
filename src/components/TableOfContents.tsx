@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { List, ChevronRight, X } from 'lucide-react';
+import { List, X } from 'lucide-react';
 
 interface TocItem {
   id: string;
@@ -19,7 +19,6 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
   const [activeId, setActiveId] = useState<string | null>(null);
   const [items, setItems] = useState<TocItem[]>([]);
 
-  // Extract headings from content
   useEffect(() => {
     const headings: TocItem[] = [];
     const lines = content.split('\n');
@@ -42,7 +41,6 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
     setItems(headings);
   }, [content]);
 
-  // Track active heading on scroll
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
@@ -57,17 +55,13 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
 
     items.forEach((item) => {
       const element = document.getElementById(item.id);
-      if (element) {
-        observer.observe(element);
-      }
+      if (element) observer.observe(element);
     });
 
     return () => observer.disconnect();
   }, [items]);
 
-  if (items.length < 3) {
-    return null; // Don't show TOC for short content
-  }
+  if (items.length < 3) return null;
 
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
@@ -79,17 +73,13 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
 
   return (
     <>
-      {/* Mobile Toggle Button */}
+      {/* Mobile Toggle */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="lg:hidden fixed bottom-6 right-6 z-50 p-4 bg-[var(--dark-stone)] border border-[var(--weathered-bone)]/30 rounded-full shadow-lg hover:border-lantern/50 transition-colors"
+        className="lg:hidden fixed bottom-6 right-6 z-50 p-3 bg-[var(--black-raised)] border border-[var(--border)] hover:border-[var(--gray-dark)] transition-colors"
         aria-label="Table of contents"
       >
-        {isOpen ? (
-          <X className="w-5 h-5 text-lantern" />
-        ) : (
-          <List className="w-5 h-5 text-lantern" />
-        )}
+        {isOpen ? <X className="w-5 h-5" /> : <List className="w-5 h-5" />}
       </button>
 
       {/* Mobile Overlay */}
@@ -99,18 +89,18 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="lg:hidden fixed inset-0 z-40 bg-black/80 backdrop-blur-sm"
+            className="lg:hidden fixed inset-0 z-40 bg-black/90"
             onClick={() => setIsOpen(false)}
           >
             <motion.div
               initial={{ x: '100%' }}
               animate={{ x: 0 }}
               exit={{ x: '100%' }}
-              transition={{ type: 'spring', damping: 25 }}
-              className="absolute right-0 top-0 bottom-0 w-80 max-w-full bg-[var(--dark-stone)] border-l border-[var(--weathered-bone)]/30 p-6 overflow-y-auto"
+              transition={{ type: 'tween', duration: 0.2 }}
+              className="absolute right-0 top-0 bottom-0 w-72 bg-[var(--black-raised)] border-l border-[var(--border)] p-6 overflow-y-auto"
               onClick={(e) => e.stopPropagation()}
             >
-              <h3 className="font-[var(--font-display)] tracking-wider text-lg text-lantern mb-6">
+              <h3 className="text-[10px] tracking-[0.2em] uppercase text-[var(--text-muted)] mb-6">
                 Contents
               </h3>
               <nav className="space-y-1">
@@ -118,12 +108,12 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
                   <button
                     key={item.id}
                     onClick={() => scrollToSection(item.id)}
-                    className={`block w-full text-left py-2 px-3 rounded transition-colors ${
-                      item.level === 3 ? 'pl-6 text-sm' : ''
+                    className={`block w-full text-left py-2 text-sm transition-colors ${
+                      item.level === 3 ? 'pl-4 text-xs' : ''
                     } ${
                       activeId === item.id
-                        ? 'bg-lantern/10 text-lantern'
-                        : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--weathered-bone)]/10'
+                        ? 'text-white'
+                        : 'text-[var(--text-muted)] hover:text-white'
                     }`}
                   >
                     {item.title}
@@ -136,37 +126,28 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
       </AnimatePresence>
 
       {/* Desktop Sidebar */}
-      <aside className="hidden lg:block sticky top-24 h-fit max-h-[calc(100vh-8rem)] overflow-y-auto">
-        <div className="p-4 bg-[var(--dark-stone)]/50 border border-[var(--weathered-bone)]/20 rounded-lg">
-          <h3 className="font-[var(--font-display)] tracking-wider text-sm text-[var(--text-muted)] uppercase mb-4 flex items-center gap-2">
-            <List className="w-4 h-4" />
-            Contents
-          </h3>
-          <nav className="space-y-0.5">
-            {items.map((item) => (
-              <button
-                key={item.id}
-                onClick={() => scrollToSection(item.id)}
-                className={`group flex items-center gap-2 w-full text-left py-1.5 transition-colors ${
-                  item.level === 3 ? 'pl-4 text-xs' : 'text-sm'
-                } ${
-                  activeId === item.id
-                    ? 'text-lantern'
-                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
-                }`}
-              >
-                <ChevronRight 
-                  className={`w-3 h-3 transition-transform ${
-                    activeId === item.id ? 'text-lantern' : 'text-transparent group-hover:text-[var(--text-muted)]'
-                  }`} 
-                />
-                <span className="truncate">{item.title}</span>
-              </button>
-            ))}
-          </nav>
-        </div>
+      <aside className="hidden lg:block sticky top-28 h-fit">
+        <h3 className="text-[10px] tracking-[0.2em] uppercase text-[var(--text-muted)] mb-4">
+          Contents
+        </h3>
+        <nav className="space-y-0.5 max-h-[calc(100vh-200px)] overflow-y-auto scrollbar-hide">
+          {items.map((item) => (
+            <button
+              key={item.id}
+              onClick={() => scrollToSection(item.id)}
+              className={`block w-full text-left py-1.5 text-xs transition-colors ${
+                item.level === 3 ? 'pl-3' : ''
+              } ${
+                activeId === item.id
+                  ? 'text-white'
+                  : 'text-[var(--text-muted)] hover:text-[var(--text-secondary)]'
+              }`}
+            >
+              {item.title}
+            </button>
+          ))}
+        </nav>
       </aside>
     </>
   );
 }
-

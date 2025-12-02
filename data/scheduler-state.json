@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "intervalMinutes": 30,
+  "maxTasksPerRun": 3,
+  "autoCreateTasks": true,
+  "priorityRules": [
+    {
+      "id": "rule-1",
+      "name": "Monsters First",
+      "condition": "type",
+      "value": "monster",
+      "priorityBoost": 2,
+      "enabled": true
+    },
+    {
+      "id": "rule-2",
+      "name": "Core Game Priority",
+      "condition": "tag",
+      "value": "core-game",
+      "priorityBoost": 3,
+      "enabled": true
+    },
+    {
+      "id": "rule-3",
+      "name": "Confirmed Sources",
+      "condition": "source",
+      "value": "rulebook",
+      "priorityBoost": 2,
+      "enabled": true
+    }
+  ],
+  "stats": {
+    "totalRuns": 1,
+    "totalTasksProcessed": 3,
+    "totalEntriesCreated": 0,
+    "errors": [],
+    "lastSuccessfulRun": "2025-12-02T10:37:22.223Z"
+  },
+  "lastRun": "2025-12-02T10:37:22.223Z",
+  "nextScheduledRun": "2025-12-02T11:07:22.223Z"
+}

@@ -1,11 +1,14 @@
 /**
  * Lore Service - Centralized service for lore operations
  * Handles reading, writing, and linking between markdown files and the site
+ * Now with changelog integration for tracking all modifications
  */
 
 import fs from 'fs';
 import path from 'path';
 import { LoreEntry, LoreCategory, LoreSource } from '@/types/lore';
+import { recordChange } from './changelog-service';
+import { ChangeType, ChangeSource } from '@/types/changelog';
 
 const DOCS_PATH = path.join(process.cwd(), 'docs', 'lore');
 
@@ -213,11 +216,18 @@ ${tags.map(t => `\`${t}\``).join(' ')}
 
 /**
  * Save a new lore entry to the docs directory
+ * Now with changelog tracking for transparency
  */
-export function saveLoreEntry(
+export async function saveLoreEntry(
   entry: Partial<LoreEntry>,
-  directory: keyof typeof LORE_DIRECTORIES
-): { success: boolean; path?: string; error?: string } {
+  directory: keyof typeof LORE_DIRECTORIES,
+  options?: {
+    source?: ChangeSource;
+    taskId?: string;
+    sessionId?: string;
+    findings?: string[];
+  }
+): Promise<{ success: boolean; path?: string; error?: string; changelogId?: string }> {
   try {
     const config = LORE_DIRECTORIES[directory];
     if (!config) {
@@ -239,6 +249,7 @@ export function saveLoreEntry(
       .slice(0, 50);
 
     const filePath = path.join(dirPath, `${slug}.md`);
+    const relativePath = `docs/lore/${config.path}/${slug}.md`;
 
     // Check if file already exists
     if (fs.existsSync(filePath)) {
@@ -249,7 +260,80 @@ export function saveLoreEntry(
     const markdown = generateLoreMarkdown(entry);
     fs.writeFileSync(filePath, markdown, 'utf-8');
 
-    return { success: true, path: filePath };
+    // Record the change in changelog
+    const changelogEntry = await recordChange(
+      'create',
+      options?.source || 'human_edit',
+      `Created new entry: ${entry.title}`,
+      [relativePath],
+      {
+        description: `New ${entry.category || 'concept'} entry created: ${entry.title}. ${entry.summary || ''}`,
+        taskId: options?.taskId,
+        sessionId: options?.sessionId,
+        findings: options?.findings,
+        confidence: entry.confidence || 'speculative',
+        afterContent: markdown,
+        autoCommit: true,
+      }
+    );
+
+    return { success: true, path: filePath, changelogId: changelogEntry.id };
+  } catch (error) {
+    return { success: false, error: String(error) };
+  }
+}
+
+/**
+ * Update an existing lore entry
+ * Tracks changes in the changelog system
+ */
+export async function updateLoreEntry(
+  filePath: string,
+  newContent: string,
+  options?: {
+    source?: ChangeSource;
+    changeType?: ChangeType;
+    title?: string;
+    taskId?: string;
+    sessionId?: string;
+    findings?: string[];
+  }
+): Promise<{ success: boolean; changelogId?: string; error?: string }> {
+  try {
+    if (!fs.existsSync(filePath)) {
+      return { success: false, error: 'File not found' };
+    }
+
+    // Read existing content for diff
+    const beforeContent = fs.readFileSync(filePath, 'utf-8');
+    
+    // Write new content
+    fs.writeFileSync(filePath, newContent, 'utf-8');
+
+    // Get relative path
+    const relativePath = filePath.replace(process.cwd() + '/', '');
+    
+    // Extract title from file if not provided
+    const title = options?.title || filePath.split('/').pop()?.replace('.md', '') || 'Unknown';
+
+    // Record the change
+    const changelogEntry = await recordChange(
+      options?.changeType || 'update',
+      options?.source || 'human_edit',
+      `Updated: ${title}`,
+      [relativePath],
+      {
+        description: `Updated lore entry: ${title}`,
+        taskId: options?.taskId,
+        sessionId: options?.sessionId,
+        findings: options?.findings,
+        beforeContent,
+        afterContent: newContent,
+        autoCommit: true,
+      }
+    );
+
+    return { success: true, changelogId: changelogEntry.id };
   } catch (error) {
     return { success: false, error: String(error) };
   }

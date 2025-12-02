@@ -2,138 +2,66 @@
 
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-import { 
-  Skull, 
-  MapPin, 
-  Users, 
-  Swords, 
-  Scroll, 
-  Sparkles,
-  Eye,
-  ArrowRight,
-  Flame,
-  BookOpen,
-  Brain
-} from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { getCategoriesWithCounts, getLoreEntries, categories } from '@/data/lore';
-
-const categoryIcons: Record<string, React.ElementType> = {
-  monster: Skull,
-  location: MapPin,
-  survivor: Users,
-  settlement: Flame,
-  item: Swords,
-  event: Scroll,
-  philosophy: Sparkles,
-  entity: Eye,
-};
-
-const fadeInUp = {
-  initial: { opacity: 0, y: 30 },
-  animate: { opacity: 1, y: 0 },
-  transition: { duration: 0.6, ease: 'easeOut' },
-};
-
-const staggerContainer = {
-  animate: {
-    transition: {
-      staggerChildren: 0.1,
-    },
-  },
-};
+import LoreCard from '@/components/LoreCard';
 
 export default function Home() {
   const loreEntries = getLoreEntries();
   const categoriesWithCounts = getCategoriesWithCounts();
   const featuredEntries = loreEntries.slice(0, 4);
+  const monsterCount = loreEntries.filter(e => e.category === 'monster').length;
 
   return (
-    <div className="relative">
+    <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
-        {/* Animated Background */}
-        <div className="absolute inset-0">
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[var(--void-black)] to-[var(--void-black)]" />
-          
-          {/* Floating particles */}
-          <div className="absolute inset-0 overflow-hidden">
-            {[...Array(20)].map((_, i) => (
-              <motion.div
-                key={i}
-                className="absolute w-1 h-1 bg-lantern/30 rounded-full"
-                style={{
-                  left: `${Math.random() * 100}%`,
-                  top: `${Math.random() * 100}%`,
-                }}
-                animate={{
-                  y: [-20, 20, -20],
-                  opacity: [0.2, 0.5, 0.2],
-                }}
-                transition={{
-                  duration: 3 + Math.random() * 2,
-                  repeat: Infinity,
-                  delay: Math.random() * 2,
-                }}
-              />
-            ))}
-          </div>
-          
-          {/* Central glow */}
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-lantern/5 rounded-full blur-[100px]" />
+      <section className="relative min-h-[90vh] flex items-center justify-center">
+        {/* Background elements */}
+        <div className="absolute inset-0 overflow-hidden">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-[var(--red)] rounded-full opacity-[0.02] blur-[150px]" />
         </div>
 
-        <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 1, ease: 'easeOut' }}
-            className="mb-8"
+        <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+            className="text-[var(--text-muted)] text-xs tracking-[0.3em] uppercase mb-6"
           >
-            <div className="relative inline-block">
-              <Flame className="w-20 h-20 mx-auto text-lantern animate-lantern" />
-              <div className="absolute inset-0 blur-xl bg-lantern/40 animate-lantern" />
-            </div>
-          </motion.div>
+            The Definitive Resource
+          </motion.p>
 
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.2 }}
-            className="text-4xl sm:text-5xl md:text-7xl font-[var(--font-display)] tracking-[0.15em] mb-6"
+            transition={{ duration: 0.6, delay: 0.1 }}
+            className="font-[var(--font-display)] text-4xl sm:text-5xl md:text-6xl lg:text-7xl tracking-[0.15em] uppercase mb-8"
           >
-            <span className="text-parchment">KINGDOM DEATH</span>
-            <br />
-            <span className="text-lantern glow-lantern">LORE COMPENDIUM</span>
+            <span className="block text-white">Kingdom Death</span>
+            <span className="block text-[var(--red)] mt-2">Lore Compendium</span>
           </motion.h1>
 
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4 }}
-            className="text-xl md:text-2xl text-[var(--text-secondary)] max-w-3xl mx-auto mb-12 leading-relaxed"
+            transition={{ duration: 0.6, delay: 0.2 }}
+            className="text-[var(--text-secondary)] text-lg md:text-xl max-w-2xl mx-auto mb-12 leading-relaxed"
           >
-            Delve into the darkness. Uncover the mysteries of monsters, survivors, and the 
-            cosmic horrors that lurk beyond the lantern&apos;s light.
+            Delve into the darkness. A comprehensive archive of monsters, 
+            survivors, and the cosmic horrors that lurk beyond the lantern&apos;s light.
           </motion.p>
 
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.6 }}
+            transition={{ duration: 0.6, delay: 0.3 }}
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
-            <Link
-              href="/lore"
-              className="btn btn-primary flex items-center gap-2 text-base"
-            >
-              <BookOpen className="w-5 h-5" />
-              Explore the Lore
+            <Link href="/lore" className="btn btn-primary">
+              Explore the Compendium
+              <ArrowRight className="w-4 h-4" />
             </Link>
-            <Link
-              href="/research"
-              className="btn flex items-center gap-2 text-base"
-            >
-              <Brain className="w-5 h-5" />
+            <Link href="/research" className="btn">
               Research Lab
             </Link>
           </motion.div>
@@ -141,225 +69,162 @@ export default function Home() {
 
         {/* Scroll indicator */}
         <motion.div
-          className="absolute bottom-8 left-1/2 -translate-x-1/2"
-          animate={{ y: [0, 10, 0] }}
-          transition={{ duration: 2, repeat: Infinity }}
+          className="absolute bottom-12 left-1/2 -translate-x-1/2"
+          animate={{ y: [0, 8, 0] }}
+          transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}
         >
-          <div className="w-6 h-10 border-2 border-[var(--weathered-bone)]/50 rounded-full flex justify-center">
-            <div className="w-1.5 h-3 bg-lantern/50 rounded-full mt-2" />
-          </div>
+          <div className="w-px h-16 bg-gradient-to-b from-[var(--text-muted)] to-transparent" />
         </motion.div>
       </section>
 
-      {/* Stats Section */}
-      <section className="py-16 border-y border-[var(--weathered-bone)]/20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <motion.div
-            initial="initial"
-            whileInView="animate"
-            viewport={{ once: true }}
-            variants={staggerContainer}
-            className="grid grid-cols-2 md:grid-cols-4 gap-8"
-          >
+      {/* Stats */}
+      <section className="py-20 border-y border-[var(--border-subtle)]">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
             {[
-              { label: 'Lore Entries', value: loreEntries.length, icon: BookOpen },
-              { label: 'Categories', value: categories.length, icon: Scroll },
-              { label: 'Monsters', value: loreEntries.filter(e => e.category === 'monster').length, icon: Skull },
-              { label: 'Active Research', value: '∞', icon: Brain },
-            ].map((stat) => (
+              { label: 'Lore Entries', value: loreEntries.length },
+              { label: 'Categories', value: categories.length },
+              { label: 'Monsters', value: monsterCount },
+              { label: 'Research Active', value: '∞' },
+            ].map((stat, idx) => (
               <motion.div
                 key={stat.label}
-                variants={fadeInUp}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: idx * 0.1 }}
                 className="text-center"
               >
-                <stat.icon className="w-8 h-8 mx-auto mb-3 text-lantern/60" />
-                <div className="text-3xl md:text-4xl font-[var(--font-display)] text-parchment mb-1">
+                <div className="font-[var(--font-display)] text-3xl md:text-4xl text-white mb-2 tracking-wider">
                   {stat.value}
                 </div>
-                <div className="text-sm text-[var(--text-muted)] uppercase tracking-wider">
+                <div className="text-[10px] tracking-[0.2em] uppercase text-[var(--text-muted)]">
                   {stat.label}
                 </div>
               </motion.div>
             ))}
-          </motion.div>
+          </div>
         </div>
       </section>
 
-      {/* Categories Section */}
-      <section className="py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {/* Categories */}
+      <section className="py-24">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="text-center mb-16"
+            className="max-w-xl mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-[var(--font-display)] tracking-wider mb-4">
-              EXPLORE THE <span className="text-lantern">DARKNESS</span>
+            <h2 className="font-[var(--font-display)] text-2xl tracking-wider uppercase mb-4">
+              Browse by <span className="text-[var(--red)]">Category</span>
             </h2>
-            <p className="text-[var(--text-secondary)] max-w-2xl mx-auto">
-              Navigate through the vast compendium of Kingdom Death lore, organized by category.
+            <p className="text-[var(--text-secondary)]">
+              Navigate through the compendium organized by type.
             </p>
           </motion.div>
 
-          <motion.div
-            initial="initial"
-            whileInView="animate"
-            viewport={{ once: true }}
-            variants={staggerContainer}
-            className="grid grid-cols-2 md:grid-cols-4 gap-4"
-          >
-            {categoriesWithCounts.map((category) => {
-              const Icon = categoryIcons[category.id] || Scroll;
-              return (
-                <motion.div key={category.id} variants={fadeInUp}>
-                  <Link
-                    href={`/lore?category=${category.id}`}
-                    className="lore-card block p-6 text-center group"
-                  >
-                    <Icon className="w-10 h-10 mx-auto mb-4 text-[var(--text-muted)] group-hover:text-lantern transition-colors" />
-                    <h3 className="font-[var(--font-display)] text-lg tracking-wider mb-2 group-hover:text-lantern transition-colors">
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {categoriesWithCounts.filter(c => c.count > 0).map((category, idx) => (
+              <motion.div
+                key={category.id}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: idx * 0.05 }}
+              >
+                <Link
+                  href={`/lore?category=${category.id}`}
+                  className="group block p-6 bg-[var(--black-raised)] border border-[var(--border-subtle)] hover:border-[var(--border)] transition-all"
+                >
+                  <div className="flex items-baseline justify-between mb-3">
+                    <h3 className="font-[var(--font-display)] text-sm tracking-wider uppercase text-white group-hover:text-[var(--red)] transition-colors">
                       {category.name}
                     </h3>
-                    <p className="text-sm text-[var(--text-muted)] mb-3 line-clamp-2">
-                      {category.description}
-                    </p>
-                    <span className="tag">
-                      {category.count} {category.count === 1 ? 'entry' : 'entries'}
+                    <span className="text-xs text-[var(--text-muted)]">
+                      {category.count}
                     </span>
-                  </Link>
-                </motion.div>
-              );
-            })}
-          </motion.div>
+                  </div>
+                  <p className="text-xs text-[var(--text-muted)] line-clamp-2">
+                    {category.description}
+                  </p>
+                </Link>
+              </motion.div>
+            ))}
+          </div>
         </div>
       </section>
 
-      {/* Featured Lore Section */}
-      <section className="py-20 bg-stone/30">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {/* Featured */}
+      <section className="py-24 bg-[var(--black-raised)]">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="flex items-center justify-between mb-12"
+            className="flex items-end justify-between mb-12"
           >
             <div>
-              <h2 className="text-3xl md:text-4xl font-[var(--font-display)] tracking-wider mb-2">
-                FEATURED <span className="text-lantern">LORE</span>
+              <h2 className="font-[var(--font-display)] text-2xl tracking-wider uppercase mb-2">
+                Featured <span className="text-[var(--red)]">Lore</span>
               </h2>
-              <p className="text-[var(--text-secondary)]">
-                Essential knowledge for understanding the darkness
+              <p className="text-[var(--text-secondary)] text-sm">
+                Essential knowledge for understanding the darkness.
               </p>
             </div>
             <Link
               href="/lore"
-              className="hidden md:flex items-center gap-2 text-lantern hover:text-parchment transition-colors"
+              className="hidden md:flex items-center gap-2 text-xs tracking-wider uppercase text-[var(--text-muted)] hover:text-white transition-colors"
             >
-              View All <ArrowRight className="w-4 h-4" />
+              View All <ArrowRight className="w-3 h-3" />
             </Link>
           </motion.div>
 
-          <motion.div
-            initial="initial"
-            whileInView="animate"
-            viewport={{ once: true }}
-            variants={staggerContainer}
-            className="grid md:grid-cols-2 gap-6"
-          >
-            {featuredEntries.map((entry) => {
-              const Icon = categoryIcons[entry.category] || Scroll;
-              return (
-                <motion.div key={entry.id} variants={fadeInUp}>
-                  <Link
-                    href={`/lore/${entry.slug}`}
-                    className="lore-card block p-6 h-full group"
-                  >
-                    <div className="flex items-start gap-4">
-                      <div className="p-3 bg-[var(--weathered-bone)]/10 rounded">
-                        <Icon className="w-6 h-6 text-lantern/70" />
-                      </div>
-                      <div className="flex-1">
-                        <div className="flex items-center gap-2 mb-2">
-                          <span className={`tag tag-${entry.category}`}>
-                            {entry.category}
-                          </span>
-                          {entry.monsterType && (
-                            <span className="tag">{entry.monsterType}</span>
-                          )}
-                        </div>
-                        <h3 className="text-xl font-[var(--font-display)] tracking-wider mb-2 group-hover:text-lantern transition-colors">
-                          {entry.title}
-                        </h3>
-                        <p className="text-[var(--text-secondary)] text-sm line-clamp-2">
-                          {entry.summary}
-                        </p>
-                      </div>
-                    </div>
-                  </Link>
-                </motion.div>
-              );
-            })}
-          </motion.div>
+          <div className="grid md:grid-cols-2 gap-6">
+            {featuredEntries.map((entry, idx) => (
+              <LoreCard key={entry.id} entry={entry} variant="featured" index={idx} />
+            ))}
+          </div>
 
           <div className="mt-8 text-center md:hidden">
-            <Link
-              href="/lore"
-              className="btn inline-flex items-center gap-2"
-            >
+            <Link href="/lore" className="btn">
               View All Lore <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Research Lab CTA */}
-      <section className="py-20">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      {/* Research CTA */}
+      <section className="py-24">
+        <div className="max-w-3xl mx-auto px-6 lg:px-8 text-center">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            <div className="relative inline-block mb-8">
-              <Brain className="w-16 h-16 text-lantern" />
-              <motion.div
-                className="absolute inset-0 blur-xl bg-lantern/30"
-                animate={{ scale: [1, 1.2, 1], opacity: [0.3, 0.5, 0.3] }}
-                transition={{ duration: 3, repeat: Infinity }}
-              />
-            </div>
-            
-            <h2 className="text-3xl md:text-4xl font-[var(--font-display)] tracking-wider mb-6">
-              THE <span className="text-lantern">RESEARCH LAB</span>
+            <h2 className="font-[var(--font-display)] text-2xl md:text-3xl tracking-wider uppercase mb-6">
+              The <span className="text-[var(--red)]">Research Lab</span>
             </h2>
-            
-            <p className="text-lg text-[var(--text-secondary)] max-w-2xl mx-auto mb-8">
-              Our AI-powered research system continuously explores and expands the lore compendium. 
-              Propose new entries, verify existing knowledge, and help uncover the deepest mysteries 
-              of Kingdom Death.
+            <p className="text-[var(--text-secondary)] mb-8 max-w-lg mx-auto">
+              AI-powered lore discovery. Ask questions, explore connections, 
+              and help expand the compendium with new findings.
             </p>
-            
-            <Link
-              href="/research"
-              className="btn btn-primary inline-flex items-center gap-2 text-lg"
-            >
-              <Brain className="w-5 h-5" />
-              Enter the Research Lab
+            <Link href="/research" className="btn btn-primary">
+              Enter Research Lab
+              <ArrowRight className="w-4 h-4" />
             </Link>
           </motion.div>
         </div>
       </section>
 
-      {/* Quote Section */}
-      <section className="py-20 border-t border-[var(--weathered-bone)]/20">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      {/* Quote */}
+      <section className="py-24 border-t border-[var(--border-subtle)]">
+        <div className="max-w-3xl mx-auto px-6 lg:px-8 text-center">
           <motion.blockquote
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 1 }}
-            className="text-2xl md:text-3xl italic text-[var(--text-secondary)] leading-relaxed"
+            className="text-xl md:text-2xl italic text-[var(--text-secondary)] leading-relaxed border-none pl-0"
           >
             &ldquo;In the darkness, there is no history. There is only survival, 
             and the stories we tell to make sense of the void.&rdquo;
@@ -368,8 +233,8 @@ export default function Home() {
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 1, delay: 0.3 }}
-            className="mt-6 text-lantern font-[var(--font-display)] tracking-wider"
+            transition={{ delay: 0.2 }}
+            className="mt-6 text-xs tracking-[0.2em] uppercase text-[var(--text-muted)]"
           >
             — Unknown Survivor
           </motion.p>

@@ -8,7 +8,6 @@ import {
   Loader2, 
   Sparkles,
   BookOpen,
-  Plus,
   FileText,
   CheckCircle,
   XCircle,
@@ -54,10 +53,10 @@ export default function ResearchPage() {
       content: `Welcome to the **Research Lab**. I'm your AI research assistant, specialized in Kingdom Death: Monster lore.
 
 I can help you:
-- 🔍 **Research** existing lore and find connections
-- 📚 **Explain** complex storylines and relationships
-- ✨ **Discover** hidden details and interpretations
-- 📝 **Propose** new lore entries for the compendium
+- **Research** existing lore and find connections
+- **Explain** complex storylines and relationships
+- **Discover** hidden details and interpretations
+- **Propose** new lore entries for the compendium
 
 What mysteries would you like to explore?`,
       timestamp: new Date(),
@@ -261,13 +260,13 @@ What aspect would you like to explore further?`;
     lines.forEach((line, idx) => {
       if (line.startsWith('# ')) {
         elements.push(
-          <h2 key={idx} className="text-xl font-[var(--font-display)] tracking-wider text-lantern mb-4 mt-2">
+          <h2 key={idx} className="text-xl font-[var(--font-display)] tracking-wider text-[var(--red)] mb-4 mt-2">
             {line.replace('# ', '')}
           </h2>
         );
       } else if (line.startsWith('## ')) {
         elements.push(
-          <h3 key={idx} className="text-lg font-[var(--font-display)] tracking-wider text-parchment mb-3 mt-6">
+          <h3 key={idx} className="text-lg font-[var(--font-display)] tracking-wider text-white mb-3 mt-6">
             {line.replace('## ', '')}
           </h3>
         );
@@ -306,29 +305,29 @@ What aspect would you like to explore further?`;
     const parts = text.split(/(\*\*[^*]+\*\*)/g);
     return parts.map((part, idx) => {
       if (part.startsWith('**') && part.endsWith('**')) {
-        return <strong key={idx} className="text-parchment">{part.slice(2, -2)}</strong>;
+        return <strong key={idx} className="text-white">{part.slice(2, -2)}</strong>;
       }
       return part;
     });
   };
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col pt-20">
       {/* Header */}
-      <div className="border-b border-[var(--weathered-bone)]/20 py-6">
+      <div className="border-b border-[var(--border-subtle)] py-6">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-4">
             <div className="relative">
-              <Brain className="w-10 h-10 text-lantern" />
+              <Brain className="w-10 h-10 text-[var(--red)]" />
               <motion.div
-                className="absolute inset-0 blur-md bg-lantern/30"
+                className="absolute inset-0 blur-md bg-[var(--red)]/30"
                 animate={{ scale: [1, 1.2, 1], opacity: [0.3, 0.5, 0.3] }}
                 transition={{ duration: 3, repeat: Infinity }}
               />
             </div>
             <div>
               <h1 className="text-2xl font-[var(--font-display)] tracking-wider">
-                RESEARCH <span className="text-lantern">LAB</span>
+                RESEARCH <span className="text-[var(--red)]">LAB</span>
               </h1>
               <p className="text-sm text-[var(--text-muted)]">
                 AI-powered lore discovery and expansion
@@ -351,7 +350,7 @@ What aspect would you like to explore further?`;
                 className={`mb-6 ${message.role === 'user' ? 'flex justify-end' : ''}`}
               >
                 {message.role === 'user' ? (
-                  <div className="bg-[var(--weathered-bone)]/20 rounded-lg px-6 py-4 max-w-[80%]">
+                  <div className="bg-[var(--black-elevated)] rounded-lg px-6 py-4 max-w-[80%]">
                     <p className="text-[var(--text-primary)]">{message.content}</p>
                     <p className="text-xs text-[var(--text-muted)] mt-2">
                       {message.timestamp.toLocaleTimeString()}
@@ -360,11 +359,11 @@ What aspect would you like to explore further?`;
                 ) : (
                   <div className="lore-card p-6">
                     <div className="flex items-start gap-4">
-                      <div className="p-2 bg-lantern/10 rounded-lg flex-shrink-0">
+                      <div className="p-2 bg-[var(--red)]/10 rounded-lg flex-shrink-0">
                         {message.role === 'system' ? (
-                          <Sparkles className="w-5 h-5 text-lantern" />
+                          <Sparkles className="w-5 h-5 text-[var(--red)]" />
                         ) : (
-                          <Brain className="w-5 h-5 text-lantern" />
+                          <Brain className="w-5 h-5 text-[var(--red)]" />
                         )}
                       </div>
                       <div className="flex-1 min-w-0">
@@ -377,11 +376,11 @@ What aspect would you like to explore further?`;
                           <motion.div
                             initial={{ opacity: 0, height: 0 }}
                             animate={{ opacity: 1, height: 'auto' }}
-                            className="mt-6 p-4 bg-[var(--weathered-bone)]/10 rounded-lg border border-[var(--weathered-bone)]/30"
+                            className="mt-6 p-4 bg-[var(--black-elevated)] rounded-lg border border-[var(--border)]"
                           >
                             <div className="flex items-center gap-2 mb-3">
-                              <FileText className="w-4 h-4 text-lantern" />
-                              <span className="text-sm font-[var(--font-display)] tracking-wider uppercase text-lantern">
+                              <FileText className="w-4 h-4 text-[var(--red)]" />
+                              <span className="text-sm font-[var(--font-display)] tracking-wider uppercase text-[var(--red)]">
                                 Suggested Entry
                               </span>
                               <span className="tag ml-auto">
@@ -433,8 +432,8 @@ What aspect would you like to explore further?`;
               className="lore-card p-6"
             >
               <div className="flex items-center gap-4">
-                <div className="p-2 bg-lantern/10 rounded-lg">
-                  <Loader2 className="w-5 h-5 text-lantern animate-spin" />
+                <div className="p-2 bg-[var(--red)]/10 rounded-lg">
+                  <Loader2 className="w-5 h-5 text-[var(--red)] animate-spin" />
                 </div>
                 <div className="flex items-center gap-2 text-[var(--text-muted)]">
                   <span>Researching the darkness</span>
@@ -470,7 +469,7 @@ What aspect would you like to explore further?`;
                       className="text-left p-4 lore-card group"
                     >
                       <div className="flex items-start gap-3">
-                        <Search className="w-4 h-4 text-[var(--text-muted)] group-hover:text-lantern transition-colors flex-shrink-0 mt-0.5" />
+                        <Search className="w-4 h-4 text-[var(--text-muted)] group-hover:text-[var(--red)] transition-colors flex-shrink-0 mt-0.5" />
                         <span className="text-sm text-[var(--text-secondary)] group-hover:text-[var(--text-primary)] transition-colors">
                           {prompt}
                         </span>
@@ -487,7 +486,7 @@ What aspect would you like to explore further?`;
       </div>
 
       {/* Input Area */}
-      <div className="border-t border-[var(--weathered-bone)]/20 bg-abyss/95 backdrop-blur-sm">
+      <div className="border-t border-[var(--border-subtle)] bg-[var(--black)]/95 backdrop-blur-sm">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <form onSubmit={handleSubmit} className="flex gap-4">
             <div className="flex-1 relative">
@@ -496,13 +495,13 @@ What aspect would you like to explore further?`;
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 placeholder="Ask about Kingdom Death lore, or propose a new entry..."
-                className="w-full px-6 py-4 bg-[var(--dark-stone)] border border-[var(--weathered-bone)]/30 rounded-lg text-[var(--text-primary)] placeholder:text-[var(--text-muted)] focus:border-lantern transition-colors pr-12"
+                className="w-full px-6 py-4 bg-[var(--black-raised)] border border-[var(--border)] rounded-lg text-[var(--text-primary)] placeholder:text-[var(--text-muted)] focus:border-[var(--red)] transition-colors pr-12"
                 disabled={isLoading}
               />
               <button
                 type="button"
                 onClick={() => setShowPrompts(!showPrompts)}
-                className="absolute right-4 top-1/2 -translate-y-1/2 text-[var(--text-muted)] hover:text-lantern transition-colors"
+                className="absolute right-4 top-1/2 -translate-y-1/2 text-[var(--text-muted)] hover:text-[var(--red)] transition-colors"
               >
                 {showPrompts ? <ChevronUp className="w-5 h-5" /> : <ChevronDown className="w-5 h-5" />}
               </button>
@@ -528,4 +527,3 @@ What aspect would you like to explore further?`;
     </div>
   );
 }
-
