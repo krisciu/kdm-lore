@@ -514,12 +514,18 @@ export async function getAgentStatus(): Promise<{
     generating: number;
     pendingReview: number;
   };
+  reviewQueue: {
+    total: number;
+    queued: number;
+    reviewing: number;
+  };
   storageMode: 'kv' | 'file';
 }> {
   const state = await loadState();
   const config = await loadConfig();
   const discoveryQueue = await loadDiscoveryQueue();
   const pendingEntries = await loadPendingEntries();
+  const reviewQueue = await loadReviewQueue();
   
   return {
     state,
@@ -529,6 +535,11 @@ export async function getAgentStatus(): Promise<{
       queued: discoveryQueue.filter(e => e.status === 'queued').length,
       generating: discoveryQueue.filter(e => e.status === 'generating').length,
       pendingReview: pendingEntries.filter(e => e.status === 'pending').length,
+    },
+    reviewQueue: {
+      total: reviewQueue.length,
+      queued: reviewQueue.filter(e => e.status === 'queued').length,
+      reviewing: reviewQueue.filter(e => e.status === 'reviewing').length,
     },
     storageMode: isUsingKV() ? 'kv' : 'file',
   };

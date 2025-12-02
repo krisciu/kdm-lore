@@ -2,78 +2,118 @@
 
 **Source:** https://www.kickstarter.com/projects/poots/kingdom-death-monster-15
 **Total Updates:** 134
-**Scraped:** 2
+**Scraped:** 10 (via RSS feed - most recent)
+**Images Downloaded:** 266 (226 MB)
 **Last Updated:** 2025-12-02
 
-## Summary
+## Scraping Method
 
-The KDM 1.5 Kickstarter campaign has 134 updates spanning from the campaign launch through November 2025. These updates contain extensive lore information about:
+**RSS Feed Discovery:** The Kickstarter RSS feed (`/posts.atom`) contains FULL HTML content and image URLs, enabling rapid batch scraping without browser automation!
 
-- Monster reveals and artwork
-- Expansion content previews
-- Settlement mechanics
-- Story events
-- Production updates with lore context
-- Designer notes from Adam Poots
+## Content Scraped
 
-## Scraped Updates
+### Update #134 - Black Friday 2025 (48 images)
+- **Abyssal Woods Expansion** - Major lore reveal with story content
+- **Honeycomb Weaver & Titan Bee Expansion** - New monsters
+- **Screaming God Expansion** - Elevated to double crest expansion (Node 4 Quarry + Final Node)
+- **Kingdom Death: Simulator** - Video game updates
+- **Showdown Terrain Update** - Cap-based system for hard plastic boards
+- **Campaigns of Death** - Print deadline updates
+- **Phobia Comic Part 2+** - Pawel's fan perspective comics (6 total planned)
+- **Legendary Card Pack 2** - Going to print
+- **Animation Team** - New illustrators/animators for marketing
 
-### Update #134 - Black Friday 2025 (November 27, 2025)
-- BLACK FROGDAY 2025 sale event
-- Abyssal Woods expansion - fairy tale themes including Red Riding Hood
-- Witches and Disciples content
-- Wanderer - Preacher (Dark Treasury exclusive)
-- Philosophies of Death updates (Gatherism delivered)
-- Stampede models revealed
+### Update #133 - Halloween 2025 (65 images)
+- **Screaming God** - Final sizing and tolerances determined
+- **Expansions of Death Painting Contest Winners**
+  - Best in Show: Black Knight by Tyrant's Brush
+  - Black Knight category winners
+  - Dung Beetle Knight category winners
+  - Community showcase
 
-### Update #133 - Halloween 2025 (October 31, 2025)
-- Screaming God expansion production milestone
-- Final sizing specifications
+### Update #132 - September 2025 (11 images)
+- Screaming God production updates
+- Manufacturing partnership details
 
-## Lore Topics Discovered
+### Update #131 - August 2025 GenCon (50 images)
+- GenCon 2025 coverage
+- Revamped Shipping Wave 1 fulfillment
+- Convention reveals and community
 
-### Expansions
-- **Abyssal Woods** - Fairy tale themed expansion with Witches, Disciples, Red Riding Hood elements
-- **Screaming God** - Sonic wail instant death mechanic, currently in production
-- **Philosophies of Death** - 3-pack including Gatherism (delivered) + 2 more pending
+### Update #130 - June 2025 (27 images)
+- REVAMPED SHIPPING WAVE 1 ON BOATS
+- Shipping address confirmation
+- GenCon prep
+- Preorders announcements
 
-### Characters
-- **Wanderer - Preacher** - Dark Treasury exclusive, uses Benevolence and dogma mechanics
-- **Stampede models** - New models revealed
+### Update #129 - May 2025 (13 images)
+- Revamped Shipping Wave 1 Production COMPLETE
+- Fulfillment timeline updates
 
-## URL Discovery Progress
+### Update #128 - April 2025 (11 images)
+- Tariffs & trade war discussions
+- "EMBRACING THE CHAOS" mindset
+- Production adaptations
 
-| Range | Updates | Post IDs Found |
-|-------|---------|----------------|
-| 134-132 | 3 | 3 |
-| 131-125 | 7 | 0 |
-| 124-1 | 124 | 0 |
+### Update #127 - March 2025 (32 images)
+- Remastered Wave 1 - Fulfillment July 2025
+- Screaming God delayed
+- Philosophies of Death Gatherism delivered
+- Production samples
+
+### Update #126 - February 2025 (5 images)
+- Valentine's Day theme
+- Tariff situation updates
+- Community engagement
+
+### Update #125 - January 2025 (4 images)
+- A New Lantern Year
+- Pariah expansion samples
+- Dwindling Core Game supplies warning
+
+## Key Lore Discoveries
+
+### New Expansions Revealed
+- **Abyssal Woods** - Unique campaign start, fairy tale themes
+- **Honeycomb Weaver & Titan Bee** - New monster expansion
+- **Screaming God** - Double crest (NQ4 + Final Node), hoard of screaming antelopes gameboard
+
+### Characters & Content
+- **Phobia Comic Series** - 6 comics planned, fan interpretation of KD world
+- **Legendary Card Pack 2** - Including Dark Impulse 3
+- **Discord Emotes** - 4 survivors from Screaming Nukealope Vignette
+
+### Production Milestones
+- Remastered Wave 1 complete
+- Screaming God in production
+- Animation team expanded
 
 ## File Structure
 
 ```
 kickstarter/
 ├── updates/
-│   ├── update-134.txt
-│   └── update-133.txt
-├── images/         (pending)
-├── discovered-urls.json
+│   ├── update-125.txt through update-134.txt (10 files)
+├── images/
+│   ├── update-125/ through update-134/ (266 images total)
 ├── updates-index.json
 └── kickstarter-summary.md
 ```
 
-## Scraping Notes
-
-- Kickstarter pages require JavaScript rendering
-- Full post content may require scrolling/login
-- Comments contain valuable lore discussion
-- Images need separate extraction pass
-
 ## Next Steps
 
-1. Continue URL discovery (131 remaining)
-2. Extract full post content with browser automation
-3. Download all images from updates
-4. Run OCR on image content
-5. Tag updates by lore category
+1. **Historical Updates (1-124)** - Need alternative scraping method:
+   - Wayback Machine archives
+   - Browser automation for older content
+   - Post ID pattern discovery
 
+2. **OCR Processing** - Run Tesseract on card/rules images
+
+3. **Lore Extraction** - Parse text content for wiki entries
+
+## Technical Notes
+
+- RSS feed only contains ~10 most recent updates
+- Image URLs on `i.kickstarter.com` with signed parameters
+- Full HTML content included (headers, paragraphs, images)
+- Videos referenced via YouTube URLs
