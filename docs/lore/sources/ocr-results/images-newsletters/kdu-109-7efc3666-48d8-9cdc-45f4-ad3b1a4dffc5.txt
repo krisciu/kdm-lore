@@ -1,0 +1,14 @@
+# OCR Result: kdu-109-7efc3666-48d8-9cdc-45f4-ad3b1a4dffc5.jpg
+
+Source: official-site/images/newsletters/kdu-109-7efc3666-48d8-9cdc-45f4-ad3b1a4dffc5.jpg
+Processed: 2025-12-02T18:08:10.850Z
+Tokens: 1258
+
+---
+
+**IVORY DRAGON SHIRT**
+*- Ultimate Boss, Ultimate Shirt -*
+
+[The image shows what appears to be a product promotional image for a shirt design featuring an ornate, symmetrical design with a central bearded figure surrounded by wings, dragons, and various mystical creatures in an ivory/cream color against a black background. This appears to be merchandise rather than a game card, so there is no additional rules text or game mechanics to extract.]
+
+---

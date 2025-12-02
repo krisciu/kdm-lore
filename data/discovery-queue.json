@@ -47,7 +47,8 @@
     "subType": null,
     "brief": "One of the four starting survivors from Kingdom Death: Monster, reimagined as a 10th Anniversary figure showing the ingenuity and grit required to endure the darkness.",
     "sourceFiles": [
-      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt"
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/batch-scraped/black-friday-formal-erza-painters-scale.txt"
     ],
     "images": [],
     "priority": 3,
@@ -460,7 +461,7 @@
     "priority": 4,
     "id": "entity-1764695925960-c9z3co",
     "discoveredAt": "2025-12-02T17:18:45.960Z",
-    "status": "queued"
+    "status": "generating"
   },
   {
     "name": "Screaming Antelope",
@@ -880,6 +881,160 @@
     "priority": 1,
     "id": "entity-1764695925964-p91ash",
     "discoveredAt": "2025-12-02T17:18:45.964Z",
+    "status": "queued"
+  },
+  {
+    "name": "Aya",
+    "type": "character",
+    "subType": null,
+    "brief": "A survivor whose exploits are chronicled in a series of sculptures. Before the Wall represents the start of her journey, armed with deadly weapons suggesting a powerful quarry awaits at the end of her hunt.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764698885190-nn9xho",
+    "discoveredAt": "2025-12-02T18:08:05.190Z",
+    "status": "queued"
+  },
+  {
+    "name": "The Hand",
+    "type": "monster",
+    "subType": "nemesis",
+    "brief": "A nemesis monster from the core game campaign that the Black Knight replaces at node 3.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764698885192-08jyiq",
+    "discoveredAt": "2025-12-02T18:08:05.192Z",
+    "status": "queued"
+  },
+  {
+    "name": "Citadel",
+    "type": "location",
+    "subType": null,
+    "brief": "The Black Knight's domain, a cliffside sanctuary atop an inverted mountain where survivors face the nemesis in its claustrophobic remains.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764698885192-7hd53q",
+    "discoveredAt": "2025-12-02T18:08:05.192Z",
+    "status": "queued"
+  },
+  {
+    "name": "Strange Bell",
+    "type": "item",
+    "subType": null,
+    "brief": "A mysterious bell whose tolling compels the settlement to feel an inescapable call to face the Black Knight.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764698885194-lkda6c",
+    "discoveredAt": "2025-12-02T18:08:05.194Z",
+    "status": "queued"
+  },
+  {
+    "name": "Bullfrogdog Tusked Horror",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A variant of the Frogdog lurking at the farthest edges of the darkness. A powerfully toothy beast that emerges as a new threat when campaigns surpass the mightiest Frogdogs, featuring completely different AI, HL, and resource cards.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764698885195-n0he12",
+    "discoveredAt": "2025-12-02T18:08:05.195Z",
+    "status": "queued"
+  },
+  {
+    "name": "Scout Discovery and Tablet",
+    "type": "item",
+    "subType": null,
+    "brief": "A new gameplay element included with the Frogdog expansion, likely related to the special hunt event where survivors probe murky waters for strange resources.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764698885195-4ni4gs",
+    "discoveredAt": "2025-12-02T18:08:05.195Z",
+    "status": "queued"
+  },
+  {
+    "name": "Scouts",
+    "type": "concept",
+    "subType": null,
+    "brief": "A new system that adds difficulty to the game.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764698885197-m1n949",
+    "discoveredAt": "2025-12-02T18:08:05.197Z",
+    "status": "queued"
+  },
+  {
+    "name": "Philosophy System",
+    "type": "concept",
+    "subType": null,
+    "brief": "A variant strain system allowing survivors new ways to grow and power to chase.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764698885197-zjz0f8",
+    "discoveredAt": "2025-12-02T18:08:05.197Z",
+    "status": "queued"
+  },
+  {
+    "name": "Shadowstalker",
+    "type": "character",
+    "subType": null,
+    "brief": "A named survivor character included as a miniature in the Gambler's Chest.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764698885199-zh46x3",
+    "discoveredAt": "2025-12-02T18:08:05.199Z",
+    "status": "queued"
+  },
+  {
+    "name": "Champion of the Goblin",
+    "type": "character",
+    "subType": null,
+    "brief": "A named survivor character included as a miniature in the Gambler's Chest.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764698885199-6zf2cd",
+    "discoveredAt": "2025-12-02T18:08:05.199Z",
+    "status": "queued"
+  },
+  {
+    "name": "Romantic Leyline Walker",
+    "type": "character",
+    "subType": null,
+    "brief": "A named survivor character included as a miniature in the Gambler's Chest.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764698885199-azkaic",
+    "discoveredAt": "2025-12-02T18:08:05.199Z",
     "status": "queued"
   }
 ]

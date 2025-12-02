@@ -1,0 +1,13 @@
+# OCR Result: kdu-109-9f9e1dd7-0b55-c07a-7e1a-fcfeb5fd8b3c.png
+
+Source: official-site/images/newsletters/kdu-109-9f9e1dd7-0b55-c07a-7e1a-fcfeb5fd8b3c.png
+Processed: 2025-12-02T18:08:27.379Z
+Tokens: 1519
+
+---
+
+[No text found]
+
+This image shows a painted miniature figure from Kingdom Death: Monster displayed on a decorative base with candles, but there is no visible text to extract. The image appears to be a showcase photograph of a completed miniature rather than a game card or rules content.
+
+---
