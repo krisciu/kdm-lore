@@ -1,8 +1,9 @@
 {
   "schedule": {
     "intervalMinutes": 60,
-    "maxEntriesPerRun": 3,
-    "apiDelayMs": 2000
+    "maxEntriesPerRun": 25,
+    "apiDelayMs": 1500,
+    "reviewScanIntervalHours": 24
   },
   "ai": {
     "model": "claude-opus-4-5-20251101",

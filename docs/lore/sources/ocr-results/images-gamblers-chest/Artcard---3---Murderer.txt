@@ -1,0 +1,13 @@
+# OCR Result: Artcard---3---Murderer.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Artcard---3---Murderer.png
+Processed: 2025-12-02T18:10:55.834Z
+Tokens: 1819
+
+---
+
+[No text found]
+
+This appears to be artwork/illustration only, showing a disheveled or injured male figure in post-apocalyptic or fantasy attire against a dark background. While this may be from a Kingdom Death: Monster card, no readable text is visible in this image - it appears to be purely the artistic/visual portion of the card without any visible game text, titles, or mechanics.
+
+---

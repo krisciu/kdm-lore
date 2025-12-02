@@ -1,17 +1,26 @@
 {
-  "status": "running",
-  "lastRun": "2025-12-02T17:19:58.496Z",
-  "nextRun": null,
-  "currentTask": "Generating entry for Flower Knight...",
+  "status": "idle",
+  "lastRun": "2025-12-02T18:09:45.803Z",
+  "nextRun": "2025-12-02T19:09:45.803Z",
+  "currentTask": null,
   "error": null,
   "stats": {
-    "totalRuns": 1,
-    "entitiesDiscovered": 63,
-    "entriesGenerated": 3,
-    "entriesApproved": 4,
+    "totalRuns": 2,
+    "entitiesDiscovered": 116,
+    "entriesGenerated": 6,
+    "entriesApproved": 10,
     "entriesRejected": 0
   },
   "history": [
+    {
+      "id": "run-1764698669393",
+      "startedAt": "2025-12-02T18:04:29.393Z",
+      "completedAt": "2025-12-02T18:09:45.803Z",
+      "status": "success",
+      "discovered": 53,
+      "generated": 3,
+      "errors": []
+    },
     {
       "id": "run-1764695828010",
       "startedAt": "2025-12-02T17:17:08.010Z",

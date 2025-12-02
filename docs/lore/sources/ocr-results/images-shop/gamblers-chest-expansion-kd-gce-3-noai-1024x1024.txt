@@ -1,0 +1,13 @@
+# OCR Result: gamblers-chest-expansion-kd-gce-3-noai-1024x1024.jpg
+
+Source: official-site/images/shop/gamblers-chest-expansion-kd-gce-3-noai-1024x1024.jpg
+Processed: 2025-12-02T18:11:43.207Z
+Tokens: 1193
+
+---
+
+Looking at this Kingdom Death: Monster gambler's chest image, I can see various miniatures and card components, but the text on the cards is not clearly legible due to the image resolution and angle. The cards appear to have decorative borders and some text content, but I cannot make out the specific words, titles, or rules text with sufficient confidence to transcribe them accurately.
+
+[No clearly readable text found - image shows game components but text is not legible at this resolution/angle]
+
+---

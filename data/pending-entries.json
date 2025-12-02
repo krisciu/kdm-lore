@@ -1,1 +1,255 @@
-[]
+[
+  {
+    "entityId": "entity-1764695925960-c9z3co",
+    "entityName": "Flower Knight",
+    "content": "# Flower Knight\n\n> *\"Its ethereal beauty is hard to capture and its swordplay is unmatchable.\"*\n\n**Category:** Monster  \n**Type:** Quarry (Node 2)  \n**Expansion:** Flower Knight Expansion\n\n---\n\n## Overview\n\nThe Flower Knight stands as one of the most paradoxical entities to emerge from the darkness—a being of transcendent beauty wielding death with impossible grace. This enigmatic knight has become the source of many tales whispered around lantern light and the muse of countless pieces of survivor art, its image carved into bone and scratched into stone by those who witnessed its splendor and somehow survived. Yet for all the attempts to immortalize it, the Flower Knight's ethereal beauty remains perpetually beyond capture, as if the darkness itself refuses to let such magnificence be truly remembered.\n\nAs a Node 2 quarry monster, the Flower Knight offers expanding settlements new tools and avenues of growth during a critical period of development. It serves as an alternative to the Screaming Antelope in Kingdom Death: Monster campaigns, presenting survivors with a fundamentally different challenge—and a far more seductive one. Where other quarries threaten with obvious horror, the Flower Knight beckons with promise, its gifts carrying costs that reveal themselves only with time.\n\nThe creature's rewards explore themes of addiction and short-term gain coupled with long-term losses—a dark bargain that mirrors the desperate choices survivors must make in the endless night. Those who partake of what the Flower Knight offers may find immediate power, but such gifts are thorned, and their price is paid in ways that cannot be undone.\n\n## Physical Description\n\nThe Flower Knight possesses an ethereal beauty unlike any other denizen of the darkness. Artists and survivors alike have struggled to capture its appearance, finding that memory of its form fades like morning dreams or shifts like petals in wind. What remains consistent across accounts is its undeniable grace and the terrible elegance of its swordplay—described universally as unmatchable.\n\nThe knight manifests within a Fairy Ring, a circle of strange growth that marks the boundaries of its domain. This terrain suggests a connection to forces of nature twisted into something beyond natural law—beautiful and terrible in equal measure.\n\n## Behavioral Patterns\n\nThe Flower Knight's combat behavior reveals a creature of singular focus and devastating precision. It rewards those who trust in luck, favoring the bold individual over coordinated assault. Survivors who attempt to gang up on the knight find themselves punished for their tactics—the creature seems to disdain such approaches, perhaps viewing them as artless or beneath its notice.\n\nThis behavioral pattern suggests an intelligence and aesthetic sensibility rarely seen in quarry monsters. The Flower Knight does not merely fight; it performs, treating combat as an art form that demands worthy opponents rather than desperate mobs.\n\n## Lore Significance\n\nWithin the broader mythology of Kingdom Death, the Flower Knight represents the dangerous allure of beauty in a world defined by horror. It demonstrates that not all threats announce themselves with gnashing teeth and obvious malevolence—some come bearing gifts, wrapped in splendor, offering exactly what desperate survivors believe they need.\n\nThe themes of addiction woven through its rewards suggest that the Flower Knight's true danger lies not in its blade but in its bounty. Settlements that grow dependent on what the knight provides may find themselves trapped in cycles of need, sacrificing their future for the relief of the present moment.\n\nThe knight belongs to a category of \"Knight\" entities within Kingdom Death, sharing some unknown connection with beings such as the Lion Knight and Dung Beetle Knight. The nature of this relationship remains obscure, but the existence of multiple knight-type entities suggests either a common origin or a pattern that repeats throughout the darkness.\n\n## Connections\n\n- **Lion Knight**: Fellow knight-type entity; nature of relationship unclear but suggests a broader category of knightly beings\n- **Dung Beetle Knight**: Another knight-type monster; potential shared origin or classification\n- **Screaming Antelope**: The Flower Knight replaces this creature as a Node 2 quarry option in campaigns\n- **Fairy Ring**: Terrain associated with the Flower Knight's domain\n\n## Game Content\n\nThe Flower Knight Expansion includes:\n- Flower Knight sprues (monster and survivor gear)\n- 23 Gear cards\n- 30 Flower Knight AI cards\n- 18 Flower Knight Hit Location cards\n- 14 Flower Knight Resource cards\n- 9 Flower Knight Hunt Event cards\n- 1 Special Hunt Event card\n- 1 Terrain card\n- 4 Terrain tiles\n- 4 Fairy Ring sections\n- 3 Disorder cards\n- 1 Fighting Art card\n- 3 Secret Fighting Art cards\n- 3 Tactics cards\n- 1 Innovation card\n\n## Sources\n\n- flower-knight-expansion-1-6 (shop) - Primary source for expansion details and lore description\n- lion-knight-expansion-1-6 (shop) - Reference to knight entity connections\n- campaigns-of-death (shop) - Confirmation of expansion inclusion\n\n---\n\n## Related Entries\n\n- [[Lion Knight]] - Related knight-type entity\n- [[Dung Beetle Knight]] - Related knight-type entity  \n- [[Screaming Antelope]] - Default Node 2 quarry the Flower Knight can replace\n- [[Quarry Monsters]] - Monster classification category",
+    "frontmatter": {
+      "title": "Flower Knight",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Flower Knight Expansion",
+      "sources": "[\"flower-knight-expansion-1-6 (shop)\", \"lion-knight-expansion-1-6 (shop)\", \"campaigns-of-death (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/flower-knight-expansion-crown-and-skull-white2-500x.png",
+          "caption": "Flower Knight - Product image"
+        },
+        {
+          "path": "official-site/images/shop/dung-beetle-knight-expansion-crown-and-skull-white2-500x.png",
+          "caption": "Flower Knight - Product image"
+        },
+        {
+          "path": "official-site/images/shop/lion-knight-expansion-crown-and-skull-white2-500x.png",
+          "caption": "Flower Knight - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/flower-knight-expansion-crown-and-skull-white2-500x.png",
+      "caption": "Flower Knight Expansion product image"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt",
+      "official-site/shop/flower-knight-expansion-1-6.txt",
+      "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "official-site/shop/lion-knight-expansion-1-6.txt",
+      "official-site/shop/nemesis-expansions/lion-knight-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/flower-knight-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/expansion-of-death-vol-1-6.txt",
+      "official-site/shop/smart-scraped/flower-knight-bust.txt",
+      "official-site/shop/smart-scraped/flower-knight-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/flower-knight-expansion-1-6.txt",
+      "official-site/shop/nemesis-expansions/lion-knight-expansion-1-6.txt",
+      "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "official-site/news/2025/kdu-109-august-2025.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "existing-research/locations/abyssal-woods.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/flower-knight-expansion-crown-and-skull-white2-500x.png",
+        "caption": "Flower Knight - Product image"
+      },
+      {
+        "path": "official-site/images/shop/dung-beetle-knight-expansion-crown-and-skull-white2-500x.png",
+        "caption": "Flower Knight - Product image"
+      },
+      {
+        "path": "official-site/images/shop/lion-knight-expansion-crown-and-skull-white2-500x.png",
+        "caption": "Flower Knight - Product image"
+      }
+    ],
+    "citations": [
+      "[476-480]",
+      "[476-480]",
+      "[481-485]",
+      "[486-490]",
+      "[486-490]"
+    ],
+    "connections": [
+      {
+        "name": "Screaming Antelope",
+        "relationship": "Related"
+      },
+      {
+        "name": "Lion Knight",
+        "relationship": "Related"
+      },
+      {
+        "name": "Dung Beetle Knight",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764698922812-x2g8mr",
+    "createdAt": "2025-12-02T18:08:42.812Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764695925960-7mtuen",
+    "entityName": "Screaming Antelope",
+    "content": "# Screaming Antelope\n\n> *\"Devourer\"*\n\n**Category:** Monster  \n**Type:** Quarry (Node 2)  \n**Expansion:** Core Game\n\n---\n\n## Overview\n\nThe Screaming Antelope is one of the primary quarry monsters that survivors must hunt to ensure their settlement's survival. Classified as a Node 2 quarry, it represents a significant step up in danger from the White Lion that most settlements first encounter. Its epithet—\"Devourer\"—hints at the creature's terrible hunger and the threat it poses to any who cross its path.\n\nAs a core game monster, the Screaming Antelope serves as a crucial milestone in a settlement's development. The resources harvested from successful hunts allow survivors to craft the distinctive Screaming Fur armor, a vital defensive upgrade that can mean the difference between life and death in future encounters. The creature occupies a pivotal position in the campaign's progression, representing both a necessary challenge and a gateway to greater power.\n\n## Role in the Settlement\n\nThe Screaming Antelope provides expanding settlements with essential materials and opportunities for growth. Survivors who successfully bring down this beast can harvest components used to create the Screaming Fur armor kit, one of the foundational armor sets that settlements can craft. This armor represents a significant improvement over starting equipment and the more basic Rawhide armor available earlier in a campaign.\n\n## Campaign Significance\n\nWithin the structure of Kingdom Death: Monster campaigns, the Screaming Antelope occupies the Node 2 quarry position—a tier that offers meaningful challenge while providing resources critical for settlement development. This position in the campaign structure means that settlements may choose alternative paths; both the Flower Knight and the Spidicules expansions offer replacement quarries for this node, each bringing their own unique challenges, rewards, and thematic elements.\n\n*[Speculation: The creature's title \"Devourer\" and its screaming nature suggest a monster driven by insatiable hunger, likely featuring gameplay mechanics centered around consumption and terrifying vocalizations.]*\n\n## Connections\n\n- **White Lion** — The preceding Node 1 quarry in standard campaign progression\n- **Flower Knight** — Alternative Node 2 quarry (expansion), described as exploring themes of addiction and short-term gain with long-term loss\n- **Spidicules** — Alternative Node 2 quarry (expansion), featuring hit-and-run tactics and spider swarm mechanics\n- **Phoenix** — Higher tier quarry monster in campaign progression\n- **Screaming Fur Armor** — Armor set crafted from the Antelope's harvested materials\n- **Screaming God** — *[Appears to be an expansion variant, details unconfirmed]*\n- **Screaming Nukealope** — *[Gambler's Chest variant, details unconfirmed]*\n\n## Sources\n\n- kingdom-death-monster-1-6 (shop) — Core game contents and monster listing\n- flower-knight-expansion-1-6 (shop) — Node 2 replacement information\n- spidicules-expansion-1-6 (shop) — Node 2 replacement information\n\n---\n\n## Related Entries\n\n- [[White Lion]]\n- [[Phoenix]]\n- [[Flower Knight]]\n- [[Spidicules]]\n- [[Screaming Fur Armor]]\n- [[Screaming God]]",
+    "frontmatter": {
+      "title": "Screaming Antelope",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Core Game",
+      "sources": "",
+      "images": [
+        {
+          "path": "official-site/images/shop/core-game-antelope-crest-box-sq-1024x1024.png",
+          "caption": "Screaming Antelope - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+          "caption": "Screaming Antelope - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-expansion-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+          "caption": "Screaming Antelope - Product image"
+        },
+        {
+          "path": "official-site/images/shop/screaming-god-expansion-crown-and-skull-white2-500x.png",
+          "caption": "Screaming Antelope - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/screaming-god-expansion-crown-and-skull-white2-500x.png",
+      "caption": "Screaming God - Expansion variant"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt",
+      "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "official-site/shop/batch-scraped/spidicules-expansion-1-6.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/flower-knight-expansion-1-6.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/gorm-expansion-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/quarry-expansions/flower-knight-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/gorm-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/spidicules-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/flower-knight-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/indomitable-dashing-reaper-paleun.txt",
+      "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "official-site/shop/smart-scraped/kds-xell.txt",
+      "official-site/shop/smart-scraped/kingdom-death-monster-1-5.txt",
+      "official-site/shop/smart-scraped/spidicules-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/stampede-glaive-xell.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "official-site/shop/spidicules-expansion-1-6.txt",
+      "official-site/shop/vignettes/vignette-screaming-nukealope.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/quarry-expansions/flower-knight-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/gorm-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/spidicules-expansion-1-6.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "rulebooks/lore-extracted/story-events.txt",
+      "official-site/news/2025/kdu-105-april-2025.txt",
+      "official-site/guides/indomitable-survivors-guide.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "existing-research/rules/02-core-rules-ocr.txt",
+      "existing-research/rules/03-story-events-ocr.txt",
+      "existing-research/rules/05-game-variants-glossary-ocr.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/core-game-antelope-crest-box-sq-1024x1024.png",
+        "caption": "Screaming Antelope - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+        "caption": "Screaming Antelope - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-expansion-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+        "caption": "Screaming Antelope - Product image"
+      },
+      {
+        "path": "official-site/images/shop/screaming-god-expansion-crown-and-skull-white2-500x.png",
+        "caption": "Screaming Antelope - Product image"
+      }
+    ],
+    "citations": [
+      "[491-495]",
+      "[496-500]",
+      "[501-505]",
+      "[496-500]",
+      "[491-495]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Phoenix",
+        "relationship": "Related"
+      },
+      {
+        "name": "Spidicules",
+        "relationship": "Related"
+      },
+      {
+        "name": "Flower Knight",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764698949470-duh0l5",
+    "createdAt": "2025-12-02T18:09:09.470Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764695925960-56dgau",
+    "entityName": "Bullfrogdog",
+    "content": "# Bullfrogdog\n\n> *\"At the farthest edges of the darkness, where even the Frogdog's croaking song grows faint, something larger answers. Tusked. Waiting.\"*\n\n**Category:** Monster\n**Type:** Quarry (Variant)\n**Expansion:** Frogdog Expansion\n\n---\n\n## Overview\n\nThe Bullfrogdog is a fearsome variant of the Frogdog that emerges only when a settlement's hunters have grown strong enough to threaten even the mightiest of its lesser kin. Lurking at the farthest edges of the darkness—those uncharted voids where light has never reached—this tusked horror represents an escalation of the threat that began with the first plaintive croaks heard beyond the lantern halo.\n\nWhere the common Frogdog is described as cagey and revolting, the Bullfrogdog is something altogether more terrible. Survivors who have grown comfortable hunting the stench-belching behemoths they know will find this dental-divergent nightmare a wholly different beast. Its massive tusks transform what was once a skittish, leaping quarry into a charging horror capable of impaling the unwary.\n\nFor settlements that have exhausted what the Frogdog can offer, the Bullfrogdog presents both peril and opportunity—a source of unique resources that cannot be harvested from any other creature in the darkness.\n\n## Physical Description\n\nThe Bullfrogdog shares the incomprehensible bulk of its lesser variant but is distinguished by its grotesque dental mutations. Enormous tusks protrude from its maw, weapons of terrible power that the creature employs with devastating effect when threatened. The sources describe it as \"powerfully toothy,\" suggesting these tusks may be accompanied by other dental aberrations that make the creature's bite far more lethal than the standard Frogdog.\n\nDespite its fearsome armament, the Bullfrogdog initially exhibits skittish behavior—a deceptive timidity that belies the charging horror it becomes once provoked. Survivors must approach with precision, understanding that the beast's transformation from prey to predator can occur in an instant.\n\n*[Speculative: The \"dental-divergent\" nature of the Bullfrogdog may suggest some form of mutation or adaptation occurring in Frogdogs that survive long enough in the deeper darkness, their bodies warping to meet unknown pressures.]*\n\n## Behavioral Patterns\n\nThe Bullfrogdog's AI represents a completely different showdown experience from its common counterpart. While both creatures share the same basic physiology—the stench bubbles, the leaping attacks, the pursuit of bioelectric signatures—the Bullfrogdog's tusked arsenal fundamentally changes how it fights.\n\nThe creature's skittish nature may serve as a survival mechanism, allowing it to assess threats before committing to its devastating charges. Hunters who mistake this initial hesitation for weakness rarely survive to report their error.\n\n## Lore Significance\n\nThe emergence of the Bullfrogdog as settlements progress represents one of Kingdom Death's core themes: the darkness adapts. As survivors grow stronger, so too do the horrors that hunt them. The Bullfrogdog is not merely a larger Frogdog—it is an answer to human persistence, a new threat called forth by the very success of those who would carve survival from the endless night.\n\nThe unique resources harvested from the Bullfrogdog and the Tuskworks location that processes them suggest that these creatures possess materials fundamentally different from their lesser kin—substances suited for the crafting of late-campaign gear and a second set of monster armor. For settlements that began their journey hunting Frogdogs, the Bullfrogdog represents both the culmination of that path and proof that the darkness always has deeper terrors waiting.\n\n## Connections\n\n- **Frogdog**: The base creature from which the Bullfrogdog variant emerges. Settlements must first master hunting the common Frogdog before the tusked horror reveals itself.\n- **Tuskworks**: A settlement location unlocked through Bullfrogdog resources, dedicated to processing the creature's unique dental materials into weapons and armor.\n- **Late Campaign Gear**: The Bullfrogdog provides resources for crafting equipment \"beyond early lantern years,\" including a complete second armor set derived from monster materials.\n\n## Sources\n\n- frogdog-expansion (shop) - Product descriptions and expansion details\n\n---\n\n## Related Entries\n\n- [[Frogdog]] - The base quarry monster and cornerstone of the expansion\n- [[Tuskworks]] - Settlement location for processing Bullfrogdog resources\n- [[Frogdog Expansion]] - The expansion containing both Frogdog and Bullfrogdog content",
+    "frontmatter": {
+      "title": "Bullfrogdog",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Frogdog Expansion",
+      "sources": "[frogdog-expansion (shop)]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "official-site/shop/frogdog-expansion.txt",
+      "official-site/shop/quarry-expansions/frogdog-expansion.txt",
+      "official-site/shop/smart-scraped/frogdog-expansion.txt",
+      "official-site/shop/quarry-expansions/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[506-510]",
+      "[506-510]",
+      "[506-510]",
+      "[506-510]",
+      "[506-510]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764698983800-cl4bi1",
+    "createdAt": "2025-12-02T18:09:43.800Z",
+    "status": "approved"
+  }
+]

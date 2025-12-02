@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T17:19:56.491Z",
-  "nextNumber": 476,
+  "lastUpdated": "2025-12-02T18:09:43.799Z",
+  "nextNumber": 511,
   "citations": [
     {
       "id": "cit-1764695953428",
@@ -120,6 +120,76 @@
       "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
       "topic": "Tyrant",
       "dateAdded": "2025-12-02T17:19:56.491Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698922811",
+      "range": "[476-480]",
+      "source": "flower-knight-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt",
+      "topic": "Flower Knight",
+      "dateAdded": "2025-12-02T18:08:42.811Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698922811",
+      "range": "[481-485]",
+      "source": "campaigns-of-death",
+      "type": "shop",
+      "path": "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "topic": "Flower Knight",
+      "dateAdded": "2025-12-02T18:08:42.811Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698922812",
+      "range": "[486-490]",
+      "source": "lion-knight-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/lion-knight-expansion-1-6.txt",
+      "topic": "Flower Knight",
+      "dateAdded": "2025-12-02T18:08:42.812Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698949469",
+      "range": "[491-495]",
+      "source": "flower-knight-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/flower-knight-expansion-1-6.txt",
+      "topic": "Screaming Antelope",
+      "dateAdded": "2025-12-02T18:09:09.469Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698949469",
+      "range": "[496-500]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Screaming Antelope",
+      "dateAdded": "2025-12-02T18:09:09.469Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698949470",
+      "range": "[501-505]",
+      "source": "spidicules-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/spidicules-expansion-1-6.txt",
+      "topic": "Screaming Antelope",
+      "dateAdded": "2025-12-02T18:09:09.470Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764698983799",
+      "range": "[506-510]",
+      "source": "frogdog-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "topic": "Bullfrogdog",
+      "dateAdded": "2025-12-02T18:09:43.799Z",
       "quality": "official"
     }
   ]

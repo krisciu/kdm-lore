@@ -1,0 +1,15 @@
+# OCR Result: Artcard---4---Father-&-Son.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Artcard---4---Father-&-Son.png
+Processed: 2025-12-02T18:11:02.120Z
+Tokens: 1839
+
+---
+
+Looking at this image, I can see it's an artistic illustration from Kingdom Death: Monster showing what appears to be an armored figure with a child in a dark, atmospheric setting. However, I cannot make out any clear, readable text elements such as card titles, rules text, flavor text, or game statistics in this image.
+
+The image appears to be either purely artistic/illustrative content or the text may be too small, obscured, or low resolution to read clearly.
+
+[No text found]
+
+---

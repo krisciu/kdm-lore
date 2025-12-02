@@ -185,6 +185,7 @@ export const STORAGE_KEYS = {
   AGENT_CONFIG: 'agent-config',
   DISCOVERY_QUEUE: 'discovery-queue',
   PENDING_ENTRIES: 'pending-entries',
+  REVIEW_QUEUE: 'review-queue',
   CITATION_INDEX: 'citation-index',
   SOURCE_INDEX: 'source-index',
   PIPELINE_STATE: 'pipeline-state',

@@ -461,7 +461,7 @@
     "priority": 4,
     "id": "entity-1764695925960-c9z3co",
     "discoveredAt": "2025-12-02T17:18:45.960Z",
-    "status": "generating"
+    "status": "pending_review"
   },
   {
     "name": "Screaming Antelope",
@@ -475,7 +475,7 @@
     "priority": 4,
     "id": "entity-1764695925960-7mtuen",
     "discoveredAt": "2025-12-02T17:18:45.960Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Fairy Ring",
@@ -503,7 +503,7 @@
     "priority": 4,
     "id": "entity-1764695925960-56dgau",
     "discoveredAt": "2025-12-02T17:18:45.960Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Tusked Horror",

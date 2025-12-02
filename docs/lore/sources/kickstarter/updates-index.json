@@ -1,31 +1,208 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-12-02T18:06:00Z",
-  "totalUpdates": 134,
-  "scrapedUpdates": 2,
+  "version": "2.0",
+  "lastUpdated": "2025-12-02T18:10:53.397Z",
+  "source": "RSS Feed",
+  "totalUpdates": 10,
+  "totalImages": 266,
   "updates": [
     {
       "number": 134,
+      "postId": "4550627",
       "title": "Black Friday - 2025",
-      "date": "November 27, 2025",
+      "date": "2025-11-28T00:15:35-05:00",
       "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4550627",
-      "content": "BLACK FROGDAY 2025 sale, Abyssal Woods expansion preview, Philosophies of Death updates",
-      "images": [],
-      "localImages": [],
-      "hasLore": true,
-      "tags": ["shipping", "expansion", "sale", "abyssal-woods", "philosophies"]
+      "imageCount": 48,
+      "videoCount": 3,
+      "headings": [
+        "BLACK FROGDAY 2025",
+        "Abyssal Woods Expansion",
+        "Honeycomb Weaver & Titan Bee Expansion",
+        "Kingdom Death: Simulator",
+        "Screaming God Expansion",
+        "Showdown Terrain Update",
+        "Campaigns of Death",
+        "ZUMIKITO'S PAINTED MONDAY!",
+        "KINGDOM DEATH PHOBIA COMIC PART 2 AND BEYOND!",
+        "MADNESS!!!",
+        "Legendary Card Pack 2!",
+        "GRATITUDE"
+      ]
     },
     {
       "number": 133,
-      "title": "Halloween 2025 - Screaming God Update",
-      "date": "October 31, 2025",
+      "postId": "4528510",
+      "title": "Halloween 2025",
+      "date": "2025-10-31T15:32:32-04:00",
       "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4528510",
-      "content": "Screaming God expansion production update, final sizing determined",
-      "images": [],
-      "localImages": [],
-      "hasLore": true,
-      "tags": ["expansion", "monster", "screaming-god", "production"]
+      "imageCount": 65,
+      "videoCount": 0,
+      "headings": [
+        "Screaming God Update",
+        "Expansions of Death Painting Contest",
+        "Best in Show",
+        "Black Knight",
+        "Dung Beetle Knight",
+        "Dragon King",
+        "Flower Knight",
+        "Frogdog",
+        "Gorm",
+        "Lion God",
+        "Lion Knight",
+        "Lonely Tree",
+        "Manhunter",
+        "Slenderman",
+        "Spidicules",
+        "Sunstalker",
+        "BONUS - Tyrant",
+        "Armor Kit",
+        "Narrative Survivor",
+        "Diorama",
+        "Black Friday - Abyssal Woods Grand Overview",
+        "Honeycomb Weaver Expansion",
+        "Spooky Halloween Releases!",
+        "KDS KICKSTARTER THIS BLACK FRIDAY?!"
+      ]
+    },
+    {
+      "number": 132,
+      "postId": "4498770",
+      "title": "September 2025",
+      "date": "2025-09-30T17:25:45-04:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4498770",
+      "imageCount": 11,
+      "videoCount": 0,
+      "headings": [
+        "Screaming God Update",
+        "Campaigns of Death Delay",
+        "Expansions of Death Painting Contest",
+        "A Message on the Future",
+        "Community Garden"
+      ]
+    },
+    {
+      "number": 131,
+      "postId": "4471289",
+      "title": "August 2025! Return from Gencon, Revamped Shipping Wave 1 Fulfillment!!!!!!!!!!!!!!!!!!",
+      "date": "2025-08-29T14:50:33-04:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4471289",
+      "imageCount": 50,
+      "videoCount": 0,
+      "headings": [
+        "Core Game Restock",
+        "Gencon Webstore Sale",
+        "Gencon 2025",
+        "Dazzling Displays",
+        "A Bounty of Gifts",
+        "Hand to Hand Combat",
+        "Lore with Bra Mithra",
+        "Gencon Painting Contest",
+        "Stories from the Team",
+        "Event Space 2025",
+        "Settlements of Death",
+        "Volunteers of Death 2025",
+        "I LOVE DIS BEE (PREVIEW)!!!!!!!!!!!!",
+        "Revamped Shipping Wave 1 Fulfillment",
+        "Dark Treasury Update",
+        "Community Garden"
+      ]
+    },
+    {
+      "number": 130,
+      "postId": "4423166",
+      "title": "June 2025- REVAMPED SHIPPING WAVE 1 ON BOATS, Shipping Address Confirmation and  Preorders Imminent, Gencon Ahoy!",
+      "date": "2025-06-30T17:56:54-04:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4423166",
+      "imageCount": 27,
+      "videoCount": 0,
+      "headings": [
+        "Revamped Shipping Wave 1 on the Waves!",
+        "Red Witches & Pariah Expansion Preorders Coming Soon!",
+        "Gencon 2025 on the Horizon",
+        "Armor Set Updates",
+        "Ivory Dragon Rescan",
+        "June Webstore Releases",
+        "Kingdom Death Simulator",
+        "Community Garden"
+      ]
+    },
+    {
+      "number": 129,
+      "postId": "4398287",
+      "title": "May 2025- Revamped Shipping Wave 1 Production Complete!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "date": "2025-05-30T16:23:08-04:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4398287",
+      "imageCount": 13,
+      "videoCount": 0,
+      "headings": [
+        "Fulfillment - Revamped Shipping Wave 1",
+        "Core Game Reprint & Preorders",
+        "Gencon 2025",
+        "Kingdom Death: Simulator",
+        "Webstore New Releases ",
+        "TALPAGORIA!",
+        "Community Garden"
+      ]
+    },
+    {
+      "number": 128,
+      "postId": "4374406",
+      "title": "April 2025 Update - Tariffs & EMBRACING THE CHAOS!",
+      "date": "2025-04-30T22:34:58-04:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4374406",
+      "imageCount": 11,
+      "videoCount": 0,
+      "headings": [
+        "Boutique Prices",
+        "Fulfillment",
+        "Community Garden"
+      ]
+    },
+    {
+      "number": 127,
+      "postId": "4327928",
+      "title": "Remastered Wave 1 - Let's get Angry!",
+      "date": "2025-03-31T17:58:57-04:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4327928",
+      "imageCount": 32,
+      "videoCount": 0,
+      "headings": [
+        "Remastered Wave 1",
+        "Rebuilding the Timeline",
+        "Remastered Wave 1 - Fulfillment July / August 2025",
+        "Remastered Wave 2 - Estimated Q4 2025 / Q1 2026",
+        "Remastered Wave 3 - Estimated Q2 2026",
+        "Remastered Wave 4 - Estimated Q4 2026",
+        "Remastered Wave 5 - Estimated Q3 2027",
+        "Community Garden",
+        "New Releases in the Store"
+      ]
+    },
+    {
+      "number": 126,
+      "postId": "4324893",
+      "title": "February 2025- Happy Valentine's Day and Tariffs?!?!?!?!?!?!!!",
+      "date": "2025-03-03T14:34:33-05:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4324893",
+      "imageCount": 5,
+      "videoCount": 0,
+      "headings": [
+        "A Scheduling Intermission",
+        "Community Garden"
+      ]
+    },
+    {
+      "number": 125,
+      "postId": "4303789",
+      "title": "January 2025- A New Lantern Year, Pariah Samples, and Dwindling Core Game Supplies!",
+      "date": "2025-01-31T13:53:23-05:00",
+      "url": "https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/4303789",
+      "imageCount": 4,
+      "videoCount": 0,
+      "headings": [
+        "A New Lantern Year",
+        "Pariah Expansion",
+        "Our Last Core Games in Stock"
+      ]
     }
   ]
 }
-

@@ -1,0 +1,13 @@
+# OCR Result: Artcard---6---Sci-Fi-Aya.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Artcard---6---Sci-Fi-Aya.png
+Processed: 2025-12-02T18:11:14.974Z
+Tokens: 1784
+
+---
+
+[No text found]
+
+This appears to be artwork depicting an anime-style warrior character with red hair wearing armor and holding weapons, but there is no visible game text, card information, rules, or other readable content in the image.
+
+---

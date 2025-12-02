@@ -18,6 +18,7 @@ export interface AgentConfig {
     intervalMinutes: number;
     maxEntriesPerRun: number;
     apiDelayMs: number;
+    reviewScanIntervalHours?: number;
   };
   ai: {
     model: string;
@@ -34,6 +35,7 @@ export interface AgentState {
   status: 'idle' | 'running' | 'paused' | 'error';
   lastRun: string | null;
   nextRun: string | null;
+  lastScan: string | null;
   currentTask: string | null;
   error: string | null;
   stats: {
@@ -42,6 +44,7 @@ export interface AgentState {
     entriesGenerated: number;
     entriesApproved: number;
     entriesRejected: number;
+    entriesReviewed: number;
   };
   history: AgentRunLog[];
 }
@@ -53,7 +56,24 @@ export interface AgentRunLog {
   status: 'success' | 'partial' | 'failed';
   discovered: number;
   generated: number;
+  reviewed: number;
   errors: string[];
+}
+
+export interface ReviewQueueEntry {
+  id: string;
+  filePath: string;
+  entryName: string;
+  category: string;
+  issues: Array<{
+    type: string;
+    severity: 'high' | 'medium' | 'low';
+    description: string;
+  }>;
+  priority: number;
+  score: number;
+  queuedAt: string;
+  status: 'queued' | 'reviewing' | 'pending_approval' | 'completed' | 'skipped';
 }
 
 export interface DiscoveredEntity {
@@ -114,6 +134,7 @@ const DEFAULT_STATE: AgentState = {
   status: 'idle',
   lastRun: null,
   nextRun: null,
+  lastScan: null,
   currentTask: null,
   error: null,
   stats: {
@@ -122,6 +143,7 @@ const DEFAULT_STATE: AgentState = {
     entriesGenerated: 0,
     entriesApproved: 0,
     entriesRejected: 0,
+    entriesReviewed: 0,
   },
   history: [],
 };
@@ -266,6 +288,120 @@ export async function updatePendingEntryStatus(
 }
 
 // =============================================================================
+// REVIEW QUEUE (for existing entry improvements)
+// =============================================================================
+
+export async function loadReviewQueue(): Promise<ReviewQueueEntry[]> {
+  return storage().get<ReviewQueueEntry[]>(STORAGE_KEYS.REVIEW_QUEUE, []);
+}
+
+export async function saveReviewQueue(queue: ReviewQueueEntry[]): Promise<boolean> {
+  return storage().set(STORAGE_KEYS.REVIEW_QUEUE, queue);
+}
+
+export async function addToReviewQueue(
+  entry: Omit<ReviewQueueEntry, 'id' | 'queuedAt' | 'status'>
+): Promise<ReviewQueueEntry> {
+  const queue = await loadReviewQueue();
+  
+  // Check if already in queue
+  const existing = queue.find(e => e.filePath === entry.filePath);
+  if (existing && existing.status === 'queued') {
+    // Update issues and priority
+    existing.issues = entry.issues;
+    existing.priority = entry.priority;
+    existing.score = entry.score;
+    await saveReviewQueue(queue);
+    return existing;
+  }
+  
+  const newEntry: ReviewQueueEntry = {
+    ...entry,
+    id: `review-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+    queuedAt: new Date().toISOString(),
+    status: 'queued',
+  };
+  
+  queue.push(newEntry);
+  await saveReviewQueue(queue);
+  return newEntry;
+}
+
+export async function getNextReviewEntry(): Promise<ReviewQueueEntry | null> {
+  const queue = await loadReviewQueue();
+  const queued = queue
+    .filter(e => e.status === 'queued')
+    .sort((a, b) => b.priority - a.priority);
+  return queued[0] || null;
+}
+
+export async function updateReviewEntryStatus(
+  entryId: string,
+  status: ReviewQueueEntry['status']
+): Promise<ReviewQueueEntry | null> {
+  const queue = await loadReviewQueue();
+  const entry = queue.find(e => e.id === entryId);
+  
+  if (!entry) return null;
+  
+  entry.status = status;
+  await saveReviewQueue(queue);
+  return entry;
+}
+
+export async function getReviewQueueStats(): Promise<{
+  total: number;
+  queued: number;
+  reviewing: number;
+  completed: number;
+  byCategory: Record<string, number>;
+  byIssueType: Record<string, number>;
+}> {
+  const queue = await loadReviewQueue();
+  
+  const byCategory: Record<string, number> = {};
+  const byIssueType: Record<string, number> = {};
+  
+  for (const entry of queue) {
+    byCategory[entry.category] = (byCategory[entry.category] || 0) + 1;
+    for (const issue of entry.issues) {
+      byIssueType[issue.type] = (byIssueType[issue.type] || 0) + 1;
+    }
+  }
+  
+  return {
+    total: queue.length,
+    queued: queue.filter(e => e.status === 'queued').length,
+    reviewing: queue.filter(e => e.status === 'reviewing').length,
+    completed: queue.filter(e => e.status === 'completed').length,
+    byCategory,
+    byIssueType,
+  };
+}
+
+export async function shouldRunScan(): Promise<boolean> {
+  const state = await loadState();
+  const config = await loadConfig();
+  
+  // Never scanned before
+  if (!state.lastScan) {
+    return true;
+  }
+  
+  // Check if enough time has passed since last scan
+  const lastScan = new Date(state.lastScan);
+  const now = new Date();
+  const hoursSinceLastScan = (now.getTime() - lastScan.getTime()) / (1000 * 60 * 60);
+  
+  const scanInterval = config.schedule.reviewScanIntervalHours || 24;
+  return hoursSinceLastScan >= scanInterval;
+}
+
+export async function recordScanComplete(): Promise<void> {
+  await updateState({ lastScan: new Date().toISOString() });
+}
+
+// =============================================================================
 // SCHEDULING
 // =============================================================================
 
@@ -306,6 +442,7 @@ export async function startRun(): Promise<AgentRunLog> {
     status: 'success',
     discovered: 0,
     generated: 0,
+    reviewed: 0,
     errors: [],
   };
   
@@ -330,6 +467,7 @@ export async function completeRun(
   state.stats.totalRuns++;
   state.stats.entitiesDiscovered += runLog.discovered;
   state.stats.entriesGenerated += runLog.generated;
+  state.stats.entriesReviewed += runLog.reviewed;
   state.lastRun = runLog.completedAt;
   state.nextRun = await calculateNextRun();
   state.status = 'idle';

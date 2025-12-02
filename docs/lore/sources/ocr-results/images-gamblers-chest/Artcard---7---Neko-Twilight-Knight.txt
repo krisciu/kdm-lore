@@ -1,0 +1,13 @@
+# OCR Result: Artcard---7---Neko-Twilight-Knight.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Artcard---7---Neko-Twilight-Knight.png
+Processed: 2025-12-02T18:11:20.123Z
+Tokens: 1829
+
+---
+
+[No text found]
+
+This appears to be artwork/illustration of the Twilight Knight character from Kingdom Death: Monster. The image shows a female figure in dark armor with cat-like ears, holding a sword and lantern, with skull decorations and a dark atmospheric background. However, there is no visible game text, rules, statistics, or other readable content in this image - it appears to be purely artistic/illustrative in nature.
+
+---
