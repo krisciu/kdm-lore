@@ -595,6 +595,295 @@
     "confidence": "confirmed",
     "id": "pending-1764700480259-08sdoo",
     "createdAt": "2025-12-02T18:34:40.259Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764698885195-n0he12",
+    "entityName": "Bullfrogdog Tusked Horror",
+    "content": "# Bullfrogdog Tusked Horror\n\n> *\"A new threat emerges in the dark.\"*\n\n**Category:** Monster\n**Type:** Quarry\n**Expansion:** Frogdog Expansion\n\n---\n\n## Overview\n\nThe Bullfrogdog Tusked Horror represents the apex evolution of the Frogdog lineage—a nightmarish escalation lurking at the farthest edges of the darkness, where even the most seasoned survivors dare not tread lightly. Where settlements may grow accustomed to the plaintive croaking songs and putrid assaults of common Frogdogs, the Tusked Horror announces itself as something far more terrible: a powerfully toothy beast whose emergence signals that the darkness has taken notice of a settlement's growing strength.\n\nThis variant quarry appears only when campaigns have surpassed encounters with even the mightiest Frogdogs, serving as a late-campaign threat designed to challenge survivors who have grown comfortable with their earlier prey. The Bullfrogdog is no mere scaled-up version of its lesser kin—it is a wholly different beast, with unique behavioral patterns, vulnerabilities, and rewards that create an entirely distinct showdown experience.\n\n## Physical Description\n\nWhile sharing the incomprehensible behemoth physiology of its Frogdog relatives, the Bullfrogdog Tusked Horror distinguishes itself through its namesake feature: massive tusks that grant it devastating offensive capabilities beyond the standard Frogdog's already formidable threat. The descriptor \"powerfully toothy\" suggests a creature whose maw has evolved into a primary weapon, likely dwarfing the already revolting visage of the common Frogdog.\n\n*[Speculation: Given the Frogdog's established ability to create wobbling bubbles of stench that pursue survivors' bioelectric signatures, the Bullfrogdog likely possesses enhanced or altered versions of these physiological abilities, though specific details remain unconfirmed.]*\n\n## Behavioral Patterns\n\nThe Bullfrogdog operates with completely different AI patterns from standard Frogdogs, suggesting either a more aggressive hunting intelligence or perhaps a more cunning, patient approach befitting a creature that has survived long enough to grow to such terrible proportions. Its dwelling at \"the farthest edges of the darkness\" implies a territorial nature, claiming hunting grounds that even other monsters avoid.\n\n## Lore Significance\n\nThe existence of the Bullfrogdog Tusked Horror speaks to a recurring truth within Kingdom Death's nightmare world: the darkness always has something worse waiting. As settlements prove their worth against lesser threats, greater horrors reveal themselves—almost as if drawn by the bioelectric hum of survivors growing too confident in their mastery.\n\nThe Tusked Horror's emergence as a response to defeating \"the mightiest Frogdogs\" suggests an ecosystem of nightmares where apex variants lurk in reserve, ensuring that no settlement ever truly conquers the darkness. It serves as both a challenge and an opportunity—a terrible gate through which survivors must pass to access entirely new arsenals of gear and armor suited for the later, deadlier stages of their campaign.\n\n## Resources & Rewards\n\nSurvivors brave enough to pursue and fell the Bullfrogdog Tusked Horror gain access to unique resource cards distinct from standard Frogdog harvests. These resources unlock an entirely new arsenal of gear and armor specifically designed for later campaign stages, rewarding settlements that rise to meet this escalated threat.\n\n## Connections\n\n- **Frogdog** — The base creature from which the Bullfrogdog evolved or diverged; shares thematic elements but represents a completely different showdown experience\n- **The Darkness** — The Bullfrogdog lurks at its farthest edges, suggesting a creature adapted to the most remote and dangerous regions\n- **Late-Campaign Quarries** — Serves a similar escalation role as other variant monsters that emerge to challenge established settlements\n\n## Sources\n\n- frogdog-expansion (shop page)\n\n---\n\n## Related Entries\n\n- [[Frogdog]]\n- [[Quarry Monsters]]\n- [[Monster Variants]]\n- [[Frogdog Expansion]]",
+    "frontmatter": {
+      "title": "Bullfrogdog Tusked Horror",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Frogdog Expansion",
+      "sources": "[frogdog-expansion-shop]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "official-site/shop/smart-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[571-575]",
+      "[571-575]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700517195-k0kz2g",
+    "createdAt": "2025-12-02T18:35:17.195Z",
+    "status": "rejected"
+  },
+  {
+    "entityId": "entity-1764700298703-1ht6ps",
+    "entityName": "Gorm",
+    "content": "# Gorm\n\n> *\"Young Gorm roam the darkness devouring anything that moves—and many things that don't.\"*\n\n**Category:** Monster  \n**Type:** Quarry (Node 1)  \n**Expansion:** Gorm Expansion 1.6\n\n---\n\n## Overview\n\nThe Gorm is a primordial creature whose existence is measured not in mere years, but in the vast distances it travels across the endless darkness. These beasts are forces of geological consequence—their enormous appetites and extreme bodily functions literally reshape the landscapes they traverse. Where a Gorm has passed, nothing remains unchanged.\n\nAs a node 1 quarry, the Gorm represents one of the earliest challenges a fledgling settlement may face. It serves as an alternative to the White Lion, providing young survivors with their first sustenance and resources. Yet hunters who pursue this quarry must approach with caution, for the Gorm is notoriously volatile. Its alien anatomy, while dangerous, holds secrets that can unlock powerful tools for those settlements clever enough to harvest and study its remains.\n\nThe Gorm occupies a unique ecological niche in the darkness—a wandering engine of consumption and transformation whose passage marks the land for generations.\n\n## Physical Description & Biology\n\nThe Gorm's biology is defined by extremity. Its appetite is boundless, driving it to consume anything organic—or otherwise—that crosses its path. This constant feeding fuels not only the creature's bulk but also its \"extreme bodily functions,\" processes so powerful they alter terrain and environment in their wake.\n\n*[Speculative based on context: The creature's form suggests a bloated, perhaps amphibious or gastropod-like anatomy, built for both consumption and the long migrations that define its existence.]*\n\nWhat makes the Gorm particularly valuable to survivors is the complexity of its internal anatomy. Unlike simpler quarry, the Gorm's organs, tissues, and secretions can be rendered into sophisticated tools and equipment—rewards that justify the considerable risks of hunting such an unpredictable beast.\n\n## Life Cycle\n\nThe Gorm's life cycle spans hundreds of lantern years and encompasses three distinct phases:\n\n**Youth:** Young Gorm are ravenous wanderers, roaming the darkness in a constant state of consumption. They devour anything that moves, and their hunger extends even to motionless matter. During this phase, they are perpetually on the move, feeding and growing.\n\n**Maturity:** As Gorm age and enter their mating season, they become engines of atmospheric destruction. Older Gorm produce storms of incredible intensity—whether through biological processes, bizarre mating displays, or some other mechanism remains unclear. These storms are legendary for their devastation, suggesting that mature Gorm are best avoided entirely.\n\n**Ancient Age:** Gorm that survive to extreme old age—measured in hundreds of lantern years—undergo a final transformation. They cease their wandering consumption and begin a solitary pilgrimage to the legendary **gormyards**, mythical places where ancient Gorm go to die. This final march is a solemn journey, the last act of creatures that have spent lifetimes reshaping the world through appetite alone.\n\n## Lore Significance\n\nThe Gorm represents one of Kingdom Death's core themes: the relationship between consumption and creation, destruction and sustenance. These creatures are living catastrophes, yet their deaths provide the raw materials for human survival. Settlements that hunt Gorm participate in an ancient cycle—taking from creatures whose entire existence has been defined by taking.\n\nThe existence of the gormyards suggests a deeper order to the darkness, places of significance that even monstrous beings recognize. Whether these graveyards are literal locations, metaphysical destinations, or something stranger entirely remains unknown. Their existence implies that even creatures as alien as the Gorm possess some instinct beyond mere hunger—a drive toward a final destination, a recognition of mortality.\n\nFor survivors, the Gorm offers a brutal bargain: face a volatile, unpredictable beast in exchange for resources that can elevate a settlement beyond mere subsistence.\n\n## Connections\n\n- **White Lion:** Fellow node 1 quarry; the Gorm can replace the White Lion as a settlement's primary early-game hunt\n- **Gormyards:** Legendary locations where ancient Gorm travel to die; their exact nature and location remain mysterious\n- **The Darkness:** The endless void through which Gorm travel their enormous life-cycle journeys\n\n## Sources\n\n- gorm-expansion-1-6 (Kingdom Death Shop)\n- campaigns-of-death (Kingdom Death Shop)\n- expansion-of-death-vol-1-6 (Kingdom Death Shop)\n\n---\n\n## Related Entries\n\n- [White Lion] - Alternative node 1 quarry\n- [The Darkness] - The environment through which Gorm travel\n- [Quarry Monsters] - Category overview\n- [Node 1 Encounters] - Early game hunting options\n\n---",
+    "frontmatter": {
+      "title": "Gorm",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gorm Expansion",
+      "sources": "[\"gorm-expansion-1-6\", \"campaigns-of-death\", \"expansion-of-death-vol-1-6\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/gorm-expansion-crown-and-skull-white2-500x.png",
+          "caption": "Gorm - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/gorm-expansion-crown-and-skull-white2-500x.png",
+      "caption": "Gorm - A volatile quarry whose anatomy unlocks powerful tools for the settlement"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gorm-expansion-1-6.txt",
+      "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "official-site/shop/gorm-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/gorm-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/expansion-of-death-vol-1-6.txt",
+      "official-site/shop/smart-scraped/gorm-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "official-site/shop/quarry-expansions/gorm-expansion-1-6.txt",
+      "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "official-site/guides/indomitable-survivors-guide.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "existing-research/kdm-designer-notes.txt",
+      "existing-research/monsters/monsters-enemies-powers.txt",
+      "existing-research/rules/02-core-rules-ocr.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/gorm-expansion-crown-and-skull-white2-500x.png",
+        "caption": "Gorm - Product image"
+      }
+    ],
+    "citations": [
+      "[576-580]",
+      "[581-585]",
+      "[576-580]",
+      "[576-580]",
+      "[586-590]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700553246-92fd3x",
+    "createdAt": "2025-12-02T18:35:53.246Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764700298704-svmrqs",
+    "entityName": "Spidicules",
+    "content": "# Spidicules\n\n> *\"Vibrating to make itself invisible to the human eye, the Spidicules leaves its forest dwelling and lurks in settlements unnoticed.\"*\n\n**Category:** Monster  \n**Type:** Quarry (Node 2)  \n**Expansion:** Spidicules Expansion 1.6\n\n---\n\n## Overview\n\nThe Spidicules is a nightmare given form—a spider-like abomination that has evolved beyond the need for stealth in shadow. Through an obscene vibration of its entire being, this creature renders itself invisible to human perception, allowing it to walk unseen among the very survivors it hunts. Where other monsters announce their presence with roars or the trembling of stone, the Spidicules simply *is not there*—until it is too late.\n\nA Node 2 quarry monster, the Spidicules represents a pivotal threat to expanding settlements. It fills an ecological niche similar to the Screaming Antelope, offering survivors new tools and avenues of growth through the harvesting of its valuable silk. Yet the price of such resources is paid in terror and blood, for this creature does not merely kill—it *takes*. Survivors vanish from their lantern-light, spirited away to nourish an ever-growing brood of hungry young.\n\nThe horror of the Spidicules lies not only in its predation but in its patience. It lurks, it watches, and when it strikes, entire settlements may not realize they are being harvested until the screaming begins.\n\n## Physical Description\n\nThe Spidicules possesses a form that blasphemes against natural order—multiple legs splayed in configurations that suggest both spider and something far more ancient, tipped with spindly fingers that grasp and clutch with terrible purpose. Its body emanates a greasy miasma, an oily corruption that hangs in the air and marks its passage for those with senses keen enough to detect it.\n\nMost disturbing is the creature's capacity for vibration. Through some unknowable biological mechanism, the Spidicules can oscillate its entire form at frequencies that render it invisible to human eyes. Survivors have reported the sensation of being watched, of feeling breath upon their necks in empty rooms, only to discover themselves alone—or so they believed. This invisibility is not perfect concealment but rather a predator's ultimate ambush tool, allowing the Spidicules to study its prey, to learn their patterns, before selecting its victims.\n\nThe creature's legs serve dual purpose: locomotion and lethality. Hit-and-run tactics define its hunting strategy, darting in to strike before retreating beyond reach. Only by hacking off these limbs can survivors hope to slow its relentless harassment and force a conclusive engagement.\n\n## The Brood\n\nPerhaps more terrifying than the Spidicules itself is what follows in its wake: legions of Spiderlings that respond to their progenitor's phenomenal call. These lesser creatures mass steadily throughout any prolonged encounter, an army of chitinous hunger that grows with every passing moment. The Spidicules need not defeat its prey directly—it need only distract and delay until its children number in the thousands.\n\nThe relationship between parent and offspring follows no sentiment. The Spiderlings are voracious beyond reason, and should the Spidicules fall in battle, its own brood will turn upon the corpse with the same hunger they direct at human flesh. This cannibalistic tendency speaks to the creature's fundamental nature: the Spidicules is not a being but a process, a mechanism for converting life into more of itself, endlessly, ravenously.\n\nSurvivors who hunt this creature must harvest its valuable silk quickly, ending the showdown before they are overwhelmed and devoured by the swarm.\n\n## Hunting Behavior\n\nThe Spidicules does not hunt for sustenance alone. Sources indicate it kidnaps survivors \"for its own delight\" as well as to feed its brood—suggesting a sadistic intelligence behind those vibrating, invisible eyes. It leaves its forest dwelling specifically to lurk in settlements, watching, waiting, selecting.\n\nWhat happens to those taken alive remains mercifully unclear. What is known is that the Spidicules maintains its brood, nourishes it, grows it ever larger. Each survivor dragged into the darkness represents not merely a single death but countless future Spiderlings fed and strengthened.\n\n## Resources and Significance\n\nDespite its horrors, the Spidicules offers expanding settlements crucial resources. Its silk is valuable beyond measure—strong, versatile, and harvestable only from those brave or desperate enough to face the creature and its brood. The Aggregate Silk Gland represents a particularly potent organ, suggesting the creature's silk-production capabilities are centralized and can be claimed by those skilled enough to extract them.\n\n*[Speculative: The existence of \"Poison Partisan\" patterns associated with Spidicules content suggests the creature or its resources may be connected to toxic or venomous properties, though direct confirmation of this relationship is limited.]*\n\n## Lore Significance\n\nThe Spidicules embodies one of Kingdom Death's most primal fears: the predator that cannot be seen, the horror that walks among us undetected. While other monsters are forces of overwhelming violence or cosmic wrongness, the Spidicules is intimate in its terror. It knows your settlement. It has watched you sleep. It has counted your children.\n\nIts role as a Node 2 quarry places it as a mid-tier threat that settlements must overcome to continue growing—yet its unique mechanics of invisibility, hit-and-run tactics, and the ever-present Spiderling swarm make it a fundamentally different challenge than the Screaming Antelope it replaces. Where the Antelope is prey that fights back, the Spidicules is a predator that has merely allowed you to believe you are the hunter.\n\n## Connections\n\n- **Spiderlings** - The brood creatures that swarm at the Spidicules' call, capable of devouring even their parent's corpse\n- **Screaming Antelope** - The Node 2 quarry that Spidicules replaces in campaigns utilizing this expansion\n- **Silk Resources** - Valuable crafting materials harvested from the creature, including the Aggregate Silk Gland\n- **Poison Partisan** - A gear pattern associated with Spidicules content, suggesting connections to toxic applications of its resources\n\n## Sources\n\n- spidicules-expansion-1-6 (shop) - Primary source for creature description and mechanics\n- poison-partisan-ritika (shop) - Associated survivor content\n- indomitable-survivor-poison-partisan-ritika (shop) - Resource and pattern information\n\n---\n\n## Related Entries\n\n- [Screaming Antelope] - Alternative Node 2 quarry\n- [Spiderlings] - Brood creatures\n- [Settlement Locations] - Potential Spidicules-related buildings\n- [Silk Armor] - Crafted equipment from Spidicules resources",
+    "frontmatter": {
+      "title": "Spidicules",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Spidicules Expansion",
+      "sources": "[\"spidicules-expansion-1-6\", \"poison-partisan-ritika\", \"indomitable-survivor-poison-partisan-ritika\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/spidicules-expansion-crown-and-skull-white2-500x.png",
+          "caption": "Spidicules - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/spidicules-expansion-crown-and-skull-white2-500x.png",
+      "caption": "Spidicules - The vibrating horror of the silk forests"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "official-site/shop/batch-scraped/spidicules-expansion-1-6.txt",
+      "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "official-site/shop/indomitable-survivors/poison-partisan-ritika.txt",
+      "official-site/shop/quarry-expansions/spidicules-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/expansion-of-death-vol-1-6.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "official-site/shop/smart-scraped/kds-spidicules-expansion.txt",
+      "official-site/shop/smart-scraped/spidicules-expansion-1-6.txt",
+      "official-site/shop/spidicules-expansion-1-6.txt",
+      "official-site/shop/quarry-expansions/spidicules-expansion-1-6.txt",
+      "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "existing-research/kdm-designer-notes.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/spidicules-expansion-crown-and-skull-white2-500x.png",
+        "caption": "Spidicules - Product image"
+      }
+    ],
+    "citations": [
+      "[591-595]",
+      "[596-600]",
+      "[601-605]",
+      "[606-610]",
+      "[596-600]"
+    ],
+    "connections": [
+      {
+        "name": "Screaming Antelope",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700600615-7meavz",
+    "createdAt": "2025-12-02T18:36:40.615Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764700298706-o2kcjg",
+    "entityName": "Indomitable Survivor",
+    "content": "# Indomitable Survivor\n\n> *\"Some survivors do not merely endure the darkness—they become its conqueror.\"*\n\n**Category:** Concept\n**Type:** Survivor Category / Game Mechanic\n**Expansion:** Multiple (Associated with Core Game and various Monster Expansions)\n\n---\n\n## Overview\n\nIn the brutal crucible of the Kingdom Death world, where most survivors meet gruesome ends in the maw of nightmarish creatures, there exist rare individuals who have done the unthinkable—they have not only faced the monsters that haunt humanity's existence but have emerged utterly victorious. These exceptional warriors are known as **Indomitable Survivors**, named champions whose legends are defined by the specific horrors they have conquered.\n\nEach Indomitable Survivor bears a distinctive title that speaks to their fighting style and identity: Poison Partisan, Roaring Harmonica, Tachyon Nodachi, Tyrant Slayer. These are not mere descriptors but earned names, forged through trials of blood and terror that would shatter lesser souls. They arrive at settlements bearing unique resources harvested from their fallen prey—trophies that contain the concentrated essence of the monsters they have slain.\n\nThe arrival of an Indomitable Survivor represents a turning point for any settlement fortunate enough to receive them. They bring with them not only their combat prowess but also forbidden knowledge encoded in unique crafting patterns, allowing settlements to forge gear that channels the very power of the defeated monsters.\n\n## Known Indomitable Survivors\n\n### Poison Partisan Ritika\nA survivor who has mastered the venomous arts through her triumph over the **Spidicules**—the massive spider-like horror that dwells in silk-draped hunting grounds. Ritika carries the **Aggregate Silk Gland**, an indomitable resource harvested from the creature's innards. Her fighting style incorporates the toxic methodology of her conquered prey. *For best experience, include Spidicules in your campaign.*\n\n### Roaring Harmonica Kale\nA warrior whose victory against the **White Lion** has granted him the **Layered Maxilla**—an indomitable resource formed from the creature's complex jaw structure. His title suggests a fighting style that produces a distinctive sound, perhaps the whistling of his blade or a battle cry that echoes the roar of the beast he conquered.\n\n### Tachyon Nodachi Rubi\nA survivor bearing the **Neutron Seed**, an indomitable resource extracted from the **Phoenix**—that impossible creature of cyclical death and rebirth. The \"Tachyon\" designation suggests her weapon or fighting style operates at speeds that defy normal comprehension, perhaps touched by the Phoenix's reality-warping nature.\n\n### Tyrant Slayer Scarlet\nPerhaps the most fearsome title among them, Scarlet has earned her name by defeating the **Dragon King** itself and claiming the **Serpentine Tailbone** as her indomitable resource. To slay a tyrant is to challenge the apex of monstrous hierarchy. *For best experience, include Dragon King in your campaign.*\n\n## Indomitable Resources\n\nCentral to the Indomitable Survivor concept is the **indomitable resource**—a unique crafting material that can only be obtained through these exceptional individuals. Each resource is tied to a specific monster:\n\n| Resource | Monster Source |\n|----------|----------------|\n| Aggregate Silk Gland | Spidicules |\n| Layered Maxilla | White Lion |\n| Neutron Seed | Phoenix |\n| Serpentine Tailbone | Dragon King |\n\nThese resources enable the crafting of unique **pattern gear**—equipment that cannot be created through any other means, representing the pinnacle of what humanity can forge from monster remains when guided by one who truly understands the creature's nature.\n\n## Lore Significance\n\nThe existence of Indomitable Survivors suggests a hierarchy of achievement within the Kingdom Death world that transcends mere survival. While most settlements struggle through generations simply to persist against the horrors of the darkness, these named individuals represent humanity's potential to not just survive but to *dominate*.\n\nEach Indomitable Survivor's title follows a consistent naming convention: a descriptor of their fighting style or signature weapon, followed by their personal name. This suggests a formalized recognition system, perhaps an acknowledgment by other survivors or settlements of their extraordinary deeds.\n\nThe fact that each survivor is associated with a specific monster implies a deep, almost spiritual connection formed through their conquest. They have studied, fought, and ultimately understood their prey in ways that transform both the hunter and the nature of what can be harvested from the hunted.\n\n## Connections\n\n- **White Lion** - The prey of Roaring Harmonica Kale; source of the Layered Maxilla resource\n- **Spidicules** - The prey of Poison Partisan Ritika; source of the Aggregate Silk Gland resource\n- **Phoenix** - The prey of Tachyon Nodachi Rubi; source of the Neutron Seed resource\n- **Dragon King** - The prey of Tyrant Slayer Scarlet; source of the Serpentine Tailbone resource\n- **Stone Faced Ground / Plain of Faces** - Location keywords associated with Poison Partisan Ritika\n- **Miasma** - Environmental keyword associated with Poison Partisan Ritika\n\n## Sources\n\n- indomitable-survivor-poison-partisan-ritika (shop)\n- indomitable-survivor-roaring-harmonica-kale (shop)\n- indomitable-survivor-tachyon-nodachi-rubi (shop)\n- indomitable-survivor-tyrant-slayer-scarlet (shop)\n- poison-partisan-ritika (shop)\n\n---\n\n## Related Entries\n\n- [[White Lion]]\n- [[Spidicules]]\n- [[Phoenix]]\n- [[Dragon King]]\n- [[Survivors]]\n- [[Settlement]]\n- [[Gear Patterns]]\n\n---",
+    "frontmatter": {
+      "title": "Indomitable Survivor",
+      "category": "concept",
+      "type": "survivor-category",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Multiple (Core Game and Expansions)",
+      "sources": "",
+      "images": [
+        {
+          "path": "official-site/images/shop/wanderer-aeneas-wanderer-arc-survivors-1024x1024.jpg",
+          "caption": "Indomitable Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-candy-wanderer-arc-survivors-1024x1024.jpg",
+          "caption": "Indomitable Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-death-drifter-wanderer-arc-survivors-1024x1024.jpg",
+          "caption": "Indomitable Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-aeneas-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+          "caption": "Indomitable Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-candy-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+          "caption": "Indomitable Survivor - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/wanderer-aeneas-wanderer-arc-survivors-1024x1024.jpg",
+      "caption": "Indomitable Survivor - Product image"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt",
+      "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "official-site/shop/indomitable-survivors/poison-partisan-ritika.txt",
+      "official-site/shop/indomitable-survivors/roaring-harmonica-kale.txt",
+      "official-site/shop/indomitable-survivors/tyrant-slayer-scarlet.txt",
+      "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "official-site/shop/smart-scraped/indomitable-dashing-reaper-paleun.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-fated-dagger-domino.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-roaring-harmonica-kale.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-thumping-timpani-ledla.txt",
+      "official-site/shop/smart-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "official-site/shop/smart-scraped/longclaw-lenore.txt",
+      "official-site/shop/smart-scraped/stampede-glaive-xell.txt",
+      "official-site/news/2025/kdu-104-march-2025.txt",
+      "official-site/news/2025/kdu-105-april-2025.txt",
+      "official-site/news/2025/kdu-106-may-2025.txt",
+      "official-site/news/2025/kdu-107-june-2025.txt",
+      "official-site/news/2025/kdu-108-july-2025.txt",
+      "official-site/news/2025/kdu-109-august-2025.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/wanderer-aeneas-wanderer-arc-survivors-1024x1024.jpg",
+        "caption": "Indomitable Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-candy-wanderer-arc-survivors-1024x1024.jpg",
+        "caption": "Indomitable Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-death-drifter-wanderer-arc-survivors-1024x1024.jpg",
+        "caption": "Indomitable Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-aeneas-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+        "caption": "Indomitable Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-candy-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+        "caption": "Indomitable Survivor - Product image"
+      }
+    ],
+    "citations": [
+      "[611-615]",
+      "[616-620]",
+      "[621-625]",
+      "[626-630]",
+      "[631-635]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Phoenix",
+        "relationship": "Related"
+      },
+      {
+        "name": "Dragon King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Spidicules",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700638360-mg3d1i",
+    "createdAt": "2025-12-02T18:37:18.360Z",
     "status": "pending"
   }
 ]

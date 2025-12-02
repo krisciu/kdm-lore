@@ -11,7 +11,7 @@
     "priority": 3,
     "id": "entity-1764695925955-fd5dpx",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "queued"
+    "status": "generating"
   },
   {
     "name": "Zachary",
@@ -25,7 +25,7 @@
     "priority": 3,
     "id": "entity-1764695925955-emaiib",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "queued"
+    "status": "generating"
   },
   {
     "name": "Lucy",
@@ -952,7 +952,7 @@
     "priority": 4,
     "id": "entity-1764698885195-n0he12",
     "discoveredAt": "2025-12-02T18:08:05.195Z",
-    "status": "generating"
+    "status": "pending_review"
   },
   {
     "name": "Scout Discovery and Tablet",
@@ -1246,7 +1246,7 @@
     "priority": 4,
     "id": "entity-1764700298703-1ht6ps",
     "discoveredAt": "2025-12-02T18:31:38.703Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Gormyards",
@@ -1302,7 +1302,7 @@
     "priority": 4,
     "id": "entity-1764700298704-svmrqs",
     "discoveredAt": "2025-12-02T18:31:38.704Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Aggregate Silk Gland",
@@ -1347,7 +1347,7 @@
     "priority": 4,
     "id": "entity-1764700298706-o2kcjg",
     "discoveredAt": "2025-12-02T18:31:38.706Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Kale",
@@ -1459,6 +1459,62 @@
     "priority": 1,
     "id": "entity-1764700298708-moi1wg",
     "discoveredAt": "2025-12-02T18:31:38.708Z",
+    "status": "queued"
+  },
+  {
+    "name": "Seed Pattern",
+    "type": "concept",
+    "subType": null,
+    "brief": "A spark of crafting inspiration that accompanies insight gleaned about the world. When survivors reach their insights, they draw a Pattern which describes what to use and how to craft a brand new piece of gear.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700637443-nu3ao5",
+    "discoveredAt": "2025-12-02T18:37:17.443Z",
+    "status": "queued"
+  },
+  {
+    "name": "Constellations",
+    "type": "concept",
+    "subType": null,
+    "brief": "A system unique to the People of the Stars campaign, represented by 8 Constellation cards that provide new gameplay elements for settlements raised by the Tyrant.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700637451-2fjfvc",
+    "discoveredAt": "2025-12-02T18:37:17.451Z",
+    "status": "queued"
+  },
+  {
+    "name": "Lantern Years",
+    "type": "concept",
+    "subType": null,
+    "brief": "A unit of time measurement in the Kingdom Death world, used to measure the lifespan of creatures like the Gorm which can live for hundreds of lantern years.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gorm-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700637461-2kwrjj",
+    "discoveredAt": "2025-12-02T18:37:17.461Z",
+    "status": "queued"
+  },
+  {
+    "name": "Scarlet",
+    "type": "character",
+    "subType": null,
+    "brief": "A survivor known as the Tyrant Slayer who battled a monster by gripping its reticulated horns as they rocketed into darkness, ultimately releasing her grip and falling toward boiling ground with weapon outstretched in vain hope.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764700637465-nr2r82",
+    "discoveredAt": "2025-12-02T18:37:17.465Z",
     "status": "queued"
   }
 ]

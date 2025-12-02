@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T18:34:40.259Z",
-  "nextNumber": 571,
+  "lastUpdated": "2025-12-02T18:37:18.359Z",
+  "nextNumber": 636,
   "citations": [
     {
       "id": "cit-1764695953428",
@@ -310,6 +310,136 @@
       "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
       "topic": "The Hand",
       "dateAdded": "2025-12-02T18:34:40.259Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700517194",
+      "range": "[571-575]",
+      "source": "frogdog-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "topic": "Bullfrogdog Tusked Horror",
+      "dateAdded": "2025-12-02T18:35:17.194Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700553243",
+      "range": "[576-580]",
+      "source": "gorm-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gorm-expansion-1-6.txt",
+      "topic": "Gorm",
+      "dateAdded": "2025-12-02T18:35:53.243Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700553245",
+      "range": "[581-585]",
+      "source": "campaigns-of-death",
+      "type": "shop",
+      "path": "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "topic": "Gorm",
+      "dateAdded": "2025-12-02T18:35:53.245Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700553245",
+      "range": "[586-590]",
+      "source": "expansion-of-death-vol-1-6",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/expansion-of-death-vol-1-6.txt",
+      "topic": "Gorm",
+      "dateAdded": "2025-12-02T18:35:53.245Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700600612",
+      "range": "[591-595]",
+      "source": "indomitable-survivor-poison-partisan-ritika",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "topic": "Spidicules",
+      "dateAdded": "2025-12-02T18:36:40.612Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700600613",
+      "range": "[596-600]",
+      "source": "spidicules-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/spidicules-expansion-1-6.txt",
+      "topic": "Spidicules",
+      "dateAdded": "2025-12-02T18:36:40.613Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700600614",
+      "range": "[601-605]",
+      "source": "campaigns-of-death",
+      "type": "shop",
+      "path": "official-site/shop/gameplay-expansions/campaigns-of-death.txt",
+      "topic": "Spidicules",
+      "dateAdded": "2025-12-02T18:36:40.614Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700600614",
+      "range": "[606-610]",
+      "source": "poison-partisan-ritika",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/poison-partisan-ritika.txt",
+      "topic": "Spidicules",
+      "dateAdded": "2025-12-02T18:36:40.614Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700638359",
+      "range": "[611-615]",
+      "source": "indomitable-survivor-poison-partisan-ritika",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "topic": "Indomitable Survivor",
+      "dateAdded": "2025-12-02T18:37:18.359Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700638359",
+      "range": "[616-620]",
+      "source": "indomitable-survivor-roaring-harmonica-kale",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt",
+      "topic": "Indomitable Survivor",
+      "dateAdded": "2025-12-02T18:37:18.359Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700638359",
+      "range": "[621-625]",
+      "source": "indomitable-survivor-tachyon-nodachi-rubi",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "topic": "Indomitable Survivor",
+      "dateAdded": "2025-12-02T18:37:18.359Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700638359",
+      "range": "[626-630]",
+      "source": "indomitable-survivor-tyrant-slayer-scarlet",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "topic": "Indomitable Survivor",
+      "dateAdded": "2025-12-02T18:37:18.359Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700638359",
+      "range": "[631-635]",
+      "source": "poison-partisan-ritika",
+      "type": "shop",
+      "path": "official-site/shop/indomitable-survivors/poison-partisan-ritika.txt",
+      "topic": "Indomitable Survivor",
+      "dateAdded": "2025-12-02T18:37:18.359Z",
       "quality": "official"
     }
   ]

@@ -3,14 +3,14 @@
   "lastRun": "2025-12-02T18:09:45.803Z",
   "nextRun": "2025-12-02T19:09:45.803Z",
   "lastScan": "2025-12-02T18:29:20.043Z",
-  "currentTask": "Generating entry for Bullfrogdog Tusked Horror... (7/25)",
+  "currentTask": "Generating entry for Zachary... (11/25)",
   "error": null,
   "stats": {
     "totalRuns": 2,
     "entitiesDiscovered": 116,
     "entriesGenerated": 6,
-    "entriesApproved": 15,
-    "entriesRejected": 1
+    "entriesApproved": 17,
+    "entriesRejected": 3
   },
   "history": [
     {
