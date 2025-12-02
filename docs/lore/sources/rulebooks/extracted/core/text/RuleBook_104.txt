@@ -1,0 +1,65 @@
+                                                                                                             - Rules -
+
+
+      80 | Lovelorn Rock                                                         1d10     Straggler                                                         1d10    Event revealer - investigate
+                                                                                 2 - 9                                                                      10 +
+      The survivors pass a ring of stones with an unassuming                              You fall but manage to interpose something between                        As the survivors draw near, they discover that this 
+                                                                                          the grass and your bare skin. Either archive 1 gear of                    flesh monolith is actually an enormous pile of sur-
+      boulder at the center. Each survivor rolls 1d10. The low-
+                                                                                          your choice from your gear grid to protect yourself,                      vivors' corpses, many with badly broken limbs. The 
+      est scoring survivor (randomize in case of ties) becomes                            or treat this result as if you rolled a 1.                                pile is covered in chunks of strange, sweet-smelling 
+      a straggler.                                                                                                                                                  viscera.
+                                                                                 10 +
+            The straggler hefts the boulder (it’s heavy!) and                             You stop your fall before it's too late.                                  If the settlement has Graves, you ascend the heap and 
+      promises to carry it everywhere, forever in love. They                                                                                                        find 3 barely living survivors, their bodies devoid of 
+      must always leave one space in their gear grid empty, as                                                                                                      nourishment and their eyes too sensitive for lantern 
+      it contains their beloved rock. Record this on your survivor                                                                                                  light. If you return to the settlement, +3 population. 
+      sheet. The rock can be lost or archived like other gear; if it                                                                                                These new survivors cannot depart for 2 lantern 
+      is lost, the survivor mourns their beloved and reclaims the                                                                                                   years as they need time to recover (note this on the 
+      space in their gear grid.                                                                                                                                     timeline).
+                                                                                                                                                                    Otherwise, all you manage to harvest from the pile of 
+                                                                                                                                                                    emaciated corpses is 2 Organ basic resources. Their 
+      81 | Field of Arms                                                                                                                                            skin is too soft and bones too brittle to be of any use.
+
+      The survivors carefully tread along the back of a massive, 
+      sleeping monster. Instead of fur, it has elongated arms,                                                                                            84 | Scribe’s Book
+      several of them twitching to whatever dream the great 
+      beast is in the midst of. The survivors don’t disturb the                                                                                           A huge, ornately bound book lays open before the survi-
+      monster’s deep sleep and cross without issue.                             83 | Flesh Monolith                                                       vors. If the settlement has Pictographs, any survivor with 
+            If any survivor has a sickle, they gingerly remove                                                                                            3+ courage may write their name in the book. Insane sur-
+      some tough skin from one of the arms and gain 1 Hide                      The survivors approach a 5-sided monolith made of flesh                   vivors with 3+ courage must write.
+      basic resource.                                                           that stretches into the darkness overhead. Limbs and fac-                       Each survivor who writes their name in the book rolls 
+                                                                                es both human and bizarre protrude from all sides. The                    1d10 and adds their understanding. If no one writes, roll 
+      82 | Consuming Grass                                                      event revealer gains +1 courage and investigates.                         again on the hunt event table before moving on the hunt 
+                                                                                                                                                          board.
+      Vibrant green grass grows in patches ahead of the survi-                   1d10     Event revealer - investigate
+                                                                                                                                                            1d10    Any survivor with 3+ courage
+      vors. Closer inspection of the delicate leaves reveals they                1        The monolith's limbs spring to life, grabbing hold 
+      are as sharp as any blade. Each survivor rolls 1d10. The                            before you can react. They join your body parts to                1 - 4   As you finish writing your name, you know that you 
+      lowest scoring survivor (or survivors, in case of ties) be-                         its own with maddening efficiency as you are ripped                       did something terribly wrong. You vanish from history. 
+      comes a straggler. As the survivors carefully pick their way                        apart in a shower of gore. Dead. The horrible sight                       Dead. Archive your gear.
+      past the verdant hazards, the straggler stumbles into the 
+                                                                                          causes all other survivors to suffer 3 brain event dam-           5 - 8   Nothing happens.
+      brush. They roll 1d10.                                                              age and they all gain Post Traumatic Stress disorder.
+            If any survivor has a whip, a hasty tether is made.                           If the settlement has Survival of the Fittest, you fight          9 - 10  As you write your name, you feel restored. Heal all 
+      Add +4 to your roll.                                                                the monolith! The horrible edifice tears your arm off,                    injury levels and lost armor points. Gain +2 survival.
+                                                                                          but you bite one of its appendages in return, severing 
+       1d10    Straggler                                                                  it! The monolith retreats into the ground as you roar in          11-14   You feel assured that as long as your name is in the 
+                                                                                                                                                                    book, nothing bad can happen to you. Gain two of 
+       1       You land in the grass patch. As you climb to your                          triumph. Suffer the dismembered arm severe injury 
+                                                                                          and gain +1 permanent strength. All other survivors                       the following: +2 courage, +2 understanding, or +2 
+               feet, you realize it's too late. The parts of your body                                                                                              survival.
+               that touched the ground have sprouted with sharp                           stand in awe and gain +3 insanity and +1 courage.
+               blades of grass. Any attempt to remove them only                  2 - 4    Hands and tentacles grasp at you. Spend 1 survival to             15+     The book proves the undeniable mark you leave on 
+               spreads them further over your body. During the                            wriggle away or treat this result as if you rolled a 1.                   the world. Gain +1 survival, +1 understanding, +1 cour-
+               showdown, you are never a threat (ignore any effect                                                                                                  age, +1 permanent speed, and +1 permanent strength.
+               that would make you a threat, even the White Lion's               5 - 9    All survivors are driven back with horror, They all 
+               Sniff). At the end of the showdown, your body blos-                        suffer quarry's monster level brain event damage.
+               soms into a whorl of immaculate green grass. Dead.                                                                                         85 | Test of Courage
+                                                                                                                                                          Lava flows from the eyes of a huge, grimacing stone face. 
+                                                                                                                                                          Its gritted teeth hold a worn sword. If there are any survi-
+                                                                                                                                                          vors with 6+ courage, choose one to brave the lava. They 
+                                                                                                                                                          gain the Adventure Sword rare gear. If no one can test 
+
+
+102

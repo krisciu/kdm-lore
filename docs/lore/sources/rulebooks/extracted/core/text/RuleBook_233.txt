@@ -1,0 +1,71 @@
+                                                                                                                                                                                                                                          GLOSSARY
+
+vivor. The attack attributes for First & Tooth are listed on the gear     Wound Stack to the bottom of the AI deck without looking at them.         ster. When survivors determine what type and level of monster to 
+grid. Survivors may gain levels of Fist & Tooth weapon proficiency                                                                                  hunt. 
+with this weapon.                                                         Healing (Survivor): When survivors heal, erase all filled injury lev-
+                                                                          els and restore all lost armor points.                                    Ignore a Hit: Reduce the number of hits by 1. This happens before 
+Flammable: A gear keyword. Fire can destroy this gear.                                                                                              hit locations are determined. 
+                                                                          Heavy (Gear): A gear keyword. This gear has substantial weight.
+Flow: Flows are hesitations between monster actions. They give                                                                                      Impairments: Permanent changes or injuries suffered by a survi-
+the survivors an opportunity to use survival actions. They are rep-       Heavy Injury Level: A heavy lined injury level box. When a survi-         vor and recorded on the survivor record sheet. These often result 
+resented by a bar with an arrow.                                          vor's heavy injury level is filled, they are knocked down. Once it        from the severe injury table.
+                                                                          is filled, this injury level cannot be suffered again this showdown 
+Forward: The direction the miniature is facing.                           unless it is healed.                                                      Impassable:   A terrain special rule. A survivor cannot voluntarily 
+                                                                                                                                                    move into or through any spaces this terrain occupies. Impassable 
+Fragile: A gear keyword. This gear is easily broken.                      Herb: A gear keyword. An item primarily made of herbs.                    terrain stops all movement, including knockback. If a survivor is 
+Frail: A gear special rule. Frail weapons are destroyed if a survivor     Hide (Resource): A common resource keyword.                               knocked back into a space occupied by impassable terrain, they 
+attempts to wound a Super-dense location with them. Archive the                                                                                     collide with the terrain and their movement ends just before the 
+weapon at the end of the attack.                                          Hit (Monster): A hit is the result of an attack roll that meets or ex-    terrain.
+                                                                          ceeds the accuracy for an attack using an attack profile. Hits which 
+Frenzy: A brain trauma result. A survivor who suffers this is Fren-       are dodged, blocked, or ignored are misses. Damage outside of an          Impervious:   A type of monster hit location. Impervious hit loca-
+zied until the end of the Showdown Phase. Gain +1 strength token,         attack profile is not considered to be from a hit.                        tions cannot be wounded, even with a Lantern 10 wound roll. 
++1 speed token, and 1d5 insanity. Ignore the "slow" special rule on                                                                                 Wound attempts will never remove AI cards. However, critical ef-
+melee weapons. A frenzied survivor may not spend survival or use          Hit (Survivors):  A hit is the result of an attack roll that meets or     fects may still occur.
+                                                                          exceeds the accuracy for an attack using a weapon. 
+fighting arts, weapon specialization, or weapon mastery. A survivor                                                                                 In Play: All cards are considered in play after they have been drawn 
+may be Frenzied multiple times.                                           Hit Location (Monster): Each monster has a unique hit location            and until they resolve. Most cards are discarded after resolving. 
+Full Move: A game term that describes a monster's or survivor's           deck composed of hit location cards. There are 5 types of hit loca-       Others, such as Moods, remain in play indefinitely or until a con-
+maximum available movement, taking into account all movement              tion card: First Strike, Impervious, Super-dense, Trap, and Normal.       dition is satisfied. 
+                                                                          Any hit location that has no listed type is Normal. 
+modifier tokens.                                                                                                                                    In Range (Monster):  A survivor is in a monster's range if the num-
+Fur (Gear): A gear keyword. This gear is substantively crafted of         Hit Location (Survivors): Hit locations are areas of the survivors'       ber of spaces between them is less than or equal to its current 
+thick fur.                                                                body that can wear armor and suffer damage. The hit locations             movement (including modifiers). If "in range" is followed by a num-
+                                                                          are: Head, Arms, Body, Waist, and Legs. Hit locations may gain ar-        ber, such as range (8), that number replaces the monster's move-
+Gear: Objects that survivors may carry and wear, represented by           mor points from armor. Without armor, hit locations have 0 armor          ment when calculating to see if a survivor is in range.
+gear cards. Survivors may only use the gear in their individual gear      points. 
+grids. Except for gear with the weapon keyword, no survivor may                                                                                     Injury Level: Indicates damage to a hit location. Recorded on the 
+have more than one copy of a gear card in their grid.                     Hit Location Dice: Used to determine the survivor hit location hit        survivor record sheet. Most hit locations feature two levels, light 
+                                                                          by an attack.                                                             and heavy, except for the Head (which only has a heavy injury lev-
+Gear Grid: A mat with space for 9 gear cards. Gear cards can be                                                                                     el).
+arranged in any configuration, but must remain right-side up. They        Hunt Board: The Hunt Board is used during the Hunt Phase to track 
+cannot be rotated. Gear in gear grids can only be rearranged during       a quarry monster.                                                         Innovation: A type of advancement for a settlement, gained at the 
+                                                                                                                                                    Lantern Hoard. Innovations alter the settlement and the survivors' 
+the Settlement Phase.                                                     Hunt Board Diagram: Part of a monster's showdown story event. It 
+                                                                                                                                                    capabilities. Record new innovations on your settlement record 
+                                                                          indicates how to set up the hunt board for that monster.
+Gear Keyword:   Located directly under the name of a gear card,.                                                                                    sheet.
+They describe information about gear, such as weapon type, ma-            Hunt Event:  A hunt event describes an encounter the survivors 
+                                                                                                                                                    Innovation Deck:   A settlement's innovation deck is a persistent 
+terials, use, or limiting factors. Keywords are referenced by other       face on their journey. They can be disastrous, bizarre, or even ben-
+                                                                                                                                                    deck that grows as the settlement innovates.
+cards and events.                                                         eficial. These appear on basic hunt event cards and monster hunt 
+Gear Special Rule: Located on the bottom portion of a gear card.          event cards.                                                              Insane: A survivor with 3+ insanity.
+These list gear abilities, bonuses and requirements.                      Hunt Event Cards (Basic): All basic hunt event cards are identical.       Insanity: Protects a survivor from brain damage.
+                                                                          They direct the event revealer to roll on the hunt event table.
+Grand: Gear with this keyword is a grand weapon. Survivors may                                                                                      Instinct: The action the monster undertakes if it cannot find a tar-
+gain levels of grand weapon proficiency with this weapon.                 Hunt Event Cards (Monster):    Monster hunt event cards are only          get to attack. Each monster has a unique instinct described on its 
+Graze:  The Screaming Antelope's instinct. Described on the               encountered when hunting a particular monster. They describe pit-         showdown story event.
+Screaming Antelope's showdown story event.                                falls and wonders specific to this monster. Each huntable monster 
+                                                                          has a unique set of hunt event cards.                                     Instrument: A gear keyword. This gear can be used to play music.
+Guard: The King's Man's instinct. Described on the King's Man's                                                                                     Intimidate Actions: Intimidate actions cause brain damage. Intimi-
+showdown story event.                                                     Hunt Experience (XP): Survivors gain Hunt Experience during the 
+                                                                          Aftermath of a victorious showdown. When a survivor gains Hunt            date actions are not attacks or hits (survivors cannot spend survival 
+Head: A survivor hit location. Damage to the head beyond the              XP, fill in the next unfilled Hunt XP box on their survivor record        to dodge Intimidate actions). Monsters don't need to be adjacent to 
+heavy injury box will prompt a roll on the Head section of the Se-        sheet. Some hunt experience levels are milestones (indicated by           their targets to intimidate. 
+vere Injury table.                                                        a heavy-lined box) that trigger the Age story event. The number of        Iron Will: An ability. You cannot be knocked down. Reduce all 
+                                                                          milestones filled indicates which Age rules apply. When the final         knockback you suffer to knockback 1.
+Head Hunter: An attack that always hits a survivor's head hit loca-       hunt experience box is filled, the survivor is too old to hunt, and 
+tion. Do not roll hit location dice for this attack.                      must retire.                                                              Irreplaceable: A gear special rule. If a survivor dies, archive all irre-
+                                                                                                                                                    placeable gear in their gear grids.
+Heal X: When a monster performs heal X, return X AI cards from the        Hunt Phase: The part of each session spent locating a quarry mon-
+                                                                                                                                                                                    Kingdom Death: Monster Core Game  231

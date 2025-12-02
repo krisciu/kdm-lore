@@ -1,0 +1,46 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+sumes its action, and it finally moves and attacks. The End of the Round                                  termath occurs.
+monster moves 6 spaces and falls short of Allister. It                                                        Remove all tokens from all survivors. Keep any 
+cannot attack him and its turn ends.                 The round ends when the survivors’ turn is complete. permanent injuries. If the survivor must skip the next 
+                                                     Stop any effects or rules that persist until the end of hunt to recover from their injuries, check the corre-
+During Survivor Attacks                              the round.                                           sponding box on the survivor record sheet.
+An attacking survivor cannot perform survival actions                                                         Consult the monster’s story event to determine 
+(including dodge). However, during a fellow survivor’s Survivor Death                                     what happens next. If the survivors perished, follow 
+attack, there are two specific opportunities for other A survivor can die during the showdown in a variety the rules for Defeat. If they prevailed, consult the Vic-
+survivors to interrupt and perform survival actions: of ways. Regardless of how they met their end, re-   tory rules.
+                                                     move their miniature from the showdown board when 
+1. After the attacker rolls to wound, but before a mon- a survivor dies. They can no longer participate in the Defeat
+ster resolves its reaction. If a hit location does not fight.                                             When the survivors are defeated by a monster, the 
+have a reaction, there is no opportunity for survivors   When a survivor dies, their gear is returned to  Aftermath of the showdown is completed by following 
+to act.                                              the settlement storage (except any gear with the ir- the outcome listed on that monster’s story event.
+                                                     replaceable rule). If all the survivors die during the 
+2. When the attacker causes a critical wound, after  showdown, all of their gear is returned to the settle- Victory
+any critical wound effects are applied, but before the ment.                                              When the survivors are victorious against a monster, 
+card is discarded.                                                                                        add that monster to the Defeated Monsters section 
+                                                     Monster Death                                        of the settlement record sheet. If a Nemesis monster 
+Once the survival action is fully resolved (including A monster is defeated when it is wounded and there  was defeated, update the Nemesis monster section of 
+monster reactions, effects, and or movement), the in- are no AI cards in the AI deck or AI discard pile to the settlement record sheet.
+terrupted attack resumes.                            move to the wound stack.                                 Each survivor gains and records all the benefits 
+                                                                                                          listed in the Victory section of the Aftermath in that 
+For example, Lucy has attacked the White Lion from   If a wound leaves a monster without any cards in its monster’s story event, including Hunt XP and any 
+its blind spot. She rolls to wound the Beast’s Chest AI deck or its AI discard pile, it will perform its Basic earned Weapon Proficiency. 
+hit location and fails. The White Lion will perform its Action instead of drawing AI cards until it is defeated   Victorious survivors also gain bonuses from the 
+Failure reaction and charge forward. Both Zachary    by being wounded one more time.                      Rewards section.
+and Allister are in its path. Allister uses the opportuni-
+ty to dash safely away. Zachary’s survival is 0 and the Gaining Gear During the Showdown                  Rewards
+monster snatches him up.                             If a survivor gains gear during the showdown phase,  Follow the rules for the Rewards section for the de-
+                                                     they may add it to their grid immediately. If their grid is feated monster. Rewards are gained once per victo-
+When a Monster is Knocked Down                       full, they must either archive the new gear (unless it is rious showdown, and are shared by the entire group 
+The only time survival actions may be performed on   cursed) or a piece of gear they are currently carrying to (unless stated otherwise). 
+the monster turn outside of a flow is when the monster make room. Their grid may not be rearranged and the 
+is knocked down. When a monster is knocked down      item cannot be added to another survivor’s gear grid. End of the Showdown
+on its turn, there is an opportunity for all survivors to 
+perform survival actions.                            Aftermath                                            Once the Aftermath is complete, the showdown comes 
+                                                     When the survivors have defeated the monster or all  to an end. The campaign continues to the settlement 
+                                                     of them have died, the showdown is over and the Af-  phase even if the survivors do not return home.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  79

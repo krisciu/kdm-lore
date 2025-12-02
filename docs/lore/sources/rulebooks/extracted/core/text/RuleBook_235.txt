@@ -1,0 +1,78 @@
+                                                                                                                                                                                                                                          GLOSSARY
+
+turn. If it is the survivors' turn, the effect will end on the monster    When a monster suffers a critical wound on a hit location with a per-     Random Hunt Event:      Roll d100 and apply the hunt event corre-
+turn immediately following this turn. If it is the monster's turn when    sistent injury, leave the card in play instead of discarding it. Some     sponding to this number on the Hunt Event table.
+this effect begins, it will end on the following monster turn.            persistent injuries modify a monster's behavior, while others affect 
+                                                                          specific AI cards.                                                        Random Survivor: The monster controller or event revealer typical-
+Next Round: Some effects persist until the end of the next complete                                                                                 ly determines a survivor by chance, using an equal probability of all 
+round. These effects will end after the monster, then the survivors,      Persistent Injury Actions: Found on some AI cards. Persistent injury      possible outcomes.
+take another turn.                                                        actions are conditional actions that replace the normal rules of an AI 
+                                                                          card. They are only performed when the monster draws an AI card           Range (Gear):   A gear special rule. Survivors this many or fewer 
+No Target: The last option on a monster's Pick Target list. It indi-      with a persistent injury action that matches a persistent injury in       spaces away from a monster may attack with this weapon. Ranged 
+cates what to do if no target is found. This is most often a monster's    play. If a persistent injury action is performed, ignore other actions    weapons cannot be used if field of view to the monster is blocked (by 
+Instinct action. When a monster cannot find a target, subsequent ac-      on the card.                                                              terrain with the Obstacle rule).
+tions on the card are not performed.
+                                                                          Pickaxe: A gear keyword. In certain situations, this can be used to       Ranged: A gear keyword. A ranged weapon, like a bow or dart, al-
+Noisy: A gear keyword. This gear is hard to keep quiet.                   mine minerals.                                                            lows survivors to attack from a distance. 
+
+Non-deaf Survivor: Survivors not suffering from the deaf severe           Pick Target: A component of most AI cards. A Pick Target list has         Rawhide: A gear keyword. This gear is crafted of uncured hides.
+head injury.
+                                                                          a series of conditions. The monster controller checks to see if each      Reach: A gear special rule. Reach weapons are long enough to at-
+Obstacle:  A terrain rule. This terrain blocks survivor and monster       targeting condition is met, starting from the first and stopping when     tack monsters when the survivor is not adjacent. Reach specifies the 
+field of view, interrupting ranged weapon attacks and monster tar-        one is met. Sometimes targets are determined by an area or zone           maximum number of spaces away that a survivor can attack with 
+geting. To check if field of view is blocked, draw an imaginary line      (such as adjacent survivors or all survivors in a zone). Some AI cards    this weapon.
+from the center of the miniature's base to the center of the intended     pick more than one target.
+target's base. If the line comes in contact with a space occupied by                                                                                Reaction: A hit location rule. The 3 types of reactions are Wound, 
+                                                                          Place: Change the location of a miniature from one space on the           Failure, and Reflex; each specifies the conditions for a reaction to 
+an obstacle, the field of view is blocked and the target is not in field  showdown board to another. This does not count as movement.
+of view.                                                                                                                                            occur. Reactions occur after rolling to wound the hit location they 
+                                                                          Possessed: An ability. The survivor cannot use weapon specializa-         are found on and before resolving the next hit location. 
+Organ (Resource): A common resource keyword.                              tion, weapon mastery, or fighting arts.
+                                                                                                                                                    Record and Archive: An instruction on certain cards, such as disor-
+Other: A gear keyword. The effects of this gear are otherworldly.         Pounce: A gear special rule. Spend     and     to move 3 spaces for-      ders and fighting arts. Make a note of the listed effects and return 
+                                                                          ward in a straight line and activate a melee weapon. This attack          the card to the game box.
+Outfit: This completes an armor set if you're wearing the rest of the 
+                                                                          gains +1 strength.
+set and it shares a material keyword with the missing armor gear.                                                                                   Reflex (Reaction): A type of monster reaction. This reaction occurs 
+For example, if you're wearing an Oxidized Lantern Helm and Phoe-         Prepared:  An ability. When rolling to determine a straggler, add         regardless of whether a wound attempt succeeds or fails.
+nix Armor on every other hit location, you would gain the Phoenix         your hunt experience to your roll result.
+Armor Set bonus because the Phoenix Helm also has the metal key-                                                                                    Remove from the Showdown Board (Survivor):  Remove the survi-
+word.                                                                     Principle: Principles are your settlement's guiding philosophies.         vor miniature from the showdown board. Place it on its survivor sta-
+                                                                          When a principle's story event triggers, your settlement must make        tus card, if it has one. A survivor removed from the showdown board 
+Overwhelming Darkness: A space on the Hunt Board. The first time          a choice. Record the chosen principle on the settlement record sheet      has an Act, but may not spend movement, activation or perform sur-
+each hunt the survivors move into the Overwhelming Darkness               and add that principle's card to the settlement play area.                vival actions. Unless stated otherwise, they do not affect and are not 
+space, they trigger the Overwhelming Darkness story event. The sur-                                                                                 affected by anything on the showdown board. When the showdown 
+vivors cannot skip Overwhelming Darkness. If they move through            Priority Target: When a survivor gains the priority target token they     ends, any survivors who are removed from the board (but not dead) 
+the space, instead stop all movement and resolve Overwhelming             have captured the monster's attention. Only 1 survivor may have the       continue to the Aftermath as normal.
+Darkness before any other events or effects. Then, resolve other          priority target token at a time. Whenever a monster performs a pick 
+events or effects on this space. If, for some reason, the survivors       target action, the survivor with the priority target token will always    Resolved: A card is resolved when there are no more instructions to 
+move into or through Overwhelming Darkness more than once in a            be picked. The priority target token is removed when: the survivor        follow on it. This may be due to performing every indicated action, 
+single Hunt Phase, treat it as a blank space. If the monster is on the    with the token is picked, another survivor gains the priority target      or as a result of specific instructions on the card.
+                                                                          token, an effect causes the priority target token to be removed.
+Overwhelming Darkness Space when the survivors move into it, skip                                                                                   Resources: Resources cards are gained from defeating monsters 
+its event and start the showdown immediately.
+                                                                          Provoke:  A gear special rule. When you wound with this weapon,           and events. They are spent to develop the settlement and craft gear. 
+Paired: A gear special rule. Paired weapons are two identical weap-       gain the priority target token.                                           There are 4 kinds: Basic, Monster, Strange, and Vermin. 
+ons that can be used as one. Add the speed of the second weapon 
+                                                                          Proxy Cards: There are 8 proxy cards. These can be used to replace        Resource Types: In addition to the specific name listed, all resource 
+when attacking with the first. These weapons must have the same 
+                                                                          lost cards or create game variants.                                       cards have one or more types that the card may be used as. Common 
+name, and both must be in your gear grid.                                                                                                           examples include Bone, Hide, Organ, and Scrap.
+                                                                          Pulse Discoveries: A series of abilities that can be unlocked via Lan-
+Peerless: An ability. When you gain insanity, you may gain an equal 
+                                                                          tern Research. A Pulse Discovery can be performed by a survivor           Reveal: Turn a card face up and examine it. (Do not play it.) Do not 
+amount of survival.
+                                                                          with the Death Die.                                                       reshuffle a deck to reveal more cards than are in a deck.
+Perfect Hit: An attack dice roll result of a Lantern 10. This always re-
+                                                                          Puzzle Affinity: A gear special rule. Puzzle affinity bonuses can only    Retired: When the final Hunt XP box is filled, the survivor retires. 
+sults in a hit. When there are multiple Perfect Hits in a single attack, 
+                                                                          be gained if the affinities are completed using the affinities on that    Some disorders and severe injuries also force retirement. Retired 
+trigger any rules applying to Perfect Hits that many times.
+                                                                          specific card (indicated by puzzle pieces instead of boxes).              survivors cannot depart, but still contribute to the total population 
+Permanent Injury: An injury to a survivor that does not heal with                                                                                   of the settlement, and may participate in settlement events and en-
+                                                                          Quarry: The monster that the survivors have elected to hunt.
+time. Its effects always apply to that survivor unless canceled by an-                                                                              deavors.
+other effect.                                                             Random Hit Location (Survivor): Determine using the included hit          Returning Survivors: All survivors that endured the previous show-
+                                                                          location dice. 
+Persistent Injury: A special injury found on some hit location cards.                                                                               down are returning survivors. 
+                                                                                                                                                                                    Kingdom Death: Monster Core Game  233

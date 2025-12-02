@@ -1,0 +1,45 @@
+                                                                              - Rules -
+
+
+   Critical Wounds                                       Positive monster luck tokens reduce the range of    Persistent Injuries
+   Critical wounds are lucky blows that strike past a mon- wound roll results considered critical. Normally a lan- When a hit location with a persistent injury is critically 
+   ster’s defenses, damaging it in unusual and usually   tern 10 is needed for a critical wound. If a monster wounded after performing the critical wound effects, 
+   beneficial ways.                                      has  +1 luck, then it would be impossible to critically do not discard the hit location at the end of the attack. 
+        A critical wound occurs when a wound roll result wound the monster unless the survivor also has their Instead, place the card in play on the monster control 
+   is a lantern 10 on a hit location with a critical wound own luck modifier. Keep in mind that a natural lantern panel. When a hit location with a persistent injury is 
+   effect.                                               10 wound roll result will wound regardless of luck and on the monster control panel, it is no longer part of 
+                                                         strength modifiers, even if it does not critically wound the monster hit location deck. Do not shuffle it back in. 
+   •    A hit location that does not have a critical wound (Unless the hit location is Impervious, in which case it   Persistent injuries can have conditional rules that 
+        effect cannot be critically wounded.             will not wound.).                                   affect various parts of the showdown. It is important to 
+                                                             Negative monster luck, increase the range of    reference them often and ensure that these rules are 
+   •    Cancel all reactions on a hit location that has  wound results considered critical wounds for any sur- not missed.
+        been critically wounded.                         vivor that attacks them.
+                                                                                                             For example, Allister has critically wounded the White 
+   •    Critical wound effects must be performed.        Critical Wound Effects                              Lion’s Beast’s Heel hit location. It has an immedi-
+                                                         Perform the rules listed in the critical wound section of ate critical wound effect (The White Lion is knocked 
+   •    Hit locations with persistent injuries remain in the hit location card. If a monster gains attribute mod- down) and a persistent injury, Ruptured Tendon. Af-
+        play after being critically wounded.             ifier tokens, place them on the monster control panel. ter any attacks are resolved, instead of discarding 
+                                                                                                             Beast’s Heel, the monster controller places it on the 
+   •    If your roll result causes a critical wound, the For example, Allister attacks the Screaming Ante-   monster control panel since the persistent injury is 
+        monster is wounded (unless the hit location is Im- lope’s Palate. His wound roll result is a lantern 10. marked as “Keep in Play.” From now on, whenever 
+        pervious). The wound occurs even if your wound   This is a critical wound! The Critical Wound Effect  the White Lion moves, the monster controller must roll 
+        roll result added to your strength would not meet causes the monster to gain a -1 speed token. The   1d10. If the result is 1, the monster is knocked down 
+        or exceed the monster’s toughness.               monster controller places the token on the monster  instead of moving.
+                                                         control panel. Subsequent Screaming Antelope attack 
+   •    Luck modifies your chance to cause a critical    speed is reduced by 1 to everyone’s relief.
+        wound.
+                                                         Cancel Reactions
+   Survivor Luck                                         All reactions ( ) on the critically wounded hit location 
+   Luck increases the range of wound roll results consid- are canceled. This includes wound, failure, reflex, includ-
+   ered critical wounds. A survivor with +1 luck causes a ing reactions that might be beneficial to survivors.
+   critical wound on an unmodified wound roll result of 9 
+   or 10, +2 luck: 8, 9, or 10, and so on.               Allister’s wound attempt is a lantern 10 and he criti-
+                                                         cally wounds the Beast’s Flank. The critical wound 
+   As a reminder, a wound roll result of 1 is always a   effect is performed, knocking the monster down. The 
+   failure, even if you somehow have 9+ luck. Luck also  monster’s reaction is canceled, so even though the 
+   does not change critical wound roll results into lantern monster was wounded, Alister does not gain the pri-
+   10s.                                                  ority target token.
+   Monster Luck
+
+
+76

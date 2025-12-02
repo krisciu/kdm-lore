@@ -1,0 +1,51 @@
+                                                                              - Rules -
+
+
+                                                         Encourage: A standing survivor may spend 1 surviv-   Survival Action Limitations 
+                                                         al to encourage, calling out to another survivor and Despite the power, there are limits.
+                                                         allowing them to stand if they are knocked down. A 
+                                                         survivor may encourage at any time. Deaf survivors    -  A survivor may perform each survival action 
+                                                         may not be encouraged.                                  once per round.
+                                                                                                               - Attacking survivors cannot perform survival 
+                                                         Dash: When opportunity permits, a survivor may          actions.
+                                                         spend 1 survival to dash. A survivor who dashes gains 
+                                                         +1   , which must be spent immediately. This allows  During the Survivors’ Turn
+                                                         them to move up to their available movement.         During the survivors’ turn, there is an opportunity for 
+    Survival                                                                                                  survival actions before or after any completed survivor 
+                                                         Surge: When opportunity permits, a survivor may      movement or activation.
+    Survival is a survivor’s desperate desire to cling to 
+                                                         spend 1 survival to surge. A survivor who surges     During the survivors’ turn, Erza spends 1  to move 
+    life. During the showdown, many conditions will arise 
+                                                         gains +1  , which must be spent immediately. This    adjacent to the monster. Zachary, who is nearby in 
+    where survival can be gained, lost, or spent. 
+                                                         allows them to attack by activating a  weapon, interact some Tall Grass, surges and spends the  to hide. 
+         Although survival can be spent at any time, the 
+                                                         with terrain, use gear, and anything else spending an Erza resumes her act and spends     to activate a 
+    powerful, life-saving survival actions can only be per-
+                                                         activation would allow them to do.                   weapon to attack. After her attack, she dashes into 
+    formed at certain times during the showdown.
+                                                             Resolve the results of the surge (including mon- position beside the hidden Zachary hoping to bait the 
+                                                         ster reactions or outcomes) before resuming the turn. monster over on its turn.
+    Survival Actions
+    Survival actions cannot be performed until all current Endure: You may spend 7 survival minus your Luck   During Monster Flows
+    survival actions are resolved. If a survivor’s surge to ignore a severe injury before you roll a result. Your Every flow on monster AI cards (including a monster’s 
+    causes a disastrous reaction from a monster, survi-  Luck is determined by the sum of your permanent luck basic action) is a survival opportunity. During flows on 
+    vors cannot dash out of its way. The five survival ac- attribute, any luck modifier tokens, and any other gear either the monster or survivors’ turn, non-attacking 
+    tions are: Dodge, Encourage, Dash, Surge, Endure.    or abilities affecting your luck at the time you endure. survivors may perform survival actions. The only time 
+                                                                                                              a survival action may be performed on the monster 
+    The campaign begins with the survivors knowing how   Survival Opportunities                               turn is during a flow unless the monster is knocked 
+    to dodge. The other four survival actions are learned There are moments during the frantic chaos of combat down.
+    from innovations.                                    that survivors may exploit to their advantage. These 
+                                                         moments are survival opportunities, and are the only The monster controller draws Claw and picks Alister 
+    Dodge: When a survivor is hit, they may spend 1 sur- times that survivors may dash or surge.              as the target. Allister is 4 spaces away from the mon-
+    vival to dodge, canceling a monster hit. After hit loca-                                                  ster and decides to make use of the opportunity from 
+    tions are rolled, but before any severe injury rolls, the Survival opportunities exist at the following times: the flow, before the White Lion moves and attacks. 
+    survivor can dodge a hit of their choice. The dodged                                                      Allister dashes, moving 5 spaces backwards and put-
+    hit becomes a failed attack roll and does not cause    - Between actions on the survivors’ turn           ting a total of 9 spaces between himself and the White 
+    damage. Any additional un-dodged hits will resolve     - During flows on monster AI cards                 Lion. Now that the survival action is complete, the 
+    normally. Dodge is the only survival action that can be - At specific points during survivor attacks      opportunity remains open for more survival actions. 
+    performed by knocked down survivors.                   - When a monster is knocked down                   None of the other survivors want to perform survival 
+                                                                                                              actions, so the opportunity closes. The monster re-
+
+
+78

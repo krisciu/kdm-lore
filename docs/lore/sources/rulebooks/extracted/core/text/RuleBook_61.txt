@@ -1,0 +1,47 @@
+                                                                                                                                                                        Core  Rules -
+                                                                           - Rules -
+                                                                                                                                                                        TERRAIN
+Terrain                                              Survivors and Terrain
+                                                     Terrain cards with  indicate the corresponding terrain 
+The landscape of Kingdom Death is strewn with odd    can be activated. Survivors adjacent to or on spaces 
+features and relics that may prove advantageous to   occupied by this kind of terrain may spend activation 
+survivors fighting for their lives.                  to use the rules listed on the terrain card.
+
+Terrain Tiles
+Terrain tiles are placed on spaces on the showdown 
+board before the battle begins. Unless otherwise stat-
+ed, survivors may move through spaces with terrain 
+tiles on them as if they were unoccupied spaces. Ter-
+rain tiles may not be placed on top of one another. 
+Ignore any rules or effects that instruct you to place Terrain cards can have persistent rules that affect sur-
+more terrain tiles than are available in the core game. vivors during the showdown. Including:               The survivor's field of view is blocked by the Toppled Pillar.
+     The Terrain & Deployment section of each mon-                                                                 They cannot attack with ranged weapons.
+ster’s showdown story event specifies what terrain to Obstacle: This blocks survivor and monster field of 
+use for that showdown. The Showdown Phase sec-       view. It interrupts ranged weapon attacks and mon-    Impassable: Impassable terrain occupies all spaces 
+tion details showdown terrain setup.                 ster targeting.                                       that it covers. Survivors cannot move through spaces 
+                                                                                                           occupied by impassable terrain. If a survivor would 
+Terrain Cards                                        To check if the field of view is blocked, draw an     move (voluntarily or involuntarily) into a space occu-
+Terrain cards correspond with their matching tiles,  imaginary line from the center of the miniature’s base pied by impassable terrain, they instead collide with 
+and contain rules for placing and interacting with   to the center of the intended target’s base. If the line the terrain and end their movement. 
+them. They are placed on the side of the showdown    comes in contact with a space occupied by an obsta-       If a monster rule (like Grab) would place a survi-
+board so they can be easily referenced.              cle, then the field of view is blocked, and the target is vor onto impassable terrain, they instead collide with 
+                                                     not in the field of view.                             the terrain and are to the nearest free space adjacent 
+                         An image of the terrain tile.                                                     to the terrain. A complete explanation of collision is 
+                                                                                                           found in the Showdown Section.
+                         Terrain Name and the 
+                         number of tiles the card                                                          Destructible: When a survivor collides with destruc-
+                         generates for setup. If no                                                        tible terrain, archive the terrain tile. The survivor suf-
+                         number is indicated, then                                                         fers 1 damage to a random hit location as a result of 
+                         only 1 tile should be set up.                                                     collision. 
+
+                          Special Rules                                                                    Monsters and Terrain
+                                                                                                           Unless stated otherwise on the terrain card, monsters 
+    Terrain setup rules are used if there are no spe-                                                      ignore terrain tiles on the showdown board. For exam-
+    cific setup rules listed in the Terrain & Deploy-                                                      ple, terrain with the Obstacle rule block a monster’s 
+    ment section of the monster’s showdown story                                                           line of sight, and when a monster passes over De-
+    event.                                                                                                 structible terrain, it is archived.
+                                                        The monster's field of view is blocked by the Toppled Pillar.
+                                                         The red spaces and the blind spot are not in field of view.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  59

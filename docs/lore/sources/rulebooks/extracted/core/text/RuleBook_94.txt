@@ -1,0 +1,66 @@
+                                                                                                             - Rules -
+
+
+       1d10    Event revealer - Investigate                                      1d10     Event Revealer                                                  points. Then, she pulls a random survivor aside and whis-
+                                                                                                                                                          pers secrets of the upcoming hunt. They gain +1 accura-
+       4 - 6   The droppings tell a story. You are on the right track.           1 - 5    The depths of your misery are deeper than you could             cy token.
+               Gain +1 survival.                                                          have ever imagined. Gain disorders until you have 3 
+                                                                                          of them. Lose all survival.
+       7 +     You know these droppings well. You may skip the 
+               next hunt space. If this move begins the showdown,                6 +      You sink to the bottom of your misery then scrape               15 | Man-trap
+               the survivors ambush their quarry.                                         its very foundations, hungry for more! You uncover a 
+                                                                                          primal rage surrounding a core of serene calm. Gain             The event revealer springs a terrible trap! Roll 1d10.
+            If the event revealer consumes, gain +1 courage                               +1 understandning and the Rageholic disorder.
+                                                                                                                                                            1d10    Event revealer
+      and roll 1d10.                                                             
+                                                                                      If the settlement has Collective Toil, they slowly pull               1 - 2   With a terrible crash, the steel jaws of the man-trap 
+                                                                                themselves to their feet, promising to never give up hope.                          cleanly sever your foot. Suffer the dismembered leg 
+       1d10    Event revealer - Consume
+                                                                                Roll 1d10.                                                                          severe injury.
+       1 - 3
+               It seems you weren't the only one with this idea! You                                                                                        3 - 6   Mangled leg. Destroy all armor at the legs location, 
+               attempt to cough out the refuse, but your mouth 
+                                                                                 1d10     Event Revealer                                                            then suffer 1 event damage to the legs.
+               is full of wriggling parasites! They borrow upwards 
+               through your nasal cavity into your brain. From now               1 - 5    You rise, silent tears streaming down your face. With             7 - 9   The trap is quite old and weak. Suffer 1 event dam-
+               on, you always feel slightly dizzy. Suffer -1 perma-                       the settlement at your back, you are ready to face                        age to the legs.
+               nent evasion.
+                                                                                          the darkness. Gain +1 courage and +1d10 survival.                 10 +
+               In addition, if you have the Quixotic disorder, the                                                                                                  The event revealer's foot knocks into the trap, giving 
+               parasites savor the unique neural activity of your                6 +      You briefly touch the bottom of your misery and                           everyone a scare! However, it was already sprung, 
+               brain, feeding relentlessly and excreting waste which                      return to full awareness with new experiences to                          leaving an unfortunate prize in its jaws. Gain 1 ran-
+               further fuels your madness. Gain +10 insanity and the                      share. If any survivors return to the settlement this                     dom basic resource.
+               Immortal disorder. Your Quixotic disorder can never                        year, gain +2 endeavors. 
+               be removed for any reason.
+       4 - 6   It's repulsive. Your title becomes "Scat Man." Every-                                                                                      16 | Night Terrors
+               one in the settlement must call you by that name 
+               from now on.                                                                                                                               Your miserable sleep is plagued with mind-bending night-
+       7 +     There was something quite special about the feces.                                                                                         mares. Each survivor rolls 1d10. If the result is greater 
+               Gain + 1 speed and + 1 strength token.                                                                                                     than their insanity, they learn something from the waking 
+                                                                                                                                                          horror and gain +1 understanding. Otherwise, they gain 1 
+                                                                                                                                                          random disorder.
+                                                                                                                                                                If any survivor is a savior or has the Extra Sense 
+      12 | Destiny-Bound                                                                                                                                  fighting art, they disappear into the dream, emerging from 
+                                                                                                                                                          the darkness hours later. They gain +4 Hunt XP and a 
+      The survivors collectively feel a heightened level of an-                                                                                           random basic resource.
+      ticipation. Their goal is close at hand. The event revealer 
+      gains +1 courage! The survivors may skip the next hunt 
+      space. If this movement starts the showdown, the survi-                   14 | Chance Encounter                                                     17 | Face-to-Face
+      vors ambush their quarry.
+                                                                                The survivors encounter a bewitching, barefoot waif with                  Amidst the sea of stone faces, one catches the event re-
+                                                                                soot-covered feet. If you already rolled this event on this               vealer’s eye. They feel compelled to investigate. Gain +1 
+      13 | Overload                                                             hunt, or if all survivors are insane, she turns her back                  courage and roll 1d10.
+                                                                                and disappears into the darkness. Roll again on the hunt 
+                                                                                                                                                            1d10    Event revealer - Investigate
+      The event revealer falls to their knees, sobbing uncontrol-               event table before moving on the hunt board.
+      lably. They’ve simply had too much. They lose d10 survival                      Otherwise, exclaiming wildly at the survivors, the                    1       The face is identical to your own.  Spend 1d5 survival 
+      and gain 1 random disorder.                                               woman’s presence fills everyone with the alien feeling of                           or reduce your understanding to 0.
+            If the settlement has Accept Darkness, the event re-                hope. All survivors gain +1 courage, +1 understanding.
+      vealer embraces their despair. Roll 1d10.                                       If the settlement has Hovel, she snaps her fingers                    2 - 7   The face reminds you of someone dear. Your heart 
+                                                                                and ages before their eyes! A chill passes over the sur-                            aches with loneliness. If your survival is greater 
+                                                                                vivors. Their bodies and armor spontaneously knit them-                             than your insanity, suffer monster level brain event 
+                                                                                                                                                                    damage.
+                                                                                selves back together. Heal all injury levels and lost armor 
+
+
+92

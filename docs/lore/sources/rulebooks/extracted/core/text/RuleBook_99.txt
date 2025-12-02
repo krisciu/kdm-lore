@@ -1,0 +1,63 @@
+                                                                                                                                                                                                   Core  Rules -
+                                                                                      - Rules -
+                                                                                                                                                                                                   HUNT  EVENT  TABLE
+
+survivor must spend 1 survival to resist the temptation to     1d10   Each survivor                                        settlement has Symposium and Language, the survivors 
+consume the fruit. Insane survivors and survivors with                                                                     manage to crudely communicate. The survivors may offer 
+Binge Eating disorder must consume.                            1      The Gambler reaches out and scoops up your dice.     a resource or gear to help the distressed refugees.
+     If any survivor has a sickle, they carve a line across           As they vanish within a fold of his cloak, you feel all     If they do, archive the offering. The refugees frantical-
+                                                                      traces of air leave your lungs and are unable to draw 
+the tree, drawing blood! The fruit instantly sours. End this          another breath. Dead.                                ly share their mournful tale. While much is lost in trans-
+event.                                                                                                                     lation, they relate the savage invasion of a monster that 
+     All survivors who consume the fruit roll 1d10.            2 - 9  You do not lose, nor do you win. Play again if you   destroyed their home. The tale prepares the survivors for 
+                                                                      wish. If you do, roll again on this table.           what lies ahead. At the start of the showdown, reveal the 
+ 1d10   Any survivor - Consume
+                                                               10+    You win. Gain +1 permanent luck.                     top 5 AI cards of the AI deck and put them back in any 
+ 1 - 5  The addictive fruit savages your insides. Lose 1                                                                   order. If any survivor has the Leader fighting art, one of 
+        survival and roll again on this table. If you had no                                                               the settlers is drawn to their charisma. Gain +1 population.
+        survival, suffer 2 event damage to a random hit 
+        location.                                             49 | Pus Fields
+ 6 +    You belch loudly in satisfaction and walk away.                                                                    52 | Madflies
+                                                              The landscape is dotted with large, swelling mounds ooz-
+                                                              ing pus. The smallest jostle threatens to explode them.      Tiny, persistent insects swarm the survivors, flying into 
+                                                              The survivors may carefully tread through the mounds or      their ears and nostrils. The bugs buzz maddeningly in their 
+                                                              rush through.                                                heads, growing louder as they nest.
+                                                                  Carefully tread: You make it through without inci-            Each survivor rolls 1d10.
+                                                              dent, but your progress is slowed. Roll again on the hunt 
+                                                                                                                             1d10   Event revealer
+                                                              event table before moving on the hunt board.
+                                                                  Rush through: Each survivor rolls 1d10 and adds            1 - 2  You dive into a nearby marsh to flush out the dis-
+                                                              their evasion to the result. On a 7 or less, they detonate            gusting insects. It works, but now you're constantly 
+                                                              one of the pus mounds! They suffer 2 event damage to a                distracted by the tiny bug corpses you occasionally 
+                                                              random hit location and become stinky for the rest of this            hack up. Gain -1 evasion token.
+                                                              lantern year.                                                  3 - 7  The buzzing immediately stops and the flies depart. 
+                                                                                                                                    Their rejection makes you feel strangely despondent. 
+                                                              50 | Gibbet                                                           Gain +1 insanity.
+                                                                                                                             8 +    Their eggs gestate incredibly quickly and madflies 
+                                                              A crude iron cage swings from the branches of a massive               explode forth from your mouth! The experience is 
+                                                              tree. As the survivors approach, a man calls out to them              gruesome, but makes you feel so alive! Suffer the 
+                                                              from the cage, pleading to be freed.  The survivors may               frenzy brain trauma.
+                                                                                                                                    If you have the Rageholic disorder or Berserker fight-
+                                                              pass him by and suffer 1 brain event damage as the pris-              ing art, giving birth to disgusting new life kindles your 
+                                                              oner weeps and pleads. If the survivors choose to free him,           rage. Suffer the frenzy brain trauma again.
+                                                              the event revealer rolls 1d10.
+48 | Death Wager
+                                                               1d10   Event revealer                                       53 | Mask Salesman
+The survivors are awoken by a traveler hidden in a deep        1      The survivors open the cage but all they find inside is 
+cloak. The traveler pulls back its hood and reveals a de-             a skeleton. All survivors suffer 2 brain event damage. The survivors meet a traveling Mask Salesman on the 
+formed face with two chins curving away from each other,                                                                   road. He insists that he has special wares to offer.
+each with its own grinning mouth.                              2 - 7  The prisoner is thankful and follows the survivors        Shuffle one copy of each mask gear from the Mask 
+     In a dreamlike state, the survivors all understand this          until they rest. When they wake, each survivor loses 1 Maker settlement location and draw one at random. The 
+entity is known as The Gambler and if they speak they will            random resource (if they had any).                   salesman is offering this mask. The event revealer rolls 
+die. Until this event is completed, only the event revealer    8 +    The prisoner is grateful and follows the survivors   1d10 to determine the price, then gains the mask.
+may speak. If any other player speaks, their survivor turns           home after the showdown. The settlement gains +1 
+                                                                                                                             1d10   Event revealer
+cold. Dead.                                                           population.
+     The survivors must play The Gambler’s game or be                                                                        1 - 3  The salesman silently points at you. You instinctively 
+trapped with him forever. Each survivor rolls 1d10.                                                                                 hand him his asking price in exchange for the mask. 
+                                                              51 | Refugees                                                         Archive 1 gear of your choice from your gear grid and 
+                                                                                                                                    lose all survival.
+                                                              The survivors encounter a group of fleeing settlers. If the 
+
+
+                                                                                                                                                       Kingdom Death: Monster Core Game  97

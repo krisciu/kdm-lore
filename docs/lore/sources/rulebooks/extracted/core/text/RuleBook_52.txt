@@ -1,0 +1,45 @@
+                                                                              - Rules -
+
+
+                                                                                                                  Any other modifications specific to a monster’s 
+                                                                                                              level (such as extra attribute tokens or AI cards) are 
+                                                                                                              also included in this section. The showdown begins 
+                                                                                                              with these additions in play.
+
+                                                                                                                  Monster Tokens
+                                                                                                              Monsters have two unique attributes tokens (tough-
+                                                                                                              ness, damage) corresponding to these unique mon-
+                                                                                                              ster attributes. Negative attribute tokens cannot re-
+                                                                                                              duce a monster’s damage, toughness, movement, or 
+                                                                                                              speed attributes below 1.
+                                                                                                                  During the showdown, use attribute tokens to 
+                                                                                                              indicate positive or negative changes to a monster’s 
+                                                                                                              movement, toughness, speed, damage, accuracy, 
+                                                                                                              evasion, and luck. Attribute modifier tokens are dou-
+                                                                                                              ble-sided to show gains and losses for that attribute.
+                                                                                                                  As the monster gains or suffers changes to its 
+                                                                                                              attributes, place the appropriate token on the mon-
+                                                                                                              ster control panel to mark these changes.
+                                                                                                                  Monsters and survivors share the following attri-
+        Monster Level                                        Speed                                            butes and tokens: movement, speed, accuracy, eva-
+    Monster level determines the difficulty of the encoun- Speed is added to the speed listed on an attack pro- sion, and luck. With the exception of luck, they affect 
+    ter and the monster’s placement on the hunt board.   file to calculate the total speed of a monster’s attack. monsters in the same way as survivors. 
+    Higher-level monsters have longer hunts.                 If a monster has no speed listed in this section,  
+                                                         nothing is added to the speed of its attack profiles. Luck Tokens
+        AI Deck                                                                                               Every positive monster luck token reduces the range 
+    This lists the number of basic, advanced, and leg-       Damage                                           of wound roll results considered critical. Normal-
+    endary AI cards that comprise a monster’s AI deck.   The monster’s damage attribute is only added to the  ly, the range of critical wounds is only lantern 10s. 
+    Details on building an AI deck are contained in the  damage listed on an attack profile to calculate the  Unless the attackers have positive luck modifiers to 
+    Showdown Phase section of this book.                 total damage caused by a monster’s attack.           counteract it, a critical wound against a monster with 
+                                                             Monster damage does not affect damage listed     1 or more luck tokens is impossible. Every negative 
+        Movement                                         outside of attack profiles (e.g., damage from Grab or monster luck token increases the attackers’ critical 
+    Movement is the number of spaces a monster can       brain damage).                                       wound range by 1.
+    move.                                                                                                         The rule of lantern 10 always applies. Even if 
+                                                                 AI Cards and Additional Rules                a monster’s high luck makes critically wounding im-
+        Toughness                                        This section describes any  (special) AI cards that  possible, a wound roll of a lantern 10 will still cause a 
+    Toughness is the monster’s resilience. Toughness is  start in play at the beginning of the showdown.      wound.
+    the number a wound roll result must meet or exceed         AI cards can change the monster’s behavior, 
+    to wound a monster.                                  attributes, or setup rules.
+
+
+50

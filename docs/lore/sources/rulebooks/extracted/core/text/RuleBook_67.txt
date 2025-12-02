@@ -1,0 +1,43 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+                                                     Create a Monster                                     Monster (S) Cards and Attributes
+Showdown Phase                                       To create a monster, you will need:                  Each monster showdown story event lists any (  ) 
+                                                         - Monster AI deck                                cards and further modifiers that start in play. These 
+The showdown is the battle between a monster and         - Monster (S) cards and any attributes tokens    are not added to the AI deck. Place these face up on 
+the survivors. The showdown ends only when the           - Monster hit location deck                      the monster control panel and apply their rules for 
+monster or the survivors are defeated.                   - Basic resource deck                            the duration of the showdown. 
+                                                         - Monster resource deck
+During the showdown phase, you will:                     - Double-sided Basic Action / Reference Card     Basic Action / Reference Card
+    - Create a monster                                                                                    Place the double-sided Basic Action / Reference 
+    - Set up the showdown board                      Creating the AI Deck                                 card on the monster control panel. 
+    - Place terrain, monster, and survivors          A monster’s AI deck is assembled from its pool of 
+    - Battle the monster                             unique AI cards. AI deck construction is different for Creating the Hit Location Deck
+    - Confront the aftermath of the battle, collecting each monster and also varies by the monster level. Take all hit location cards for the monster. Shuffle the 
+    your rewards or facing your destruction.         Consult the monster attribute section on the mon-    cards to form the monster hit location deck and place 
+                                                     ster’s showdown story event in the row correspond-   them face down on the monster control panel.
+Keep the monster showdown story event page open      ing to the monster’s level. This will indicate the num-
+on the table for reference during the showdown. This ber of basic ( ), advanced ( ), and legendary ( )    Resource Decks
+page contains information about:                     cards to include.                                    Take the basic resource deck and shuffle it. Place it 
+    - Monster attributes                                                                                  face down next to the monster control panel.
+    - Showdown board terrain setup                   To build the deck, set aside the monster’s ( ) AI 
+    - Setting up monster and survivor miniatures     cards. Separate the monster’s Basic, Advanced,       If the monster has its own monster resource cards, 
+    - Monster instinct rules                         and  Legendary AI cards into stacks and shuffle each shuffle those and place them face down next to the 
+                                                     stack.                                               monster control panel.
+Table Setup
+Place the showdown board, monster control panel,     Draw the indicated number of each card type from     Showdown Board Setup
+and the gear grids and record sheets of the survivors each stack without looking at them. 
+participating in the showdown on the table.                                                               This section details the rules for placing terrain, mon-
+                                                     Combine the resulting cards and shuffle them to cre- ster miniatures, and survivor miniatures on the show-
+                                                     ate the AI deck. Place the AI deck face down on the  down board.
+                                                     monster control panel.
+                                                                                                          Terrain
+                                                     To build a Level 3 Screaming Antelope, shuffle its   Terrain changes the makeup of the showdown board. 
+                                                     Basic, Advanced, and Legendary AI cards into three   Survivors and monsters can interact with terrain tiles, 
+                                                     separate stacks. Draw 12 Basic, 8 Advanced, and 3    and use them to avoid harm. The complete rules for 
+                                                     Legendary cards. Combine them and shuffle to cre-    interacting with terrain are found in the Terrain Sec-
+                                                     ate the AI deck.                                     tion.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  65

@@ -1,0 +1,46 @@
+                                                                              - Rules -
+
+
+    Pick Target                                          The target may not be changed once the target is     Random survivor: The monster controller should 
+    Monsters choose their target based on a Pick Target  chosen (including effects of gear likeFecal  Salve). randomly pick a survivor. Use dice, names in a hat, 
+    list or diagram at the top of each AI card.                                                               or any other preferred method.
+                                                         Often, multiple survivors will satisfy a targeting rule. 
+                                                         For instance, multiple survivors might be considered Threat: A threat is any survivor that is not knocked 
+                                                         closest. In these cases, the monster controller de-  down or using special gear/terrain to prevent being 
+                                                         cides which survivor becomes the target.             considered a threat. 
+                                                             Monster controllers can use their decisions to 
+                                                         give the advantage to the monster or to the group, or Closest survivor/threat: The survivor/threat fewest 
+    A pick target list is made of a series of conditions. approach each decision randomly.                    spaces from the monster. 
+    Each may include several terms that create a single 
+    condition. Start with the first condition. The monster Some attacks have collateral damage that effect sur- Last to wound: The last survivor to wound the monster. 
+    controller should check if the conditions for targeting vivors in a zone. In these cases, these survivors are 
+    can be met. If not, move to the next condition and so not targets unless stated otherwise.                Non-deaf survivors: Survivors not suffering from 
+    on. Stop when a target condition is met.                                                                  the deaf severe head injury.
+                                                         Common Targeting Terms
+    In some cases, the target is determined by an area   Facing: A monster is facing all spaces on the board  Most / Least: Zero can count as most or least unless 
+    or zone, such as adjacent survivors or all survivors in that are in front of the miniature.               otherwise stated.
+    a zone described by a diagram. These AI cards will 
+    illustrate or clearly state the area of the board that In field of view: A survivor is always in a monster’s When the monster controller draws and plays Vi-
+    determines the target. The dark gray box represents  field of view, unless they are in the monster’s blind cious Claw, the first action on the card is Pick Tar-
+    the monster and its current facing.                  spot or the monster’s line of sight is blocked. Only get. Starting at the top, check each item on the Pick 
+                                                         terrain with the Obstacle rule blocks field of view. Target list to see if any survivors satisfy the target 
+                                                         These rules are described in the Terrain section.    rule. Stop when the first target is found. If more than 
+                                                                                                              one survivor satisfies a target rule, the monster con-
+                                                         In range: A survivor is in range of a monster if the troller chooses one.
+                                                         number of spaces between them is less than or 
+                                                         equal to its current movement (including modifiers). Priority Target Token
+                                                          If in range is followed by a number, such as        If a survivor gains the priority target token, 
+                                                         range (8), that number replaces the monster’s move-  that survivor  captures the monster’s atten-
+    In some cases, more than one target may be picked.   ment when calculating to see if a survivor is in range. tion. Only one survivor may have the priority 
+    Each AI card will specify if multiple survivors can be                                                    target token at a time and they will gain it, 
+    targeted by that AI card.                                                                                 even if another survivor already has it.
+                                                                                                                  When a monster performs a Pick 
+    The last condition on the targeting list is no target.                                                    Target action on an AI or  card, ignore 
+    When this is reached, instead of performing any oth-                                                      all other targeting conditions and target 
+    er action on the card, discard it and perform the indi-                                                   the survivor with the priority target token. 
+    cated no target action or rule. This is most often the                                                    When the survivor is picked as a target, 
+    monster’s instinct.                                                                                       they discard the Priority Target Token. 
+                                                                    Zachary is in range, Erza is out of range.
+
+
+68

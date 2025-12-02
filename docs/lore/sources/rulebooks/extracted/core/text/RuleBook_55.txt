@@ -1,0 +1,46 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       MONSTERS
+
+    Attack Profile                                   Hit Locations                                            Hit Location Types
+The attack profile is the part of an attack action that Combat is chaos. Flailing, thrashing blows rain down 
+lists the speed, accuracy, and damage of an attack,  from both sides. A monster’s complex anatomy, its 
+as well a Trigger.                                   reactions to being attacked, and the unpredictable na-
+    A Trigger describes when to apply any addition-  ture of battle are represented by the hit location deck.
+al effects listed after the attack profile. Attack effects   Each monster has a unique hit location deck 
+change how damage is applied, or add follow-up con-  composed of hit location cards. Hit location cards 
+sequences to a successful attack.                    share the following characteristics:
+
+    Attack Effects
+Rules for attack effects are contained in a box below 
+the attack profile, and applied when the trigger occurs. 
+
+    Persistent Injury Actions                                                                             Hit location cards can be: First Strike, Impervious, 
+Persistent injuries are conditional actions that replace                                                  Super-Dense, Trap, and Normal cards. A card is Nor-
+the normal rules of an AI card. Persistent injury ac-                                                     mal unless another type is listed. Giant Tongue is a 
+tions on AI cards are only performed when the mon-                                                        normal hit location card. Hit location type effects are 
+ster is suffering from its corresponding persistent inju-                                                 detailed in the Showdown Phase section.
+ry. When a persistent injury action is performed, any 
+other actions on the card are ignored.                                                                        Hit Location Special Rules
+                                                                                                          Some hit locations have special rules. For example, 
+Intimidate Actions                                                                                        the Screaming Antelope’s Giant Tongue is easier to 
+Intimidate actions hurt a survivor’s mental well-being.                                                   wound because it has -2 toughness.
+Intimidate actions most often cause brain damage but 
+can have further detrimental effects.                                                                         Reactions
+                                                                                                          Sometimes monsters react to being hit. Reactions on 
+Definitions                                                                                               hit location cards are represented by a black diamond 
+                                                                                                          with an R. A reaction occurs after rolling to wound the 
+                                                                                                          hit location it is found on. The three types of reactions 
+                                                                                                          are wound, failure, and reflex.
+
+                                                                                                              Critical Wounds
+Definitions are included on AI cards in gray corners,                                                     Critical wounds are represented by a black diamond 
+they explain terms in bold referenced elsewhere on       Name                                             with a lantern symbol, followed by rules that specify 
+the AI card. Definitions are not actions and are not The name of the hit location on the monster.         what happens when a monster is critically wounded 
+performed.                                                                                                at that location. A hit location can only be critically 
+                                                         Card Art                                         wounded if it has this symbol. Critical wounds are not 
+                                                     The card art designates which hit location deck the  reactions. When a critical wound occurs, all reactions 
+                                                     card belongs to.                                     on that hit location card are canceled.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  53

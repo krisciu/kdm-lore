@@ -1,0 +1,66 @@
+                                                                                                             - Rules -
+
+
+            Insane survivors consume what they find and make                     1d10     Event revealer                                                    1d10    Event revealer - Investigate
+      themselves sick; they gain -1 strength token. Sane survi-
+      vors stop to investigate the mess. Each gains +1 courage,                  7 - 8    The stranger raises its arms and moves to meet your               1 - 3   One of your own is slumped at the end of the trail, 
+      rolls 1d10, and adds their understanding.                                           approach. From beneath the folds of its cloak, you                        bleeding terribly. Choose a random survivor, they gain 
+                                                                                          can just make out a hint of violet, scaly hide. A claw                    3 bleeding tokens. All survivors suffer 3 brain event 
+       1d10    Each sane survivor - Investigate                                           extends from a sleeve and gently strokes your cheek,                      damage.
+                                                                                          leaving a layer of viscous liquid behind. Wiping off 
+                                                                                                                                                            4 - 6
+       1 - 2   You become lightheaded sifting through the piles of                        the sludge, you find the bizarre experience strangely                     The trail leads to a huge box. Trapped inside is a 
+               dung; uncontrollable gagging ensues. Gain -1 strength                      touching. You gain +1 survival, +1 understanding.                         young, red-haired survivor. Gain +1 population. The 
+               token.                                                                                                                                               carvings adorning the box are haunting. All survivors 
+                                                                                 9 +      The stranger orders you to organize a test of strength                    suffer 3 brain event damage.
+       3 - 8   Heaving, eyes filled with tears, your sickening hunt                       among the survivors. Each survivor must roll 1d10 (roll 
+                                                                                                                                                            7 +
+               pays off. Gain 1 random basic resource and suffer 1                        off in case of ties). The highest scoring survivor wins                   The trail leads to your quarry! The monster is wound-
+               event damage to a random hit location.                                     the melee. The stranger marks their face with its glis-                   ed from a previous battle. Start the showdown im-
+                                                                                                                                                                    mediately. At the start of the showdown, the monster 
+       9 +     Your intuition pays off! Gain 1 random basic resource.                     tening claw, granting them the Iron Will ability: You 
+                                                                                          cannot be knocked down. Reduce all knockback you                          suffers 1 wound.
+                                                                                          suffer to knockback 1. Record this ability. All survivors 
+      95 | Grim and Frostbitten                                                           lose 4 survival from the exhausting fight.
+
+      There is a dead stillness in the air. The atmosphere be-
+      comes thick with worry and the survivors carry on nervous-                97 | Living Stone
+      ly. A bitter, evil cold sets in and there is no shelter.
+            The survivors huddle together for warmth, shivering                 The ground suddenly shifts and rises sharply into the air! 
+      loudly. Unless a survivor has armor gear at each hit loca-                The survivors find themselves clutching the back of a giant 
+      tion, they lose quarry monster level survival.                            creature that lay sleeping beneath their feet.
+                                                                                      The survivors hold on for dear life, absolutely terrified. 
+                                                                                Nominate a survivor to climb toward the top of the giant 
+      96 | Cloaked Stranger                                                     and see what lies ahead. They roll 1d10.
+                                                                                 1d10     Elected survivor                                                99 | Portcullis
+      A cloaked form steps out from a patch of darkness ahead 
+      of the survivors. Its ill-fitting garment shifts atop its form             1        Your motion irritates the giant, sending the survivors          The survivors approach a massive portcullis standing in 
+      and its trudging leaves dark, black puddles in the mouths                           flying off! All survivors suffer 1d5 event damage to a          the darkness. It is not attached to anything and does not 
+      of the rain-slick stone on the ground.                                              random hit location. Archive all fragile gear.                  bar their way.
+            The event revealer approaches the stranger and rolls                                                                                                They may choose to walk around it. If they do, roll 
+                                                                                 2 - 7    You reach the top and have a perfect vantage point to 
+      1d10.                                                                               see the world, if only there were enough light to see           again on the hunt event table before moving on the hunt 
+                                                                                                                                                          board.
+       1d10    Event revealer                                                             it. Set your insanity to 0. The giant carries you exactly 
+                                                                                          where you're going! Start the showdown immediately.                   If the settlement has the Portcullis Key, they may 
+       1 - 2   The stranger's approach fills your ears with painful                                                                                       erase it from the settlement record sheet and use it. Each 
+               static. There is a flash of light and a loud crack. You           8 +      You discover a bizarre creature with an inverted face           survivor gains +1 courage. The portcullis creaks open and 
+               fall to the ground, holding your bloody chest in pain.                     diligently carving upon the giant's back. It discards           the survivors step through. A dank gloom awaits the survi-
+               Suffer the ruptured spleen severe body injury. All                         damaged stone faces as it works. Each survivor catch-           vors inside.
+               non-deaf survivors suffer 2 brain event damage.                            es a fragment, gaining 1 Founding Stone starting gear. 
+                                                                                          Eventually, the giant settles down into the ground                1d10    Event revealer
+       3 - 4   The stranger ripples in and out of focus as you                            again. You dismount and discover your quarry! Am-
+               approach. When you reach them, they are gone, their                        bush the monster!                                                 1       The portcullis suddenly slams shut behind them and 
+               form impossible to remember. Gain 1 bleeding token                                                                                                   the lights of their lanterns begin to dim. The last thing 
+               and forget 1 fighting art of your choice.                                                                                                            the survivors see is the grimace of fear on each other's 
+                                                                                                                                                                    faces as the dark closes in. The survivors are dead.
+       5 - 6   As you near the stranger, you realize that they're               98 | Bloody Eyes
+               floating in the air! You barely make out a dry rasping                                                                                       2 +     At their feet lies an ornate crucible with a void in the 
+               coming from the form that seems to resemble...                                                                                                       shape of a mighty weapon. Gain the Perfect Crucible 
+               laughter? After the stranger departs, you return to the          The survivors find a trail of blood. It pools in the eye sock-                      strange resource. If they have a Blacksmith in their 
+               group, face bone-white, refusing to speak of what you            ets of the stone-faced ground. The blood is still warm.                             settlement, they may now craft a Perfect Slayer.
+               saw. Suffer 3 brain event damage.                                      The event revealer may investigate and roll 1d10, or 
+                                                                                ignore the trail and end this event.
+
+
+104

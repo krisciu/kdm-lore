@@ -1,0 +1,54 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       MONSTERS
+
+                  Life Trait                         reduced to 0 the monster is dead. One consequence                    Proxy Cards
+                                                     of Life is that a monster does not lose AI cards and is There are 8 proxy cards included with the game (two 
+                                                     always fighting with its full deck!                  of each number). These cards can 
+                                                                                                          be used to replace cards you’ve 
+                                                     Rules that trigger when the monster is wounded still lost or when a gaming group de-
+                                                     apply as normal. For instance, if the Hand had the   cides to customize their experi-
+                                                     Life trait, wounding the monster would still add tokens ence.
+                                                     to Impossible Eyes.                                      For some ideas on customiz-
+                                                                                                          ing your game experience refer to 
+                                                     When a monster with Life heals, if the monster’s cur- the Gameplay Variants section.
+                                                     rent Life is less than its starting value, increase the 
+                                                     Life number by the indicated amount (up to the start-
+                                                     ing value).                                                          Indomitable
+
+                                                     If any rules would give the monster the Life trait multi- Indomitable is a unique     trait card used for 
+                                                     ple times, combine the listed amounts to find the Life encounters with all level 3+ 
+                                                     trait’s starting number.                             monsters. These monsters 
+                                                                                                          are so powerful that they 
+                                                     The Great Golden Cat from the Legendary Monsters     stand much faster when 
+                                                     Story Event, has     Life 15 listed under its Char-  they are knocked down, 
+                                                     acteristics. This means the monster starts with 15   providing a very narrow 
+                                                     wounds. Place 1d10 on Life with the 1 face showing   opportunity for survivors 
+                                                     to represent the 10’s place and 1d10 with the 5 face to take advantage of 
+                                                     showing to represent the ones place. The resulting   their weakened state.
+                                                     number showing should be 15. 
+                                                         The Great Golden Cat has 6 AI cards and it will 
+The Life card is a unique trait card that is used for en- not lose any of them when its wounded. Instead, re-
+counters with some monsters and gameplay variants.   duce the number showing on Life by 1 each time the 
+It represents a monster’s life in place of its AI deck. A Great Golden Cat is wounded.                    Monster Level 
+                                                                                                          Symbol 
+pair of d10s should be placed in the marked spaces 
+                                                                                                          The    symbol on all game cards and 
+using the dice faces to represent a numerical value. Gameplay Variants
+                                                                                                          events refers to the monster’s level. It can be found in 
+                                                     In this rulebook, the 5-6 Player variant uses the Life 
+                                                                                                          Kingdom Death: Monster expansions and on the af-
+Monsters with Life                                   trait.
+                                                                                                          termath of some Nemesis monsters. For example, an 
+When a monster has the     Life listed in its monster 
+                                                                                                          AI card instructs a survivor to suffer  brain damage. 
+characteristics it will be followed by a number. This In order to balance the encounter with additional sur-
+                                                                                                          In a showdown against a level 2 monster. This would 
+is the number of wounds the Life trait starts with. In- vivors, monsters will gain the Life trait in addition to 
+                                                                                                          be 2 brain damage.
+stead of removing wounds by removing AI cards to     normal wounds tracked by their AI decks. To begin 
+the wound stack, wound the monster by reducing the   moving AI cards to the wound stack, the survivors 
+number on the Life trait. When the number on Life is must first reduce a monster’s Life trait to 0.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  55

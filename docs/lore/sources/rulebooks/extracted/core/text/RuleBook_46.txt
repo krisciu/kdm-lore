@@ -1,0 +1,45 @@
+                                                                              - Rules -
+
+
+    8 | Fighting Arts                                    disorders gained must replace an existing disorder of           Bleeding Tokens
+                                                         your choice. If a survivor would gain a disorder they           Bleeding tokens can be gained from 
+                                                         already have, nothing happens.                                  most severe injuries, as well as some 
+    Fighting arts can be learned from innovations and        Disorders can be cured on their own, at upgraded            events and monster attacks. If a survivor 
+    events. Some fighting arts are maneuvers that can    settlement locations, as a result of some innovations,          has 5 or more bleeding tokens, they are 
+    be activated in place of weapon gear to make at-     and even during some events.                                    dead. All tokens are removed at the end 
+    tacks. Fighting arts can have additional costs or pre-                                                               of each showdown.
+    requisites to use, but usually have exciting effects. 10 | Abilities and Impairments
+        Each fighting art has a corresponding card in the                                                     Attribute Modifier Tokens
+    Fighting Art deck that describes the rules for using it.                                                  Attribute modifier tokens are used to indicate tempo-
+    When a survivor gains a fighting art, record it on the In their lifetime, survivors may gain abilities, severe rary changes to attributes. Attribute modifier tokens 
+    survivor record sheet.                               injuries, ailments and other painful reminders of their are double-sided to represent gains and losses for 
+        Survivors can have up to 3 fighting arts. Any    journey. Record these in the Abilities & Impairments that attribute. 
+    further fighting arts gained must replace an existing section of the survivor record sheet. A survivor may  
+    fighting art of your choice. If a survivor would gain have any number of abilities and impairments.
+    a fighting art they already have, nothing happens. If    Abilities are unique rules acquired by survivors 
+    you lose the use of your fighting arts, fill the corre- that can aid them during the hunt and showdown.
+    sponding box. If you regain their use, erase the box.
+                                                         Severe Injuries
+    Secret fighting arts are unique maneuvers that       When survivors’ armor and injury levels are exhaust-
+    cannot be gained randomly. Each secret fighting      ed, they accumulate severe injuries from the severe 
+    art has a corresponding card in the Secret Fighting  injury table. Severe injuries can be temporary or 
+    Art deck that describes the rules for using it. These permanent.                                          As survivors gain or suffer non-permanent changes 
+    count toward your fighting art maximum of 3.             When you suffer permanent injuries, note the     to their attributes, place the appropriate token on 
+                                                         name and rules on your record sheet and adjust the   their record sheet to mark these changes. All tokens 
+    9 | Disorders                                        survivor’s attributes as necessary. If a permanent   are removed at the end of each showdown.
+                                                         injury is healed, erase it from your record sheet.
+                                                             Some injuries require you to skip hunts (fill the Retirement
+    The horrors of their existence can cause survivors   Skip Next Hunt box on the survivor record sheet).    In rare instances, survivors retire, rather than perish. 
+    to develop mental disorders. Survivors can gain a        Otherwise, severe injuries last until the end of the When the last Hunt XP box is filled, the survivor re-
+    specific or random disorders.                        showdown. Use attribute tokens to mark such injuries. tires. A survivor may also be forced into early retire-
+        Disorder cards describe the effects of each dis-                                                      ment by some severe injuries 
+    order. If a survivor gains a random disorder, shuffle 11 | Once Per Lifetime                                  Retired survivors cannot hunt or participate in 
+    all disorder cards and draw one. When a survivor                                                          showdowns. 
+    gains a particular disorder, draw the corresponding                                                           When a survivor retires, they still contribute to 
+    disorder card.                                       Record events that are marked as “once per lifetime” the total population of the settlement, and may par-
+        When a survivor gains a disorder, record its rules when you gain them. This should help you remember  ticipate in settlement events and endeavors.
+    on the survivor record sheet.                        not to gain them again. If you use your Survival of the 
+        Survivors can have up to 3 disorders. Any further Fittest reroll, fill the checkbox.
+
+
+44

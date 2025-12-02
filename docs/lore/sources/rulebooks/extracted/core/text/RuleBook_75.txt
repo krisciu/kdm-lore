@@ -1,0 +1,47 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+Knocked Down & Standing                               - While a monster is knocked down, all reactions    Movement
+Monsters and survivors are standing unless they are    are canceled. This includes reactions that might be Survivors can spend  to move. Survivors move one 
+knocked down. While a survivor or monster is knocked   beneficial to survivors. (This does not cancel critical space at a time, to any adjacent unoccupied space, 
+down, they cannot be knocked down again.               wounds, since they are not reactions.)             moving only in cardinal directions (not diagonal). 
+
+Knocked Down Survivors                                - A knocked down monster stands when a monster      Survivors cannot move through spaces occupied by 
+A knocked down survivor must spend time standing       controller draws an AI card and then plays that card monsters or other survivors (even if they are knocked 
+back up. Knocked down survivors stand at the end of    as normal.                                         down). Survivors may move before or after spending 
+the next monster turn or another survivor may spend                                                       activation. 
+survival to encourage a knocked down survivor.        - A knocked down monster stands when a trap is 
+                                                       played and plays out its rules.                    Activation
+ - A  knocked down survivor is not a threat.                                                              Survivors can spend   to activate gear, interact with 
+                                                      - If the monster is knocked down during a flow, can- terrain, or activate other special rules (e.g., fighting 
+ - If a survivor is knocked down in the middle of their cel any remaining actions on the card.            arts, abilities). These special rules will clearly state 
+  attack, their unresolved hits are canceled.                                                             what happens when    is spent.
+                                                      - Unless otherwise stated on the AI card, any moods 
+ - Knocked down survivors may only spend survival      or traits currently in play will affect survivors even if How Survivors Attack
+  to dodge (remaining knocked down), and cannot        the monster is knocked down.                       Survivors attack by spending  to activate a weapon, 
+  spend activation or movement.                                                                           using its attack attributes to make an attack. Survivors 
+Knocked Down Monsters                                Survivors’ Turn                                      must be in range to attack.
+
+                                                     The second part of a round is the Survivors’ turn.   Melee Weapons
+                                                     During the survivors’ turn, survivors act one at a time, To attack with a melee weapon, a survivor must be in 
+                                                     completing their entire act before another survivor  a space adjacent to the monster unless that weapon 
+                                                     may act.                                             has reach.
+                                                         Survivors may act in any order, taking advantage 
+                                                     of different gear, abilities, and fighting arts to make the Reach Weapons
+                                                     most of their collective turn.                       A reach 2 weapon is a long melee weapon that allows 
+                                                                                                          a survivor to attack from 2 spaces away.
+                                                     Act Overview
+        Tip the survivor miniature on its side to indicate
+                that it is knocked down.             At the start of their act, a survivor gains +1  and +1 Ranged Weapons
+                                                      . An action must be completed before another can    A ranged weapon, like a bow or dart, allows the sur-
+A knocked down monster stands up at the start of the begin. During their act they may perform the following vivor to attack from a distance. A survivor can attack 
+next turn (monster or survivors’).                   actions in any order.                                with a ranged weapon from a number of spaces away, 
+                                                                                                          less than or equal to the weapon’s range.
+ - While a monster is knocked down, attack rolls hit on - Spend  (move)                                       A survivor using a ranged weapon cannot attack 
+  3+ in place of normal accuracy.                    - Spend  (activation)                                a monster when their field of view is blocked. Only ter-
+                                                                                                          rain with the Obstacle rule blocks field of view. These 
+                                                     At the end of their act, a survivor loses unspent  . rules are described in the Terrain section.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  73

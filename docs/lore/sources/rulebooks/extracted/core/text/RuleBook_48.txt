@@ -1,0 +1,31 @@
+                                                                              - Rules -
+
+                   Armor Gear                                          Weapon Gear                                             Item Gear
+
+
+    Armor protects survivors by increasing armor points at Weapons are primarily used to attack monsters.     Items have effects that can aid survivors in the hunt 
+    hit locations. Armor is worn by placing it in a survivor’s                                                and showdown. Each has unique rules described  in 
+    gear grid. Only one piece of armor may be worn on    1 | The name of the gear.                            detail on the gear card. 
+    each hit location.
+                                                         2 | The gear’s keywords. (The weapon keyword         1 | The name of the gear.
+    1 | The name of the gear.                               indicates that this gear is a weapon.)
+                                                                                                              2 | The gear’s keywords. (The item keyword  
+    2 | The gear’s keywords. (The armor keyword          3 | Indicates spending 1 activation is required to      indicates that this gear is an item.)
+       indicates that this gear is armor.)                  attack with this weapon.
+                                                                                                              3 | The item’s affinity.
+    3 | Number of armor points gained when worn.         4 | The weapon’s speed attribute.
+                                                                                                              4 | Special rules for the item. Unless otherwise noted, 
+    4 | Hit location icon indicates the hit location that 5 | The weapon’s accuracy attribute.                   item rules are always in effect (their benefits are 
+       gains the armor points.                                                                                   gained just by having the item in the gear grid).
+                                                         6 | The weapon’s strength attribute.
+    5 | Special rules for this armor. This includes extra                                                     5 | Some item special rules require the survivor to 
+       abilities, affinity bonuses and restrictions from 7 | The weapon’s affinity.                              spend activation to trigger special rules (indicated 
+       wearing the armor.                                                                                        by an activation symbol beside the rule).
+                                                         8 | Special rules and abilities of this weapon. Unless 
+    When you depart, update your current armor points       otherwise noted, these rules only apply when that 
+    from armor in your gear grid. If armor gear is lost     weapon is activated.
+    during the hunt or showdown, update your armor 
+    points to reflect this loss immediately.
+
+
+46

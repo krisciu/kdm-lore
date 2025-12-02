@@ -2,8 +2,8 @@
   "version": "1.0",
   "generatedAt": "2025-12-02T15:51:17.011Z",
   "totalPages": 65,
-  "pagesNeedingCapture": 65,
-  "capturedPages": 0,
+  "pagesNeedingCapture": 64,
+  "capturedPages": 1,
   "pages": [
     {
       "id": "kdu-099-october-2024",
@@ -62,8 +62,9 @@
         "content-images",
         "community-spotlight"
       ],
-      "status": "pending",
-      "imageCount": 0
+      "status": "captured",
+      "imageCount": 1,
+      "capturedAt": "2025-12-02T15:52:14.215Z"
     },
     {
       "id": "kdu-102-january-2025",

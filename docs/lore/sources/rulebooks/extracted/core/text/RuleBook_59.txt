@@ -1,0 +1,45 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       RESOURCES
+
+Survivors Gaining Resources                          Resources and Death                                  Resources Stay in the Settlement
+When a survivor gains a resource, draw a card from   When a survivor dies or is lost during the hunt phase, Once resources are brought to the settlement, they 
+the appropriate resource deck and place it next to   another survivor simply takes the resources they were may not be taken on future hunts and showdowns. 
+their gear grid in their play area. The survivor is now carrying.                                         Any resources taken from the settlement’s storage 
+carrying this resource. This has no effect on the survi-                                                  must be returned during the Record & Archive Re-
+vor’s ability to fight or hunt.                      When a survivor dies during the showdown, any re-    sources step of the Settlement Phase.
+                                                     sources they were carrying are regained by the group 
+Any resources a survivor gains during the hunt and   at the end of the showdown if the survivors are victo-
+showdown are placed beside the survivor’s gear grid. rious.
+Survivors may spend these resources or activate a 
+resource’s rules at any time during the hunt.        When all the survivors die, all of the resources they 
+                                                     were carrying are lost.
+If resources are gained during the Settlement Phase, 
+place them in the play area.                         Resources with Special Rules
+                                                     Some resources have special rules. They can be per-
+Groups Gaining Resources                             formed at any time and during any phase by the survi-
+When a monster is defeated, the players collect the  vor holding the resource. Some resources have rules 
+rewards listed on that monster’s story event. All living that are triggered when they are gained and should be 
+survivors need to decide how to divide them.         performed then.
+    Sharing and spending resources will greatly af-
+fect the outcomes of your campaign. Some groups      A resource must be removed from settlement storage 
+may divide resources fairly, then trade them. Others to use its special rules. A survivor may only do this 
+may pool resources together and spend them as a      during the Develop step of the settlement phase.
+group.
+                                                     Trading Resources
+Resource Limit                                       Sometimes a survivor will gain a resource with special 
+When you are directed to gain a resource and that    rules that may greatly benefit another survivor. 
+specific card is not currently in the resource deck, you   During the Hunt Phase, survivors may give each 
+do not gain it, nor do you add it to the settlement stor- other resources at the start of any hunt turn before an 
+age. You gain nothing.                               event is revealed.
+                                                         During the Showdown Phase, survivors may give 
+This situation can occur when an event or effect of  each other resources anytime during their act if they 
+a card lists a specific resource to gain, and that re- are adjacent. A survivor can pass a resource as they 
+source is currently being carried by a survivor.     are moving by without ending their movement.
+                                                         Survivors may freely trade resources during the 
+                                                     Settlement Phase.
+                                                         When a survivor receives a resource from anoth-
+                                                     er survivor, it is not considered gained.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  57

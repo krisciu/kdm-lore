@@ -1,0 +1,75 @@
+      Item: A gear keyword. Gear that is neither a weapon nor armor.            a survivor to be part of a new campaign; the survivor still has only      Monster Controller:   The player who draws the monster's AI card. 
+                                                                                one lifetime and anything that already happened to them (with limit,      They make any decisions and rolls to resolve a monster's actions for 
+      Jewelry: A gear keyword. Decorative and functional!                       once per lifetime) cannot happen again. If a survivor somehow dies        that round. Designated by the Monster Controller tile. Monster con-
+      Katana: Gear with this keyword is a katana weapon. Survivors may          and is reborn, they may gain these benefits again. Record once per        troller changes at the start of each round.
+                                                                                lifetime effects on the survivor record sheet.
+      not gain levels of katana weapon proficiency.                                                                                                       Monster Controller Bonus: When a monster controller's survivor 
+      Katar: Gear with this keyword is a katar weapon. Survivors may gain       Lucernae:  Before making a wound attempt, you may declare "Lu-            is the target of an attack, this foolhardy action earns that player's 
+      levels of katar weapon proficiency with this weapon.                      cernae X" in a loud, booming voice. If you do, that wound attempt         survivor +1 insanity.
+                                                                                gains X Luck. X cannot be more than your total blue affinities. When 
+      Knockback X: Move the target of knockback X spaces directly away          the attack ends, gain +X hunt XP. When you trigger Age 2, gain the        Monster Controller Tile: Designates the monster controller. Moves 
+      from the cause of this effect.                                            Lucernae's Lantern secret fighting art.                                   clockwise to the next player or survivor at the start of each round.
+
+      Knocked Down (Monster):     While a monster is knocked down, at-          Luck (Player Attribute): Luck modifies a survivor's chance to cause       Monster Hit Location Card: Represents a location on the monster's 
+      tack rolls hit on 3+ (in place of normal accuracy). Cancel all reactions, a critical wound from a wound roll. +1 luck causes a critical wound on    body. These are hit by a survivor's successful attack roll. Many hit 
+      including reactions that might be beneficial to survivors. This does      a wound roll result of 9 or 10, +2 luck on 8, 9, or 10, and so on. A luck location cards feature special effects or actions. 
+      not cancel critical wounds effects (since they are not reactions). If     modifier can be negative, making it impossible to critically wound.       Monster Hit Location Deck: The cards that collectively make up the 
+      the monster is knocked down during a flow, cancel any remaining 
+                                                                                Luck (Monster Attribute):   Every positive monster luck token re-         locations a survivor may hit a given monster. Unique to each mon-
+      actions on its card. A knocked down monster stands when: it draws                                                                                   ster.
+      an AI card, a trap is played, or at the start of the next turn (monster   duces the range of wound roll results considered critical. Normally, 
+      or survivors').                                                           critical wounds occur only on Lantern tens. Unless survivors have         Monster Level: Monster level determines the difficulty of the show-
+                                                                                positive luck modifiers, a critical wound against a monster with 1 or     down and the monster's placement on the hunt board. Higher-level 
+      Knocked Down (Survivor): When a survivor is knocked down, turn            more luck tokens is impossible. Each negative monster luck token          monsters have longer hunts and more difficult showdowns.
+      the miniature on its side. Knocked down survivors always stand at         increases the attackers' critical wound range by 1. The rule of Lan-
+      the end of the next monster turn. If a survivor is knocked down in        tern 10 always applies, so  even if a monster's luck makes critically     Monster Reference Card / Basic Action: Contains a small overview 
+      the middle of their attack, the remainder of that attack is canceled.     wounding impossible, a wound roll of a Lantern 10 will still cause a      of each monster's characteristics. They serve as a compact reminder 
+      Knocked down survivors may only spend survival to dodge (remain-          normal wound.                                                             of frequently-used monster information.
+      ing knocked down), and cannot spend activation or movement.
+                                                                                Mad Oracle: An ability. Once per showdown, as a monster draws             Monster Resources: Monster resource cards are gained only from 
+      Lantern: A gear keyword. A lantern illuminates the darkness.              an AI, name a card. If the AI card drawn is the named card, gain +1       fighting that monster. Each huntable monster has a unique deck. 
+                                                                                evasion token.                                                            Monster resources can be used and spent as their resource type or 
+      Lantern 10: A die roll result with the lantern face up. Equivalent to a                                                                             as their specific resource name. Some monster resources have ad-
+                                                                                Marrow Hunger: An impairment. If the Murder or Skull Eater set-
+      10 for other 10-sided dice.                                                                                                                         ditional rules. 
+                                                                                tlement events are drawn, nominate this survivor.
+      Lantern Year: Survivors' basic unit of time. The settlement typically                                                                               Monster Showdown Story Event: Contains relevant information for 
+      advances by one lantern year as part of each Settlement Phase.            Matchmaker: An ability. When you are a returning survivor, once 
+                                                                                per lantern year, you may spend      to   Intimacy.                       a particular monster's showdown and hunt, including instructions 
+      Last to Wound: The survivor who last wounded the monster.                                                                                           on constructing a monster AI deck, hunt and showdown board set-
+                                                                                Materialize: Remove the monster from the showdown board and               up, the monster's instinct and basic attack, and information on the 
+      Leather: A gear keyword. Cured hides are a crucial component of           place it adjacent to the target. It must be placed so its base covers as  aftermath of the showdown.
+      this gear.                                                                many other survivors as possible, colliding with the survivors.
+                                                                                                                                                          Most/Least X: The survivor with the most/least of the listed condi-
+      Legendcaller: An ability. Once a lifetime, on a hunt board space after    Melee: A weapon gear keyword. To attack with a melee weapon, sur-         tion. Zero can count as most or least unless otherwise stated.
+      Overwhelming Darkness, in place of rolling a random hunt event,           vivors must be in a space adjacent to the monster. Melee weapons 
+      use "53" as your result.                                                  with Reach can attack from further away.                                  Move and Attack Target Action: A component of most AI cards. 
+                                                                                                                                                          A Move and Attack Target Action follows a Pick Target Action. Full 
+      Legs: A survivor hit location. Damage to the legs beyond the heavy        Menace:  The Butcher's instinct. Described on the Butcher's show-         move the monster towards the target and perform the following at-
+      injury box will prompt a roll on the Legs section of the Severe Injury    down story event.                                                         tack profile.
+      table.
+                                                                                Metabolic Surrender: Any time during the showdown, you may roll           Movement (Attribute): The maximum amount of spaces a monster 
+      Legs Locked: When you gain the Death Die, you stand. While you            the Death Die. Gain twice that much survival. This round, ignore the      or survivor may move with in single move action. A monster or sur-
+      have the Death Die, you cannot be knocked down for any reason.            negative effects of permanent injuries, impairments, disorders, and       vivor with less than 1 movement may still move 1 space each move 
+                                                                                negative attributes (including tokens). At the end of the round, you      action.
+      Leyline Walker: An ability. While there is no armor or accessory 
+                                                                                die.
+      gear in your gear grid, gain +3 evasion.                                                                                                            Mood: A type of monster AI card. Once mood cards are drawn, leave 
+                                                                                Metal: A gear keyword. This gear is substantively crafted of metal.       them in the play area instead of discarding them at the end of the 
+      Life Exchange: In the Aftermath, gain 1 additional Hunt XP. You may 
+                                                                                                                                                          monster turn. Moods can be removed by some items or through 
+      not wear other gear. If you trigger the White Secret story event, you     Metal Maw: An ability. Your Fist & Tooth attacks gain Sharp (add 
+                                                                                                                                                          conditions listed on the card. If a monster suffers a wound when it 
+      cease to exist. When you retire, you cease to exist.                      1d10 strength to each wound attempt).
+                                                                                                                                                          has an empty AI deck and discard pile but one or more active moods, 
+      Life Trait: A core game variant. Instead wounding by removing AI          Miniature:  The physical representation of a monster or survivor,         it is defeated.
+      cards to the wound stack, wound the monster by reducing the num-          used in the Hunt and Showdown phases. 
+                                                                                                                                                          Nemesis Monster:    Nemesis monsters show up at the outskirts of 
+      ber on its Life trait. When the number is reduced to 0, the monster 
+                                                                                                                                                          the settlement. They cannot be hunted, and will arrive during story 
+      is dead.                                                                  Monster AI Deck: Each monster has a unique AI deck. Its showdown 
+                                                                                story event describes how to construct a Monster AI Deck at the ap-       events.
+      Limit, once per lifetime: This can only happen once to a survivor.        propriate level.
+                                                                                                                                                          Next Monster Turn:     Some effects persist until the next monster 
+      If it occurs again, nothing happens. In rare cases, it is possible for 
+232

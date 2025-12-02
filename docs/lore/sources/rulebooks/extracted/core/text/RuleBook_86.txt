@@ -1,0 +1,45 @@
+                                                                              - Rules -
+
+    Place any unused gear in the allotted space in the   If an endeavor cost is listed, one or more players   Weapon Masteries
+    game box. Retrieve these cards in future settlement  may nominate a survivor, spend their endeavors at 
+    phases. (Players can keep a written gear list.)      this innovation, and apply any resulting rules.
+                                                                                                              Weapon masteries are innovations, they are perma-
+                                                         Consequences: Some innovations direct you to add     nently added to the list of settlement innovations. 
+    Finish cleaning the play area by returning the settle- further innovations to the innovation deck.
+    ment’s locations, event cards, and unused survivor                                                        When any survivor attains a weapon mastery with a 
+    record sheets to the game box.                       The Innovation Deck                                  weapon type, that mastery imparts benefits to every-
+                                                         A settlement’s innovation deck is a persistent deck  one in the settlement. All other survivors automati-
+                                                         that grows during the campaign. It represents the po- cally gain the Specialist bonus for that weapon type 
+                   Innovations                           tential cultural and technological growth of your set- and may use this in addition to whatever weapon 
+                                                         tlement, and will grow as a consequence of gained    proficiencies they have earned. 
+                                                         innovation cards.
+
+                                                         Whenever your settlement gains a new innovation,     Principles
+                                                         search the innovation cards for any innovations that 
+                                                         are a consequence of the new innovation. Shuffle     Principles are the guiding philosophies of your settle-
+                                                         them into the innovation deck.                       ment. They have two components, a story event and 
+                                                                                                              a principle card.
+                                                         The innovation deck is persistent. Make sure to pre-
+                                                         serve the unique combination of cards in your deck   When a principle’s story event is triggered, it will 
+                                                         between play sessions.                               prompt your settlement to make a choice. Follow the 
+                                                                                                              rules on each story event. Record the chosen prin-
+                                                         The starting innovation deck of a new settlement aris- ciple on the Settlement Record Sheet and add that 
+                                                         es from the first innovation,Language,  which is gained principle’s card to the settlement play area.
+                                                         from the First Day settlement event. It consists of the 6  
+                                                         innovations marked language consequence: Paint, In-  Principle cards describes persistent effects of your 
+                                                         ner Lantern, Drums, Ammonia, Symposium, and Hovel.   chosen principles. Apply any benefits of your princi-
+                                                                                                              ple as survivors are born, when they die, and at any 
+                                                         Adding Innovations                                   other appropriate time. 
+                                                         When a new innovation is added to your settlement, 
+                                                         place it in the play area with all other innovations and 
+    Name: The name of the Innovation.                    update your Settlement Record Sheet innovation list. Settlement Locations
+
+    Keywords: Innovations have a type (Paint’s type is   Survival Limit                                       The majority of a settlement’s resources are spent 
+    art) and an origin (Paint is a language consequence). Some innovations change your settlement’s Survival  at settlement locations. At the start of the campaign, 
+                                                         Limit. When these are innovated, increase the Sur-   survivors have one settlement location—the Lantern 
+    Rules: Some innovations, like Language, have per-    vival Limit on the Settlement Record Sheet. If these Hoard. Additional locations are added to the settle-
+    sistent benefits. Others will allow you to endeavor at innovations are lost, decrease the Survival Limit. ment from existing settlement locations and from sto-
+    these innovations for potential gain.                                                                     ry events. 
+
+
+84

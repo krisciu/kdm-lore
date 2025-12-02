@@ -1,0 +1,84 @@
+                                                                                                                                                                                                                                          GLOSSARY
+
+Survival Opportunity: The only times that survivors may dash or           Trait: A type of monster AI card. Describes permanent changes to          must pick up the Vital gear (discarding gear to make room in their 
+surge. Survival opportunities exist at the following times: during        the characteristics or behaviors of the monster. Trait cards are not      grid if needed).
+flows on monster AI cards; between actions on the survivors' turn;        discarded at the end of the monster turn.
+before performing reactions; after critical wound effects; or when a                                                                                Waist: A survivor hit location. Damage to the waist beyond the heavy 
+monster is knocked down.                                                  Trap: A type of monster hit location. A trap cancels all the attack-      injury level results in a roll on the Waist section of the Severe Injury 
+                                                                          er's hits, ends their attack, and causes the monster to stand, in ad-     table.
+Survivor Record Sheet: Represents the permanent status of a survi-        dition to the actions listed on the card. After the Trap's actions are 
+vor. Some sections include: attributes, Hunt XP, Weapon Proficiency,      resolved, shuffle the entire hit location deck.                           Weapon: A type of gear card. Weapon types in the core game include 
+and permanent changes.                                                                                                                              axe, bow, club, dagger, fist & tooth, grand, katar, shield, spear, sword, 
+                                                                          Trigger: Part of a monster's attack profile. Indicates that an Attack     and whip.
+Survivor Status Card: Special (S) AI cards that track conditions for an   Effect is part of this attack.
+individual survivor rather than the monster. When a survivor gains                                                                                  Weapon Mastery: Achieved when a survivor has eight or more lev-
+a survivor status card, place it next to their gear grid. The card's ef-  Turn (Monster):  The first part of a round, when the monster acts.        els of weapon proficiency. When any survivor attains a weapon mas-
+fects apply only to them. Some status cards change and need to be         The monster controller should apply any "at start of turn" effects,       tery, add that mastery to the settlement as an innovation. All survi-
+tracked. Some grant survivors unique actions. If a monster's story        draw and play AI cards, then by apply any "at end of turn" effects.       vors automatically gain the Specialist bonus for that weapon type in 
+                                                                                                                                                    addition to any weapon proficiencies they already have.
+event has a Survivor Status card in its setup, all survivors gain the     Turn (Survivors'): The second part of a round is the survivors turn. 
+card at the start of the showdown.                                        During the survivors' turn, survivors act one at a time, each com-        Weapon Proficiency: A survivor attribute listed on the survivor re-
+Sweet Battle: An ability. Once per round, you may surge without           pleting their entire act before another survivor may take their act.      cord sheet. Weapon proficiency represents a survivor's skill with a 
+spending survival. If you do, the activation gained must be used to       Survivors may choose to act in any order.                                 weapon type. May be earned for the following weapon types: axe, 
+activate a weapon. You may use Sweet Battle even if your settle-                                                                                    bow, club, dagger, fist & tooth, grand, katar, shield, spear, sword, 
+                                                                          Two-handed: A gear keyword. This weapon requires two hands to 
+ment cannot normally surge. You may also use Sweet Battle when                                                                                      twilight sword and whip. After reaching the first Hunt XP milestone, 
+you have no survival and/or cannot spend survival. This does not          use. Some gear and rules do not work with two-handed weapons.             survivors can declare a weapon type to gain weapon proficiency in. 
+let you surge more than once per round.
+                                                                          Undeathable: A gear special rule. If the survivor dies, roll 1d10. On     A survivor must first declare a weapon type before departing on a 
+                                                                                                                                                    hunt (write it in the space on the record sheet) and then wound a 
+Sword: Gear with this keyword is a sword weapon. Survivors may            a result of 6+, the survivor lives. If this roll occurs from the survivor 
+                                                                                                                                                    monster at least once during a showdown with that weapon type in 
+gain levels of sword weapon proficiency with this weapon.                 having a lethal amount of bleeding tokens, the survivor will not die 
+                                                                          until they gain another bleeding token.                                   order to gain levels of weapon proficiency.
+Target: The recipient of an attack or effect. Some attacks or effects 
+                                                                                                                                                    Weapon Specialization: Achieved when a survivor has three or 
+may impact survivors other than the target.                               Understanding: A survivor attribute listed on the survivor record 
+                                                                          sheet. Represents a survivor's insight about the world. Reaching an       more levels of weapon proficiency. Survivors develop new skills 
+Terrain Cards: Represent terrain that can be encountered during the       understanding level of 3 will trigger the Insight Story Event, while      which often empower that weapon.
+Showdown Phase and contain rules for how monsters and survivor 
+                                                                          reaching a level of 9 will trigger the White Secret Story Event.          Whip: Gear with this keyword is a whip weapon. Survivors may gain 
+interact with them. Terrain cards place one or more terrain tiles on 
+                                                                                                                                                    levels of whip weapon proficiency with this weapon.
+the showdown board.                                                       Uninhibited Rage: Add +1d10 strength to a wound attempt. After 
+                                                                          a wound attempt is rolled you may roll the Death Die and add the          Wound:   When a survivor successfully wounds a monster, remove 
+Terrain Tile: Terrain tiles are placed on the Showdown Board to rep-
+                                                                          result to the strength of your wound attempt.                             the top card from its AI Deck and place it in the Wound Stack. If the 
+resent physical features. The type and amount of terrain added to 
+                                                                                                                                                    AI deck is empty, shuffle the AI discard to create a new deck first. 
+the Showdown Board is determined by the terrain cards specified in        Unique: A gear special rule. A settlement may only have one copy of 
+the setup section of each monster's showdown story event.                 this gear card at a time.                                                 Wound (Reaction):    Listed on some monster hit location cards. An 
+                                                                                                                                                    action that a monster performs in response to a successful wound 
+Threat: A threat is any survivor that is not knocked down or using        Unshakable:   A gear special rule. When this survivor draws a trap 
+                                                                                                                                                    attempt at certain hit locations. 
+special gear, terrain, or abilities to prevent being considered a threat. card, roll 1d10. On a result of 6+, ignore the trap. Discard it and shuf-
+                                                                          fle the hit location deck.                                                Wound Attempt: The total power of a survivor's hit. Add the wound 
+Thrown: Gear with this keyword is a thrown weapon. Survivors may 
+                                                                                                                                                    roll result (1d10) to the attacking weapon's strength, along with any 
+not gain levels of thrown weapon proficiency.                             Unstoppable:   A gear special rule. Replace all wound rolls with a 
+                                                                          1d10 roll. On 1-5, fail to wound, on 6+ wound. You cannot cause a         other strength modifiers. If a wound attempt total meets or exceeds 
+Thundercaller: An ability. Once a lifetime, on a hunt board space af-     critical wound while using this rule.                                     the monster's toughness, then the hit location is wounded.
+ter Overwhelming Darkness, in place of rolling a random hunt event, 
+                                                                                                                                                    Wound Roll: Represents the variable ferocity of a survivor's hit. Roll 
+use "100" as your result.                                                 Unwieldy: A gear special rule. If any attack dice roll results are 1, the 
+                                                                          weapon causes 1 random damage to the survivor for each 1 rolled.          1d10 and add the result to the wound attempt. The result of this d10 
+Timeline: Tracks the number of lantern years since the establish-         Continue the attack as normal.                                            (adding luck modifiers) determines whether or not a critical wound 
+ment of your settlement on the Settlement Record Sheet. Trigger                                                                                     is caused on locations with critical wound effects.
+story and settlement events as the timeline advances.                     Vermin Resources: Vermin resources can be found in Bug Patches 
+                                                                          during showdowns or as a result of events. Vermin cards describe          Zone of [    ] / [    ] Zone: The indicated area for actions and reactions 
+Tinker: An ability. When you are a returning survivor, gain +1  .         how each vermin can be used. Vermin can also be used in the Cook-         on some monster AI and hit location cards.
+                                                                          ing Story Event.
+Tool: A gear keyword. Some tools trigger story events or grant bo-
+nuses.                                                                    Victory: Part of a monster's Aftermath. Use this result if the monster 
+                                                                          is defeated. Add that monster to the Defeated Monsters section of 
+Toughness: Toughness is the number a wound attempt total must 
+                                                                          the settlement record sheet. If a Nemesis monster was defeated, up-
+meet or exceed to successfully wound a monster.
+                                                                          date the Nemesis monster section as well.
+Toward (Movement): A direction used in reference to another point 
+                                                                          Vital: A gear special rule.  If the settlement has any gear with this 
+on the showdown board, such as a monster, survivor, terrain tile, or 
+                                                                          rule, the survivors cannot depart without this gear. If the survivor 
+board edge. 
+                                                                          holding Vital gear perishes before the showdown, another survivor 
+                                                                                                                                                                                    Kingdom Death: Monster Core Game  235

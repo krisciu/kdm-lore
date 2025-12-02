@@ -1,0 +1,46 @@
+                                                                              - Rules -
+
+
+                    Movement                                 Luck increases the range of wound roll results   wear armor and suffer damage. The hit locations are: 
+                    A starting survivor’s movement       considered critical. +1 luck causes a critical wound head, arms, body, waist, and legs. 
+                    is 5. Movement is the maximum        on an unmodified result of 9 or 10, +2 luck on 8, 9,     Hit locations have a space for armor points (in-
+                    number of spaces a survivor can      or 10, and so on. A luck modifier can be a negative  dicated by a shield icon). Without armor, hit locations 
+                    move in a single action. A survivor  number, making it impossible to roll a critical wound. have 0 armor points. 
+                    with less than 1 movement may                                                                 Hit locations have a light injury level (indicated 
+                    still move 1 space every turn.       Speed                                                by a light-lined unfilled box) and a heavy injury level 
+                                                                             A starting survivor’s speed is   (indicated by a heavier-lined unfilled box). 
+                    Accuracy                                                 0. Speed is added to a survi-        The head is an exception. Since the head is 
+                    A starting survivor’s accuracy                           vor’s weapon speed to deter-     more fragile and can withstand less injury, it only has 
+                    is 0. Accuracy is added to a hit                         mine the number of rolls to hit  a heavy injury level.
+                    roll result to determine if it is                        in an attack. Speed can be 
+                    successful. Accuracy can be a                            a negative number, in which 
+                    negative number, in which case it                        case it is subtracted from the 
+                    is subtracted from the roll result.  number of dice rolled for an attack.
+
+                    Strength 
+                    A starting survivor’s strength is 0. 4 | Survivor Locations
+                    Strength is added to the result of a 
+                    wound roll to determine the force    Hit Locations
+                    of the attack. Strength can be a 
+                    negative number, in which case it 
+                    is subtracted from the roll result. 
+
+                    Evasion 
+                    A starting survivor’s evasion is 0. 
+                    Evasion is added to a monster’s 
+                    attack profile accuracy to deter-
+                    mine the difficulty of the attack. 
+                    Evasion can be a negative number,                                                         Whenever players fill heavy injury levels on the sur-
+                    in which case it is subtracted from                                                       vivor record sheet, their survivor is knocked down, 
+                    the attack profile’s accuracy.                                                            as noted below each hit location name.
+
+                    Luck 
+                    Luck is a survivor’s chance to 
+                    cause a critical wound from a 
+                    wound roll. A starting survivor’s 
+                    luck is 0, which means they only 
+                    cause critical wounds on a result    Hit locations are areas of the survivor’s body that can 
+                    of 10 (lantern face on 1d10). 
+
+
+42

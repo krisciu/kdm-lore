@@ -1,0 +1,39 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SURVIVORS
+
+Affinities                                                                                                 if the affinities are completed on that specific card (in-
+Some gear cards have red, blue, or green half-                                                             dicated by puzzle pieces instead of boxes). Instead of 
+squares on the card edge. If a half-square is adjacent                                                     completing affinities anywhere on the grid, they must 
+to another half-square of the same color, the complete                                                     complete the specific affinities attached to the edges 
+square they form is 1 affinity.                                                                            of that gear card.
+    Some gear cards have affinity bonuses that -im
+                                                                                                           Affinity Bonus Limit
+                                                                                                           An affinity bonus from a piece of gear is only gained 
+                                                                                                           once. A survivor with a total of 5 blue affinities will only 
+                                                                                                           gain +1 luck from Lucky Charm. 
+                                                                                                           In addition, you cannot gain a second affinity bonus 
+
+
+part special effects on the survivor if the affinity re- The Survivor gains the +1 luck affinity bonus from 
+quirements are met.                                  their Lucky Charm when they have two or more com-
+    Affinity requirements are indicated by a number  plete blue squares anywhere on their gear grid.
+of small colored squares in the gear’s special rules. 
+Each colored square represents one affinity that     Puzzle Affinities
+must be in a survivor’s gear grid. You must have the In addition, some affinity bonuses can only be gained 
+affinities the rule specifies to gain the bonus of the 
+gear. 
+    For instance, the +1 luck bonus on the Lucky 
+
+
+                                                                                                           from a second identical gear. 
+
+                                                                                                           Lost Gear and Affinity Bonus
+                                                                                                           If gear forming part of an affinity is lost during the hunt 
+                                                                                                           or showdown and no longer completes affinities in a 
+                                                                                                           survivor’s gear grid, any affinity bonuses relying on 
+Charm gear card has a requirement of 2 blue affini-                                                        these affinities are also lost.
+ties.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  47

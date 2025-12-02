@@ -1,0 +1,47 @@
+                                                                                                                                                                           Story Event Story  -
+                                                            - Story Event -
+                                                                                                                                                                           GAME  OVER
+                                           GAME OVER
+
+
+                                Your campaign has ended in death and magnificent hopelessness.
+                                                       The settlement is lost.
+
+Lost Settlements
+Start a new campaign by taking a settlement record sheet and 
+filling in a box under the lost settlement section. Apply all mile-                 Skipping the First Story Showdown
+stone bonuses earned to your new campaign and begin the 
+First Story.                                                                 If you are starting a new campaign, you may 
+                                                                             optionally skip the First Story showdown and jump 
+For every successive settlement you have lost, you may fill in               straight to settlement phase setup (pg.34).
+a box and continue to earn new milestone bonuses for your 
+                                                                             If you do, roll 1d10 on the table below to quickly 
+future campaigns.                                                            determine your starting resources and gear.
+
+    1. Left Overs
+
+At the start of the showdown with the First Story White Lion,                1d10    Result
+set up 1 Survivor Corpse terrain card.
+                                                                              1 - 3  Set your population to 6. The group gains 4 basic 
+                                                                                     resources and 4 White Lion resources. Archive 2 
+      2. Those before us.                                                            founding stones.
+When the survivors reach the settlement, they find small trac-
+es of human life before them. Gain 1 skull basic resource and                 4 - 7  Set your population to 8. The group gains 4 basic 
+                                                                                     resources and 4 White Lion resources. Archive 1 
+increase the survival limit by 1.                                                    founding stone.
+ 
+                                                                              8+     Set your population to 10. The group gains 4 basic 
+        3. Ocular Parasites                                                          resources and 4 White Lion resources.
+This new generation of survivors’ eyes have better adapted 
+to the darkness. All survivors gain +1 permanent accuracy. 
+However, the First Story White Lion has grown fat from all the 
+survivors it’s eaten. At the start of the showdown, it gains +1 
+damage token and -1 movement token.
+                                                                        Game Modes
+                                                                        In the Game Variant section, at the back of this book is a list 
+          4. Rainy Season                                               of game modes that can alter the difficulty of the campaign. 
+The weather is extremely temperamental. Add the Acid Storm              Before starting a new campaign you may discuss with your 
+settlement event to the timeline years 3, 7, 13, 19.                    group what additional rules, if any, you would like to apply.
+
+
+                                                                                                                              Kingdom Death: Monster Core Game  123

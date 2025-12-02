@@ -1,0 +1,87 @@
+      Rewards: Rewards are gained by defeating monsters. They are list-         Sharp: A gear special rule. Add 1d10 strength to each wound attempt       number of attack rolls. If speed is negative, subtract it from the num-
+      ed on the monster's showdown story event. Gain rewards as a group,        using this gear. This d10 is not a wound roll, and cannot cause critical  ber of dice rolled for an attack. A monster or survivor attack with 
+      once per victorious showdown (unless stated otherwise).                   wounds.                                                                   less than one speed still has one attack roll. Weapons with the Slow 
+                                                                                                                                                          keyword cannot benefit from positive speed bonuses.
+      Round (Showdown): The showdown proceeds in rounds, consisting             Shield: Gear with this keyword is a shield weapon. Survivors may 
+      of the monster's turn followed by the survivors' turn. Rounds will        gain levels of shield weapon proficiency with this weapon.                Stalwart: An ability. Ignore knocked down effects of brain trauma, 
+      continue until the monster is dead or all the survivors are dead.                                                                                   disorders, and intimidation actions. 
+                                                                                Showdown Board: Used to represent the area where the survivors 
+      Run Away: Once a settlement has innovated Pictographs, survivors          face the monster in battle. Specific rules for setting up the show-       Starvation: If the survivors move into this space (including starting a 
+      may abandon a Hunt or Showdown Phase at any time. Follow the              down board are found on each monster's showdown story event.              showdown) apply the rules listed on the hunt board.
+      instructions on the Run Away story event.
+                                                                                Showdown Board Edge:      Generally, monsters or survivors cannot         Stinky: A gear keyword. This item has a strong odor.
+      Savage: A gear special rule. Once per attack, if you critically wound,    move off the edge of the showdown board. Any knockback or full 
+                                                                                                                                                          Story of the Forsaker: An ability. You cannot be knocked down 
+      cause 1 additional wound. This effect does not apply to impervious        move effects that would bring a miniature past a board edge stops 
+                                                                                                                                                          during a showdown with a nemesis monster.
+      hit locations.                                                            at the edge instead.
+                                                                                                                                                          Story of the Goblin: An ability. Once per showdown, you may roll 
+      Secret Fighting Arts: Secret fighting arts are fighting arts that can-    Showdown Phase:     The part of a session where survivors face off 
+                                                                                                                                                          1d10. On a 3+, gain the priority target token and the monster gains 
+      not be gained normally. Each secret fighting art has a corresponding      against a monster. See individual monster showdown pages for in-
+                                                                                                                                                          +1 damage token.
+      card that describes the rules for using it. These count toward your       structions on how to start and end the Showdown Phase.
+      fighting art maximum of 3.                                                                                                                          Story of the Young Hero: An ability. At the start of each of your acts, 
+                                                                                Showdown Setup: A component of each monster's showdown story 
+                                                                                                                                                          you may choose to gain 1 survival and 2 bleeding tokens.
+      Selfish: A gear special rule. A gear with this rule may not be in a       event. Contains instructions for setting up terrain tiles and monster 
+      same gear grid with any gear with the "other" keyword.                    and survivor miniatures on the showdown board before a battle.            Story Event:   An event which impacts the settlement/survivors. 
+                                                                                                                                                          Common triggers include: the settlement timeline; survivor mile-
+      Sentient:  A gear special rule. A survivor must be insane to activate     Sickle: A gear keyword. In certain situations, this can be used to har-
+                                                                                                                                                          stones in Hunt XP/courage/understanding; monster cards; settle-
+      this gear.                                                                vest herbs.
+                                                                                                                                                          ment events. When       appears, trigger the story event by turning 
+      Session: A typical session is comprised of three phases: Hunt Phase,      Skewer: After you slam, spend       to move 1 space and activate a        to the appropriate page in the rulebook and following its instruc-
+                                                                                                                                                          tions.
+      Showdown Phase, and Settlement Phase. Some events may make                melee weapon with +2 strength. If you wound with a spear, apply 
+      survivors skip one or more of these phases. For example, Nemesis          that wound roll result to the next selected hit location this attack.     Strange Resources: Resource cards only gained in specific circum-
+      Encounters have no Hunt Phase.                                                                                                                      stances. Strange monster resources are not shuffled into monster 
+                                                                                Skip Next Hunt: Fill in the Skip Next Hunt box on the survivor's re-
+                                                                                                                                                          resource decks.
+      Set: A gear keyword listed on some armor cards. This means this           cord sheet. The survivor may not be selected as a departing survivor. 
+      armor is part of an armor set.                                            After departing survivors are chosen, erase all filled Skip Next Hunt     Strength (Attribute/Modifier/Bonus): Strength is added to the re-
+                                                                                boxes on all survivor record sheets.                                      sult of a wound attempt. If strength is a negative number, subtract it 
+      Settlement:  The unique collection of locations, innovations, prin-
+                                                                                                                                                          from the wound attempt result. 
+      ciples, gear, resources and survivors that represent the survivors'       Slam:  A gear special rule. Spend      and full move forward in a 
+      home. Survivors are at the settlement during the Settlement Phase.        straight line. If you move 4+ spaces and stop adjacent to a monster,      Strength (Weapon): The number a weapon adds to wound attempt. 
+                                                                                it suffers knockback 1 and -1 toughness until the end of the round.
+      Settlement Board: The settlement board is located on the reverse                                                                                    Super-dense:   A type of hit location. This hit location is unusually 
+      side of the Hunt Board. The spaces on the board correspond to steps       Slow: A gear special rule. Slow weapons always have an attack speed       hard. If a survivor attempts to wound one of these locations with 
+      in the Settlement Phase to guide players along.                           of 1. Do not add speed modifiers.                                         a frail weapon, it is destroyed and archived at the end of the attack.
+
+      Settlement Event: An event occurring during the Settlement Phase.         Sniff: The White Lion's instinct. Described on the White Lion's show-     Surge: A type of survival action. When opportunity permits, a sur-
+                                                                                down story event.                                                         vivor may spend 1 survival to surge. Gain +1    which must be spent 
+      Settlement Phase: During the Settlement Phase, survivors experi-
+                                                                                                                                                          immediately. This allows them to activate a weapon, interact with 
+      ence settlement and story events, spend endeavors, craft gear, and        Soluble: A gear keyword. Able to be dissolved in liquid.
+                                                                                                                                                          terrain, use gear, and anything else spending an activation allows 
+      determine which survivors depart on the next hunt. This is the only 
+                                                                                Sour Death: An ability. When you are knocked down, you may en-            them to do. Resolve the results of the surge (including any monster 
+      phase where survivors may change or rearrange their gear grids.
+                                                                                courage yourself (even if you are deaf). If you do, gain +1 strength      reactions) before resuming the turn. Each survivor may only surge 
+      Settlement Record Sheet: Helps the players keep track of the devel-       token.                                                                    once per round, and only if the settlement has the Inner Lantern in-
+      opment of their settlement.                                                                                                                         novation. 
+                                                                                Spear: Gear with this keyword is a spear weapon. Survivors may 
+      Severe [Location] Injury: When survivors' armor points and injury         gain levels of spear weapon proficiency with this weapon.                 Survival: Survival is the desperate desire to cling to life. Survival 
+      levels are exhausted, they may accumulate temporary or permanent                                                                                    points are gained and lost throughout the campaign. They are spent 
+                                                                                Special Showdown:     Special Showdowns interrupt the Settlement 
+      severe injuries from the severe injury table. When a survivor suffers                                                                               to perform extraordinary feats and change your fate. Update the 
+                                                                                Phase. After they conclude (regardless of victory or defeat) the Set-
+      permanent injuries, note the name and rules on your record sheet                                                                                    survival box on your character record sheet as it is gained and lost.
+                                                                                tlement Phase continues where it left off. Do not generate endeav-
+      and adjust their attributes as necessary. Some injuries fill the Skip 
+                                                                                ors or trigger new story events. Each Special Showdown's details are      Survival Action: Survival actions are the most common uses for sur-
+      Next Hunt box on the survivor record sheet.  Otherwise, severe inju-
+                                                                                listed on the story event or innovation that triggered it.                vival points. There are 4: dodge, encourage, dash, and surge. 
+      ries last until the end of the showdown and are marked by attribute 
+      tokens.                                                                   Speed (Attack Profile/Weapon): The number of attack rolls (num-           Survival Limit: Survival limit is the maximum amount of survival a 
+                                                                                ber of dice rolled). Usually determined by a monster AI card's attack     survivor may have. Survival limit is recorded on the settlement re-
+      Severe Injury Tables: Contains sections of possible severe injuries 
+                                                                                profile or speed on a survivor's weapon.                                  cord sheet. Innovations and events raise the settlement's survival 
+      to hit locations. Each hit that causes a severe injury prompts a roll on 
+                                                                                                                                                          limit. At the start of the campaign, the survival limit is 1. Survival 
+      that location's severe injury table.                                      Speed (Attribute/Modifier/Bonus): Speed is added to a survivor's 
+                                                                                                                                                          gained over the survival limit is lost.
+                                                                                weapon speed or a monster's attack profile speed to determine the 
+234

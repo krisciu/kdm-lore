@@ -1,0 +1,41 @@
+                                                                                                                                                                                                                                          Core  Rules -
+                                                                                                       - Rules -
+                                                                                                                                                                                                                                          HUNT  EVENT  TABLE
+100 | The Finale
+
+An enormous, metallic sound rings out from a distance. 
+All survivors are electrified with dread; they suffer 2 brain 
+event damage.
+      The survivors may follow the sound. Otherwise, they 
+panic and retreat in the opposite direction; end this event 
+and move the survivors 2 spaces back on the hunt board.
+      Each survivor gains +1 courage and gingerly ap-
+proaches the sound’s origin. As they travel, they pass the 
+shattered corpses of strange beasts. 
+      If any survivor has 3+ understanding, they follow the 
+trail of corpses. Otherwise, harvest 3 random basic re-
+sources from the corpses and end this event.
+      Arriving at a massive anvil, the survivors see a giant, 
+one-eyed knight, its charcoal-colored armor reflecting their 
+lantern light. The event revealer rolls 1d10.
+ 1d10    Event revealer
+ 1       The knight stares at the survivors. All survivors with 
+         less than 3 courage are struck dead. All other survi-
+         vors flee in horror.
+ 2 - 8   The knight approaches the survivors. In an instant, 
+         it chops off a random survivor's ear; they gain 1 
+         bleeding token. Then, it strikes the anvil, blinding 
+         the survivors with a churning wall of sound. When 
+         they open their eyes, the knight is gone and the Steel 
+         Sword and Steel Shield rare gear rest in its place. The 
+         group divides the gear between them.
+ 9 +     The knight smashes the object in its hands upon the 
+         anvil. When the molten orange object cools, it sets 
+         into a massive lion-faced hammer. The knight places it 
+         in the hands of the survivor with the highest courage 
+         (roll off in case of ties). They gain the Thunder Maul 
+         rare gear. A current of electricity runs through their 
+         body, joining weapon and survivor forever.
+
+
+                                                                                                                                                                                    Kingdom Death: Monster Core Game  105

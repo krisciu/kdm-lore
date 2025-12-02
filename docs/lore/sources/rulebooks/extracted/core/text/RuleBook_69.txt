@@ -1,0 +1,46 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SHOWDOWN  PHASE
+
+cards may only have 1 action.                        This is a conditional action. If the target suffered Playing Moods & Traits
+    Some AI actions are conditional. If the condi-   damage more than once, the condition of the action   Moods & Traits have persistent effects over multiple 
+tions are met, perform the action. Otherwise, contin- is met. Since there are no actions left on the card, rounds. These cards may change a monster’s be-
+ue to the next action.                               Combo Claw is resolved. The monster controller       havior and/or actions as play continues.
+    If there are no further actions on a card, the card discards Combo Claw, then draws and plays a new 
+is resolved. Discard the AI card by placing it face  AI card. 
+up on the monster control panel in the discard pile. 
+Then, continue the round.                            If the monster’s attack missed, or the target avoided 
+The White Lion’s Combo Claw has 3 actions and 1      being hit more than once, the condition is not met 
+Persistent Injury (Lost Hand).                       and the monster controller does not draw another AI 
+                                                     card. Since there are no further actions on Combo 
+After drawing Combo Claw, the monster controller per- Claw, the card is resolved. Discard Combo Claw 
+forms the first action on the card,Pick  Target. The mon- and continue the round.
+ster controller picks a target according to the target list. 
+Whenever a flow is reached on an AI card, survivors     Persistent Injuries
+have a window of time where they may spend sur-      Persistent injuries are conditional actions that re-
+vival and perform survival actions (dash, encourage, place the normal rules of an AI card. If a persistent 
+surge) before advancing to the next monster action.  injury action is performed, ignore any other actions 
+                                                     on the card. 
+Complete any survival actions before moving to the 
+next monster action.                                                                                      Apply any persistent rules as long as the card re-
+                                                                                                          mains in play (any time after it is drawn and before 
+               Move & Attack Target                                                                       it is discarded). Perform any conditional actions as 
+                                                                                                          their conditions are met.
+
+                                                     Persistent injury actions are only performed when    If an AI card contains an action to “draw ,” com-
+                                                     the monster draws an AI card with a persistent in-   plete any applicable actions on the current AI card 
+The monster controller moves the monster towards     jury action that matches a persistent injury on a hit before drawing and playing a new AI card.
+the target and performs the monster’s attack. After the location in play.
+attack is resolved, advance to the next action on Com-   When the White Lion draws Combo Claw, the        The White Lion’s Ground Fighting mood states that 
+bo Claw. After a second flow, perform the next action. monster controller checks the monster control panel the monster does not draw AI cards while this card 
+                                                     for hit locations currently in play as a result of critical is in play. 
+       If this attack deals damage more than         wounds suffered earlier in the showdown.                 Instead, each round the monster controller will 
+                                                         If the Strange Hand hit location is in play with monitor the Zone of Death specified on the card and 
+                                                     the Lost Hand Persistent Injury, the White Lion ig-  perform a Basic Action targeting any survivor that 
+                                                     nores all other actions on Combo Claw and per-       spends activation in the specified spaces. 
+                  once, draw    .                    forms Lost Hand. The monster controller awards all       When the monster is wounded, discard Ground 
+                                                     adjacent survivors +1 understanding, then discards   Fighting. When the card is discarded, the White Li-
+                                                     Combo Claw card and continues the round.             on’s behavior returns to normal.
+
+
+                                                                                                                                  Kingdom Death: Monster Core Game  67

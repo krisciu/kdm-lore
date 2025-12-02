@@ -1,0 +1,46 @@
+                                                                              - Rules -
+
+
+    Terrain & Deployment                                 The Showdown Round                                   The monster controller draws the top AI card on the 
+    Each monster’s showdown story event has a Terrain    The showdown proceeds in rounds consisting of the    monster’s AI deck and plays it. If there are no cards 
+    and Deployment section. It lists specific and random monster turn followed by the survivors’ turn. Rounds in the AI deck, shuffle the discard pile, create a new 
+    terrain to place on the showdown board.              will continue until the monster is dead or all the sur- AI deck, and draw the top card.
+                                                         vivors are dead.                                      
+    Note the quantity of terrain tiles each terrain card in-                                                  If the monster does not have any cards in either its AI 
+    structs you to place, as many terrain cards add more Unless otherwise stated, monsters always go first.   deck or its AI discard pile, it will perform its Basic Ac-
+    than one terrain tile to the showdown board.                                                              tion (listed on the monster’s Basic Action/Reference 
+                                                         Each round, a new player takes the monster control-  Card) instead of drawing AI cards until it is defeated.
+    First, use any specifically listed terrain cards to set ler tile and is responsible for controlling the monster 
+    up their corresponding terrain tiles according to the that turn. The monster controller tile moves clock- End Turn
+    Showdown Setup diagram found on the story event.     wise at the start of every round.                    Some AI cards and persistent injuries have rules 
+    If the terrain tiles are not on the diagram, follow the                                                   that are performed at the end of the monster’s turn. 
+    setup rules on the bottom of each card. Set aside    Monster Controller Bonus                             If there are multiple instances, the monster controller 
+    these terrain cards.                                 When a monster controller’s survivor is selected as  decides the order in which to perform them. Once 
+                                                         the monster’s target, this foolhardy action earns that these are resolved, the monster’s turn comes to an 
+    Next, add random terrain by shuffling the terrain deck player’s survivor +1 insanity.                     end and the round continues.
+    and drawing the number of cards specified by the 
+    story event. Set up their corresponding terrain tiles, If you control more than one survivor, make sure   Playing AI Cards
+    one card at a time, according to the rules on the bot-       to nominate a different survivor each time   After drawing an AI card, the monster controller 
+    tom of each card.                                            you take the monster controller tile, cycling should read the card in its entirety, then perform all 
+                                                                 through all possible survivors.              the actions on the card. AI cards consist of actions, 
+    Place the monster and survivors on the showdown                                                           flows, alerts, and persistent injuries.
+    board according to the Showdown Setup diagram.                                                            Perform each action before moving to the next. Some 
+    Once the terrain, the monster, and the survivors are Monster Turn 
+    on the showdown board, the showdown begins.
+                                                         A monster’s turn proceeds in the following order:
+    Additional Terrain
+    Some effects add extra terrain to the showdown       1. Start Turn
+    board. Unless directed otherwise, always follow the  2. Draw AI                                                   ACTION
+    setup rules on the bottom of the card.               3. End Turn
+                                                                                                                  FLOW
+                                                         Start Turn
+                                                         Some AI cards and persistent injuries have rules that        ACTION
+                                                         are performed at the start of the monster’s turn. Make 
+                                                         sure to perform them before drawing an AI card. If       FLOW
+                                                         there are multiple instances, the monster controller         ACTION
+                                                         decides the order in which to perform them.
+                                                         Draw AI                                                PERSISTENT 
+                                                                                                                 INJURY
+
+
+66

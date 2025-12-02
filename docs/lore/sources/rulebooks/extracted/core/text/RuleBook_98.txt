@@ -1,0 +1,61 @@
+                                                                                           - Rules -
+
+
+      1d10   Event revealer                                                                                                       1d10   Survivor carrying a pickaxe - Investigate
+                                                                   42 | Surgeon
+      17 +   Just before it leaps out of view, the Gregalope                                                                      1      The white stones are teeth and the survivors are in 
+             bows its mighty horns. The experience changes the     A creaky carriage approaches the survivors. Richly ap-                a giant mouth! Everyone must spend 1 survival to 
+             exhausted event revealer. They gain +1 permanent                                                                            scamper out of the mouth. Anyone remaining inside 
+             movement.                                             pointed in red and gold, the carriage is carved on every              is chewed to a pulp. Dead. Do not gain the benefits of 
+                                                                   side with lurid faces.  A massive, twitching eye adorns               Cannibalize.
+                                                                   the front, while the door of the carriage is a waiting, open 
+                                                                   mouth.                                                         2 - 5  The white stone is extremely hard. When the survivors 
+     39 | Heavy Mist                                                   Out of a small window, a gnarled hand beckons.                    finally break through, a horde of bugs scuttles forth from 
+                                                                   One survivor with 3+ courage may choose to enter the                  the holes. Gain 1 Hissing Cockroach vermin resource. The 
+     A heavy mist envelops the survivors, obscuring their lan-     wagon. They remove one impairment or severe injury and                excavation was time consuming; roll again on the hunt 
+     tern light. Roll 1d10. If the result is even, the survivors   gain 1 random disorder.                                               event table before moving on the hunt board.
+     stumble in the right direction. If the result is odd, they get                                                               6 +    The survivors find a crack and expand it. Within is 
+     turned around; roll again on the hunt event table before                                                                            a hidden cache! Gain 1 Iron strange resource and 1 
+     moving on the hunt event board.                               43 | Fresh Kill                                                       Hissing Cockroach vermin resource. The excavation 
+          If the showdown begins in the next space on the                                                                                was time consuming; roll again on the hunt event table 
+     hunt board, the monster ambushes the survivors.               A carpet of skittering bugs points the survivors to a freshly         before moving on the hunt board.
+                                                                   killed monster. The scavenging insects try to defend their 
+                                                                   dinner, but the survivors fight them off to claim the prize.
+     40 | Dream                                                       Each survivor rolls 2d10 and adds their Hunt XP. The      46 | River
+                                                                   highest-scoring survivor (roll off in case of ties) slays the 
+     The event revealer dreams of the upcoming hunt.  They         most vermin and wins the putrid prize for themselves.        The survivors come to the edge of a river of blood. 
+     stand before the great beast, weapons ready, but it strikes   They gain 1 random basic resource and 1 random vermin        Non-insane  survivors suffer 1 brain event damage at the 
+     them down.                                                    resource.                                                    sight of it. The survivors must investigate in order to pick 
+          If the event revealer has 3+ courage, or if any survi-                                                                up their quarry’s trail. Each survivor rolls 1d10.
+     vor is a savior, the event revealer is emboldened by the                                                                        If no survivor successfully finds the monster’s trail, 
+     dream and gains +1 evasion token. Otherwise the dream         44 | Opportunists                                            roll again on the hunt event table before moving on the 
+     is merely rattling. Suffer 1 brain event damage.                                                                           hunt board.
+          If any survivor has the Twilight Sword, they dream       While investigating their quarry's tracks, the survivors re-
+                                                                                                                                  1d10   Each survivor - Investigate
+     of indiscriminate slaughter. Add the Murder settlement        alize they are hunting not one, but two monsters. The two 
+     event to the timeline 1d5 years from now.                     sets of tracks soon separate, leaving the event revealer to    1 - 2  You lose your balance and fall into the river of blood! 
+                                                                   pick which tracks to follow.                                          Instantly, a massive parasite crams its way down 
+     41 | Nightmare                                                    If they follow the larger tracks, continue hunting as             your throat, savaging your insides on the way in. 
+                                                                   normal. If they follow the smaller tracks, start the show-            Suffer the broken rib severe body injury. You hope 
+     The event revealer dreams of the upcoming hunt. The           down immediately. At the start of the showdown, the                   that that's all the parasite does to you.
+     great beast vanishes during their battle and secretly fol-    monster suffers 5 wounds. If the survivors are victorious,     3 - 5  Your quarry has defecated in the blood. Suffer 1 
+     lows them back to the settlement. They helplessly watch       they gain half the basic resources and half the monster               event damage to a random hit location from sifting 
+     as it devours all they know and love. The event revealer      resources (rounded up) from rewards in the aftermath.                 through the fecal blood water too long.
+     gains +1d10 insanity and -1 evasion token.
+          If the settlement has a savior, they appear in the                                                                      6 - 8  You realize that the blood river is filled with the 
+     dream and defend their home. The event revealer gains         45 | Jagged Valley                                                    bloated corpses of unrecognizable monsters. You 
+     +1d5 survival.                                                                                                                      feel compelled to fish some out! Gain 1 random basic 
+                                                                                                                                         resource. If you are wearing heavy gear, you fall in 
+          If no survivor in the settlement or hunting party has    A valley of sharp, white stones opens before the survi-               and swallow blood and soft, bloated monster bits. 
+     a Twilight Sword, the event revealer envisions a mani-        vors, looking just like a toothy maw. As the survivors push           Reduce your survival to 1.
+     acal version of themselves wielding the blade and glee-       and climb through the jagged spires, they find that even 
+     fully slaughtering the beast. They awake to find a Twilight   the shallowest nick bleeds profusely. Each survivor suf-       9 +    You successfully find the monster's trail.
+     Sword at their side, humming gently against their body.       fers 1 event damage to the body. Unless a survivor has 
+     Instinctively the survivor recognizes the weight of the       bandages to patch up their wounds, all survivors also gain 
+     weapon’s curse and the promise of its power. The event        2 bleeding tokens!                                            47 | Banquet Trees
+     revealer gains the Twilight Sword rare gear. They may             If any survivor has a pickaxe, they may try to convince 
+     also select Twilight Sword as their weapon proficiency        the other survivors to let them investigate a bit more. If    A small copse of trees rises over an otherwise lifeless 
+     type and gain +1 weapon proficiency with this weapon.         they are convinced, roll 1d10.                                plain.  Enticing red fruit hangs from the branches. Each 
+
+
+96

@@ -1,0 +1,46 @@
+                                                                                                                                                                       Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SURVIVORS
+
+Brain                                                6 | Weapon Proficiency                               milestone, they gain the benefits of the specialization 
+The Brain is a survivor location different from hit loca-                                                 card for their selected weapon type. Specializations 
+tions, and represents a survivor’s mental fitness. The                                                    are advanced abilities that can be used with that 
+Brain can only be damaged by brain damage.                                                                weapon. They keep these benefits while their mile-
+    Since the human mind is fragile, there is only                                                        stone remains filled.
+one injury level for the Brain (indicated by the light-                                                       When a survivor reaches a weapon mastery, 
+lined unfilled box).                                                                                      it is permanently added to your settlement as  an 
+                                                     When a survivor reaches the first Hunt XP milestone, innovation. The survivor’s command of the weapon 
+Insanity                                             the Age Story event grants them weapon proficiency.  is so extensive that all current and future survivors 
+Insanity protects the Brain location the same way    They may select a weapon type and start gaining      of that settlement gain that weapon’s specialization 
+that armor protects hit locations. The more insane   weapon proficiency levels with this weapon.          ability in addition to their own weapon proficiencies. 
+a survivor is, the less likely they are to be shaken by   A weapon’s type is a keyword on the gear card   The master will keep the full benefits of the mastery, 
+the horrors that befall them.                        below the name. The following weapons may be         so long as the innovation remains in the settlement.
+    Insanity points are gained and lost throughout   selected as a weapon proficiency: axe, bow, club,        If a new survivor wants to gain the benefits of 
+the campaign. Having 3+ insanity makes a survivor    dagger, fist & tooth, grand weapon, katar, shield,   a mastery that is already an innovation in the settle-
+insane,  which can stand in the way of making ratio- spear, sword, and whip.                              ment, they must gain all 8 weapon proficiency levels.
+nal decisions during some events. 
+    As the amount of insanity increases and de-      Earning Weapon Proficiency Levels                    7 | Courage and Understanding
+creases, update the insanity box on your record      During a showdown, a survivor must wound a mon-
+sheet.                                               ster at least once with their chosen weapon type to 
+                                                     become eligible to gain 1 level of weapon proficiency.
+                                                         During the Aftermath, if they are victorious, eligi-
+5 | Hunt Experience ( Hunt XP)                       ble survivors gain 1 weapon proficiency level. Fill in 
+                                                     the next unfilled box on the survivors record sheet to 
+                                                     indicate this.
+                                                         A survivor cannot gain weapon proficiency if they 
+                                                     do not have a weapon type selected (unless stated 
+                                                     otherwise). They have not yet dedicated themselves 
+Survivors gain Hunt Experience during the aftermath  to training and thus, cannot learn.                  Courage and understanding will aid survivors 
+of a victorious showdown.                                                                                 throughout the hunt and showdown. Some events 
+    When a survivor gains Hunt XP, update their      Changing your Weapon Type                            require levels of courage or understanding to partic-
+record sheet by filling in the next unfilled Hunt XP A survivor may change their selected weapon type     ipate in them.
+box.                                                 when they depart for a hunt. If they do, lose all ac-    Courage is a survivor’s potentially ill-advised 
+    Some hunt experience levels have milestones      crued levels of weapon proficiency, including weapon bravery, and understanding is a survivor’s insight. 
+(indicated by a heavy-lined box) that trigger the Age specializations. Erase any filled boxes and start over Courage and understanding have milestones (indi-
+story event. The number of milestones filled indicates with the new weapon type.                          cated by heavy-lined boxes on the record sheet) that 
+which Age rules to apply.                                                                                 trigger story events the first time a survivor reaches 
+    When the final hunt experience box is filled, the Weapon Specialist / Mastery                         that milestone. They can only be triggered once in a 
+survivor is too old to hunt, and must retire.        When a survivor reaches the specialization           lifetime for each survivor.
+
+
+                                                                                                                                 Kingdom Death: Monster Core Game  43

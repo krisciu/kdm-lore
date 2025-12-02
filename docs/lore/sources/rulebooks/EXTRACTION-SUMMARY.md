@@ -1,85 +1,63 @@
-# Kingdom Death Simulator - Data Extraction Summary
+# Kingdom Death Simulator - Text Extraction Summary
 
-**Extraction Date:** December 2, 2025
-**Source:** Kingdom Death Simulator v0.1.250
-**Location:** `/Users/krisciu/.local/share/Launcher Of Death/KingdomDeathSimulator/`
+**Extraction Date:** December 2, 2025  
+**Source:** Kingdom Death Simulator v0.1.250  
+**Location:** `/Users/krisciu/.local/share/Launcher Of Death/KingdomDeathSimulator/`  
+**Method:** UnityPy (proper Unity asset parsing)
 
 ## Extracted Content
 
-### Core 1.6 Rulebook (`core-1.6/`)
+### Core Rulebook (`core-1.6/FULL-RULEBOOK.txt`)
 
-| File | Lines | Size | Description |
-|------|-------|------|-------------|
-| `game-rules-clean.txt` | 15,684 | ~500KB | Cleaned game rules, mechanics, phases |
-| `lore-content.txt` | 29,042 | 741KB | Monster names, locations, factions, story |
-| `events-content.txt` | 9,310 | 267KB | Story events, hunt events, settlement events |
-| `rules-content.txt` | 22,398 | 721KB | Game terminology and mechanics |
-| `readable-text.txt` | 190,644 | 4.2MB | All readable text (unfiltered) |
-| `rulebook-pages.txt` | 239 | 2.9KB | Rulebook page references |
-| `core-expansion-readable.txt` | 7,459 | 223KB | Core expansion assets |
+**4,679 lines** of clean, readable rulebook text including:
 
-### Expansions (`expansions/`)
+- Table of Contents (page 3)
+- Prologue & First Story (pages 5-35)
+- Survival Guide (page 36+)
+- Core Rules: Survivors, Monsters, Resources, Terrain
+- Hunt Phase rules (page 61+)
+- Showdown Phase rules (page 65+)
+- Settlement Phase rules (page 81+)
+- Severe Injuries & Brain Trauma (pages 86-89)
+- Hunt Events (page 90+)
+- Story Events (pages 107-185)
+- Finale events (pages 187-195)
+- Game Variants & Glossary (pages 226-228)
 
-| File | Lines | Size | Description |
-|------|-------|------|-------------|
-| `gamblers-chest-readable.txt` | 14,532 | 538KB | Gambler's Chest content |
-| `gamblers-chest-content.txt` | 648 | 15KB | GC game-specific content |
-| `gamblers-chest-prose.txt` | 200 | 7.9KB | GC prose text |
-| `expansions-of-death-001-readable.txt` | 135,793 | 4.5MB | Expansion monsters (Gorm, Spidicules, DBK, etc.) |
-| `expansions-of-death-001-content.txt` | 372 | 8KB | Expansion game content |
-| `heirlooms-readable.txt` | 2,600 | 85KB | Heirlooms content |
-| `miscellaneous-001-readable.txt` | 22,582 | 762KB | Misc expansion content |
+### Individual Pages (`extracted/core/`)
 
-## Content Types Extracted
+130 individual rulebook page files:
+- `RuleBook_3.txt` through `RuleBook_237.txt`
+- Each file contains one rulebook page with OCR'd text
 
-### Rules & Mechanics
-- Settlement phase rules
-- Hunt phase rules  
-- Showdown phase rules
-- Gear and equipment
-- Innovations
-- Hit locations and injuries
-- Monster AI behavior
+### DLC Content (`extracted/*/`)
 
-### Lore & Story
-- Monster descriptions (White Lion, Butcher, Phoenix, etc.)
-- Location references (Holy Lands, Lantern Hoard, etc.)
-- Story events and hunt events
-- Character archetypes (Twilight Knight, etc.)
-- Settlement events
+MonoBehaviour JSON data for:
+- Gambler's Chest expansion
+- Expansions of Death 001
+- Heirlooms
+- Common content
+- System UI elements
 
-### Expansion Content
-- Gambler's Chest (Crimson Crocodile, Smog Singers, Atnas, Philosophies)
-- Expansions of Death (Gorm, Spidicules, Dung Beetle Knight, Sunstalker, etc.)
-- Heirlooms system
-- Additional monsters and content
+## Content Quality
 
-## Extraction Method
-
-Used `strings` command to extract readable text from Unity asset bundles:
-- Main game: `resources.assets` (62MB)
-- DLC bundles: Various `.bundle` files (940MB - 1.1GB each)
-
-Filtered using grep to separate:
-1. Game rules and mechanics
-2. Lore and story content
-3. Event text
-4. Monster-specific content
-
-## Notes
-
-- Text is OCR'd from rulebook pages, may contain minor OCR errors
-- Some text fragments are partial due to asset bundling
-- Unity internal references have been filtered out where possible
-- Raw extraction file preserved for reference (`raw-strings-extract.txt`)
+The UnityPy extraction provides:
+- ✅ Clean, readable text
+- ✅ Proper page formatting preserved
+- ✅ Tables and columns maintained
+- ✅ Rules text complete and usable
 
 ## Usage
 
-For lore research, start with:
-- `lore-content.txt` - Monster and location references
-- `events-content.txt` - Story and hunt events
-- `game-rules-clean.txt` - Core game mechanics
+For lore research, use:
+- `core-1.6/FULL-RULEBOOK.txt` - Complete rulebook in one file
+- `extracted/core/RuleBook_*.txt` - Individual pages
 
-For expansion research:
-- Check corresponding expansion files in `expansions/`
+## Extraction Script
 
+Located at: `scripts/extract_unity_text.py`
+
+Run with:
+```bash
+python3 scripts/extract_unity_text.py
+```

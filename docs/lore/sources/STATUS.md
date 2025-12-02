@@ -216,56 +216,83 @@ docs/lore/sources/
 
 | Category | Have | Need | % Complete |
 |----------|------|------|------------|
-| Shop Expansions | 18 | ~4 | 82% |
-| Wanderers/Pillars | 6 | ~10 | 60% |
+| Shop Expansions | 20 | ~4 | 83% |
+| Wanderers/Pillars | 8 | ~8 | 50% |
 | Special Survivors | 2 | ~5 | 40% |
 | Guides | 4 | ~6 | 67% |
-| Newsletters (2025) | 6 | 6 | 100% |
-| Newsletters (2024) | 0 | ~12 | 0% |
+| Newsletters (2025) | 8 | 8 | 100% |
+| Newsletters (2024) | 2 | ~12 | 17% |
 | Newsletters (older) | 0 | ~90 | 0% |
 | Kickstarter | 1 | ~50 | 2% |
-| Rulebooks | 6 | ~20 | 30% |
+| Rulebooks/Extracted | 150+ | ~200 | 75% |
 | Locations | 4 | ~10 | 40% |
 | Factions | 2 | ~5 | 40% |
-| Characters | 3 | ~15 | 20% |
-| **OVERALL** | **~50** | **~200** | **~25%** |
+| Characters | 5 | ~15 | 33% |
+| **OVERALL** | **~236** | **~400** | **~59%** |
 
 ---
 
 ## 🎯 Next Actions
 
+### Completed This Session ✅
+1. ✅ Scrape KDU #104-109 (2025 newsletters) - 8 files
+2. ✅ Scrape KDU #99, #101 (2024 newsletters) - 2 files
+3. ✅ Scrape Screaming God Expansion (preorder)
+4. ✅ Scrape Campaigns of Death (preorder)
+5. ✅ Scrape Wanderer - Preacher (preorder)
+6. ✅ Scrape Priestess Percival
+
 ### Immediate (Can do now)
-1. ✅ Scrape KDU #104-108 (2025 newsletters) - DONE
-2. ⬜ Scrape KDU #100-103 (late 2024 newsletters)
-3. ⬜ Scrape remaining shop expansions (Manhunter 404, need alternatives)
+- ⬜ Some newsletter URLs (KDU #100, #97-98) return 404
+- ⬜ Scrape Indomitable Survivor character pages
+- ⬜ Scrape more Vignettes of Death content
 
 ### Short-term
-4. ⬜ Scrape Gambler's Chest Kickstarter overview
-5. ⬜ Scrape KDU #90-99 (2024 newsletters)
-6. ⬜ Scrape more miniatures collection for character lore
+- ⬜ Scrape Gambler's Chest Kickstarter overview
+- ⬜ Scrape KDU #80-96 (older 2024 newsletters)
+- ⬜ Process extracted rulebook content into organized lore files
 
 ### Long-term
-7. ⬜ Complete newsletter archive (all KDU issues)
-8. ⬜ Compile all Kickstarter updates
-9. ⬜ Full rulebook OCR processing
+- ⬜ Complete newsletter archive (all KDU issues)
+- ⬜ Compile all Kickstarter updates
+- ⬜ Organize 150+ extracted rulebook pages into categories
 
 ---
 
-## 📝 New Lore Discoveries (This Session)
+## 📝 New Lore Discoveries (Session 2)
 
-### Monsters
+### NEW Monsters/Entities
+- **Screaming God** - Sonic wail causes instant death, 2026 preorder
+- **Atnas** - "Unseen Shooting Star", monster that cannot be remembered (Gambler's Chest)
+
+### NEW Survivors/Characters
+- **Priestess Percival** - Young prodigy, trained in land bathed in sun, returned to "Citadel in the Sky"
+- **Guinevere** - Born under a lantern eclipse, hesitant hunter who showed prowess defending settlement
+- **Brave** - From Killennium Butcher Vignette, "unfaltering idealist with Heart of a Hero"
+- **Erza of Dedheim** - Guards the black gates for Grozharous the Pale Turnip King
+- **Gunborg** - Wielder of sentient weapon Goblin Snarfer
+
+### NEW Locations
+- **Citadel in the Sky** - Percival's origin, elevated settlement
+- **Dedheim** - Settlement with dead residents, protected by black gates
+- **Land Bathed in Sun** - Where Percival trained, likely Sunstalker territory
+
+### NEW Concepts
+- **Wanderer System** - Mysterious strangers making temporary homes (Gambler's Chest)
+- **Arc System** - New storytelling mechanic for wanderers
+- **Syncretic Vestments** - Pattern gear blending fighting traditions
+- **Lantern Eclipse** - Rare celestial event affecting survivors born during it
+- **Goblin Snarfer** - Sentient parasitic weapon that feeds on wielder's "basest drives"
+- **Grozharous the Pale Turnip King** - Ruler commanding undead settlement guards
+
+### NEW Gear
+- **Sanctuary Longsword** - Rare gear with protective theme
+- **Sun Sparring Rite** - Settlement event for training
+
+### Previous Session Discoveries
 - **Rain Stalker** - "False face upon false face, treads waterlogged ground, seeking its own face"
 - **Mole (Talpagoria)** - Underground creature with hunger for necrotic flesh
 - **Illuminated Figure** - Lures survivors into monster domains
-
-### Survivors/Characters
-- **Rubi** - Indomitable Survivor with Tachyon Nodachi (Phoenix Time Stop)
-- **Jackel** - Seed pattern survivor, turned rival into barbed sickle
-- **Edlen** - Lustrous Hunter with sparkling wounds
-- **Barbarian Lucy** - Fought nightmares since birth
-- **Morgan** - Saw truth during Phoenix fight, entered lucid frenzy
-
-### Concepts
 - **Sunpool** - Location where Sunstalkers originate, they "age out" of it
 - **Lucid Frenzy** - Mental state achievable during battle
 - **Tachyon Nodachi** - Weapon channeling Phoenix's Time Stop

@@ -1,0 +1,47 @@
+                                                                              - Rules -
+
+
+    edge, a terrain tile).The monster controller should  When the level 1 White Lion attacks Zachary with Vi- result is waist. Zachary, like all starting survivors, has 
+    move as directly as possible, in any direction that puts cious Claw, the attack speed is listed as 2. The level a Cloth gear card that gives his waist 1 armor point. 1 
+    the most spaces between the monster and the spec-    1 White Lion has no additional speed, so the monster damage to this location reduces the armor by 1 to 0.
+    ified location.                                      controller rolls 2d10.
+                                                                                                              Deal Damage to Hit Locations
+    Toward: This is usually in conjunction with something Accuracy: The number to meet or exceed on an at-    After the monster controller rolls the hit location die for 
+    on the board (all survivors, the attacker, a board edge, tack roll result for an attack to hit the target. Accuracy each hit, damage is dealt to each hit location one at a 
+    or a terrain tile).The monster controller should move is determined by the accuracy listed on the attack pro- time in the order of the target’s choosing.
+    as directly as possible, in the direction that moves the file, any accuracy modifier tokens the monster has, 
+    monster closest to the specified location.           and the evasion of the target.
+
+    Place the Monster                                            Attack Roll Result + Monster Accuracy Modifier
+    Although they usually change a monster’s location on                  must meet or exceed
+                                                                                                                                        Light & Heavy Severe 
+    the showdown board, rules specifying to place a mon-        Attack Profile’s Accuracy + Survivor’s Evasion Modifier Damage Armor
+                                                                                                                                          Injuries   Injuries
+    ster are not considered movement.
+                                                         The monster controller rolls 2d10 to attack Zachary  Damage from a hit is spent 1 point at a time at a loca-
+                                                         with Vicious Claw. If the roll results are 1 and 4, one tion to reduce armor points, cause injuries (light, then 
+    How Monsters Attack                                  attack roll hits (4) and one misses (1).             heavy), and cause severe injuries. A hit is resolved 
+                                                                                                              when all damage from it has been expended.
+    Attack actions direct a monster to attack. The second Damage: An attack’s target suffers the amount of dam-
+    portion of a Move & Attack Target action tells a mon- age listed on an attack profile, modified by the monster’s All damage is spent in the following order:
+    ster to attack its target. Attack actions are followed damage attribute and any damage tokens. Damage     1 | Armor: Spend 1 damage to reduce the armor 
+    by attack profiles. Attack profiles on AI cards list the from a single hit is applied to a single hit location. points at a location by 1 until either no damage 
+    3 basic components of an attack: speed (how many     The Level 1 White Lion’s Vicious Claw hit Zachary       remains or the armor at that location is  reduced to 
+    dice in an attack), accuracy (the likelihood of hitting), once. Since the damage listed on the Attack Profile is 0. If damage remains at a hit location with 0 armor 
+    and damage (how much damage a hit causes).           1 and the Level 1 White Lion has no additional dam-     points, continue to light and heavy injuries.
+        The monster controller makes attack rolls equal  age modifiers, the damage dealt from this hit is 1.  2 | Light and Heavy Injuries: Spend 1 damage to fill 
+    to the monsters speed, determines a hit location for                                                         in 1 injury box (first light, then heavy). When the 
+    each successful hit and deals damage.                Determine Hit Locations                                 heavy injury box is filled, the survivor is knocked 
+                                                         After the number of hits in an attack have              down. If damage remains at a hit location with 0 
+                                                         been determined, the monster controller                 armor points and both injury boxes are filled, con-
+                                                         rolls the hit location die once for every hit. Once all the tinue to severe injuries.
+    Speed: The number of attack rolls. Speed is deter-   rolls are made, resolve damage from each hit one at a 3 | Severe Injuries: All remaining damage from a hit 
+    mined by the speed listed on the attack profile and  time in the order the target chooses.                   is expended by rolling once on the severe injury 
+    modified by the monster’s speed (listed on the mon-      If there is more than one hit, it is possible that  table for that hit location and suffering its effects.
+    ster’s story event) and any speed modifier tokens.   the location dice will roll the same location more than       If a location is hit multiple times in a single 
+    The monster controller rolls a number of d10s equal  once. Each hit to this location is resolved separately. attack, each hit is considered separately. This 
+    to the speed of an attack.                           The monster controller rolls the hit location die to de- means that it is possible to suffer multiple severe 
+                                                         termine where the Vicious Claw attack lands. The        injuries to one hit location within a single attack.
+
+
+70

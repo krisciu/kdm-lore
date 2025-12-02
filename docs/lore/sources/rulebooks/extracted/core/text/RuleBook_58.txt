@@ -1,0 +1,42 @@
+                                                                              - Rules -
+
+
+   Resources                                                                                                 Monster Resources
+   Survivors collect resources to develop their settle-                                                      Monster resource cards are only gained from fight-
+   ments and craft gear. There are 4 kinds of resources:                                                     ing that type of monster. There are separate decks 
+   Basic, Monster, Strange, and Vermin.                                                                      for all huntable monsters (White Lion, Screaming 
+        All resources have shared types. Resource types                                                      Antelope, and Phoenix). 
+   include: bone, hide, organ, scrap, herb, vermin, and 
+   consumable. Some costs are listed by type (e.g., 3 
+   bone and 2 organ) and any resource of that type may 
+   be spent. For instance, a Lion Claw resource may be 
+   spent as bone. 
+        However, some costs list specific resources by 
+   name. No substitutions may occur in these cases. 
+        If a recipe has “resource” listed as a cost, then 
+   any resource card can be used.                                                                            Strange Resources
+                                                                                                             Strange resource cards are resources that are 
+   When a resource is spent, archive the corresponding                                                       only gained in specific circumstances. These are 
+   card or remove its entry from the settlement’s storage.                                                   unique and difficult to come by. 
+                                                                                                                  Strange resources can be extremely rare 
+                                                                                                             monster parts, refined metals, and useful herbs. 
+   Basic Resources                                                                                           Gain strange resources as directed by events in 
+                                                                                                             the game. 
+                                                                                                                  Strange monster resources are not consid-
+                                                                                                             ered part of a monster’s pool of resource cards.
+
+
+                                                                                                             Vermin Resources
+                                                                                                             The fauna of Kingdom Death has a variety of small, 
+                                                                                                             bizarre species. These are represented by vermin 
+                                                                                                             resource cards.
+                                                                                                                 They can be found in Bug Patches during 
+                                                                                                             showdowns and sometimes found as a result of 
+                                                                                                             events. 
+   There are 21 basic resources. Survivors earn them                                                             Vermin cards have rules that describe how 
+   from events and defeating monsters.                                                                       each vermin can be used. Vermin can also be 
+                                                                                                             cooked using the Cooking Innovation to produce 
+                                                                                                             excellent results!
+
+
+56
