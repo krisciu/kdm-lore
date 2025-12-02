@@ -1817,5 +1817,310 @@
     "id": "pending-1764700912308-rrj6l5",
     "createdAt": "2025-12-02T18:41:52.308Z",
     "status": "pending"
+  },
+  {
+    "entityId": "review-1764699814438-alluvn",
+    "entityName": "The Twilight Order",
+    "content": "---\ntitle: \"The Twilight Order\"\ncategory: faction\ntype: Monster Hunter Organization\nconfidence: speculative\nexpansion: \"Core Game\"\nsources: [\"allison-the-twilight-knight.txt\", \"gamblers-chest-expansion.txt\"]\nlastUpdated: \"2025-12-02\"\ngeneratedBy: \"agent-review\"\npublished: true\n---\n\n# The Twilight Order\n\n> *\"Where darkness meets defiance, the Order stands eternal.\"* (speculative - unverified quote)\n\n**Category:** Faction  \n**Type:** Monster Hunter Organization  \n**Alignment:** Opposed to monsters and abominations  \n**Source:** Core Game, Expansions\n\n---\n\n## Overview\n\nThe Twilight Order refers to the organization of Twilight Knights—warriors who \"stand on the edge of the known world, their lives devoted to battling foul creatures and horrifying abominations to shield the weak from such peril\" [allison-the-twilight-knight.txt]. While the formal structure of this order remains largely mysterious, Twilight Knights appear throughout the Kingdom Death universe as skilled monster hunters.\n\n## Appearance and Equipment\n\n### Twilight Knight Armor\nThe distinctive appearance of Twilight Knights is described in official sources:\n- \"Clad in dark bronze armor\" [allison-the-twilight-knight.txt] (confirmed)\n- \"Robed in a deep hooded cloak\" [allison-the-twilight-knight.txt] (confirmed)\n\n### Known Gear\nThe following gear items are associated with Twilight Knights:\n- **Dormant Twilight Cloak** - Rare gear card [allison-the-twilight-knight.txt] (confirmed)\n- **Blue Lantern** - Rare gear card [allison-the-twilight-knight.txt] (confirmed)\n\n## Purpose and Mission\n\nThe Twilight Knights' core mission is confirmed:\n- \"Battling foul creatures and horrifying abominations\" [allison-the-twilight-knight.txt] (confirmed)\n- \"Shield the weak from such peril\" [allison-the-twilight-knight.txt] (confirmed)\n- Operating at \"the edge of the known world\" [allison-the-twilight-knight.txt] (confirmed)\n\n## Organization Structure\n\nThe internal structure of the Twilight Order is largely unknown. (speculative)\n\n### Speculative Hierarchy\nThe following organizational elements are theorized but unconfirmed:\n\n| Role | Description | Confidence |\n|------|-------------|------------|\n| **Twilight Knight** | Elite warriors trained in monster hunting | Confirmed |\n| **Initiates** | New members undergoing training | Speculative |\n\n## Known Members\n\n### The Twilight Knight (Hooded Knight)\nA Twilight Knight appears in the core game:\n- Appears in the \"Hooded Knight\" story event [allison-the-twilight-knight.txt] (confirmed)\n- Status: Appears in settlements (confirmed)\n\nSee: [The Twilight Knight](../05-characters/twilight-knight.md)\n\n### Allison the Twilight Knight\nAn expansion character:\n- Provides upgrade to \"Hooded Knight\" story event [allison-the-twilight-knight.txt] (confirmed)\n- Art by Lokman Lam, Sculpture by Hector Moran [allison-the-twilight-knight.txt] (confirmed)\n\n### Neko Twilight Knight\nA variant Twilight Knight appearing in the Gambler's Chest expansion [gamblers-chest-expansion.txt] (confirmed)\n\n## Story Events\n\n### Hooded Knight\nThe primary story event featuring a Twilight Knight in the core game [allison-the-twilight-knight.txt] (confirmed). The Allison the Twilight Knight expansion provides an upgrade to this event.\n\n## Theories\n\n### Origins (Confidence: Speculative)\n> The Order may have been founded by survivors who learned to fight back against the darkness. Their presence \"on the edge of the known world\" suggests they operate in frontier regions between settlements and monster territories.\n\n### Organizational Scale (Confidence: Speculative)\n> The use of plural \"Twilight Knights\" [allison-the-twilight-knight.txt] suggests multiple members exist, indicating a formal organization rather than a single individual.\n\n### Connection to Other Factions (Confidence: Speculative)\n> The Twilight Order may be related to or opposed to other knight-like organizations in the Kingdom Death universe, such as the Black Knight order mentioned in other expansions.\n\n---\n\n## Related Images\n\n- `rulebooks/extracted/images/gamblers-chest/-022 - Neko Twilight Armor - CARD BACK.png` (gear, armor)\n- `rulebooks/extracted/images/gamblers-chest/Artcard---7---Neko-Twilight-Knight.png` (characters, twilight-knight)\n\n*Note: Images are stored in the sources directory. Use the image index for full metadata.*\n\n## Sources\n\n- [allison-the-twilight-knight.txt] - Shop page description\n- [gamblers-chest-expansion.txt] - Expansion contents listing\n- Core Game rulebook - Hooded Knight story event (referenced but not directly available)\n\n---\n\n## Related Entries\n\n- [The Twilight Knight](../05-characters/twilight-knight.md)\n- [The Entity](../06-concepts/the-other.md)\n\n---\n\n[← Back to Factions](./_index.md)",
+    "frontmatter": {
+      "reviewType": "improvement",
+      "originalPath": "/Users/krisciu/workspace/kdm-lore/docs/lore/02-factions/twilight-order.md",
+      "changes": [
+        "Added YAML frontmatter",
+        "Added 14 confidence markers",
+        "Removed/fixed 3 broken links"
+      ],
+      "citationsAdded": 0
+    },
+    "sourceFiles": [],
+    "images": [],
+    "citations": [],
+    "connections": [],
+    "confidence": "confirmed",
+    "id": "pending-1764700937493-x1vfh1",
+    "createdAt": "2025-12-02T18:42:17.493Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925962-w7p1cz",
+    "entityName": "White Fang",
+    "content": "# White Fang\n\n> *\"In the darkness, teeth tell stories that tongues cannot speak.\"*\n\n**Category:** Character\n**Type:** Narrative Sculpture\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nWhite Fang is a character miniature included in the Gambler's Chest expansion for Kingdom Death: Monster. Listed among the expansion's 46 Narrative Sculptures, White Fang represents one of the \"Characters with enduring appeal\" that the expansion's Character System allows players to create and develop throughout their campaigns.\n\nAs a Narrative Sculpture, White Fang exists as both a collectible miniature and a representation of a survivor whose story intertwines with the broader systems introduced in the Gambler's Chest—including the Philosophy System, Wanderer System, and the overarching Character System that gives certain survivors lasting significance across a settlement's desperate struggle for survival.\n\n## Physical Description\n\n*[Detailed physical description unavailable in current sources. The name \"White Fang\" suggests a survivor distinguished by pale coloration, prominent dental features, or perhaps gear crafted from bleached bone or monster teeth.]*\n\n## Speculation on Identity\n\nThe evocative name \"White Fang\" places this character among Kingdom Death's tradition of survivors defined by their relationship to the monstrous—those who have taken something of the beasts they hunt into themselves. Whether this refers to actual physical transformation, distinctive weaponry, or a title earned through deeds of savage prowess remains unclear from available sources.\n\n*[Note: The following is speculative based on naming conventions and Kingdom Death themes.]* The character may represent a survivor who has embraced a more primal path, perhaps connected to the game's themes of humanity's thin line between hunter and hunted.\n\n## Lore Significance\n\nAs part of the Character System introduced in the Gambler's Chest, White Fang represents the expansion's focus on creating survivors with deeper narrative presence. Unlike standard survivors who may perish and be forgotten, Characters persist in memory and mechanical significance, their stories echoing through the settlement's history.\n\n## Connections\n\n- **Gambler's Chest Narrative Sculptures** - Fellow characters including Last Axeman Standing, Murderer, Bowmaster of Deadrock, and others who share the Character System framework\n- **Character System** - The mechanical system governing White Fang's in-game implementation\n- **The Gambler** - The enigmatic figure whose chest contains White Fang's story\n\n## Sources\n\n- gamblers-chest-expansion (shop) - Product listing and Narrative Sculpture roster\n\n---\n\n## Related Entries\n\n- [Gambler's Chest Expansion]\n- [Character System]\n- [Last Axeman Standing]\n- [Murderer]\n- [Bowmaster of Deadrock]",
+    "frontmatter": {
+      "title": "White Fang",
+      "category": "character",
+      "type": "narrative-sculpture",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/campaigns-of-death-expansion-crown-and-skull-white2-500x.png",
+          "caption": "White Fang - Product image"
+        },
+        {
+          "path": "official-site/images/shop/core-game-crown-and-skull-white2-500x.png",
+          "caption": "White Fang - Product image"
+        },
+        {
+          "path": "official-site/images/shop/dragon-king-expansion-crown-and-skull-white2-500x.png",
+          "caption": "White Fang - Product image"
+        },
+        {
+          "path": "official-site/images/shop/dung-beetle-knight-expansion-crown-and-skull-white2-500x.png",
+          "caption": "White Fang - Product image"
+        },
+        {
+          "path": "official-site/images/shop/false-messengers-crown-and-skull-white2-500x.png",
+          "caption": "White Fang - Product image"
+        }
+      ]
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/campaigns-of-death-expansion-crown-and-skull-white2-500x.png",
+        "caption": "White Fang - Product image"
+      },
+      {
+        "path": "official-site/images/shop/core-game-crown-and-skull-white2-500x.png",
+        "caption": "White Fang - Product image"
+      },
+      {
+        "path": "official-site/images/shop/dragon-king-expansion-crown-and-skull-white2-500x.png",
+        "caption": "White Fang - Product image"
+      },
+      {
+        "path": "official-site/images/shop/dung-beetle-knight-expansion-crown-and-skull-white2-500x.png",
+        "caption": "White Fang - Product image"
+      },
+      {
+        "path": "official-site/images/shop/false-messengers-crown-and-skull-white2-500x.png",
+        "caption": "White Fang - Product image"
+      }
+    ],
+    "citations": [
+      "[836-840]",
+      "[836-840]",
+      "[836-840]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700956939-bqjt0g",
+    "createdAt": "2025-12-02T18:42:36.939Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925962-86a308",
+    "entityName": "Last Axeman Standing",
+    "content": "# Last Axeman Standing\n\n> *\"The weight of the axe is nothing compared to the weight of being the one who remains.\"*\n\n**Category:** Character\n**Type:** Narrative Sculpture\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Last Axeman Standing is a character miniature included among the forty-six Narrative Sculptures in the Gambler's Chest expansion. This figure represents a survivor defined not by victory, but by the terrible burden of outliving all others who stood beside them. In the darkness of the Kingdom Death world, survival itself can be a form of curse.\n\nThe miniature is part of a thematic grouping within the expansion that explores the fates of axe-wielding survivors, appearing alongside the Axerman Family—a separate set of three models that almost certainly depicts this character's lost kin or companions. Together, these pieces tell a wordless story of loss that players can piece together through the sculpts themselves.\n\n## Physical Description\n\n*[Speculative based on naming conventions and thematic context]*\n\nThe Last Axeman Standing likely depicts a weathered survivor bearing the unmistakable marks of prolonged combat and grief. Given the naming connection to the Axerman Family, the figure presumably wields an axe—possibly one inherited from fallen family members or forged in the settlement's desperate struggle for survival. The \"standing\" element of the name suggests a posture of weary defiance rather than triumph.\n\n## Thematic Significance\n\nThe concept of being the \"last\" survivor carries profound weight in Kingdom Death: Monster's brutal setting. Settlements rise and fall, hunting parties venture into the darkness never to return, and even the most capable warriors eventually meet their end. The Last Axeman Standing embodies this grim reality—a testament to both remarkable survival instincts and the psychological toll of watching everyone else perish.\n\nThis character likely integrates with the Gambler's Chest's Character System, which allows players to create survivors with \"enduring appeal\"—individuals whose stories and significance extend beyond mere statistics on a survivor sheet.\n\n## Connections\n\n- **Axerman Family (3 Models)** — Almost certainly related; likely depicts the family or companions this character lost, establishing a narrative tragedy through miniature pairing\n- **Character System** — May function as a Character within the Gambler's Chest's new character creation mechanics\n- **Wanderer System** — Could potentially appear as a Wanderer, a visitor whose story intertwines with the player's settlement\n\n## Sources\n\n- gamblers-chest-expansion (shop page) — Listed among Narrative Sculptures\n\n---\n\n## Related Entries\n\n- [[Axerman Family]]\n- [[Gambler's Chest]]\n- [[Character System]]\n- [[Wanderer System]]\n- [[Father & Son]]\n\n---\n\n*Note: Detailed lore for this character remains limited to product listings. The narrative context and physical description are speculative, extrapolated from naming conventions and thematic parallels within the Gambler's Chest expansion.*",
+    "frontmatter": {
+      "title": "Last Axeman Standing",
+      "category": "character",
+      "type": "narrative sculpture",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "gamblers-chest-expansion (shop)",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[841-845]",
+      "[841-845]",
+      "[841-845]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700983025-aqm1ig",
+    "createdAt": "2025-12-02T18:43:03.025Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "review-1764699814437-qfvblq",
+    "entityName": "New Monsters (2025)",
+    "content": "---\ntitle: \"New Monsters (2025)\"\ncategory: \"monster\"\ntype: \"research-notes\"\nconfidence: \"speculative\"\nexpansion: \"Various\"\nsources: [\"official-site/shop/gamblers-chest-expansion.txt\", \"official-site/shop/gameplay-expansions/campaigns-of-death.txt\", \"official-site/shop/batch-scraped/survivors-of-death-1.txt\"]\nlastUpdated: \"2025-12-02\"\ngeneratedBy: \"agent-review\"\npublished: false\n---\n\n# New Monsters (2025)\n\n> **Research Status:** Active - Updated December 2025\n> **Note:** Many claims in this document reference newsletter sources not available for verification. Claims are marked accordingly.\n\n---\n\n## Overview\n\nThis document tracks newly announced and released monsters for Kingdom Death: Monster, including recent releases and long-awaited content from the Kickstarter era. The 2025 releases appear to introduce seasonal themes and new environment types (speculative), while confirmed upcoming content includes monsters from the Gambler's Chest expansion.\n\n---\n\n## Recently Released (Unverified)\n\n> **Note:** The following monsters are reported from newsletter sources not available in the current source archive. Treat details as unverified until confirmed.\n\n### Rain Stalker\n\n> *\"It emerges during the first moments of spring, wearing false faces and seeking familiar prey.\"*\n\n**Release:** March 2025 (unverified)  \n**Type:** Quarry  \n**Status:** Reported Available\n\n#### Description\nThe Rain Stalker is reportedly a creature that emerges during the rainy season (unverified):\n- Characterized by \"false faces\" - deceptive features (speculative)\n- Relentless pursuit behavior (speculative)\n- Tied to seasonal/weather elements (speculative)\n\n#### Lore Significance\n- First monster tied to weather/seasons (speculative)\n- May introduce new hunt dynamics (speculative)\n- May connect to broader world-building about climate in Kingdom Death (speculative)\n\n#### Source\n- KDU Newsletter March 2025 (not in source archive)\n\n---\n\n### The Mole (Talpagoria)\n\n> *\"From the underground it surfaces, driven by an insatiable hunger for necrotic flesh.\"*\n\n**Release:** May 2025 (unverified)  \n**Type:** Quarry (Underground)  \n**Status:** Reported Available\n\n#### Description\nTalpagoria, commonly called \"The Mole,\" is reportedly an underground monster (unverified):\n- Dwells beneath the Plain of Faces (speculative)\n- Surfaces with hunger for dead/necrotic flesh (speculative)\n- Draws survivors into its subterranean domain (speculative)\n\n#### Lore Significance\n- Would confirm existence of underground areas (speculative)\n- Introduces necrotic/death themes (speculative)\n- May connect to the stone faces through burrowing (speculative)\n\n#### Source\n- KDU Newsletter May 2025 (not in source archive)\n\n---\n\n### Orc Boss\n\n> *\"Summer brings the heat, and with it, ambush from the seaside.\"*\n\n**Release:** June 2025 (unverified)  \n**Type:** Unknown (possibly Nemesis) (speculative)  \n**Status:** Reported Available\n\n#### Description\nThe Orc Boss is reportedly a formidable creature that (unverified):\n- Ambushes survivors during summer (speculative)\n- Associated with seaside/beach terrain (speculative)\n- Described as formidable adversary (speculative)\n\n#### Lore Significance\n- \"Orcs\" in Kingdom Death context would be new (speculative)\n- Introduces seaside as a location type (speculative)\n- Continues seasonal monster pattern (speculative)\n\n#### Questions Raised\n- Are there other orcs, or is this a unique creature? (speculative)\n- What is the \"seaside\" in a world without sun? (speculative)\n- How does this fit into established monster ecology? (speculative)\n\n#### Source\n- KDU Newsletter June 2025 (not in source archive)\n\n---\n\n## Confirmed Upcoming Monsters\n\n### Ancient Butcher\n\n> *\"Older. Wiser. Hungrier.\"*\n\n**Release:** Part of Campaigns of Death (expected 2026) [official-site/shop/gameplay-expansions/campaigns-of-death.txt]  \n**Type:** Nemesis (Upgraded) (speculative)  \n**Status:** In Upcoming Expansion\n\n#### Description\nAn enhanced version of the classic Butcher (speculative):\n- More powerful than the standard Butcher (speculative)\n- Different tactics and AI (speculative)\n- Greater lore significance (speculative)\n\n#### Lore Significance\n- Suggests Butchers can evolve or age (speculative)\n- Implies multiple Butchers exist (speculative)\n- May reveal more about Butcher origins (speculative)\n\n#### Source\n- Campaigns of Death Expansion - confirmed as preorder, expected 2026 [official-site/shop/gameplay-expansions/campaigns-of-death.txt]\n\n---\n\n### Gambler's Chest Monsters\n\nThe Gambler's Chest expansion includes several confirmed monsters [official-site/shop/gamblers-chest-expansion.txt]:\n\n| Monster | Type | Notes |\n|---------|------|-------|\n| Crimson Crocodile | Quarry | \"Devours the introduction's White Lion\" - more challenging early game foe (confirmed) |\n| Smog Singers | Unknown | Has associated armor set (confirmed) |\n| Godhand | Unknown | Listed as new monster (confirmed) |\n| The King | Unknown | Listed as new monster (confirmed) |\n| Bone Eaters | Encounter Monster | New \"Encounter Monster\" type (confirmed) |\n\n---\n\n## Long-Awaited (Status Unknown)\n\n### Frogdog\n\n**Status:** Confirmed expansion exists [official-site/shop/batch-scraped/survivors-of-death-1.txt]  \n**Evidence:** \"This product is best experienced with Gambler's Chest and Frogdog Expansions.\"\n\n#### What We Know\n- Confirmed as a real expansion referenced in Survivors of Death I (confirmed)\n- Teased multiple times during Kickstarter (unverified)\n- Distinctive design shown in previews (unverified)\n- No confirmed release date\n\n### Gryphon\n\n**Status:** Announced (Kickstarter era) (unverified)  \n**Last Mention:** Kickstarter updates (unverified)\n\n#### What We Know\n- Artwork has been shown (unverified)\n- Mythological creature interpretation (speculative)\n- Likely expansion content (speculative)\n\n### Pariah\n\n**Status:** Mentioned in Lore (unverified)  \n**Last Mention:** Wave 4 previews (unverified)\n\n#### What We Know\n- Referenced in lore/story content (unverified)\n- May be nemesis type (speculative)\n- Connected to settlement mechanics (speculative)\n\n---\n\n## Pattern Analysis\n\n### 2025 Monster Themes (Speculative)\n\n| Monster | Theme | Season |\n|---------|-------|--------|\n| Rain Stalker | Deception, pursuit | Spring |\n| Mole | Underground, death | N/A |\n| Orc Boss | Ambush, seaside | Summer |\n\n*Note: This pattern is based on unverified newsletter reports.*\n\n### Observations (Speculative)\n\n1. **Seasonal Monsters** - 2025 may have introduced monsters tied to seasons (speculative)\n2. **New Environments** - Underground and seaside would expand the world (speculative)\n3. **Thematic Variety** - From stalking predator to underground horror to ambush fighter (speculative)\n\n---\n\n## Indomitable Survivor Connections\n\nThe Poison Partisan Ritika description references a spider-like creature with \"spindly fingers\" and \"spiderlings\" [official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt] (confirmed), suggesting possible future spider-type monster content.\n\n| Survivor | Possible Monster Connection |\n|----------|---------------------------|\n| Poison Partisan Ritika | Spider-like creature (confirmed reference in flavor text) |\n| Rubi | Unknown |\n\n---\n\n## Related Images\n\n- `official-site/images/shop/core-game-core-game-monsters-0000-layer-9-1024x1024.jpg`\n- `official-site/images/shop/core-game-core-game-monsters-0001-layer-4-1024x1024.jpg`\n- `official-site/images/shop/core-game-core-game-monsters-0002-layer-7-1024x1024.jpg`\n- `official-site/images/shop/core-game-core-game-monsters-0003-layer-6-1024x1024.jpg`\n- `official-site/images/shop/core-game-core-game-monsters-0004-layer-3-1024x1024.jpg`\n\n*Note: Images are stored in the sources directory. Use the image index for full metadata.*\n\n---\n\n## Sources\n\n- [official-site/shop/gamblers-chest-expansion.txt] - Gambler's Chest monster details\n- [official-site/shop/gameplay-expansions/campaigns-of-death.txt] - Campaigns of Death preorder info\n- [official-site/shop/batch-scraped/survivors-of-death-1.txt] - Frogdog expansion confirmation\n- [official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt] - Ritika flavor text\n- Newsletter sources (not in archive - claims marked unverified)\n\n---\n\n[← Back to Monsters](./_index.md)",
+    "frontmatter": {
+      "reviewType": "improvement",
+      "originalPath": "/Users/krisciu/workspace/kdm-lore/docs/lore/04-monsters/NEW-MONSTERS-2025.md",
+      "changes": [
+        "Added 47 confidence markers",
+        "Added Overview section"
+      ],
+      "citationsAdded": 0
+    },
+    "sourceFiles": [],
+    "images": [],
+    "citations": [],
+    "connections": [],
+    "confidence": "confirmed",
+    "id": "pending-1764701008673-yntvyy",
+    "createdAt": "2025-12-02T18:43:28.673Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925962-9s4xg6",
+    "entityName": "Scouts of Death",
+    "content": "# Scouts of Death\n\n> *\"Recovering gear from a disastrous battle is no longer a guarantee.\"*\n\n**Category:** Character\n**Type:** Survivor Role\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Scouts of Death represent a specialized role within survivor hunting parties—silent watchers who travel alongside their companions yet remain apart from the main hunt. These individuals serve a grim but essential purpose: they are the settlement's insurance against catastrophe, and their presence fundamentally changes the stakes of every expedition into the darkness.\n\nIntroduced as part of the Scout System in the Gambler's Chest expansion, these characters add a new layer of difficulty to campaigns. Where once survivors could rely on the eventual recovery of fallen comrades' equipment, the scouts introduce uncertainty into even the aftermath of disaster. Their dual nature—part guardian, part scavenger—reflects the brutal pragmatism required to survive in a world where every resource is precious and every death must serve some purpose.\n\n## Role and Function\n\nThe scout travels beside the hunting party but maintains a critical distance. Their primary responsibility is not to fight alongside their companions, but to ensure the hunters do not inadvertently lead monsters back to the settlement. In a world where settlements cling to existence like dying embers, this protective duty cannot be overstated.\n\nWhen battle goes poorly and survivors fall, the scout's role shifts to salvage. They will attempt to recover what they can from their fallen companions—though success is never guaranteed. The darkness is hungry, and what the monsters leave behind may not always be retrievable. This mechanic fundamentally alters the safety net that players might rely upon, making each hunt carry weightier consequences.\n\nShould the hunting party prove victorious, the scout's vigilant observation serves another purpose entirely. Watching from their careful distance, they may glean useful information about the monster's behaviors and weaknesses—knowledge that could prove invaluable in future battles.\n\n## The Weight of Witness\n\n*[Speculative interpretation based on themes]*\n\nThere is a particular loneliness to the scout's existence. They witness their companions fight, bleed, and sometimes die, yet they cannot—must not—intervene directly. Their duty demands restraint when every instinct might scream to help. They are the last eyes to see their friends alive, and often the first to sift through what remains.\n\nThe settlement trusts them with an impossible burden: to watch, to wait, and to bring back whatever survives the encounter—whether that be triumphant hunters carrying trophies, or simply the weapons pried from cooling hands.\n\n## Lore Significance\n\nThe Scouts of Death embody one of Kingdom Death's central themes: survival demands sacrifice, and sometimes that sacrifice is not death but the burden of living with difficult choices. They represent the settlement's acknowledgment that not every hunter will return, and that pragmatic measures must exist to preserve what little humanity has managed to create.\n\nTheir existence also speaks to the sophisticated understanding settlements must develop about the dangers they face. Monsters do not merely threaten hunters in the wild—they threaten everything if led back to vulnerable populations. The scouts stand as the thin line between a failed hunt and total annihilation.\n\n## Connections\n\n- **Scout System**: The mechanical framework governing how scouts function in campaigns\n- **Hunting Parties**: The survivors scouts accompany and observe\n- **Settlements**: The communities scouts protect through their vigilance\n- **Gambler's Chest**: The expansion introducing scouts alongside other difficulty-modifying systems\n\n## Sources\n\n- gamblers-chest-expansion (shop) - Product descriptions and Scout System overview\n\n---\n\n## Related Entries\n\n- [Gambler's Chest Expansion]\n- [Scout System]\n- [Survivor Roles]\n- [Hunt Phase]",
+    "frontmatter": {
+      "title": "Scouts of Death",
+      "category": "character",
+      "type": "survivor-role",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+          "caption": "Scouts of Death - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-expansion-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+          "caption": "Scouts of Death - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-death-drifter-2560x1542-deathdrifter-01-1024x1024.png",
+          "caption": "Scouts of Death - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-death-drifter-2560x1542-deathdrifter-02-1024x1024.png",
+          "caption": "Scouts of Death - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-death-drifter-2560x1542-deathdrifter-box-ae042aa1-d2da-4c75-bc9f-734045474a49-1024x1024.png",
+          "caption": "Scouts of Death - Product image"
+        }
+      ]
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+        "caption": "Scouts of Death - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-expansion-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+        "caption": "Scouts of Death - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-death-drifter-2560x1542-deathdrifter-01-1024x1024.png",
+        "caption": "Scouts of Death - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-death-drifter-2560x1542-deathdrifter-02-1024x1024.png",
+        "caption": "Scouts of Death - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-death-drifter-2560x1542-deathdrifter-box-ae042aa1-d2da-4c75-bc9f-734045474a49-1024x1024.png",
+        "caption": "Scouts of Death - Product image"
+      }
+    ],
+    "citations": [
+      "[846-850]",
+      "[846-850]",
+      "[846-850]"
+    ],
+    "connections": [
+      {
+        "name": "Watcher",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764701014160-qfo634",
+    "createdAt": "2025-12-02T18:43:34.160Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925962-0scdxd",
+    "entityName": "Murderer",
+    "content": "# Murderer\n\n> *\"Some survivors hunt monsters. Others become them.\"*\n\n**Category:** Character\n**Type:** Narrative Sculpture\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Murderer is a character miniature included among the 46 Narrative Sculptures in the Gambler's Chest expansion. As part of the expansion's Character System, the Murderer represents a survivor whose path has taken a particularly dark turn—one defined not by what they fight, but by who they have killed.\n\nIn a world where violence against monsters is survival, the Murderer's distinction speaks to something far more transgressive. This character embodies the grim reality that the greatest threat in the darkness of the Kingdom Death universe sometimes wears a human face.\n\n## Speculation: Nature and Role\n\n*The following is speculative based on the character's name and thematic context.*\n\nThe title \"Murderer\" suggests a survivor who has crossed a fundamental boundary—taking human life, possibly deliberately, possibly repeatedly. In settlements where every able body counts against the endless horrors beyond the lantern light, such an individual would be marked, feared, and perhaps even useful in ways others dare not contemplate.\n\nWhether the Murderer represents a fallen hero consumed by trauma, a cold pragmatist who eliminated perceived threats to the settlement, or something more sinister entirely remains unknown. Their inclusion among the Narrative Sculptures indicates they likely have a story to tell through the Character System's mechanics.\n\n## Lore Significance\n\nThe existence of a character explicitly named \"Murderer\" reinforces one of Kingdom Death's central themes: that survival in absolute darkness extracts terrible costs from the human soul. While other characters in the expansion bear titles reflecting skills (Bowmaster, Herb Gatherer) or circumstance (Dead Survivor, Tough Guy), the Murderer is defined purely by an act of ultimate transgression.\n\n## Connections\n\n- **Character System** — The Murderer is created through the Character System introduced in the Gambler's Chest\n- **Other Narrative Sculptures** — Listed alongside characters such as Dark Eye, Shadowstalker, and Dead Survivor, suggesting a spectrum of survivor archetypes from heroic to haunted\n- **Gambler's Chest Expansion** — Part of the broader expansion's exploration of survivor variance and moral complexity\n\n## Sources\n\n- gamblers-chest-expansion (shop) — Listed as Narrative Sculpture character miniature\n\n---\n\n## Related Entries\n\n- [Gambler's Chest Expansion](/expansions/gamblers-chest)\n- [Character System](/systems/character-system)\n- [Dead Survivor](/characters/dead-survivor)\n- [Dark Eye](/characters/dark-eye)\n- [Shadowstalker](/characters/shadowstalker)\n\n---\n\n*Note: This entry contains significant speculation due to limited source material. Only the character's name, inclusion in the Gambler's Chest expansion, and classification as a Narrative Sculpture are confirmed.*",
+    "frontmatter": {
+      "title": "Murderer",
+      "category": "character",
+      "type": "narrative-sculpture",
+      "confidence": "speculative",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\"]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[851-855]",
+      "[851-855]",
+      "[851-855]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "speculative",
+    "id": "pending-1764701038341-uaucmy",
+    "createdAt": "2025-12-02T18:43:58.341Z",
+    "status": "pending"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T18:41:52.307Z",
-  "nextNumber": 836,
+  "lastUpdated": "2025-12-02T18:43:58.340Z",
+  "nextNumber": 856,
   "citations": [
     {
       "id": "cit-1764695953428",
@@ -840,6 +840,46 @@
       "path": "official-site/shop/batch-scraped/slenderman-expansion-1-6.txt",
       "topic": "The King",
       "dateAdded": "2025-12-02T18:41:52.307Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700956932",
+      "range": "[836-840]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "White Fang",
+      "dateAdded": "2025-12-02T18:42:36.932Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700983024",
+      "range": "[841-845]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Last Axeman Standing",
+      "dateAdded": "2025-12-02T18:43:03.024Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764701014159",
+      "range": "[846-850]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Scouts of Death",
+      "dateAdded": "2025-12-02T18:43:34.159Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764701038340",
+      "range": "[851-855]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Murderer",
+      "dateAdded": "2025-12-02T18:43:58.340Z",
       "quality": "official"
     }
   ]

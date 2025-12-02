@@ -658,7 +658,7 @@
     "priority": 3,
     "id": "entity-1764695925962-w7p1cz",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "generating"
+    "status": "pending_review"
   },
   {
     "name": "Last Axeman Standing",
@@ -672,7 +672,7 @@
     "priority": 3,
     "id": "entity-1764695925962-86a308",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Scouts of Death",
@@ -686,7 +686,7 @@
     "priority": 3,
     "id": "entity-1764695925962-9s4xg6",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Murderer",
@@ -700,7 +700,7 @@
     "priority": 3,
     "id": "entity-1764695925962-0scdxd",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Bowmaster of Deadrock",
@@ -714,7 +714,7 @@
     "priority": 3,
     "id": "entity-1764695925962-as0xec",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "generating"
   },
   {
     "name": "Bloody Sword of Deadrock",
