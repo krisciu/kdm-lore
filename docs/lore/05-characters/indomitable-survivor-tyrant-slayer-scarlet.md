@@ -23,6 +23,16 @@ For best experience, include Dragon King in your campaign.
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/DK - Data Card - Tyrant.png` (monsters, tyrant)
+- `rulebooks/extracted/images/expansions-of-death/dragon_tyrant_albedo.png` (monsters, tyrant)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

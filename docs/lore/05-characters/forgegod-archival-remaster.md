@@ -18,6 +18,19 @@ Archival remaster first run collector's edition: signed and numbered authenticit
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/gamblers-chest/024 - Master Bone Dagger - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/heirlooms/master_dwelling_key_set_mat_AO.png` (uncategorized)
+- `rulebooks/extracted/images/heirlooms/master_dwelling_key_set_mat_AlbedoTransparency.png` (uncategorized)
+- `rulebooks/extracted/images/heirlooms/master_dwelling_key_set_mat_MetallicSmoothness.png` (uncategorized)
+- `rulebooks/extracted/images/heirlooms/master_dwelling_key_set_mat_Normal.png` (uncategorized)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

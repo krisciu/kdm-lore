@@ -30,6 +30,19 @@ What are seed patterns?
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/core/images/lantern-splash.png` (gear, lantern)
+- `rulebooks/extracted/core/sprites/lantern-splash.png` (gear, lantern)
+- `rulebooks/extracted/images/common-scene/lantern-core.png` (gear, lantern)
+- `rulebooks/extracted/images/gamblers-chest/020 - True Lantern Halberd - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/gamblers-chest/Gambler's Lantern.png` (gear, lantern)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

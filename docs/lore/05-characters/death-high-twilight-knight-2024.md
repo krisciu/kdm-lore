@@ -19,6 +19,15 @@ Character Art Card
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/gamblers-chest/-022 - Neko Twilight Armor - CARD BACK.png` (gear, armor)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

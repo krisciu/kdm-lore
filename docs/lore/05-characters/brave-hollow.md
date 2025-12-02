@@ -22,6 +22,15 @@ The Brave + Hollow is packaged in a festive box that includes:
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/killeniumButcher_Hollow_albedo.png` (monsters, butcher)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

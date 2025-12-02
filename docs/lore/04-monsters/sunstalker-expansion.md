@@ -34,6 +34,19 @@ Sunstalker sprues (Sunstalker monster, Sunstalker Armor Kit, and People of th
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/BOX - Basecolor - Sunstalker.png` (monsters, sunstalker)
+- `rulebooks/extracted/images/expansions-of-death/Sunstalker - Bridge.png` (monsters, sunstalker)
+- `rulebooks/extracted/images/expansions-of-death/Sunstalker - Gear.png` (monsters, sunstalker)
+- `rulebooks/extracted/images/expansions-of-death/Sunstalker-front.png` (monsters, sunstalker)
+- `rulebooks/extracted/images/expansions-of-death/Sunstalker_male_albedo.png` (monsters, sunstalker)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

@@ -22,6 +22,15 @@ The Bullfrogdog is a variant of the Frogdog lurking at the farthest edges of the
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/frogdog-Data-Card.png` (monsters, frogdog)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

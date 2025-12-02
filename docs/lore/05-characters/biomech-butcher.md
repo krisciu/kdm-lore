@@ -20,6 +20,19 @@ First Run Collector's Edition: Signed and numbered authenticity note
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/core-game-butcher-crest-box-sq-1024x1024.png` (monsters, butcher)
+- `rulebooks/extracted/images/gamblers-chest/004 - Imitation Butcher Mask - CARD BACK.png` (monsters, butcher)
+- `rulebooks/extracted/images/game-assets/00---Butcher-AI-Card-Back.png` (monsters, butcher)
+- `rulebooks/extracted/images/game-assets/00-Butcher-HL-Card-Back.png` (monsters, butcher)
+- `rulebooks/extracted/images/game-content/00---Butcher-AI-Card-Back.png` (monsters, butcher)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

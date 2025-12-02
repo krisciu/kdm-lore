@@ -28,6 +28,19 @@ Philosophies of Death - Gatherism is packaged in a uniquely designed graphical b
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/gamblers-chest-20220511-philosophy-luck-rank-1-1024x1024.jpg` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Gourmandism Philosophy - Colossal Chef's Carver.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Homicidalism Philosophy - Cruel Cutter.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Impermanism Philosophy - Unbreakable Zanbato.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Philosophy - Ambitionism - Update Feb17 2023-1.png` (gamblers-chest)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

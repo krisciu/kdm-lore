@@ -14,6 +14,19 @@ Using ready-to-play gear grids, survivor vignette cards, and limited components 
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/core-game-butcher-crest-box-sq-1024x1024.png` (monsters, butcher)
+- `official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png` (gamblers-chest)
+- `rulebooks/extracted/core/images/splash_vignette_nohue.png` (uncategorized)
+- `rulebooks/extracted/core/sprites/splash_vignette_nohue.png` (uncategorized)
+- `rulebooks/extracted/images/gamblers-chest/004 - Imitation Butcher Mask - CARD BACK.png` (monsters, butcher)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

@@ -23,6 +23,19 @@ Pattern rules sheet
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/game-assets/10---survivor-corpse.png` (characters, survivor)
+- `rulebooks/extracted/images/game-assets/KD Survivor Corpse 1x1.png` (characters, survivor)
+- `rulebooks/extracted/images/game-content/10---survivor-corpse.png` (characters, survivor)
+- `rulebooks/extracted/images/game-content/KD Survivor Corpse 1x1.png` (characters, survivor)
+- `rulebooks/extracted/images/miscellaneous/00-BACK-Vignette-Survivor-Cards-correct 1.png` (characters, survivor)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

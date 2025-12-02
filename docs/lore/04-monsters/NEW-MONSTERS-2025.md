@@ -27,7 +27,20 @@ The Rain Stalker is a creature that emerges during the rainy season:
 - Introduces new hunt dynamics
 - May connect to broader world-building about climate in Kingdom Death
 
-#### Source
+##
+---
+
+## Related Images
+
+- `official-site/images/shop/core-game-core-game-monsters-0000-layer-9-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-core-game-monsters-0001-layer-4-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-core-game-monsters-0002-layer-7-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-core-game-monsters-0003-layer-6-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-core-game-monsters-0004-layer-3-1024x1024.jpg` (shop)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
+## Source
 - [KDU Newsletter March 2025](https://kingdomdeath.com/news/)
 
 ---

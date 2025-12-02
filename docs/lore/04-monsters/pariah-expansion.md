@@ -38,6 +38,19 @@ Richly illustrated rigid cover rulebook packed with new story events
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/CC9---Pariah-Cuisine-(Feedback-Loop).png` (monsters, pariah)
+- `rulebooks/extracted/images/miscellaneous/Inverted-Pariah---Basic-Action---FRONT.png` (monsters, pariah)
+- `rulebooks/extracted/images/miscellaneous/Inverted-Pariah---Data-Card---BACK.png` (monsters, pariah)
+- `rulebooks/extracted/images/miscellaneous/KDS---Pariah-AI---Card-Back.png` (monsters, pariah)
+- `rulebooks/extracted/images/miscellaneous/KDS---Pariah-Special-Terrain---Card-Back.png` (monsters, pariah)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

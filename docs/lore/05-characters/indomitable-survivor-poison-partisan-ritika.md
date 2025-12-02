@@ -24,6 +24,19 @@ For best experience, include Spidicules in your campaign.
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/Gorm Indomitable Resource - BACK.png` (monsters, gorm)
+- `rulebooks/extracted/images/gamblers-chest/Crimson Crocodile Indomitable Resources - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/gamblers-chest/Dark Partisan.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/King Indomitable Resources - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/gamblers-chest/Phoenix Indomitable Resources - CARD BACK.png` (monsters, phoenix)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

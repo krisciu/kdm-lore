@@ -21,6 +21,17 @@ Lonely Tree Sprues
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/24-The Lonely Tree 1.6.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/BOX - Basecolor - Lonely Tree.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/Lonely Tree Bridge Sized.png` (expansions)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

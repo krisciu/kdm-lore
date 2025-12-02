@@ -21,6 +21,19 @@ First Run Collector's Edition: Signed and numbered authenticity note
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/core-game-phoenix-crest-box-sq-1024x1024.png` (monsters, phoenix)
+- `rulebooks/extracted/images/game-assets/00---Phoenix-AI-Card-Back.png` (monsters, phoenix)
+- `rulebooks/extracted/images/game-assets/00---Phoenix-H-Card-Back.png` (monsters, phoenix)
+- `rulebooks/extracted/images/game-assets/00---Phoenix-HL-Card-Back.png` (monsters, phoenix)
+- `rulebooks/extracted/images/game-assets/00---Phoenix-Resources-Card-Back.png` (monsters, phoenix)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

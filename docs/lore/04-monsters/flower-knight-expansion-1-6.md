@@ -29,6 +29,19 @@ Flower Knight sprues (includes survivor gear and the Flower Knight Monster)
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/gamblers-chest-expansion-20220511-philosophy-luck-rank-1-1024x1024.jpg` (gamblers-chest)
+- `official-site/images/shop/gamblers-chest-expansion-arc1-1024x1024.png` (gamblers-chest)
+- `official-site/images/shop/gamblers-chest-expansion-arc2-1024x1024.png` (gamblers-chest)
+- `official-site/images/shop/gamblers-chest-expansion-arc3-1024x1024.png` (gamblers-chest)
+- `official-site/images/shop/gamblers-chest-expansion-bundle-thumb-thumb-1024x1024.png` (gamblers-chest)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

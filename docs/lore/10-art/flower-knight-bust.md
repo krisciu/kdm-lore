@@ -17,6 +17,19 @@ The Flower Knight Bust is packaged in a custom box customized with a signed Flo
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/21 ---Flower Patches Terrain.png` (gameplay, terrain)
+- `rulebooks/extracted/images/expansions-of-death/23 -- Replica Flower Sword.png` (gear, sword)
+- `rulebooks/extracted/images/expansions-of-death/24 --Sleeping Virus Flower.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/26-Flower Addiction.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/S - Flower Funnel 1.png` (expansions)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

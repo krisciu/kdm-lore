@@ -21,6 +21,19 @@ Using ready-to-play gear grids, survivor vignette cards, and new components for 
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/campaigns-of-death-expansion-crown-and-skull-white2-500x.png` (shop)
+- `official-site/images/shop/dragon-king-expansion-crown-and-skull-white2-500x.png` (monsters, dragon-king)
+- `official-site/images/shop/flower-knight-expansion-crown-and-skull-white2-500x.png` (monsters, flower-knight)
+- `official-site/images/shop/gamblers-chest-expansion-20220511-philosophy-luck-rank-1-1024x1024.jpg` (gamblers-chest)
+- `official-site/images/shop/gamblers-chest-expansion-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png` (gamblers-chest)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

@@ -22,6 +22,19 @@ Learn more about indomitable survivors
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/gamblers-chest/Crimson Crocodile Indomitable Resources - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/gamblers-chest/Phoenix Indomitable Resources - CARD BACK.png` (monsters, phoenix)
+- `rulebooks/extracted/images/gamblers-chest/Smog Singers Indomitable Resources - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/miscellaneous/Gear---Tachyon-Nodachi.png` (gear, gear)
+- `rulebooks/extracted/images/miscellaneous/Phoenix-Indomitable-Resources---CARD-BACK.png` (monsters, phoenix)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

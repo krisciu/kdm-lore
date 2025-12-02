@@ -162,6 +162,16 @@ The Twilight Order appears in various story events:
 ### Opposition Hierarchy
 > The Order may be part of a larger resistance against multiple cosmic forces, not just the Entity.
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/gamblers-chest/-022 - Neko Twilight Armor - CARD BACK.png` (gear, armor)
+- `rulebooks/extracted/images/gamblers-chest/Artcard---7---Neko-Twilight-Knight.png` (characters, twilight-knight)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Sources
 
 - [22-27] Echoes of Death Expansion, pp. 3-5

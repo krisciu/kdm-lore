@@ -20,6 +20,19 @@ First Run Collector's Edition: Signed and numbered authenticity note
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/lagomorph-kit-2560x1542-monster-lagomorphkit-00-1024x1024.png` (shop)
+- `official-site/images/shop/lagomorph-kit-2560x1542-monster-lagomorphkit-02-1024x1024.png` (shop)
+- `official-site/images/shop/lagomorph-kit-2560x1542-monster-lagomorphkit-03-1024x1024.png` (shop)
+- `official-site/images/shop/lagomorph-kit-2560x1542-monster-lagomorphkit-04-1024x1024.png` (shop)
+- `official-site/images/shop/lagomorph-kit-2560x1542-monster-lagomorphkit-05-1024x1024.png` (shop)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

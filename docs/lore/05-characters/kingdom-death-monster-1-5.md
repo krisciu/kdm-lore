@@ -21,6 +21,19 @@ Get a taste of the game with Kingdom Death: Simulator. Play online, solo or with
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/core-game-monster-art-0000-layer-9-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-monster-art-0001-layer-8-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-monster-art-0002-layer-6-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-monster-art-0003-layer-5-1024x1024.jpg` (shop)
+- `official-site/images/shop/core-game-monster-art-0004-layer-4-1024x1024.jpg` (shop)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

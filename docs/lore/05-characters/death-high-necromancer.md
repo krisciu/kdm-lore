@@ -20,6 +20,15 @@ Deathgrey edition limited to 250: Deathgrey authenticity note
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/EOD1_necromancer_albedo.png` (characters, necromancer)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

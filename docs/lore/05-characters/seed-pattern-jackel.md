@@ -20,6 +20,19 @@ Seed Pattern - Jackel is packaged in a graphic box that includes:
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/gamblers-chest-pattern3-1024x1024.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Basic Pattern Gear - CARD BACK.png` (gear, gear)
+- `rulebooks/extracted/images/gamblers-chest/Basic Pattern Recipes - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/game-assets/PATTERN GEAR.png` (gear, gear)
+- `rulebooks/extracted/images/game-assets/Pattern-Gear.png` (gear, gear)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

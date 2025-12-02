@@ -23,6 +23,15 @@ Dreamform secret fighting art card
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/Art-Card---Character---Morgan-the-Savior---FRONT.png` (characters, savior)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

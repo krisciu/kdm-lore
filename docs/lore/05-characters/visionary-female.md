@@ -19,6 +19,19 @@ Character art card
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/dbk_female_albedo.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/dragon_people_female_albedo.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/gorm_female_albedo.png` (monsters, gorm)
+- `rulebooks/extracted/images/expansions-of-death/gorm_female_b_albedo.png` (monsters, gorm)
+- `rulebooks/extracted/images/expansions-of-death/spidicules-female-side.png` (monsters, spidicules)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

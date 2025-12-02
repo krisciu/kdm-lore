@@ -31,6 +31,19 @@ Spidicules sprues (includes survivor gear, Spiderlings, and the Spidicules Monst
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/BOX - Basecolor - Spidicules.png` (monsters, spidicules)
+- `rulebooks/extracted/images/expansions-of-death/Spidicules Bridge Sized.png` (monsters, spidicules)
+- `rulebooks/extracted/images/expansions-of-death/Spidicules Gear.png` (monsters, spidicules)
+- `rulebooks/extracted/images/expansions-of-death/spidicules-back.png` (monsters, spidicules)
+- `rulebooks/extracted/images/expansions-of-death/spidicules-female-side.png` (monsters, spidicules)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

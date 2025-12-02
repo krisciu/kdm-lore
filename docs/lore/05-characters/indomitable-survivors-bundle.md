@@ -42,6 +42,15 @@ The Indomitable Survivors bundle includes:
 
 ---
 
+
+---
+
+## Related Images
+
+- `official-site/images/shop/gamblers-chest-bundle-thumb-thumb-1024x1024.png` (gamblers-chest)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

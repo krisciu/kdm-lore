@@ -25,6 +25,19 @@ Slenderman sprues (includes survivor gear and the Slenderman Monster)
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/BOX - Basecolor - Slenderman.png` (monsters, slenderman)
+- `rulebooks/extracted/images/expansions-of-death/Slenderman Bridge Sized.png` (monsters, slenderman)
+- `rulebooks/extracted/images/expansions-of-death/Slenderman Gear.png` (monsters, slenderman)
+- `rulebooks/extracted/images/expansions-of-death/Slenderman-Gear.png` (monsters, slenderman)
+- `rulebooks/extracted/images/expansions-of-death/slenderman-back.png` (monsters, slenderman)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

@@ -42,6 +42,15 @@ Richly illustrated rigid cover rulebook packed with new story events and 3 uniqu
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/Red-Witches-cover-1.png` (monsters, red-witch)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

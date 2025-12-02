@@ -21,6 +21,19 @@ Character art card
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/15-Dragon Armory - DK.png` (gear, armor)
+- `rulebooks/extracted/images/expansions-of-death/25 - Altered Destiny - Dragon King.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/47 - Dragon King - Shining Liver.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/48 - Dragon King - Pituary Gland.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/49 - Dragon King - Radiant Heart.png` (expansions)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

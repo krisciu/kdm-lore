@@ -23,6 +23,18 @@ Deathgrey edition limited to 150: Deathgrey authenticity note
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/gamblers-chest/014 - Beast Hunter Helm - CARD BACK.png` (gear, card)
+- `rulebooks/extracted/images/gamblers-chest/Artcard---5---Gourmet-Hunter.png` (gear, card)
+- `rulebooks/extracted/images/game-assets/04---Hunter-Whip-1.png` (gameplay, hunt)
+- `rulebooks/extracted/images/game-content/04---Hunter-Whip-1.png` (gameplay, hunt)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

@@ -21,6 +21,17 @@ Pillar - Percival is packaged in a uniquely designed graphical box and includes:
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/Pillar-Card---Fade.png` (gear, card)
+- `rulebooks/extracted/images/miscellaneous/Pillar-Card---Percival-NEW-040825.png` (characters, percival)
+- `rulebooks/extracted/images/miscellaneous/Pillar-Card-Back-NEW.png` (gear, card)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

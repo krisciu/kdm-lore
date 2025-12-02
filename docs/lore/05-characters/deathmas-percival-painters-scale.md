@@ -19,6 +19,15 @@ Large matte art print
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/miscellaneous/Pillar-Card---Percival-NEW-040825.png` (characters, percival)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

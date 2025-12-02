@@ -22,6 +22,19 @@ Limit 2 per customer
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/gamblers-chest/Philosophy - Ambitionism - Update Feb17 2023-1.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Philosophy - Ambitionism - Update Feb17 2023-10.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Philosophy - Ambitionism - Update Feb17 2023-11.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Philosophy - Ambitionism - Update Feb17 2023-12.png` (gamblers-chest)
+- `rulebooks/extracted/images/gamblers-chest/Philosophy - Ambitionism - Update Feb17 2023-2.png` (gamblers-chest)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.

@@ -20,6 +20,19 @@ Blue Lantern and Dormant Twilight Cloak rare gear cards for use in Monster
 
 ---
 
+
+---
+
+## Related Images
+
+- `rulebooks/extracted/images/expansions-of-death/22 --Flower Knight Helm.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/BOX - Basecolor - Flower Knight.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/Flower Knight Badge.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/Flower Knight Divider.png` (expansions)
+- `rulebooks/extracted/images/expansions-of-death/Flower Knight Gear Divider.png` (gear, gear)
+
+*Note: Images are stored in the sources directory. Use the image index for full metadata.*
+
 ## Source
 
 This entry was extracted from official Kingdom Death product descriptions.
