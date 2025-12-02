@@ -1,0 +1,281 @@
+# Kingdom Death: Monster - Worldbuilding
+Extracted from Core Rulebook 1.6
+Total Passages: 27
+
+---
+
+After they defeat the White 
+    Lion, the survivors wander the 
+    darkness, drawn to a soft glow 
+    blooming on the horizon.
+
+*Page 36*
+
+---
+
+Dice & Tables                                         Lantern 10                             Conflicts and the Rule of Death                             SURVIVAL  GUIDE
+
+*Page 41*
+
+---
+
+Core  Rules -
+                                                                          - Rules -
+                                                                                                                                                                       SURVIVORS
+
+*Page 43*
+
+---
+
+Other survival actions are added as a result of 
+                                                     adding innovations to the settlement. When the set-
+                                                     tlement innovates Language, Paint, Inner Lantern, 
+                                                     and Destiny, survivors gain the ability to encourage,
+
+*Page 43*
+
+---
+
+Strength 
+                    A starting survivor’s strength is 0. 4 | Survivor Locations
+                    Strength is added to the result of a 
+                    wound roll to determine the force    Hit Locations
+                    of the attack. Strength can be a 
+                    negative number, in which case it 
+                    is subtracted from the roll result.
+
+*Page 44*
+
+---
+
+Evasion 
+                    A starting survivor’s evasion is 0. 
+                    Evasion is added to a monster’s 
+                    attack profile accuracy to deter-
+                    mine the difficulty of the attack. 
+                    Evasion can be a negative number,                                                         Whenever players fill heavy injury levels on the sur-
+                    in which case it is subtracted from                                                       vivor record sheet, their survivor is knocked down, 
+                    the attack profile’s accuracy.                                                            as noted below each hit location name.
+
+*Page 44*
+
+---
+
+Luck 
+                    Luck is a survivor’s chance to 
+                    cause a critical wound from a 
+                    wound roll. A starting survivor’s 
+                    luck is 0, which means they only 
+                    cause critical wounds on a result    Hit locations are areas of the survivor’s body that can 
+                    of 10 (lantern face on 1d10).
+
+*Page 44*
+
+---
+
+Gear Grid                                            Duplicate Gear                                       Armor Sets
+                                                     Except for weapons, a survivor may not have mul-     A completed armor set will bestow the survivor with 
+The gear currently in a survivor’s gear grid is what tiple copies of the same gear in their gear grid. A  a bonus listed on an armor set card. Usually, armor 
+the survivor is wearing and carrying.                survivor gains the benefits of a weapon’s special    that is part of a set all have names that begin with the 
+                                                     rules only once, no matter how many copies they      same word(s).
+                                                     have. Additional copies of weapons still contribute 
+                                                     affinities.
+
+*Page 47*
+
+---
+
+While a survivor is wearing all armor from a single 
+                                                                                                          settlement location with the set keyword, they have 
+                                                                                                          completed the set and gain the benefits on the corre-
+                                                                                                          sponding armor set card.
+
+*Page 47*
+
+---
+
+part special effects on the survivor if the affinity re- The Survivor gains the +1 luck affinity bonus from 
+quirements are met.                                  their Lucky Charm when they have two or more com-
+    Affinity requirements are indicated by a number  plete blue squares anywhere on their gear grid.
+of small colored squares in the gear’s special rules. 
+Each colored square represents one affinity that     Puzzle Affinities
+must be in a survivor’s gear grid. You must have the In addition, some affinity bonuses can only be gained 
+affinities the rule specifies to gain the bonus of the 
+gear. 
+    For instance, the +1 luck bonus on the Lucky
+
+*Page 49*
+
+---
+
+Lost Gear and Affinity Bonus
+                                                                                                           If gear forming part of an affinity is lost during the hunt 
+                                                                                                           or showdown and no longer completes affinities in a 
+                                                                                                           survivor’s gear grid, any affinity bonuses relying on 
+Charm gear card has a requirement of 2 blue affini-                                                        these affinities are also lost.
+ties.
+
+*Page 49*
+
+---
+
+A Monster’s basic action is detailed on its Basic Ac-
+Terrain and Deployment                               tion card. A basic action consists of a target action Side B
+This section describes what terrain to set up on the and an attack action with an attack profile. 
+showdown board, and where to place the survivors         Monsters will perform a basic action on some AI 
+and monster. Terrain and setting up the showdown     cards, in some reactions, or if there are no AI cards 
+board are fully-detailed in the Showdown Phase and   left to be drawn from the AI deck. Performing a basic 
+Terrain sections, respectively.                      action does not count as an AI card being drawn.
+
+*Page 53*
+
+---
+
+Core  Rules -
+                                                                           - Rules -
+                                                                                                                                                                        TERRAIN
+Terrain                                              Survivors and Terrain
+                                                     Terrain cards with  indicate the corresponding terrain 
+The landscape of Kingdom Death is strewn with odd    can be activated. Survivors adjacent to or on spaces 
+features and relics that may prove advantageous to   occupied by this kind of terrain may spend activation 
+survivors fighting for their lives.                  to use the rules listed on the terrain card.
+
+*Page 61*
+
+---
+
+Mineral Gathering and Herb Gathering                 If no cards remain in the survivors’ space, the sur-
+    Mineral Gathering and Herb Gathering are story       vivors move one space toward the monster and the 
+    events that may be triggered during the hunt by add- event revealer draws the top event card in the new 
+    ing their unique hunt event cards to the hunt board. space and follows the rules on the card.
+
+*Page 64*
+
+---
+
+Hunt event cards are resolved one at a time, from top 
+                                                         to bottom. Unless compelled to move by an event, 
+                                                         the survivors must resolve all hunt events in their cur-
+                                                         rently-occupied space before moving. 
+                                                             The monster does not move unless an event 
+                                                         specifies otherwise.
+
+*Page 64*
+
+---
+
+Bash: The survivor is knocked down.                                                                       Healing
+                                                                                                          When a monster performs heal X, they return X 
+Bleed X: The survivor gains X bleeding tokens. If no                                                      wounds from the Wound Stack to the AI deck. Without 
+number is specified, gain 1 bleeding token.                                                               looking at them, take the number of wounds healed 
+                                                                                                          from the top of the Wound Stack and place them on 
+Intimidate                                                                                                the bottom of the AI deck.
+Intimidate actions are not attacks, and survivors can
+
+*Page 73*
+
+---
+
+place a survivor on an impassable terrain tile, instead 
+                                                                                                             they collide with it. The survivor suffers collision and is 
+                                                                                                             placed in an unoccupied space adjacent to the terrain 
+                                                                                                             tile and as close to the monster as possible.
+
+*Page 74*
+
+---
+
+Showdown Board Edges
+                                                                                                             Survivors and monsters cannot move off the show-
+                                                                                                             down board or be knocked off the board.
+
+*Page 74*
+
+---
+
+Knocked Down & Standing                               - While a monster is knocked down, all reactions    Movement
+Monsters and survivors are standing unless they are    are canceled. This includes reactions that might be Survivors can spend  to move. Survivors move one 
+knocked down. While a survivor or monster is knocked   beneficial to survivors. (This does not cancel critical space at a time, to any adjacent unoccupied space, 
+down, they cannot be knocked down again.               wounds, since they are not reactions.)             moving only in cardinal directions (not diagonal).
+
+*Page 75*
+
+---
+
+Survivor Attribute Modifier
+                                                         Calculate the survivor attribute modifier by adding the survivor's respective attribute, positive or negative tokens, modifiers from gear 
+                                                         special rules, fightings arts, abilities, impairments, disorders, permanent injuries, and anything else that modifies that attribute.
+
+*Page 76*
+
+---
+
+Allister attempts to wound the Fleshy Gut            Erza attempts to wound the Furious Gut               Lucy has two +1 luck tokens. She rolls an 8 to 
+and rolls a lantern 10. This is a critical wound!    and rolls a lantern 10. The hit location does        wound the Restless Rump. This is a critical 
+The monster suffers a wound and then pukes           not have a critical wound effect, so it cannot       wound! The Reflex reaction that would have 
+all over Allister. He gains +3 insanity and a        be critically wounded. The monster suffers a         knocked down Erza is canceled. The critical 
+           random basic resource.                     wound and the wound reaction is performed.               wound effects are performed instead.
+
+*Page 79*
+
+---
+
+During the settlement phase, you will welcome back 
+     any returning survivors, advance your society, and 
+     prepare for upcoming challenges.
+
+*Page 83*
+
+---
+
+Keywords: Innovations have a type (Paint’s type is   Survival Limit                                       The majority of a settlement’s resources are spent 
+    art) and an origin (Paint is a language consequence). Some innovations change your settlement’s Survival  at settlement locations. At the start of the campaign, 
+                                                         Limit. When these are innovated, increase the Sur-   survivors have one settlement location—the Lantern 
+    Rules: Some innovations, like Language, have per-    vival Limit on the Settlement Record Sheet. If these Hoard. Additional locations are added to the settle-
+    sistent benefits. Others will allow you to endeavor at innovations are lost, decrease the Survival Limit. ment from existing settlement locations and from sto-
+    these innovations for potential gain.                                                                     ry events.
+
+*Page 86*
+
+---
+
+Complete the settlement phase normally. Departing    Update the Nemesis Monster List
+Settlement locations have the following components:  survivors skip the hunt phase and consult the story  After a nemesis monster and level are chosen by 
+Name: The name of the settlement location.           event for the nemesis monster to setup the show-     players (or selected by an event), fill in the corre-
+                                                     down phase. Nemesis Encounters are listed a few      sponding box on the Settlement Record Sheet Nem-
+Gear: Any gear listed on a settlement location card is different ways on the timeline:                    esis Monster list if it is currently unfilled.
+available to be crafted there.
+
+*Page 87*
+
+---
+
+1d10   Any survivor - Consume                               instant, the survivors understand.
+                                                                                                                            All non-deaf      survivors gain +1 understanding and 
+                                                               9 +    The water is clean and pure, like none the survivor has suffer 1 brain event damage. If they areinsane  they also 
+                                                                      ever tasted. Gain +1 survival.                       gain 1 random disorder.
+
+*Page 101*
+
+---
+
+Story Event Story  -
+                                                      RETURNING SURVIVORSRETURNING
+
+*Page 165*
+
+---
+
+Custom Campaigns                                     Skull Ritual
+If you’re itching for more after completing the main The settlement performs an exotic, violent dance 
+Kingdom Death: Monster campaign, the game is         with plenty of chanting. 
+easily customizable for a group that is familiar with Cost: 1 skull resource, 1 endeavor
+the rules.                                           Nominate up to 4 survivors to consume the skull. 
+    One simple way to customize your campaign is     They gain a permanent +1 to all their attributes.
+creating a custom timeline. Switch nemesis encoun-
+ters, add new story event triggers, etc.             Black Skull
+
+*Page 229*
+
+---
+

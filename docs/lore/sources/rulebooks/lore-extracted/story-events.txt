@@ -1,0 +1,666 @@
+# Kingdom Death: Monster - Story Events
+Extracted from Core Rulebook 1.6
+Total Events: 44
+
+---
+
+## Prologue
+*Page 83*
+
+Prologue 
+!     for setting up your starting settlement.
+     The Settlement Phase
+
+     Every Settlement Phase follows these steps:
+     1. Set Up the Settlement
+     2. Survivors Return
+     3. Gain Endeavors
+     4. Update Timeline
+     5. Update Death Count
+     6. Check Milestones                                            front               back
+     7. Develop
+     8. Prepare Departing Survivors                           Returning Survivors                                  Settlement Innovations
+     9. Special Showdown                                  The survivors returning to the settlement.           Place any innovations the settlement has innovated 
+     10. Record & Archive Resources                                                                            in the play area above the Settlement Board. 
+     11. End Settlement Phase                                 Settlement Record Sheet
+                                                          Each settlement has a doubled-sided Settlement           Principles
+                1 | Set Up the Settlement                 Record Sheet that contains all information about a   Place any principles the settlement has chosen on 
+                Place the Settlement Board on the table.  settlement. It will be referred to and updated multiple the Settlement Board. 
+                Place the gear grids and record sheets of times each Settlement Phase, so make sure to use 
+     any survivors returning from the showdown on th
+
+---
+
+## First Story
+*Page 125*
+
+First Story Showdown
+stone bonuses earned to your new campaign and begin the 
+First Story.                                                                 If you are starting a new campaign, you may 
+                                                                             optionally skip the First Story showdown and jump 
+For every successive settlement you have lost, you may fill in               straight to settlement phase setup (pg.34).
+a box and continue to earn new milestone bonuses for your 
+                                                                             If you do, roll 1d10 on the table below to quickly 
+future campaigns.                                                            determine your starting resources and gear.
+
+    1. Left Overs
+
+At the start of the showdown with the First Story White Lion,                1d10    Result
+set up 1 Survivor Corpse terrain card.
+                                                                              1 - 3  Set your population to 6. The group gains 4 basic 
+                                                                                     resources and 4 White Lion resources. Archive 2 
+      2. Those before us.                                                            founding stones.
+When the survivors reach the settlement, they find small trac-
+es of human life before them. Gain 1 skull basic resource and                 4 - 7  Set your population to 8. The group gains 4 basic
+
+---
+
+## Returning Survivors
+*Page 235*
+
+Returning Survivors: All survivors that endured the previous show-
+                                                                          location dice. 
+Persistent Injury: A special injury found on some hit location cards.                                                                               down are returning survivors. 
+                                                                                                                                                                                    Kingdom Death: Monster Core Game  233
+
+---
+
+## Age
+*Page 237*
+
+age to the waist beyond the heavy 
+monster is knocked down.                                                  Trap: A type of monster hit location. A trap cancels all the attack-      injury level results in a roll on the Waist section of the Severe Injury 
+                                                                          er's hits, ends their attack, and causes the monster to stand, in ad-     table.
+Survivor Record Sheet: Represents the permanent status of a survi-        dition to the actions listed on the card. After the Trap's actions are 
+vor. Some sections include: attributes, Hunt XP, Weapon Proficiency,      resolved, shuffle the entire hit location deck.                           Weapon: A type of gear card. Weapon types in the core game include 
+and permanent changes.                                                                                                                              axe, bow, club, dagger, fist & tooth, grand, katar, shield, spear, sword, 
+                                                                          Trigger: Part of a monster's attack profile. Indicates that an Attack     and whip.
+Survivor Status Card: Special (S) AI cards that track conditions for an   Effect is part of this attack.
+individual survivor rather than the monster. When a survivor gains                                                                                  Weapon Mastery: Achieved when a survivor has eight or more lev-
+a survivor status card, plac
+
+---
+
+## Armored Strangers
+*Page 3*
+
+Armored Strangers......................................................................109   Showdown: King’s Man..............................................................173
+          Birth of a Savior............................................................................111   Showdown: Phoenix...................................................................175
+ Bold...................................................................................................113   Showdown: Screaming Antelope..........................................177
+          Bone Witch.....................................................................................115   Showdown: White Lion..............................................................179
+ Cooking...........................................................................................117   White Secret..................................................................................181
+          Crush and Devour........................................................................119   White Speaker...............................................................................183
+          Endless Screams...........................................................................121   Zero Presence................................................................................185
+          Game Over.....................................................................................123 Finale
+          Hands of Hea
+
+---
+
+## Birth of a Savior
+*Page 3*
+
+Birth of a Savior............................................................................111   Showdown: Phoenix...................................................................175
+ Bold...................................................................................................113   Showdown: Screaming Antelope..........................................177
+          Bone Witch.....................................................................................115   Showdown: White Lion..............................................................179
+ Cooking...........................................................................................117   White Secret..................................................................................181
+          Crush and Devour........................................................................119   White Speaker...............................................................................183
+          Endless Screams...........................................................................121   Zero Presence................................................................................185
+          Game Over.....................................................................................123 Finale
+          Hands of Heat...............................................................................125  Watched..........................................................................................187
+
+---
+
+## Bold
+*Page 231*
+
+Bold Story Event, while reaching a 
+                                                                          age to the Brain location.                                                level of 9 will trigger the See the Truth Story Event.
+Bash: Causes survivors to be knocked down.
+                                                                          Build [Location]: When a new location is built, place that settle-        Critical Wound: Critical wounds are lucky blows that always wound 
+Basic Action: A Monster's basic action is detailed on its Basic Ac-       ment location in the play area and add the new location to your           a monster, even if the wound attempt does not exceed the mon-
+tion card. A basic action consists of a target action and an attack       settlement record sheet. This is a permanent addition to your set-        ster's toughness. A critical wound occurs when a wound roll result 
+action with an attack profile. Monsters will perform a basic action       tlement.                                                                  is a Lantern 10 on a hit location with a critical wound effect. The 
+on some AI cards, in some reactions, or if the AI deck and discard                                                                                  luck attribute modifies the roll needed for a critical wound. 
+are both empty. Performing a basic action does not count as an AI         Burnt Nerves: An ability. You are immune to bash.
+card being drawn.
+
+---
+
+## Bone Witch
+*Page 3*
+
+Bone Witch.....................................................................................115   Showdown: White Lion..............................................................179
+ Cooking...........................................................................................117   White Secret..................................................................................181
+          Crush and Devour........................................................................119   White Speaker...............................................................................183
+          Endless Screams...........................................................................121   Zero Presence................................................................................185
+          Game Over.....................................................................................123 Finale
+          Hands of Heat...............................................................................125  Watched..........................................................................................187
+          Herb Gathering.............................................................................126   Showdown: Watcher...................................................................189
+          Hooded Knight.............................................................................129  Blackout............................................................................
+
+---
+
+## Cooking
+*Page 119*
+
+COOKING
+
+
+Kingdom Death: Monster Core Game  117
+
+---
+
+## Crush and Devour
+*Page 3*
+
+Crush and Devour........................................................................119   White Speaker...............................................................................183
+          Endless Screams...........................................................................121   Zero Presence................................................................................185
+          Game Over.....................................................................................123 Finale
+          Hands of Heat...............................................................................125  Watched..........................................................................................187
+          Herb Gathering.............................................................................126   Showdown: Watcher...................................................................189
+          Hooded Knight.............................................................................129  Blackout..........................................................................................191
+ Insight..............................................................................................131   Showdown: Gold Smoke Knight............................................193
+ Intimacy..........................................................................................133   Hammer and Nail.........................................................................195
+
+---
+
+## Endless Screams
+*Page 123*
+
+ENDLESS SCREAMS ENDLESS
+
+
+Kingdom Death: Monster Core Game  121
+
+---
+
+## Game Over
+*Page 125*
+
+GAME OVER
+
+
+                                Your campaign has ended in death and magnificent hopelessness.
+                                                       The settlement is lost.
+
+Lost Settlements
+Start a new campaign by taking a settlement record sheet and 
+filling in a box under the lost settlement section. Apply all mile-                 Skipping the First Story Showdown
+stone bonuses earned to your new campaign and begin the 
+First Story.                                                                 If you are starting a new campaign, you may 
+                                                                             optionally skip the First Story showdown and jump 
+For every successive settlement you have lost, you may fill in               straight to settlement phase setup (pg.34).
+a box and continue to earn new milestone bonuses for your 
+                                                                             If you do, roll 1d10 on the table below to quickly 
+future campaigns.                                                            determine your starting resources and gear.
+
+    1. Left Overs
+
+At the start of the showdown with the First Story White Lion,                1d10    Result
+set up 1 Survivor Corpse terrain card.
+                                                                              1 - 3  Set your population to 6. The group gains 4 basic 
+                                                                                     resourc
+
+---
+
+## Hands of Heat
+*Page 3*
+
+Hands of Heat...............................................................................125  Watched..........................................................................................187
+          Herb Gathering.............................................................................126   Showdown: Watcher...................................................................189
+          Hooded Knight.............................................................................129  Blackout..........................................................................................191
+ Insight..............................................................................................131   Showdown: Gold Smoke Knight............................................193
+ Intimacy..........................................................................................133   Hammer and Nail.........................................................................195
+          King’s Curse....................................................................................135 Bonus Comic: Aya’s Origin................................................................................196
+          King’s Step......................................................................................137 Game Variants.......................................................................................................226
+          Lantern Research............................................
+
+---
+
+## Herb Gathering
+*Page 64*
+
+Herb Gathering                 If no cards remain in the survivors’ space, the sur-
+    Mineral Gathering and Herb Gathering are story       vivors move one space toward the monster and the 
+    events that may be triggered during the hunt by add- event revealer draws the top event card in the new 
+    ing their unique hunt event cards to the hunt board. space and follows the rules on the card.
+
+                                                         Hunt event cards are resolved one at a time, from top 
+                                                         to bottom. Unless compelled to move by an event, 
+                                                         the survivors must resolve all hunt events in their cur-
+                                                         rently-occupied space before moving. 
+                                                             The monster does not move unless an event 
+                                                         specifies otherwise.
+
+                                                         If there are no hunt event cards on a hunt board 
+                                                         space when the survivors move into the space, the 
+                                                         event revealer makes 1 roll on the hunt event table 
+                                                         before the survivors can move to the next hunt board
+
+---
+
+## Hooded Knight
+*Page 103*
+
+Hooded Knight story event is  a whip, they throw a line to the straggler. Each straggler 
+        not on the timeline, add it to the timeline 2 years from adds +4 to their roll.
+        now.
+                                                               1d10   Straggler
+                                                               1      You are swallowed by the sinkhole. Moments later 
+74 | Antler-Gouged                                                    it regurgitates you completely naked. Your gear is 
+                                                                      hopelessly lost in the miasma. Archive all gear in your 
+A great battle for dominance between two enormous an-                 gear grid.
+telopes has left the stone-faced ground gouged with criss-     2 - 4  The other survivors haul you up, but not before some-
+crossing scars. Each survivor rolls 1d10.                             thing is sucked below the surface. Archive 1 gear of 
+ 1d10   Each survivor                                                 your choice from your gear grid.
+ 1 - 2  You trip over the jagged ground and shred your flesh!  5 - 9  You are dragged to safety, terrified but unharmed.
+        Suffer the torn muscle severe leg injury.
+                                                               10 +   After a monumental effort, the other survivors pull 
+ 3 - 8  You carefully tread over the destroyed faces.                 you free. Someone is clinging tightly to  your feet (+1
+
+---
+
+## Insight
+*Page 237*
+
+insight about the world. Reaching an       more levels of weapon proficiency. Survivors develop new skills 
+Terrain Cards: Represent terrain that can be encountered during the       understanding level of 3 will trigger the Insight Story Event, while      which often empower that weapon.
+Showdown Phase and contain rules for how monsters and survivor 
+                                                                          reaching a level of 9 will trigger the White Secret Story Event.          Whip: Gear with this keyword is a whip weapon. Survivors may gain 
+interact with them. Terrain cards place one or more terrain tiles on 
+                                                                                                                                                    levels of whip weapon proficiency with this weapon.
+the showdown board.                                                       Uninhibited Rage: Add +1d10 strength to a wound attempt. After 
+                                                                          a wound attempt is rolled you may roll the Death Die and add the          Wound:   When a survivor successfully wounds a monster, remove 
+Terrain Tile: Terrain tiles are placed on the Showdown Board to rep-
+                                                                          result to the strength of your wound attempt.                             the top card from its AI Deck and place it in the Wound Stack. If the 
+resent physical features
+
+---
+
+## Intimacy
+*Page 234*
+
+Intimacy.                       a particular monster's showdown and hunt, including instructions 
+      Last to Wound: The survivor who last wounded the monster.                                                                                           on constructing a monster AI deck, hunt and showdown board set-
+                                                                                Materialize: Remove the monster from the showdown board and               up, the monster's instinct and basic attack, and information on the 
+      Leather: A gear keyword. Cured hides are a crucial component of           place it adjacent to the target. It must be placed so its base covers as  aftermath of the showdown.
+      this gear.                                                                many other survivors as possible, colliding with the survivors.
+                                                                                                                                                          Most/Least X: The survivor with the most/least of the listed condi-
+      Legendcaller: An ability. Once a lifetime, on a hunt board space after    Melee: A weapon gear keyword. To attack with a melee weapon, sur-         tion. Zero can count as most or least unless otherwise stated.
+      Overwhelming Darkness, in place of rolling a random hunt event,           vivors must be in a space adjacent to the monster. Melee weapons 
+      use "53" as your result.
+
+---
+
+## Lantern Research
+*Page 232*
+
+Lantern Research Level. Once per round, the sur-         empty, the monster performs its Basic Action.                             of feathers.
+      vivor with the Death Die may use one of the settlement's unlocked 
+                                                                                Duration: Duration cards are drawn twice. The first time a duration       Field of View: A survivor is in a monster's field of view unless they 
+      Pulse Discoveries. After rolling the Death Die, return it to its current 
+                                                                                card is drawn, perform any "when drawn face down" actions. Then,          are in the monster's blind spot or the monster's line of sight is 
+      Horripilation card. If the Final Lantern is lost or archived, it is gone 
+                                                                                instead of discarding it, place the duration card face up on top of       blocked by terrain with the Obstacle rule.
+      forever. Survivors cannot use the Death Die. Return to using the          the AI deck. The next time a monster draws an AI card, it draws the 
+      Monster Controller tile.                                                  duration card for a second time. Perform any "when drawn face up"         Fighting Arts:  Powerful battle techniques found on fighting art
+
+---
+
+## Legendary Lungs
+*Page 3*
+
+Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors.........................................................................................41  Oxidation........................................................................................149
+ Monsters.........................................................................................49   Phoenix Feather...........................................................................151
+ Resources........................................................................................56   Principle: Conviction...................................................................153
+ Terrain..............................................................................................59   Principle: Death............................................................................155
+          Hunt Phase...........
+
+---
+
+## Legendary Monsters
+*Page 57*
+
+Legendary Monsters     stand much faster when 
+                                                     Story Event, has     Life 15 listed under its Char-  they are knocked down, 
+                                                     acteristics. This means the monster starts with 15   providing a very narrow 
+                                                     wounds. Place 1d10 on Life with the 1 face showing   opportunity for survivors 
+                                                     to represent the 10’s place and 1d10 with the 5 face to take advantage of 
+                                                     showing to represent the ones place. The resulting   their weakened state.
+                                                     number showing should be 15. 
+                                                         The Great Golden Cat has 6 AI cards and it will 
+The Life card is a unique trait card that is used for en- not lose any of them when its wounded. Instead, re-
+counters with some monsters and gameplay variants.   duce the number showing on Life by 1 each time the 
+It represents a monster’s life in place of its AI deck. A Great Golden Cat is wounded.                    Monster Level 
+                                                                                                          Symbol 
+pair of d10s should be placed in the marked spaces 
+                                                                                                          The
+
+---
+
+## Mineral Gathering
+*Page 64*
+
+Mineral Gathering and Herb Gathering                 If no cards remain in the survivors’ space, the sur-
+    Mineral Gathering and Herb Gathering are story       vivors move one space toward the monster and the 
+    events that may be triggered during the hunt by add- event revealer draws the top event card in the new 
+    ing their unique hunt event cards to the hunt board. space and follows the rules on the card.
+
+                                                         Hunt event cards are resolved one at a time, from top 
+                                                         to bottom. Unless compelled to move by an event, 
+                                                         the survivors must resolve all hunt events in their cur-
+                                                         rently-occupied space before moving. 
+                                                             The monster does not move unless an event 
+                                                         specifies otherwise.
+
+                                                         If there are no hunt event cards on a hunt board 
+                                                         space when the survivors move into the space, the 
+                                                         event revealer makes 1 roll on the hunt event table 
+                                                         before the survivors can move to the next hunt board
+
+---
+
+## Overwhelming Darkness
+*Page 237*
+
+Overwhelming Darkness, in place of rolling a random hunt event, 
+                                                                                                                                                    Wound Roll: Represents the variable ferocity of a survivor's hit. Roll 
+use "100" as your result.                                                 Unwieldy: A gear special rule. If any attack dice roll results are 1, the 
+                                                                          weapon causes 1 random damage to the survivor for each 1 rolled.          1d10 and add the result to the wound attempt. The result of this d10 
+Timeline: Tracks the number of lantern years since the establish-         Continue the attack as normal.                                            (adding luck modifiers) determines whether or not a critical wound 
+ment of your settlement on the Settlement Record Sheet. Trigger                                                                                     is caused on locations with critical wound effects.
+story and settlement events as the timeline advances.                     Vermin Resources: Vermin resources can be found in Bug Patches 
+                                                                          during showdowns or as a result of events. Vermin cards describe          Zone of [    ] / [    ] Zone: The indicated area for actions and reactions 
+Tinker: An ability. When you are a returning survivor, gain +1  .
+
+---
+
+## Oxidation
+*Page 151*
+
+OXIDATION
+
+
+Kingdom Death: Monster Core Game  149
+
+---
+
+## Phoenix Feather
+*Page 3*
+
+Phoenix Feather...........................................................................151
+ Resources........................................................................................56   Principle: Conviction...................................................................153
+ Terrain..............................................................................................59   Principle: Death............................................................................155
+          Hunt Phase.....................................................................................61   Principle: New Life.......................................................................157
+          Showdown Phase........................................................................65   Principle: Society..........................................................................159
+          Settlement Phase.........................................................................81   Regal Visit.......................................................................................161
+Severe Injuries......................................................................................................86   Returning Survivors....................................................................163
+Brain Trauma.........................................................................................................88   Run Away..........................................................
+
+---
+
+## Principle: Conviction
+*Page 155*
+
+PRINCIPLE: CONVICTIONPRINCIPLE:
+
+
+Kingdom Death: Monster Core Game  153
+
+---
+
+## Principle: Death
+*Page 232*
+
+Principle: Death story event.                                             performed and the card is resolved.                                       to your roll result.
+
+      Death Die: A special orange ten sided die. The Death Die replac-          Dormenatus: When you suffer damage, you may declare "Dorme-               Facing: A monster is facing all spaces on the board that are in front 
+      es the Monster Controller tile. The player of the survivor with the       natus X" in a loud, booming voice, if you do, gain X to each hit lo-      of the miniature.
+      Death Die controls the monster. At the start of the showdown, the         cation. X cannot be more than your total green affinities. After the 
+                                                                                                                                                          Failure (Reaction): A monster reaction. Performed in response to 
+      player with the Final Lantern starts with the Death Die on Horrip-        damage is resolved, gain +X hunt XP. When you trigger Age 2, gain 
+                                                                                                                                                          unsuccessful wound attempts at certain monster hit locations. 
+      ilation. At the start of each subsequent round, pass the Death Die        the Grace of Dormenatus secret fighting art.
+      to the Horripilation card to the left. The Watcher's final emanation
+
+---
+
+## Principle: New Life
+*Page 159*
+
+PRINCIPLE: NEW LIFE  NEW PRINCIPLE:
+
+
+Kingdom Death: Monster Core Game  157
+
+---
+
+## Principle: Society
+*Page 161*
+
+PRINCIPLE: SOCIETY PRINCIPLE:
+
+
+Kingdom Death: Monster Core Game  159
+
+---
+
+## Regal Visit
+*Page 3*
+
+Regal Visit.......................................................................................161
+Severe Injuries......................................................................................................86   Returning Survivors....................................................................163
+Brain Trauma.........................................................................................................88   Run Away........................................................................................165
+Hunt Events...........................................................................................................90   See the Truth.................................................................................167
+Story Events                                                                           Showdown: Butcher...................................................................169
+ Age....................................................................................................107   Showdown: The Hand................................................................171
+          Armored Strangers......................................................................109   Showdown: King’s Man..............................................................173
+          Birth of a Savior............................................................................111   Showdown: Phoenix........................................................
+
+---
+
+## Run Away
+*Page 236*
+
+Run Away: Once a settlement has innovated Pictographs, survivors          face the monster in battle. Specific rules for setting up the show-       Starvation: If the survivors move into this space (including starting a 
+      may abandon a Hunt or Showdown Phase at any time. Follow the              down board are found on each monster's showdown story event.              showdown) apply the rules listed on the hunt board.
+      instructions on the Run Away story event.
+                                                                                Showdown Board Edge:      Generally, monsters or survivors cannot         Stinky: A gear keyword. This item has a strong odor.
+      Savage: A gear special rule. Once per attack, if you critically wound,    move off the edge of the showdown board. Any knockback or full 
+                                                                                                                                                          Story of the Forsaker: An ability. You cannot be knocked down 
+      cause 1 additional wound. This effect does not apply to impervious        move effects that would bring a miniature past a board edge stops 
+                                                                                                                                                          during a showdown with a nemesis monster.
+      hit locations.                                                            at the edge instead.
+
+---
+
+## See the Truth
+*Page 231*
+
+See the Truth Story Event.
+Bash: Causes survivors to be knocked down.
+                                                                          Build [Location]: When a new location is built, place that settle-        Critical Wound: Critical wounds are lucky blows that always wound 
+Basic Action: A Monster's basic action is detailed on its Basic Ac-       ment location in the play area and add the new location to your           a monster, even if the wound attempt does not exceed the mon-
+tion card. A basic action consists of a target action and an attack       settlement record sheet. This is a permanent addition to your set-        ster's toughness. A critical wound occurs when a wound roll result 
+action with an attack profile. Monsters will perform a basic action       tlement.                                                                  is a Lantern 10 on a hit location with a critical wound effect. The 
+on some AI cards, in some reactions, or if the AI deck and discard                                                                                  luck attribute modifies the roll needed for a critical wound. 
+are both empty. Performing a basic action does not count as an AI         Burnt Nerves: An ability. You are immune to bash.
+card being drawn.                                                         Canceled Attack: A canceled attack immediately ends. Discard all          Critical Wound Effect: Critical wound effects on monster AI cards
+
+---
+
+## White Secret
+*Page 237*
+
+White Secret Story Event.          Whip: Gear with this keyword is a whip weapon. Survivors may gain 
+interact with them. Terrain cards place one or more terrain tiles on 
+                                                                                                                                                    levels of whip weapon proficiency with this weapon.
+the showdown board.                                                       Uninhibited Rage: Add +1d10 strength to a wound attempt. After 
+                                                                          a wound attempt is rolled you may roll the Death Die and add the          Wound:   When a survivor successfully wounds a monster, remove 
+Terrain Tile: Terrain tiles are placed on the Showdown Board to rep-
+                                                                          result to the strength of your wound attempt.                             the top card from its AI Deck and place it in the Wound Stack. If the 
+resent physical features. The type and amount of terrain added to 
+                                                                                                                                                    AI deck is empty, shuffle the AI discard to create a new deck first. 
+the Showdown Board is determined by the terrain cards specified in        Unique: A gear special rule. A settlement may only have one copy of 
+the setup section of each monster's showdown story event.
+
+---
+
+## White Speaker
+*Page 3*
+
+White Speaker...............................................................................183
+          Endless Screams...........................................................................121   Zero Presence................................................................................185
+          Game Over.....................................................................................123 Finale
+          Hands of Heat...............................................................................125  Watched..........................................................................................187
+          Herb Gathering.............................................................................126   Showdown: Watcher...................................................................189
+          Hooded Knight.............................................................................129  Blackout..........................................................................................191
+ Insight..............................................................................................131   Showdown: Gold Smoke Knight............................................193
+ Intimacy..........................................................................................133   Hammer and Nail.........................................................................195
+          King’s Curse..........................................................................
+
+---
+
+## Zero Presence
+*Page 187*
+
+ZERO PRESENCE ZERO
+
+
+Kingdom Death: Monster Core Game  185
+
+---
+
+## Watched
+*Page 192*
+
+WATCHED
+
+
+                                                                                                                                                                                                 Kingdom Death: Monster Core Game  191
+
+---
+
+## Blackout
+*Page 192*
+
+BLACKOUT
+                                                                                                                                                                                                                                                                                                                                        WATCHED
+
+
+                                                                                                                                                                                                 Kingdom Death: Monster Core Game  191
+
+---
+
+## Hammer and Nail
+*Page 3*
+
+Hammer and Nail.........................................................................195
+          King’s Curse....................................................................................135 Bonus Comic: Aya’s Origin................................................................................196
+          King’s Step......................................................................................137 Game Variants.......................................................................................................226
+          Lantern Research.........................................................................139 Glossary  ............................................................................................................228
+
+---
+
+## Showdown: Butcher
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
+## Showdown: The Hand
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
+## Showdown: Phoenix
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
+## Showdown: Screaming Antelope
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
+## Showdown: White Lion
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
+## Showdown: Watcher
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
+## Showdown: Gold Smoke Knight
+*Page 3*
+
+Contents
+
+Introduction .........................................................................................................2 Story Events (cont’d)
+Prologue  ............................................................................................................5   Legendary Lungs.........................................................................141
+First Story - Game Introduction......................................................................22   Legendary Monsters...................................................................142
+Survival Guide......................................................................................................36   Mineral Gathering.......................................................................144
+Core Rules                                                                             Overwhelming Darkness..........................................................147
+ Survivors..............................................
+
+---
+
