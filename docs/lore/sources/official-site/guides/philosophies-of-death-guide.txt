@@ -1,0 +1,151 @@
+# Philosophies of Death Guide
+
+> Source: https://shop.kingdomdeath.com/pages/philosophies-of-death
+> Scraped: 2025-12-02
+> Category: Official Guide / Arc Survivor System
+
+---
+
+## Overview
+
+**Arc survivors are a divergent strain. Replacing survival instincts and reflexes with unique outlooks that shape the way they approach the world.**
+
+## The Three Components
+
+Possessed of arc cells and new neural mechanisms, arc survivors awaken with their minds unshackled. Three interconnected components represent their new faculties:
+
+### 1. Philosophy
+Philosophies are the way arc survivors make sense of their experiences. When they come of age, arc survivors adopt a philosophy that guides how they grow and change in response to their nightmare existence.
+
+*In contrast, core game survivors develop through Age milestones.*
+
+### 2. Knowledge
+Knowledges are skills that can be learned and taught. Often they arise from insight gleaned from philosophies. Arc survivors' intellectual capacity allows these skills to evolve with experience and to benefit the settlement beyond one survivor's lifetime.
+
+### 3. Collective Cognition
+Collective Cognition is the growing potential of an arc survivor settlement that pursues a diverse and nutritious diet.
+
+## Philosophies in Detail
+
+### Overview
+- Introduced in the Gambler's Chest expansion (30-lantern-year arc survivor campaign)
+- 16 richly envisioned philosophies in the base expansion
+- Additional philosophies come with arc survivor wanderers
+- Philosophies of Death expansion introduces even more perspectives
+
+### What's Included
+- Narrative sculptures
+- Philosophy Books
+- Knowledge Cards
+- Unique rules and tools
+
+## Adopting a Philosophy
+
+### When to Adopt
+Philosophies progress as arc survivors gain Hunt XP. Each philosophy has a unique set of milestone Hunt XP that indicates when their philosophy develops.
+
+**The first Hunt XP milestone (2) is shared by all arc survivors.** When they reach it, they adopt a philosophy.
+
+### Adoption Process
+1. Draw a random philosophy card from your settlement's philosophy deck
+2. Adopt this philosophy, advance to its first rank
+3. Record the philosophy's unique milestone progression for your survivor
+4. Gain the corresponding knowledge and neurosis
+
+## Advancing Your Worldview
+
+Facing mortality is the ultimate test of an arc survivor worldview. In the aftermath of a victorious battle, returning arc survivors that reached new Hunt XP milestones will **ponder** their philosophy.
+
+### Advancement Process
+1. Each philosophy advances at its own Hunt XP pace
+2. Turn to the next rank of your philosophy
+3. Resolve the rules of the page and update their arc survivor record sheet
+
+## Philosophy Tiers
+
+When the settlement consumes a wide variety of monsters, their collective cognition grows. These expanding horizons introduce new outlooks into the settlement. Arc survivors must pursue a varied diet to reach new philosophical plateaus.
+
+### Tier Progression
+- **Core Philosophy**: Determined by your campaign's core monster
+- **Starting Philosophies**: Survivalism
+- **Tier 1**: Gained at 1 Collective Cognition
+- **Tier 2**: Gained at 13 Collective Cognition  
+- **Tier 3**: Gained at 30 Collective Cognition
+
+## Knowledge System
+
+### What is Knowledge?
+Knowledges are skills arc survivors acquire. These skills are tied to the diligent reflection of survivors. As their philosophies advance, new opportunities to gain knowledge arise.
+
+**Knowledge replaces fighting arts for arc survivors**, creating more complex, evolving skills.
+
+### Sources of Knowledge
+- Each philosophy has its own central skill, a **tenet knowledge**
+- Philosophies also include knowledges beyond the tenet
+- Some knowledges arise from the existential dread of arc survivor existence
+- Others arise from victory over vicious foes
+
+### The Forum
+Arc survivors maintain a **Forum** where the exchange of ideas flows freely. Once discovered, knowledge may be shared by others in the settlement - even those that do not adhere to your philosophy.
+
+- Arc survivors may spend their unique **lumi** attribute to gain knowledge at the Forum
+- As knowledge evolves, the knowledge at the Forum evolves alongside
+
+### Knowledge Evolution
+As survivors practice their knowledge, they may observe crucial information that helps evolve their understanding.
+
+- Knowledges have **observation conditions**
+- When arc survivors observe these conditions, their grasp of the knowledge improves
+- When arc survivors complete their knowledge observation, knowledge may evolve into a more powerful skill
+
+## Key Lore Points
+
+### Arc Survivors
+1. A "divergent strain" of humanity
+2. Possess "arc cells" - a unique biological component
+3. Have "new neural mechanisms" - altered brain structure
+4. Awaken with "minds unshackled" - freed from base instincts
+5. Replace "survival instincts and reflexes" with "unique outlooks"
+
+### Philosophies
+1. How arc survivors "make sense of their experiences"
+2. Adopted when coming of age (Hunt XP 2)
+3. Guide "how they grow and change"
+4. In response to their "nightmare existence"
+5. Have multiple ranks that advance through battle experience
+
+### Collective Cognition
+1. Settlement-wide shared potential
+2. Grows through consuming a "diverse and nutritious diet"
+3. Unlocks higher tier philosophies
+4. Represents "expanding horizons"
+5. Key mechanic tied to monster variety
+
+### Knowledge
+1. Can be "learned and taught" - sharable between survivors
+2. "Evolve with experience" - not static
+3. Benefit settlement "beyond one survivor's lifetime" - legacy effects
+4. Tied to "existential dread" - some knowledge comes from suffering
+5. Replaces fighting arts entirely for arc survivors
+
+## Themes
+
+- Mental evolution and unshackling
+- Worldview as survival mechanism
+- Community learning (Forum)
+- Diet affecting mental capacity
+- Knowledge as living, evolving skill
+- Existential philosophy in response to horror
+
+## Related Concepts
+
+- Arc Survivors
+- Arc Cells (biological component)
+- Hunt XP (experience system)
+- Neurosis (negative effects)
+- Forum (settlement location)
+- Lumi (arc survivor attribute)
+- Tenet Knowledge
+- Observation Conditions
+- Gambler's Chest expansion
+
