@@ -11,7 +11,7 @@
     "priority": 3,
     "id": "entity-1764695925955-fd5dpx",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "generating"
+    "status": "pending_review"
   },
   {
     "name": "Zachary",
@@ -25,7 +25,7 @@
     "priority": 3,
     "id": "entity-1764695925955-emaiib",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "generating"
+    "status": "pending_review"
   },
   {
     "name": "Lucy",
@@ -39,7 +39,7 @@
     "priority": 3,
     "id": "entity-1764695925955-4xdd3n",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Erza",
@@ -54,7 +54,7 @@
     "priority": 3,
     "id": "entity-1764695925955-d6e11r",
     "discoveredAt": "2025-12-02T17:18:45.955Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Seed Patterns",
@@ -154,7 +154,7 @@
     "priority": 3,
     "id": "entity-1764695925956-jgfxb5",
     "discoveredAt": "2025-12-02T17:18:45.956Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Gnostin",
@@ -168,7 +168,7 @@
     "priority": 3,
     "id": "entity-1764695925956-mqvtny",
     "discoveredAt": "2025-12-02T17:18:45.956Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Aya the Survivor",
@@ -182,7 +182,7 @@
     "priority": 3,
     "id": "entity-1764695925956-x4uxsb",
     "discoveredAt": "2025-12-02T17:18:45.956Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Black Sword",
@@ -266,7 +266,7 @@
     "priority": 3,
     "id": "entity-1764695925957-bcitik",
     "discoveredAt": "2025-12-02T17:18:45.957Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Black Knight Order",
@@ -336,7 +336,7 @@
     "priority": 3,
     "id": "entity-1764695925958-sg5grh",
     "discoveredAt": "2025-12-02T17:18:45.958Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Iola",
@@ -350,7 +350,7 @@
     "priority": 3,
     "id": "entity-1764695925958-c8ta58",
     "discoveredAt": "2025-12-02T17:18:45.958Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Elle",
@@ -364,7 +364,7 @@
     "priority": 3,
     "id": "entity-1764695925959-3b7tdd",
     "discoveredAt": "2025-12-02T17:18:45.959Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Owen",
@@ -378,7 +378,7 @@
     "priority": 3,
     "id": "entity-1764695925959-9es206",
     "discoveredAt": "2025-12-02T17:18:45.959Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Squires of the Citadel Campaign",
@@ -574,7 +574,7 @@
     "priority": 3,
     "id": "entity-1764695925961-rwirza",
     "discoveredAt": "2025-12-02T17:18:45.961Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Godhand",
@@ -588,7 +588,7 @@
     "priority": 3,
     "id": "entity-1764695925961-stxoie",
     "discoveredAt": "2025-12-02T17:18:45.961Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Crimson Crocodile",
@@ -644,7 +644,7 @@
     "priority": 3,
     "id": "entity-1764695925962-vnbpbp",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "White Fang",
@@ -658,7 +658,7 @@
     "priority": 3,
     "id": "entity-1764695925962-w7p1cz",
     "discoveredAt": "2025-12-02T17:18:45.962Z",
-    "status": "queued"
+    "status": "generating"
   },
   {
     "name": "Last Axeman Standing",

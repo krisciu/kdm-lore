@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T18:37:18.359Z",
-  "nextNumber": 636,
+  "lastUpdated": "2025-12-02T18:41:52.307Z",
+  "nextNumber": 836,
   "citations": [
     {
       "id": "cit-1764695953428",
@@ -440,6 +440,406 @@
       "path": "official-site/shop/indomitable-survivors/poison-partisan-ritika.txt",
       "topic": "Indomitable Survivor",
       "dateAdded": "2025-12-02T18:37:18.359Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700670120",
+      "range": "[636-640]",
+      "source": "10th-anniversary-survivors",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "topic": "Zachary",
+      "dateAdded": "2025-12-02T18:37:50.120Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700670121",
+      "range": "[641-645]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Zachary",
+      "dateAdded": "2025-12-02T18:37:50.121Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700672863",
+      "range": "[646-650]",
+      "source": "10th-anniversary-survivors",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "topic": "Allister",
+      "dateAdded": "2025-12-02T18:37:52.863Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700672863",
+      "range": "[651-655]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Allister",
+      "dateAdded": "2025-12-02T18:37:52.863Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700705292",
+      "range": "[656-660]",
+      "source": "10th-anniversary-survivors",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "topic": "Erza",
+      "dateAdded": "2025-12-02T18:38:25.292Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700705293",
+      "range": "[661-665]",
+      "source": "black-friday-formal-erza-painters-scale",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-friday-formal-erza-painters-scale.txt",
+      "topic": "Erza",
+      "dateAdded": "2025-12-02T18:38:25.293Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700705294",
+      "range": "[666-670]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Erza",
+      "dateAdded": "2025-12-02T18:38:25.294Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700712668",
+      "range": "[671-675]",
+      "source": "10th-anniversary-survivors",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "topic": "Lucy",
+      "dateAdded": "2025-12-02T18:38:32.668Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700712668",
+      "range": "[676-680]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "Lucy",
+      "dateAdded": "2025-12-02T18:38:32.668Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700746813",
+      "range": "[681-685]",
+      "source": "ashbloom-bust",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/ashbloom-bust.txt",
+      "topic": "Gnostin",
+      "dateAdded": "2025-12-02T18:39:06.813Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700746814",
+      "range": "[686-690]",
+      "source": "vignette-of-death-screaming-nukealope",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/vignette-of-death-screaming-nukealope.txt",
+      "topic": "Gnostin",
+      "dateAdded": "2025-12-02T18:39:06.814Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700746814",
+      "range": "[691-695]",
+      "source": "vignette-screaming-nukealope",
+      "type": "shop",
+      "path": "official-site/shop/vignettes/vignette-screaming-nukealope.txt",
+      "topic": "Gnostin",
+      "dateAdded": "2025-12-02T18:39:06.814Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700774665",
+      "range": "[696-700]",
+      "source": "ashbloom-bust",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/ashbloom-bust.txt",
+      "topic": "Ashbloom",
+      "dateAdded": "2025-12-02T18:39:34.665Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700774666",
+      "range": "[701-705]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Ashbloom",
+      "dateAdded": "2025-12-02T18:39:34.666Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700774666",
+      "range": "[706-710]",
+      "source": "ashbloom-of-dedheim",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/ashbloom-of-dedheim.txt",
+      "topic": "Ashbloom",
+      "dateAdded": "2025-12-02T18:39:34.666Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700774666",
+      "range": "[711-715]",
+      "source": "vignette-screaming-nukealope",
+      "type": "shop",
+      "path": "official-site/shop/vignettes/vignette-screaming-nukealope.txt",
+      "topic": "Ashbloom",
+      "dateAdded": "2025-12-02T18:39:34.666Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700783916",
+      "range": "[716-720]",
+      "source": "before-the-wall",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/before-the-wall.txt",
+      "topic": "Aya the Survivor",
+      "dateAdded": "2025-12-02T18:39:43.916Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700783916",
+      "range": "[721-725]",
+      "source": "beyond-the-wall-1a",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/beyond-the-wall-1a.txt",
+      "topic": "Aya the Survivor",
+      "dateAdded": "2025-12-02T18:39:43.916Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700806778",
+      "range": "[726-730]",
+      "source": "black-friday-formal-erza-painters-scale",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-friday-formal-erza-painters-scale.txt",
+      "topic": "Black Friday Formal Erza",
+      "dateAdded": "2025-12-02T18:40:06.778Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700806779",
+      "range": "[731-735]",
+      "source": "formal-erza-painters-scale",
+      "type": "shop",
+      "path": "official-site/shop/miniatures/formal-erza-painters-scale.txt",
+      "topic": "Black Friday Formal Erza",
+      "dateAdded": "2025-12-02T18:40:06.779Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700806779",
+      "range": "[736-740]",
+      "source": "priestess-percival",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "topic": "Black Friday Formal Erza",
+      "dateAdded": "2025-12-02T18:40:06.779Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700812922",
+      "range": "[741-745]",
+      "source": "black-knight-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "topic": "Cain",
+      "dateAdded": "2025-12-02T18:40:12.922Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700834026",
+      "range": "[746-750]",
+      "source": "black-knight-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "topic": "Iola",
+      "dateAdded": "2025-12-02T18:40:34.026Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700834027",
+      "range": "[751-755]",
+      "source": "pillar-fade",
+      "type": "shop",
+      "path": "official-site/shop/pillar-survivors/pillar-fade.txt",
+      "topic": "Iola",
+      "dateAdded": "2025-12-02T18:40:34.027Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700841504",
+      "range": "[756-760]",
+      "source": "black-knight-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "topic": "Elle",
+      "dateAdded": "2025-12-02T18:40:41.504Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700841506",
+      "range": "[761-765]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "topic": "Elle",
+      "dateAdded": "2025-12-02T18:40:41.506Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700867838",
+      "range": "[766-770]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "The Gambler",
+      "dateAdded": "2025-12-02T18:41:07.838Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700867839",
+      "range": "[771-775]",
+      "source": "philosophy-of-death-gatherism",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/philosophy-of-death-gatherism.txt",
+      "topic": "The Gambler",
+      "dateAdded": "2025-12-02T18:41:07.839Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700867839",
+      "range": "[776-780]",
+      "source": "wanderer-aeneas",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/wanderer-aeneas.txt",
+      "topic": "The Gambler",
+      "dateAdded": "2025-12-02T18:41:07.839Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700867839",
+      "range": "[781-785]",
+      "source": "wanderer-candy",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/wanderer-candy.txt",
+      "topic": "The Gambler",
+      "dateAdded": "2025-12-02T18:41:07.839Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700867840",
+      "range": "[786-790]",
+      "source": "wanderer-death-drifter",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/wanderer-death-drifter.txt",
+      "topic": "The Gambler",
+      "dateAdded": "2025-12-02T18:41:07.840Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700872314",
+      "range": "[791-795]",
+      "source": "black-knight-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "topic": "Owen",
+      "dateAdded": "2025-12-02T18:41:12.314Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700872315",
+      "range": "[796-800]",
+      "source": "seed-pattern-jackel",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/seed-pattern-jackel.txt",
+      "topic": "Owen",
+      "dateAdded": "2025-12-02T18:41:12.315Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700901847",
+      "range": "[801-805]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Godhand",
+      "dateAdded": "2025-12-02T18:41:41.847Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700901848",
+      "range": "[806-810]",
+      "source": "god-hand-t-shirt",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/god-hand-t-shirt.txt",
+      "topic": "Godhand",
+      "dateAdded": "2025-12-02T18:41:41.848Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700901849",
+      "range": "[811-815]",
+      "source": "monster-nodes-guide",
+      "type": "community",
+      "path": "official-site/guides/monster-nodes-guide.txt",
+      "topic": "Godhand",
+      "dateAdded": "2025-12-02T18:41:41.849Z",
+      "quality": "community"
+    },
+    {
+      "id": "cit-1764700912306",
+      "range": "[816-820]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "The King",
+      "dateAdded": "2025-12-02T18:41:52.306Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700912307",
+      "range": "[821-825]",
+      "source": "lion-knight-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/lion-knight-expansion-1-6.txt",
+      "topic": "The King",
+      "dateAdded": "2025-12-02T18:41:52.307Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700912307",
+      "range": "[826-830]",
+      "source": "red-witches-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/red-witches-expansion.txt",
+      "topic": "The King",
+      "dateAdded": "2025-12-02T18:41:52.307Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700912307",
+      "range": "[831-835]",
+      "source": "slenderman-expansion-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/slenderman-expansion-1-6.txt",
+      "topic": "The King",
+      "dateAdded": "2025-12-02T18:41:52.307Z",
       "quality": "official"
     }
   ]

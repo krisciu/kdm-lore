@@ -10,3 +10,29 @@ Reparsing as ES module because module syntax was detected. This incurs a perform
 To eliminate this warning, add "type": "module" to /Users/krisciu/workspace/kdm-lore/package.json.
 (Use `node --trace-warnings ...` to show where the warning was created)
    Found 10 updates
+
+📦 Fetching snapshot from 2017-01-05...
+   Found 10 updates
+
+📦 Fetching snapshot from 2017-08-15...
+   Found 10 updates
+
+📦 Fetching snapshot from 2018-01-20...
+   Found 10 updates
+
+📦 Fetching snapshot from 2019-01-03...
+   Found 10 updates
+
+📦 Fetching snapshot from 2019-08-04...
+   Found 10 updates
+
+📦 Fetching snapshot from 2020-07-27...
+   Found 10 updates
+
+═══════════════════════════════════════════
+  Summary
+═══════════════════════════════════════════
+  New updates scraped: 0
+  Total update files: 59
+
+✅ Done!

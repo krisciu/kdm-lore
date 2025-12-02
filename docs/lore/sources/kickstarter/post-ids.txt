@@ -1,27 +1,31 @@
-# Kickstarter Post IDs
-# Discovered via browser automation + RSS feed
-# Format: UpdateNumber|PostID|Title
+# Kickstarter Post IDs - Discovered via browser automation
+# Format: UpdateNumber|PostID
 
-# 2025 Updates (from RSS + browser clicking)
-134|4550627|Black Friday - 2025
-133|4528510|Halloween 2025
-132|4498770|September 2025 (Screaming God)
-131|4471289|August 2025 (GenCon)
-130|4423166|June 2025 (Ships on Boats)
-129|4398287|May 2025 (Revamped Wave 1 Complete)
-128|4374406|April 2025 (Tariffs & Chaos)
-127|4327928|March 2025 (Remastered Wave 1)
-126|4324893|February 2025 (Valentine's Day)
-125|4303789|January 2025 (New Lantern Year)
+# 2025 Updates (from RSS feed with full content + images)
+134|4550627
+133|4528510
+132|4498770
+131|4471289
+130|4423166
+129|4398287
+128|4374406
+127|4327928
+126|4324893
+125|4303789
 
-# 2024 Updates (continue clicking...)
-# 124|???|December 2024
-# 123|???|November 2024
-# ...
+# 2024 Updates (discovered via clicking)
+124|4281544
+123|4257269
+122|4240089
+121|4211226
+120|4184460
+119|4140735
+118|4140665
+117|4115109
+# Continue discovering...
 
-# Historical 2016 Campaign updates (from Wayback Machine archive.org/web/20161205id_/)
-# These are the original KS 1.5 campaign updates with massive lore content!
-1755400|$6,666,666 - Secret Unplanned Stretch Goal
+# Historical 2016 Campaign (from Wayback Machine archive.org/web/20161205id_/)
+1755400|$6,666,666 Secret Stretch Goal - Satan Twins lore
 1754792|$6.5M - Lion Knight Return, Gambler's Chest Roll #6
 1753379|$6.25M - Gambler's Chest Roll #5, Cooperative Nightmare Horror
 1752444|OVER $6 MILLION - Surpassed Surpassed Form
@@ -29,8 +33,10 @@
 1750349|$5.2M - NEW EXPANSION - NIGHTMARE RAM
 1749527|OVER $5 MILLION - Gambler's Chest Roll #2
 1748638|$4.6M - Dragon King Reprint Confirmed
-1748282|$4.3M in 24 hours - Surpassed Surpassed Level
-1747997|[Earlier update]
+1748282|$4.3M in 24 hours
 
-# Total discovered: 10 recent + 10 historical = 20 updates
-# Remaining: ~114 updates to discover
+# Summary:
+# - 18 recent URLs discovered (117-134)
+# - 9 historical 2016 URLs from Wayback
+# - Total: 27 URLs
+# - Remaining: ~107 URLs to discover

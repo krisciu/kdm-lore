@@ -885,5 +885,937 @@
     "id": "pending-1764700638360-mg3d1i",
     "createdAt": "2025-12-02T18:37:18.360Z",
     "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925955-emaiib",
+    "entityName": "Zachary",
+    "content": "# Zachary\n\n> *\"One extinguishing lantern after another, the grizzled foursome persevered.\"*\n\n**Category:** Character\n**Type:** Starting Survivor\n**Expansion:** Core Game\n\n---\n\n## Overview\n\nZachary is one of the four founding survivors who emerge into consciousness at the dawn of a new settlement in Kingdom Death: Monster. Alongside Allister, Lucy, and Erza, he represents the fragile spark of humanity that first awakens in the oppressive darkness, armed with nothing but stone tools and the fading light of a dying lantern. These four embody the desperate origin point from which all survivor civilizations must struggle to grow.\n\nIn the 10th Anniversary reimagining of the starting survivors, Zachary is depicted after a full \"lantern decade\" of survival—a grizzled veteran whose body and mind have been shaped by countless encounters with the horrors that stalk the darkness. This evolved version showcases the ingenuity and grit that separates those who endure from those who are consumed by the nightmare world around them.\n\n## The Awakening\n\nLike all starting survivors, Zachary's existence begins in confusion and terror. He possesses no memory of a time before the darkness—only the immediate reality of stone faces, flickering lanternlight, and the presence of three others who share his incomprehensible situation. The founding survivors are defined not by who they were, but by what they must become: hunters, crafters, and the desperate architects of civilization built upon monster bone and salvaged hide.\n\nThe starting survivors represent humanity at its most vulnerable and primal state. They carry only foundational cloth and basic stone implements—meager tools against the nightmares that await in the darkness beyond their lantern's reach.\n\n## The Lantern Decade\n\n*[Speculative based on 10th Anniversary description]*\n\nA decade of survival in the Kingdom Death world transforms a person utterly. The 10th Anniversary version of Zachary reflects this transformation—the insight gleaned from years of hunting monsters, enduring horrors, and watching companions fall has ignited within him a \"spark of ingenuity.\" This hard-won wisdom manifests as an understanding of the world's strange crafting patterns, the ability to see potential in the materials torn from fallen beasts that would be invisible to a newly awakened survivor.\n\nThe grizzled Zachary represents not just physical survival but mental adaptation—the accumulation of knowledge that allows humanity to gradually claw back ground from the darkness.\n\n## Lore Significance\n\nZachary and the other starting survivors occupy a crucial position in Kingdom Death's mythology as the blank slate upon which all stories are written. They are simultaneously everymen and foundational figures—the Adams and Eves of each settlement's unique history. Every masterwork weapon, every piece of cunningly crafted armor, every tradition and innovation traces back to these four desperate figures standing in the light of a fading lantern.\n\nThe 10th Anniversary interpretation adds temporal depth to these characters, suggesting that survival itself creates a form of enlightenment. The Seed Patterns associated with the anniversary figures represent this accumulated wisdom—crafting insights that emerge only through the understanding that comes from years of struggle against the darkness.\n\n## Connections\n\n- **Allister** — Fellow starting survivor; shares the burden of founding humanity's desperate stand against the darkness\n- **Lucy** — Fellow starting survivor; one of the original four who awakened together\n- **Erza** — Fellow starting survivor; together they form the grizzled foursome who persevered\n- **The Settlement** — The nascent civilization Zachary and the others fight to build and protect\n- **Seed Patterns** — Crafting insights unlocked through survivor experience and insight\n\n## Sources\n\n- 10th-anniversary-survivors (shop) — Primary source for 10th Anniversary survivor information and thematic description\n- kingdom-death-monster-1-6 (shop) — Confirmation of starting survivor status and core game inclusion\n\n---\n\n## Related Entries\n\n- [Allister](/characters/allister)\n- [Lucy](/characters/lucy)\n- [Erza](/characters/erza)\n- [Starting Survivors](/concepts/starting-survivors)\n- [Seed Patterns](/mechanics/seed-patterns)\n\n---",
+    "frontmatter": {
+      "title": "Zachary",
+      "category": "character",
+      "type": "Starting Survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Core Game",
+      "sources": "[\"10th-anniversary-survivors (shop)\", \"kingdom-death-monster-1-6 (shop)\"]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/smart-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/15th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/death-high-zachary.txt",
+      "official-site/shop/smart-scraped/kingdom-death-monster-1-5.txt",
+      "official-site/shop/special-survivors/10th-anniversary-survivors.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "official-site/news/2024/kdu-97-august-2024.txt",
+      "official-site/news/2025/kdu-103-february-2025.txt",
+      "existing-research/rules/02-core-rules-ocr.txt",
+      "existing-research/rules/dragon-king-ocr.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[636-640]",
+      "[641-645]",
+      "[641-645]",
+      "[641-645]",
+      "[636-640]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700670121-02g50s",
+    "createdAt": "2025-12-02T18:37:50.121Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925955-fd5dpx",
+    "entityName": "Allister",
+    "content": "# Allister\n\n> *\"One extinguishing lantern after another, the grizzled foursome persevered.\"*\n\n**Category:** Character  \n**Type:** Starting Survivor  \n**Expansion:** Core Game\n\n---\n\n## Overview\n\nAllister stands among the first to rise from the darkness—one of four souls who opened their eyes beside the fallen corpse of a great beast and found themselves thrust into a nightmare of survival. As a starting survivor in Kingdom Death: Monster, Allister represents the fragile spark of humanity's will to persist against impossible odds. Armed with nothing but stone and desperation, these first survivors mark the beginning of every settlement's desperate chronicle.\n\nThe 10th Anniversary reimagining of Allister depicts a survivor transformed by a full lantern decade of endurance. Where once stood a naked, bewildered figure clutching crude weapons, now stands a grizzled veteran whose every scar tells a story of monsters slain, companions lost, and lessons carved into flesh and memory. This Allister embodies the ingenuity and grit required to endure the darkness—proof that humanity can not only survive but adapt and innovate even in the most hostile of existences.\n\n## History\n\nAllister's story begins as all survivor stories do—in confusion, terror, and blood. Emerging into consciousness beside the corpse of a great White Lion, surrounded by the faint glow of a lantern horde, Allister joined Zachary, Lucy, and Erza in humanity's eternal struggle against the darkness. These four represent the primordial moment of every settlement: that first desperate gasp of awareness in a world that offers no explanations and shows no mercy.\n\nA lantern decade into survival, Allister has been transformed by the crucible of the darkness. The insight gleaned from countless hunts, showdowns, and the slow accumulation of hard-won knowledge has ignited within this survivor a spark of ingenuity. Where once survival meant simply not dying, it now means crafting, innovating, and pushing the boundaries of what humans can create from the flesh and bone of nightmares.\n\n## Physical Description\n\n*[Speculative based on product context]* The 10th Anniversary depiction of Allister shows the physical toll and triumph of prolonged survival. The \"grizzled\" nature of the veteran survivor suggests weathered features, accumulated scars, and the lean hardness that comes from years of hunting monsters in the darkness. The figure stands upon a unique scenic base, a silent monument to the ground they have claimed from the eternal night.\n\nThe craftsmanship of the miniature—sculpted by Team Death from concept art by Lokman Lam—captures both the weariness and determination of a decade-long survivor. Equipment and gear likely reflect the ingenuity mentioned in the source material, incorporating elements crafted through Seed Patterns and the accumulated wisdom of survival.\n\n## Lore Significance\n\nAllister holds profound significance within Kingdom Death's mythology as one of the foundational figures of human survival. The starting survivors represent the baseline of humanity—individuals with no inherited knowledge, no cultural memory, no understanding of the horrors that await them. Every settlement traces its lineage, in some spiritual sense, back to these first four.\n\nThe 10th Anniversary version elevates Allister's significance further, demonstrating that survival is possible, that the darkness can be endured, and that insight transforms not just individuals but the very nature of human ingenuity. The Seed Pattern system introduced alongside these figures represents this concept mechanically—knowledge hard-won through experience crystallizing into new forms of creation.\n\n## Seed Patterns\n\nThe 10th Anniversary Allister is intrinsically connected to the Seed Pattern system. These patterns represent sparks of crafting inspiration that accompany the insight survivors glean about their world. When survivors reach moments of profound understanding, they may draw upon these patterns—instructions that describe what resources to gather and how to combine them into entirely new pieces of gear.\n\nThis system reflects Allister's journey from naked desperation to grizzled ingenuity. The patterns are not merely recipes but revelations, moments where the accumulated horror and wonder of existence in the darkness coalesce into something useful, something that might mean the difference between death and another lantern year of survival.\n\n## Connections\n\n- **Zachary** – Fellow starting survivor; companion from the moment of first awakening\n- **Lucy** – Fellow starting survivor; one of the original foursome who persevered together\n- **Erza** – Fellow starting survivor; together they represent humanity's founding moment\n- **White Lion** – The first monster; its corpse marks the birthplace of survivor consciousness\n- **The Settlement** – The home and legacy built through decades of survival\n\n## Sources\n\n- 10th-anniversary-survivors (shop) – Primary source for 10th Anniversary lore and Seed Pattern information\n- kingdom-death-monster-1-6 (shop) – Confirmation of starting survivor status and base game context\n\n---\n\n## Related Entries\n\n- [[Zachary]] – Starting Survivor\n- [[Lucy]] – Starting Survivor  \n- [[Erza]] – Starting Survivor\n- [[White Lion]] – First quarry monster\n- [[Starting Survivors]] – Overview of the founding four\n- [[Seed Patterns]] – Crafting system introduced with 10th Anniversary Survivors",
+    "frontmatter": {
+      "title": "Allister",
+      "category": "character",
+      "type": "Starting Survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Core Game",
+      "sources": "[\"10th-anniversary-survivors (shop)\", \"kingdom-death-monster-1-6 (shop)\"]",
+      "images": "",
+      "- path": "/images/survivors/allister-10th-anniversary.jpg",
+      "caption": "Allister, 10th Anniversary Survivor - Art by Lokman Lam"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/smart-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/15th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/death-high-senior-allister-painters-scale.txt",
+      "official-site/shop/smart-scraped/kingdom-death-monster-1-5.txt",
+      "official-site/shop/special-survivors/10th-anniversary-survivors.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "rulebooks/lore-extracted/worldbuilding.txt",
+      "existing-research/rules/02-core-rules-ocr.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[646-650]",
+      "[651-655]",
+      "[651-655]",
+      "[651-655]",
+      "[646-650]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700672864-p1mjd9",
+    "createdAt": "2025-12-02T18:37:52.864Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925955-d6e11r",
+    "entityName": "Erza",
+    "content": "# Erza\n\n> *\"One extinguishing lantern after another, the grizzled foursome persevered.\"*\n\n**Category:** Character\n**Type:** Starting Survivor\n**Expansion:** Core Game\n\n---\n\n## Overview\n\nErza is one of the four founding survivors who emerge from the primordial darkness at the beginning of a settlement's desperate struggle for existence. Alongside Allister, Zachary, and Lucy, she represents the first spark of human defiance against the horrors that dwell in the lightless void. Armed with nothing but stone and determination, these four must face the White Lion—and in doing so, ignite the ember that may one day become a civilization.\n\nThe name Erza has echoed through a lantern decade of survival, transforming from a naked, trembling figure clutching crude stone into something far more formidable. The 10th Anniversary commemoration of her journey reveals what ten years in the darkness truly means: not just endurance, but evolution. Where once there was only terror, now burns the fire of ingenuity.\n\n## Physical Description\n\nIn her original incarnation, Erza begins as all survivors do—unarmored, vulnerable, human in the most fragile sense. The stone face beneath her feet is the only solid ground she has ever known, and the faint glow of a distant lantern is the entirety of her universe.\n\nThe 10th Anniversary portrayal presents a dramatically transformed figure. Described as \"grizzled,\" this Erza bears the unmistakable marks of prolonged survival in the Kingdom Death world. Her appearance reflects the insight gleaned from countless hunts, the accumulated wisdom of watching companions fall and monsters bleed. She embodies \"the ingenuity and grit required to endure the darkness\"—a survivor who has learned to craft hope from horror.\n\n*[Speculative: The transformation from starting survivor to 10th Anniversary veteran suggests extensive scarring, improvised armor incorporating monster materials, and the weathered bearing of one who has faced death repeatedly and refused it.]*\n\n## The Spark of Ingenuity\n\nThe 10th Anniversary survivors are intrinsically linked to the concept of Seed Patterns—sparks of crafting inspiration that accompany insight gleaned about the world. Erza's decade-long survival has not merely toughened her body but sharpened her mind. She has learned to see resources where others see only remains, to envision tools where others see only bones.\n\nThis ingenuity represents a crucial aspect of Kingdom Death's philosophy: survival is not passive endurance but active creation. Erza and her companions do not merely persist—they innovate, adapt, and build. When survivors reach their moments of insight, new ideas take physical form from the assembled elements of their brutal world.\n\n## Lore Significance\n\nErza occupies a unique position in Kingdom Death mythology as both an individual and an archetype. She represents every survivor who has ever stepped into the darkness—every player's first character, every settlement's founding mother. Her transformation over a \"lantern decade\" mirrors the progression that players themselves experience as their settlements grow from desperate clusters of survivors into something approaching civilization.\n\nThe existence of variants such as \"Black Friday Formal Erza\"—described as arriving \"in bold style for the darkest day of the year\"—suggests that Erza's story branches across multiple possible timelines and interpretations, each reflecting different facets of survival in the Kingdom Death world.\n\n## Connections\n\n- **Allister** — Fellow starting survivor; shared the first moments of awakening in darkness\n- **Zachary** — Fellow starting survivor; together they form the original hunting party\n- **Lucy** — Fellow starting survivor; the grizzled foursome that persevered together\n- **White Lion** — The first monster faced; its defeat marks the true beginning of survival\n- **Seed Patterns** — Crafting innovations tied to the insight of veteran survivors\n\n## Sources\n\n- 10th-anniversary-survivors (shop)\n- black-friday-formal-erza-painters-scale (shop)\n- kingdom-death-monster-1-6 (shop)\n\n---\n\n## Related Entries\n\n- [[Allister]]\n- [[Zachary]]\n- [[Lucy]]\n- [[White Lion]]\n- [[Starting Survivors]]\n- [[Seed Patterns]]\n\n---",
+    "frontmatter": {
+      "title": "Erza",
+      "category": "character",
+      "type": "Starting Survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Core Game",
+      "sources": "[\"10th-anniversary-survivors (shop)\", \"black-friday-formal-erza-painters-scale (shop)\", \"kingdom-death-monster-1-6 (shop)\"]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/batch-scraped/black-friday-formal-erza-painters-scale.txt",
+      "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/miniatures/formal-erza-painters-scale.txt",
+      "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "official-site/shop/smart-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/15th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/black-friday-formal-erza-painters-scale.txt",
+      "official-site/shop/smart-scraped/death-high-erza.txt",
+      "official-site/shop/smart-scraped/erza-of-dedheim.txt",
+      "official-site/shop/smart-scraped/kingdom-death-monster-1-5.txt",
+      "official-site/shop/special-survivors/10th-anniversary-survivors.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "rulebooks/lore-extracted/worldbuilding.txt",
+      "official-site/news/2024/kdu-99-october-2024.txt",
+      "official-site/news/2025/kdu-105-april-2025.txt",
+      "official-site/news/2025/kdu-107-june-2025.txt",
+      "official-site/news/2025/kdu-109-august-2025.txt",
+      "existing-research/rules/02-core-rules-ocr.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[656-660]",
+      "[661-665]",
+      "[666-670]",
+      "[666-670]",
+      "[666-670]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700705296-y2v6sn",
+    "createdAt": "2025-12-02T18:38:25.296Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925955-4xdd3n",
+    "entityName": "Lucy",
+    "content": "# Lucy\n\n> *\"One extinguishing lantern after another, the grizzled foursome persevered.\"*\n\n**Category:** Character\n**Type:** Starting Survivor\n**Expansion:** Core Game (10th Anniversary Survivors variant)\n\n---\n\n## Overview\n\nLucy stands among the original four survivors who first opened their eyes in the darkness, emerging from oblivion with nothing but the dim glow of a dying lantern and the monstrous bulk of the White Lion before them. Alongside Allister, Zachary, and Erza, she represents the fragile spark of humanity struggling against an incomprehensible nightmare world—the very foundation upon which settlements are built or destroyed.\n\nThe 10th Anniversary reimagining of Lucy presents her not as the vulnerable, newly-awakened soul of the original figures, but as something far more formidable. A full lantern decade into her survival, Lucy embodies the ingenuity and grit that separates those who merely exist in the darkness from those who learn to thrive within it. The insight she has gleaned from countless hunts, showdowns, and settlement crises has crystallized into something rare and precious—a spark of true crafting inspiration.\n\n## History\n\nLucy's earliest moments of consciousness remain shrouded in the same primordial mystery that veils all survivors' origins. She awoke alongside three others in absolute darkness, surrounded by stone faces frozen in silent screams, with only the fading light of a lantern herd to push back the void. What came before—if anything came before—is lost to the darkness itself.\n\nThe first test came immediately: the White Lion, a beast of terrible beauty and savage hunger. Whether through desperate cooperation, raw instinct, or blind fortune, Lucy and her companions survived that initial encounter. From the lion's remains, they fashioned their first crude tools and weapons. From its blood-soaked victory, they learned the first lesson of their world: in the darkness, death feeds life.\n\nA lantern decade is no small measure of time in a world where extinction lurks behind every shadow. That Lucy persevered through ten years—watching lanterns extinguish one after another, witnessing the rise and fall of fellow survivors, enduring horrors that would shatter lesser minds—speaks to an iron core beneath her human exterior. The sources describe her and her original companions as \"grizzled,\" a word that carries the weight of countless scars, both visible and hidden.\n\n## The Spark of Ingenuity\n\nWhat distinguishes the 10th Anniversary Lucy from her earlier incarnation is not merely survival, but evolution. The source material speaks of \"insight gleaned from their life in the darkness\" that has \"ignited a spark of ingenuity.\" This manifests mechanically through the Seed Pattern system—crafting inspirations that accompany hard-won insight about the world.\n\n*[Speculative]* In narrative terms, this suggests Lucy has transcended mere reactive survival. Where once she fought with found bones and scavenged stone, she now perceives deeper patterns in the materials around her. The monster parts that others see as mere resources, she recognizes as components waiting to be assembled into something new. When survivors in her settlement reach moments of profound understanding about their world, Lucy's influence helps transform that knowledge into tangible innovation.\n\n## Physical Description\n\n*[Note: Specific visual details beyond the general description are not provided in sources]*\n\nThe 10th Anniversary figure of Lucy was designed by artist Lokman Lam and sculpted by Team Death. She is presented on a unique scenic base insert, suggesting her figure depicts a specific moment or environment from her decade of survival. The commemorative artwork, available as a large matte print on heavy card stock, captures her reimagined appearance after ten years of enduring the darkness.\n\n## Lore Significance\n\nLucy occupies a unique position in Kingdom Death lore as both an everywoman and a legend. As a starting survivor, she represents the blank slate—any player's first steps into the nightmare. As a 10th Anniversary figure, she represents the aspirational endpoint: proof that survival is possible, that humanity can adapt, that the darkness does not always win.\n\nHer connection to the Seed Pattern system positions her as a font of crafting wisdom. The patterns themselves represent \"a spark of crafting inspiration that accompanies insight gleaned about the world.\" In a setting where innovation means the difference between extinction and continuation, Lucy's evolved understanding of materials and construction makes her invaluable to any settlement fortunate enough to benefit from her experience.\n\n## Connections\n\n- **Allister** — Fellow starting survivor; shared the first awakening and a lantern decade of survival\n- **Zachary** — Fellow starting survivor; one of the original grizzled foursome\n- **Erza** — Fellow starting survivor; companion through countless lantern-lit hunts\n- **The White Lion** — First monster encountered; its defeat marked Lucy's entry into conscious existence\n- **Seed Patterns** — The crafting system tied to the 10th Anniversary Survivors, representing crystallized survival knowledge\n- **The Settlement** — The community built from that first desperate victory, which Lucy has helped sustain for ten years\n\n## Sources\n\n- 10th-anniversary-survivors (shop)\n- kingdom-death-monster-1-6 (shop)\n\n---\n\n## Related Entries\n\n- [Allister](/entries/allister)\n- [Zachary](/entries/zachary)\n- [Erza](/entries/erza)\n- [White Lion](/entries/white-lion)\n- [Starting Survivors](/entries/starting-survivors)\n- [Seed Patterns](/entries/seed-patterns)\n\n---",
+    "frontmatter": {
+      "title": "Lucy",
+      "category": "character",
+      "type": "starting survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Core Game",
+      "sources": "[10th-anniversary-survivors, kingdom-death-monster-1-6]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/smart-scraped/10th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/15th-anniversary-survivors.txt",
+      "official-site/shop/smart-scraped/cupid-lucy-painters-scale-copy.txt",
+      "official-site/shop/smart-scraped/cupid-lucy.txt",
+      "official-site/shop/smart-scraped/death-high-lucy.txt",
+      "official-site/shop/smart-scraped/kingdom-death-monster-1-5.txt",
+      "official-site/shop/special-survivors/10th-anniversary-survivors.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "rulebooks/lore-extracted/worldbuilding.txt",
+      "official-site/news/2024/kdu-97-august-2024.txt",
+      "official-site/news/2025/kdu-103-february-2025.txt",
+      "official-site/news/2025/kdu-106-may-2025.txt",
+      "existing-research/rules/02-core-rules-ocr.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[671-675]",
+      "[676-680]",
+      "[676-680]",
+      "[676-680]",
+      "[671-675]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700712671-6g500c",
+    "createdAt": "2025-12-02T18:38:32.671Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925956-mqvtny",
+    "entityName": "Gnostin",
+    "content": "# Gnostin\n\n> *\"He prays not for salvation, but for silence. The darkness has promised him nothing—and that is everything he desires.\"*\n\n**Category:** Character  \n**Type:** Survivor / Hunt Leader  \n**Expansion:** Vignette of Death: Screaming Nukealope\n\n---\n\n## Overview\n\nGnostin is a weary survivor who has gazed too long into the abyss of existence in the Kingdom Death universe and found himself wanting only one thing: an end. Unlike so many who cling desperately to life in the endless dark, Gnostin has embraced the inevitability of death and actively prays for its arrival. His death wish is not born of cowardice, but of a profound exhaustion—a soul worn thin by the horrors of survival and, perhaps most unbearably, by the relentless optimism of his companion Ashbloom.\n\nDespite his longing for oblivion, Gnostin possesses a cunning mind and natural leadership that draws others to him. He leads a \"close knit company\" of survivors—a squabbling, unlikely alliance bound together not by hope, but by Gnostin's singular vision. That he continues to fight, to lead, to *survive* despite his yearning for death speaks to either a cruel irony of fate or perhaps a final purpose he must see fulfilled before the darkness claims him.\n\n## The Unlikely Alliance\n\nGnostin's company is described as \"squabbling\" and \"unlikely\"—a ragtag band of survivors who have rallied around a man who wishes he were dead. This paradox defines their dynamic: followers who believe in their leader's vision, even as that leader's ultimate vision is his own demise. Among this company is Ashbloom, whose unflagging optimism serves as a constant source of torment for Gnostin. Where Gnostin sees the futility of existence, Ashbloom apparently sees light. This friction is noted as \"just one of many reasons\" Gnostin prays for death, suggesting his burdens are manifold.\n\nThe alliance's cohesion comes from \"wits and teamwork\" rather than brute strength, indicating Gnostin values cunning and cooperation over raw power. They have taken it upon themselves to hunt the Screaming Nukealope—a creature transfigured by radiation whose very existence is constant pain.\n\n## The Perfect Ending\n\nGnostin pursues what is described as his \"envisioned perfect ending.\" Given his death wish, this perfect ending likely involves a meaningful death—perhaps taking the Screaming Nukealope with him, or ensuring his company survives even as he falls. The hunt against the Nukealope represents either a suicide mission dressed as heroism, or the one final act that would give Gnostin's tortured existence meaning before it ends.\n\nThe choice of the Screaming Nukealope as his final quarry carries symbolic weight: a creature in constant agony facing a hunter who craves the release of death. In destroying it, perhaps Gnostin sees a kindred spirit—or a mirror of what he might become if death continues to elude him.\n\n## Lore Significance\n\nGnostin represents the darker psychological spectrum of survival in Kingdom Death. While many survivors are defined by their struggle *against* death, Gnostin is defined by his struggle *toward* it. He embodies the philosophical question at the heart of the setting: in a world of perpetual horror, is survival truly victory, or merely prolonged suffering?\n\nHis relationship with Ashbloom creates a compelling dichotomy—the death-seeker and the optimist, bound together in the darkness. That Ashbloom's hope is explicitly cited as a reason for Gnostin's despair suggests the cruelty of mismatched perspectives among survivors.\n\n## Connections\n\n- **Ashbloom** – Fellow survivor whose relentless optimism tortures Gnostin; member of his company\n- **Screaming Nukealope** – Irradiated quarry that Gnostin's alliance seeks to destroy; a creature of constant pain that mirrors Gnostin's own suffering\n- **Team Gnostin** – The unlikely alliance of survivors who follow Gnostin despite (or because of) his nihilistic worldview\n\n## Sources\n\n- ashbloom-bust (shop)\n- vignette-of-death-screaming-nukealope (shop)\n- vignette-screaming-nukealope (shop)\n\n---\n\n## Related Entries\n\n- [[Ashbloom]]\n- [[Screaming Nukealope]]\n- [[Vignette of Death: Screaming Nukealope]]\n- [[Survivors]]",
+    "frontmatter": {
+      "title": "Gnostin",
+      "category": "character",
+      "type": "survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Vignette of Death: Screaming Nukealope",
+      "sources": "[ashbloom-bust, vignette-of-death-screaming-nukealope, vignette-screaming-nukealope]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/ashbloom-bust.txt",
+      "official-site/shop/batch-scraped/vignette-of-death-screaming-nukealope.txt",
+      "official-site/shop/smart-scraped/ashbloom-bust.txt",
+      "official-site/shop/smart-scraped/vignette-of-death-screaming-nukealope.txt",
+      "official-site/shop/vignettes/vignette-screaming-nukealope.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[681-685]",
+      "[686-690]",
+      "[681-685]",
+      "[686-690]",
+      "[691-695]"
+    ],
+    "connections": [
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700746815-jp25in",
+    "createdAt": "2025-12-02T18:39:06.815Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925956-jgfxb5",
+    "entityName": "Ashbloom",
+    "content": "# Ashbloom\n\n> *\"Ashbloom's unflagging optimism is just one of many reasons that Gnostin prays for death.\"*\n\n**Category:** Character\n**Type:** Named Survivor\n**Expansion:** Dedheim (Promotional/Limited Release)\n\n---\n\n## Overview\n\nAshbloom is a named survivor from the bleak realm of Dedheim, a figure defined by impossible contradictions. In a world where hope is poison and despair the only honest currency, she maintains an optimism so persistent, so unshakeable, that it drives her companion Gnostin to long for oblivion. Yet beneath that relentless brightness lies a soul twisted by duty and sorrow—a hunter who rides through the desolation, spear in hand, executing those who dare dream of freedom.\n\nShe is marked by the trait **Undaunted**—fearless despite the danger that surrounds her at every turn. This courage, combined with her inexplicable cheerfulness, makes her either a beacon of madness or the last true light in Dedheim's endless dark. Perhaps both.\n\n## Origin & The Corrupted Steed\n\nAshbloom's story is intertwined with that of her monstrous mount. In Dedheim's cruelest season—when survival demanded desperate measures—a small, mouse-like creature sought refuge within an abandoned gourd. As the harsh times stretched on, the rind thickened around it, offering protection from the horrors beyond. Eventually, hunger won over caution, and the creature nibbled a morsel from the fruit's foul flesh.\n\nThe transformation was immediate and terrible. The creature swelled to outsized proportions, its body warped by the gourd's corruption, its temperament twisted into outsized fury. When Ashbloom emerged from whatever trials shaped her, this aberrant steed was waiting—instinctively bound to her, patient and savage in equal measure.\n\n## The Sorrowful Rider\n\nWhat drives Ashbloom through Dedheim's wastes is duty wrapped in tragedy. She rides sorrowfully, hunting those who carry \"even an inkling of escape in their hearts.\" Her spear finds those who would flee, those who believe there might be something beyond Dedheim's borders worth reaching. Each kill is performed with regret but without hesitation.\n\n*[Speculation: This grim purpose suggests Dedheim operates under laws or forces that forbid departure—perhaps escape itself triggers worse consequences, and Ashbloom's killings are acts of mercy disguised as cruelty. Her optimism may be the only thing keeping her functional under such a burden.]*\n\n## Physical Description\n\nBased on the dynamic sculpt adapted for the bust format, Ashbloom presents a striking figure. The original model depicts her mounted on her transformed steed—a bloated, mouse-like horror grown to monstrous proportions. The scenic base insert suggests environmental storytelling, placing her within Dedheim's desolate landscape.\n\n## Lore Significance\n\nAshbloom represents one of Kingdom Death's most poignant character archetypes: the enforcer who believes in something brighter while performing darkness. Her unflagging optimism is not naivety but perhaps a coping mechanism, a desperate torch held against the suffocating nihilism that defines existence in the Kingdom Death universe.\n\nHer presence in Dedheim—and the seed pattern mechanics associated with her release—suggests this realm operates on cycles of growth, corruption, and transformation. The gourd that created her steed may be connected to larger patterns of unnatural cultivation within this setting.\n\n## Connections\n\n- **Gnostin** - A companion or associate whose relationship with Ashbloom has deteriorated to the point where they actively pray for death. Her optimism appears to be the primary irritant, though the full nature of their bond remains unclear.\n\n- **Dedheim** - The realm Ashbloom patrols, characterized by harsh seasons and an apparent prohibition against escape. She serves as its mounted executioner.\n\n- **The Gourd/Foul Fruit** - The source of her steed's transformation, connected to the seed pattern mechanics. Suggests agricultural horror elements within Dedheim's lore.\n\n- **Seed Patterns** - Gameplay content associated with Ashbloom of Dedheim, including three seed pattern cards and three seed pattern gear cards.\n\n## Sources\n\n- ashbloom-bust (shop) - Product description for collectible bust\n- ashbloom-of-dedheim (shop) - Product description with detailed lore\n- vignette-screaming-nukealope (shop) - Character trait reference\n\n---\n\n## Related Entries\n\n- [[Gnostin]] - Her despairing companion\n- [[Dedheim]] - The realm she patrols\n- [[Seed Patterns]] - Associated gameplay mechanic\n- [[Indomitable Survivors]] - Related character series (featured alongside Ashbloom in shop listings)",
+    "frontmatter": {
+      "title": "Ashbloom",
+      "category": "character",
+      "type": "named survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Dedheim (Promotional/Limited Release)",
+      "sources": "[\"ashbloom-bust (shop)\", \"ashbloom-of-dedheim (shop)\", \"vignette-screaming-nukealope (shop)\"]",
+      "images": "",
+      "- path": "ashbloom-of-dedheim",
+      "caption": "Ashbloom of Dedheim mounted on her transformed steed"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/ashbloom-bust.txt",
+      "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "official-site/shop/smart-scraped/ashbloom-bust.txt",
+      "official-site/shop/smart-scraped/ashbloom-of-dedheim.txt",
+      "official-site/shop/vignettes/vignette-screaming-nukealope.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[696-700]",
+      "[701-705]",
+      "[696-700]",
+      "[706-710]",
+      "[711-715]"
+    ],
+    "connections": [
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700774667-g1h7a4",
+    "createdAt": "2025-12-02T18:39:34.667Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925956-x4uxsb",
+    "entityName": "Aya the Survivor",
+    "content": "# Aya the Survivor\n\n> *\"Her deadly weapons suggest a powerful quarry waiting for Aya at the end of her hunt.\"*\n\n**Category:** Character\n**Type:** Named Survivor\n**Expansion:** Promotional/Collector Series (Vagabond Armor Set)\n\n---\n\n## Overview\n\nAya the Survivor is a solitary hunter whose journey is chronicled through a series of sculptural installations, each capturing a moment frozen in the endless darkness. Unlike the nameless masses who perish in obscurity, Aya's exploits have been deemed worthy of remembrance—a rare honor in a world where survival itself is measured in heartbeats rather than years.\n\nHer story is one of pursuit and deterioration, told not through words but through the shifting state of her armor and the desperation etched into her posture across multiple depictions. Armed with weapons of terrible power, Aya hunts something beyond the capabilities of lesser survivors—a quarry so dangerous that even her formidable arsenal may prove insufficient.\n\n## The Journey\n\n### Before the Wall\n\nThe earliest documented moment of Aya's hunt finds her standing resolute, her purpose still intact and her spirit unbroken. She bears the **Black Sword**—a weapon of notorious reputation—and the **Beacon Shield**, tools that speak to both her prowess and the magnitude of her undertaking. Her **Vagabond Armor** is complete: the **Tabard** and **White Dragon Gauntlets** pristine, ready for the trials ahead.\n\nThis is Aya at the start of her journey, a survivor who has chosen to venture beyond the relative safety of settlement walls in pursuit of something. The nature of her quarry remains unknown, but the quality of her equipment suggests she knows exactly what awaits her—and has prepared accordingly.\n\n### Beyond the Wall\n\nWhat transpires between these moments remains shrouded in darkness, but the results are unmistakable. The second installation finds Aya transformed: battered, desperate, hiding behind convenient rubble from an **unseen foe**. Her **Hard Breastplate** and **Cloth Leggings** show the wear of conflict and flight.\n\nThe hunter has become the hunted. Whatever Aya pursued—or whatever found her—has reduced this formidable warrior to a fugitive, seeking cover where she can find it. The wall that once marked the boundary of her journey now serves as desperate shelter.\n\n## Equipment\n\nAya wears the **Vagabond Armor** set, a collection of gear that bestows unique bonuses upon its wearer:\n\n- **Tabard** - Part of the armor set worn during her initial journey\n- **White Dragon Gauntlets** - Protective gear suggesting encounters with draconic entities\n- **Hard Breastplate** - Core protection, visible in her later, more desperate state\n- **Cloth Leggings** - Lighter leg protection allowing for mobility\n\nHer weapons include:\n- **Black Sword** - A blade of infamous power\n- **Beacon Shield** - Defensive equipment, possibly serving purposes beyond mere protection\n\n## Lore Significance\n\nAya represents a particular archetype within Kingdom Death: the lone hunter who ventures beyond the fragile sanctuaries of civilization in pursuit of specific prey. Her documented decline from confident warrior to desperate fugitive mirrors the broader truth of the Monster world—that hope is merely the first casualty, followed inevitably by everything else.\n\nThe existence of a sculptural series documenting her exploits suggests that her story held meaning to those who witnessed or remembered it. Whether she succeeded in her hunt, whether she survived beyond the wall, whether she ever returned—these questions remain unanswered, perhaps deliberately so.\n\n*[Speculation: The \"powerful quarry\" hinted at in the sources is never identified. Given the quality of her equipment, particularly the White Dragon Gauntlets, she may have been pursuing something of draconic origin, or perhaps something even more terrible that required such specific armaments.]*\n\n## Connections\n\n- **Vagabond Armor Set** - The distinctive armor worn throughout her journey\n- **Black Sword** - Weapon of significant power, carried at the journey's start\n- **Beacon Shield** - Defensive equipment paired with the Black Sword\n- **The Wall** - A significant landmark marking phases of her hunt\n- **Unknown Quarry** - The dangerous entity Aya pursues, never directly identified\n\n## Sources\n\n- before-the-wall (shop) - Primary source for Aya's journey beginning and equipment\n- beyond-the-wall-1a (shop) - Source for the continuation of her story and deteriorated state\n\n---\n\n## Related Entries\n\n- [Vagabond Armor Set] - The distinctive armor worn by Aya\n- [Black Sword] - Weapon carried during Aya's hunt\n- [Beacon Shield] - Defensive gear paired with the Black Sword\n- [Named Survivors] - Other survivors whose exploits achieved documentation\n\n---\n\n*Art: Lokman Lam | Sculpture: Hector Moran*",
+    "frontmatter": {
+      "title": "Aya the Survivor",
+      "category": "character",
+      "type": "Named Survivor",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Promotional/Collector Series",
+      "sources": "[\"before-the-wall (shop)\", \"beyond-the-wall-1a (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/wanderer-aeneas-wanderer-arc-survivors-1024x1024.jpg",
+          "caption": "Aya the Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-candy-wanderer-arc-survivors-1024x1024.jpg",
+          "caption": "Aya the Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-death-drifter-wanderer-arc-survivors-1024x1024.jpg",
+          "caption": "Aya the Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-aeneas-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+          "caption": "Aya the Survivor - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-candy-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+          "caption": "Aya the Survivor - Product image"
+        }
+      ]
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/before-the-wall.txt",
+      "official-site/shop/smart-scraped/before-the-wall.txt",
+      "official-site/shop/smart-scraped/beyond-the-wall-1a.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/wanderer-aeneas-wanderer-arc-survivors-1024x1024.jpg",
+        "caption": "Aya the Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-candy-wanderer-arc-survivors-1024x1024.jpg",
+        "caption": "Aya the Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-death-drifter-wanderer-arc-survivors-1024x1024.jpg",
+        "caption": "Aya the Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-aeneas-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+        "caption": "Aya the Survivor - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-candy-wanderer-glance-0000-20241211-wanderer-aeneas-anonymous-survivor-page-sample-05-.jpg",
+        "caption": "Aya the Survivor - Product image"
+      }
+    ],
+    "citations": [
+      "[716-720]",
+      "[716-720]",
+      "[721-725]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700783917-zlbh54",
+    "createdAt": "2025-12-02T18:39:43.917Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925957-bcitik",
+    "entityName": "Black Friday Formal Erza",
+    "content": "# Black Friday Formal Erza\n\n> *\"Attire for Black Friday is black tie formal. Erza arrives in bold style for the darkest day of the year.\"*\n\n**Category:** Character\n**Type:** Limited Edition Collectible Miniature\n**Expansion:** Standalone Collectible\n\n---\n\n## Overview\n\nBlack Friday Formal Erza represents a striking interpretation of an enigmatic figure dressed for what can only be described as the most significant—and dangerous—occasion in the endless dark. While many survivors cling to tattered furs and salvaged monster hide, Erza appears in immaculate black tie formal attire, a jarring contrast against the nightmare landscape of the Kingdom Death setting. Her bold arrival suggests a survivor of considerable means, status, or perhaps something far more unsettling.\n\nThe miniature captures Erza at what is termed \"the darkest day of the year\"—a phrase that carries ominous weight in a world where perpetual darkness already smothers all hope. That such a day could be distinguished from any other speaks to events of particular cosmic significance, moments when the veil between survival and oblivion grows thin enough to warrant formal acknowledgment.\n\n## Physical Description\n\n*[Speculative based on limited source material]*\n\nErza is presented in elegant black tie formal attire, suggesting a level of sophistication rarely seen among the scattered settlements of humanity. The choice of formal dress for \"the darkest day\" implies ritual significance—perhaps a ceremony, a gathering of significance, or a defiant gesture against the consuming void. Her \"bold style\" suggests confidence bordering on audacity, the bearing of one who has either conquered fear or made uncomfortable arrangements with darker forces.\n\nThe miniature is rendered at painters scale, emphasizing detail and beauty suited for dedicated hobbyists and collectors who wish to capture every nuance of her formal ensemble.\n\n## Lore Significance\n\n*[Highly Speculative]*\n\nThe concept of a formalized \"darkest day\" suggests that even in the horror of Kingdom Death, certain patterns persist—cycles of significance that survivors mark with ritual and observance. Erza's formal attendance at such an event raises questions about the nature of these gatherings. Are they celebrations of continued survival? Solemn acknowledgments of loss? Or perhaps something more sinister—formal courts held by entities beyond human comprehension?\n\nHer name and presentation suggest she may belong to a class of survivor or entity that exists outside the desperate scrabbling for resources that defines most settlement life. The darkness, for Erza, appears to be something she dresses for rather than flees from.\n\n## Connections\n\n- **Lokman Lam** — Credited artist who created the original concept art for Black Friday Formal Erza\n- **Team Death** — Sculptors responsible for translating the artwork into miniature form\n\n## Sources\n\n- black-friday-formal-erza-painters-scale (shop) — Primary product description\n- formal-erza-painters-scale (shop) — Additional product listing\n\n*Note: The images associated with this product in the source data appear to reference unrelated products (Red Witches Expansion, Wanderer series) and have been omitted due to likely data error.*\n\n---\n\n## Related Entries\n\n- Limited Edition Resin Miniatures\n- Collectible Miniatures\n- Pinups of Death Series *(potential thematic connection)*\n\n---\n\n*Confidence Note: This entry is marked speculative as the source material contains only product descriptions with minimal lore context. The character \"Erza\" does not appear in available core game or expansion lore documentation. The \"Black Friday\" designation appears to be a real-world promotional tie-in reimagined through Kingdom Death's dark aesthetic lens.*",
+    "frontmatter": {
+      "title": "Black Friday Formal Erza",
+      "category": "character",
+      "type": "limited-edition-collectible",
+      "confidence": "speculative",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Standalone Collectible",
+      "sources": "[\"black-friday-formal-erza-painters-scale (shop)\", \"formal-erza-painters-scale (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/red-witches-expansion-redwitch-rectangle-assets-0003-ex-red-witches-black-red-armor-better-1024x1024.jpg",
+          "caption": "Black Friday Formal Erza - Product image"
+        },
+        {
+          "path": "official-site/images/shop/red-witches-expansion-redwitch-rectangle-assets-0004-ex-red-witches-black-red-armor-1024x1024.jpg",
+          "caption": "Black Friday Formal Erza - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-aeneas-wanderer-black-crest-1024x1024.jpg",
+          "caption": "Black Friday Formal Erza - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-candy-wanderer-black-crest-1024x1024.jpg",
+          "caption": "Black Friday Formal Erza - Product image"
+        },
+        {
+          "path": "official-site/images/shop/wanderer-death-drifter-wanderer-black-crest-1024x1024.jpg",
+          "caption": "Black Friday Formal Erza - Product image"
+        }
+      ]
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-friday-formal-erza-painters-scale.txt",
+      "official-site/shop/miniatures/formal-erza-painters-scale.txt",
+      "official-site/shop/pillar-survivors/priestess-percival.txt",
+      "official-site/shop/smart-scraped/black-friday-formal-erza-painters-scale.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/red-witches-expansion-redwitch-rectangle-assets-0003-ex-red-witches-black-red-armor-better-1024x1024.jpg",
+        "caption": "Black Friday Formal Erza - Product image"
+      },
+      {
+        "path": "official-site/images/shop/red-witches-expansion-redwitch-rectangle-assets-0004-ex-red-witches-black-red-armor-1024x1024.jpg",
+        "caption": "Black Friday Formal Erza - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-aeneas-wanderer-black-crest-1024x1024.jpg",
+        "caption": "Black Friday Formal Erza - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-candy-wanderer-black-crest-1024x1024.jpg",
+        "caption": "Black Friday Formal Erza - Product image"
+      },
+      {
+        "path": "official-site/images/shop/wanderer-death-drifter-wanderer-black-crest-1024x1024.jpg",
+        "caption": "Black Friday Formal Erza - Product image"
+      }
+    ],
+    "citations": [
+      "[726-730]",
+      "[731-735]",
+      "[736-740]",
+      "[726-730]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "speculative",
+    "id": "pending-1764700806780-z1ffk3",
+    "createdAt": "2025-12-02T18:40:06.780Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925958-sg5grh",
+    "entityName": "Cain",
+    "content": "# Cain\n\n> *\"Stalwart vanguard\"*\n\n**Category:** Character\n**Type:** Named Survivor (Squire)\n**Expansion:** Black Knight\n\n---\n\n## Overview\n\nCain is one of four dutybound squires whose story unfolds within the Squires of the Citadel campaign, a five lantern year narrative included with the Black Knight expansion. Designated the \"stalwart vanguard\" among his companions, Cain serves in the shadowed ruins of the citadel that clings to the inverted mountain—a claustrophobic sanctuary where the feral Black Knight maintains its restless vigil.\n\nLittle is known of how Cain came to dwell beneath the auspices of the restless guardian, but his role among the squires is clear: he stands at the fore, the first to meet whatever horrors emerge from the darkness. In a world where survival demands sacrifice, Cain has chosen—or been chosen for—the burden of being the shield that breaks first.\n\n## Role Among the Squires\n\nAs the stalwart vanguard, Cain occupies a position of grim necessity among the four squires who scurry through the citadel's shadows. While Iola applies her mastery of craft, Elle pursues her arcane studies as a novice acolyte, and Owen endures through sheer unbreakable will, Cain's purpose is defensive vigilance. He is the wall upon which threats must first spend their fury.\n\nThe squires eke out their existence in service to the Black Knight order, bound by duties whose origins remain shrouded in the secretive history of the citadel. Through five uniquely designed lantern years, players guide these survivors through hunts against core game monsters, uncovering the secrets of their order and ultimately learning Cain's fate—a conclusion that, given the nature of Kingdom Death, is unlikely to offer comfort.\n\n## Lore Significance\n\nCain's existence speaks to the hierarchical remnants of the Black Knight order—once great, now reduced to ruins and a handful of servants maintaining rituals whose meanings may have long since decayed. The squires represent a form of structured survival rarely seen in the Kingdom Death setting, where most humans exist in desperate, formless settlements. That such an order persists, complete with defined roles like \"vanguard,\" hints at knowledge and traditions preserved from an earlier, perhaps nobler age.\n\nThe biblical resonance of Cain's name—the first murderer, marked and cast out—may be coincidental or deeply intentional. In Kingdom Death's world of cyclical violence and inherited sin, bearing such a name while serving as protector rather than aggressor creates a tension worth noting. *[Speculation: Whether Cain's name reflects his nature, his past, or his eventual fate remains to be discovered through play.]*\n\n## Connections\n\n- **The Black Knight** — The restless guardian and nemesis monster whom Cain ultimately serves\n- **Iola** — Fellow squire, master artisan who likely maintains the citadel's equipment and artifacts\n- **Elle** — Fellow squire, novice acolyte whose spiritual duties contrast with Cain's martial role\n- **Owen** — Fellow squire, the unbreakable, whose endurance complements Cain's defensive vanguard position\n- **The Citadel** — The cliffside sanctuary on the inverted mountain where the squires dwell\n- **The Black Knight Order** — The once-great organization whose secrets the squires may yet uncover\n\n## Sources\n\n- black-knight-expansion (shop page)\n\n---\n\n## Related Entries\n\n- [[Black Knight]]\n- [[Iola]]\n- [[Elle]]\n- [[Owen]]\n- [[Squires of the Citadel]]\n- [[The Citadel]]\n\n---",
+    "frontmatter": {
+      "title": "Cain",
+      "category": "character",
+      "type": "named survivor, squire",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Black Knight",
+      "sources": "black-knight-expansion (shop)",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "official-site/shop/black-knight-expansion.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/black-knight-expansion.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[741-745]",
+      "[741-745]",
+      "[741-745]",
+      "[741-745]",
+      "[741-745]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700812924-gyvk8e",
+    "createdAt": "2025-12-02T18:40:12.924Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925958-c8ta58",
+    "entityName": "Iola",
+    "content": "# Iola\n\n> *\"Scurrying in the shadows of the citadel, dutybound...\"*\n\n**Category:** Character\n**Type:** Squire\n**Expansion:** Black Knight Expansion\n\n---\n\n## Overview\n\nIola is one of four squires bound to service within the crumbling sanctuary of the Black Knight, a feral guardian dwelling in a cliffside citadel upon an inverted mountain. Designated as the **Master Artisan** among her peers, Iola possesses skills in crafting and creation that set her apart from the other servants of the restless knight.\n\nHer story unfolds across the Squires of the Citadel campaign—a harrowing five lantern year narrative that peels back the secretive existence of those who dwell in the Black Knight's shadow. While Cain stands as vanguard and Owen endures as the unbreakable, Iola's hands shape the remnants of the once-great Black Knight order's artifices.\n\n## Role in the Citadel\n\nAs Master Artisan, Iola likely serves a crucial function within the citadel's hierarchy. The Black Knight order was once renowned for its great artifices—weapons, armor, and mysterious works of craftsmanship that speak to a grander age now fallen to ruin. Iola's designation suggests she maintains, preserves, or perhaps attempts to recreate these lost works while scurrying through the claustrophobic remains of her master's domain.\n\nThe title \"Master\" implies a level of expertise and seniority, potentially marking Iola as more experienced than some of her fellow squires, such as the \"Novice\" Elle. Yet mastery offers no guarantee of survival in Kingdom Death's brutal reality.\n\n## The Squire's Existence\n\nLife within the citadel is one of duty and secrecy. Iola and her fellow squires eke out their existence under the auspices of the Black Knight—a heavy-handed, rage-filled guardian whose domain sits precariously on the edge of oblivion. The inverted mountain offers no safety; one misstep sends the unwary careening into the void below, leaving no trace of their fall.\n\nThe squires' tale is one of survival against impossible circumstances, their fates intertwined with the mysteries of an order that has descended into feral chaos.\n\n## Lore Significance\n\nIola represents the human element within the Black Knight's domain—a reminder that even monstrous entities require servants, and that those servants carry their own stories, skills, and desperate hopes. Her role as artisan connects to Kingdom Death's broader themes of craftsmanship and creation as survival mechanisms. In a world where humanity clings to existence through the weapons and tools forged from monster remains, a master artisan holds precious, perhaps irreplaceable knowledge.\n\nThe secrets she uncovers—or creates—may offer glimpses into what the Black Knight order once was before its fall into ruinous guardianship.\n\n## Connections\n\n- **The Black Knight** – The restless, feral guardian whom Iola serves within the cliffside citadel\n- **Cain** – Fellow squire, the Stalwart Vanguard who likely leads in battle\n- **Elle** – Fellow squire, a Novice Acolyte still learning the citadel's ways\n- **Owen** – Fellow squire, designated as Unbreakable, suggesting resilience or stubbornness\n- **The Black Knight Order** – The once-great organization whose artifices and secrets Iola may help preserve\n\n## Sources\n\n- Black Knight Expansion (shop page)\n\n---\n\n## Related Entries\n\n- [[Black Knight]]\n- [[Cain]]\n- [[Elle]]\n- [[Owen]]\n- [[Squires of the Citadel Campaign]]",
+    "frontmatter": {
+      "title": "Iola",
+      "category": "character",
+      "type": "squire",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Black Knight Expansion",
+      "sources": "[\"black-knight-expansion (shop)\"]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "official-site/shop/black-knight-expansion.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "official-site/shop/pillar-survivors/pillar-fade.txt",
+      "official-site/shop/smart-scraped/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/fade-pillar-survivor.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[746-750]",
+      "[746-750]",
+      "[746-750]",
+      "[751-755]",
+      "[746-750]"
+    ],
+    "connections": [],
+    "confidence": "confirmed",
+    "id": "pending-1764700834028-ykzxxu",
+    "createdAt": "2025-12-02T18:40:34.028Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925959-3b7tdd",
+    "entityName": "Elle",
+    "content": "# Elle\n\n> *\"The novice's hands tremble not from fear, but from the weight of devotions yet unlearned.\"*\n\n**Category:** Character\n**Type:** Squire / Playable Survivor\n**Expansion:** Black Knight Expansion\n\n---\n\n## Overview\n\nElle is one of the four dutybound squires whose desperate existence unfolds within the Squires of the Citadel campaign. Bearing the designation of **Novice acolyte**, she represents the spiritual and devotional aspect of the Black Knight order—a soul still learning the strange rites and dark observances that once defined the citadel's purpose.\n\nAmong her fellow squires, Elle occupies a unique position: neither hardened warrior, nor master craftsman, nor unbreakable survivor, but rather a keeper of knowledge still in its nascent form. Her novitiate suggests recent induction into mysteries that the citadel's crumbling halls can barely contain, making her both vulnerable and potentially vital to understanding the secrets that lie within the Black Knight's domain.\n\n## Role Among the Squires\n\nThe four squires of the citadel each fulfill distinct roles in their precarious existence beneath the restless guardian's shadow. Where Cain serves as the stalwart vanguard and Owen provides unbreakable resilience, Elle's purpose as novice acolyte implies a connection to the ritual and spiritual foundations of the Black Knight order.\n\n*Speculation: As an acolyte, Elle may possess knowledge of ceremonies, observances, or sacred traditions that sustained the \"once-great artifices\" of the order. Her novice status suggests she is still learning these rites, perhaps from fragmentary texts or half-remembered practices passed down through the citadel's decline.*\n\n## The Squires of the Citadel\n\nElle's fate is revealed through the five-lantern-year Squires of the Citadel campaign, a self-contained narrative experience using ready-to-play gear grids and survivor vignette cards. Players guide all four squires—Cain, Iola, Elle, and Owen—through uniquely designed lantern years, facing core game monsters reimagined through new components and story events.\n\nThe campaign explores the \"secretive life\" of these dutybound servants as they eke out existence under the auspices of the Black Knight. Their survival is tenuous, their duties obscure, and their ultimate fates tied to the dark secrets of the order itself.\n\n## Lore Significance\n\nElle embodies the spiritual continuity of a fallen order. In Kingdom Death's cosmos, where knowledge is precious and easily lost, a novice acolyte represents both hope and tragedy—the desperate attempt to preserve wisdom even as the institution that created it crumbles into ruin. Her presence among the squires suggests the Black Knight order was more than mere martial might; it possessed rites and traditions worthy of devoted study.\n\nThe inverted mountain's cliffside sanctuary, with its claustrophobic remains, serves as both temple and tomb for whatever devotions Elle practices. Whether her acolyte's path leads to enlightenment or oblivion remains to be discovered through the campaign's events.\n\n## Connections\n\n- **Cain** – Fellow squire; stalwart vanguard who likely provides martial protection\n- **Iola** – Fellow squire; master artisan whose craft may create tools for Elle's rituals\n- **Owen** – Fellow squire; the unbreakable one whose endurance anchors their small fellowship\n- **The Black Knight** – The restless guardian under whose shadow Elle serves her novitiate\n- **The Citadel** – The crumbling sanctuary where Elle studies her devotions\n\n## Sources\n\n- black-knight-expansion (shop) – Campaign description and squire roster\n\n---\n\n## Related Entries\n\n- [[Black Knight]]\n- [[Cain]]\n- [[Iola]]\n- [[Owen]]\n- [[Squires of the Citadel Campaign]]\n- [[The Citadel]]\n\n---",
+    "frontmatter": {
+      "title": "Elle",
+      "category": "character",
+      "type": "squire",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Black Knight Expansion",
+      "sources": "black-knight-expansion (shop)",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "official-site/shop/black-knight-expansion.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "official-site/shop/nemesis-expansions/pariah-expansion.txt",
+      "official-site/shop/pariah-expansion.txt",
+      "official-site/shop/smart-scraped/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/dark-confidant.txt",
+      "official-site/shop/smart-scraped/hellebore-a-frozen-survivor.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "official-site/shop/nemesis-expansions/pariah-expansion.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "rulebooks/lore-extracted/story-events.txt",
+      "rulebooks/lore-extracted/worldbuilding.txt",
+      "official-site/guides/indomitable-survivors-guide.txt",
+      "official-site/guides/philosophies-of-death-guide.txt",
+      "existing-research/rules/02-core-rules-ocr.txt",
+      "existing-research/rules/05-game-variants-glossary-ocr.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[756-760]",
+      "[756-760]",
+      "[761-765]",
+      "[761-765]",
+      "[756-760]"
+    ],
+    "connections": [],
+    "confidence": "confirmed",
+    "id": "pending-1764700841507-h8b2bb",
+    "createdAt": "2025-12-02T18:40:41.507Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925961-rwirza",
+    "entityName": "The Gambler",
+    "content": "# The Gambler\n\n> *\"In darkness, all outcomes are currency. The only question is what you're willing to wager.\"*\n\n**Category:** Character\n**Type:** Named Character\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Gambler is a named character introduced in the Gambler's Chest expansion for Kingdom Death: Monster. As the expansion's namesake, The Gambler appears to hold significant thematic importance, embodying the concepts of chance, risk, and fate that permeate the game's philosophy. Listed alongside other notable characters such as Atnas the Child-Eater and Godhand, The Gambler is presented as one of the expansion's central figures.\n\nThe character is integrated into the expansion through the new Character System, which allows players to create characters with \"enduring appeal\"—suggesting that The Gambler may persist across campaign events or carry unique narrative weight that distinguishes them from typical survivors.\n\n## The Character System\n\nThe Gambler is one of several named characters that utilize the new Character System introduced in the Gambler's Chest. This system represents a departure from traditional survivor mechanics, creating individuals whose stories interweave with settlement narratives in meaningful ways. Characters created through this system appear to possess distinct identities and potentially unique mechanical interactions that set them apart from the anonymous masses of humanity struggling in the darkness.\n\n*[Speculation: Given the expansion's name and the thematic imagery of luck and philosophy associated with The Gambler, this character may serve as a narrative anchor or catalyst for events within a settlement, perhaps arriving as a mysterious figure whose presence alters the very nature of chance and consequence.]*\n\n## Lore Significance\n\nThe Gambler's prominence—lending their name to an entire expansion—suggests they represent something fundamental about existence in the Kingdom Death universe. In a world where survival hangs by threads of fortune and where the darkness itself seems to play games with humanity's fate, a figure who embodies gambling takes on philosophical weight. They may personify the cosmic indifference of chance, or perhaps the desperate hope that underlies every hunt, every settlement decision, every roll of the dice.\n\n*[Note: Direct lore descriptions of The Gambler's appearance, history, or specific role are not provided in available sources. The above represents thematic interpretation based on context.]*\n\n## Connections\n\n- **Gambler's Chest Expansion** - The Gambler serves as the namesake character for this major expansion\n- **Atnas the Child-Eater** - Fellow named character within the expansion\n- **Godhand** - Fellow named character within the expansion\n- **Character System** - The mechanical framework through which The Gambler is implemented\n- **Philosophy System** - *[Speculative: The luck-themed philosophy imagery may connect to The Gambler's thematic influence]*\n\n## Sources\n\n- gamblers-chest-expansion (shop)\n\n---\n\n## Related Entries\n\n- [[Gambler's Chest]]\n- [[Character System]]\n- [[Atnas the Child-Eater]]\n- [[Godhand]]\n- [[Philosophy System]]\n- [[Wanderers]]\n\n---",
+    "frontmatter": {
+      "title": "The Gambler",
+      "category": "character",
+      "type": "named character",
+      "confidence": "likely",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/gamblers-chest-20220511-philosophy-luck-rank-1-1024x1024.jpg",
+          "caption": "The Gambler - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+          "caption": "The Gambler - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-arc1-1024x1024.png",
+          "caption": "The Gambler - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-arc2-1024x1024.png",
+          "caption": "The Gambler - Product image"
+        },
+        {
+          "path": "official-site/images/shop/gamblers-chest-arc3-1024x1024.png",
+          "caption": "The Gambler - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/gamblers-chest-20220511-philosophy-luck-rank-1-1024x1024.jpg",
+      "caption": "The Gambler - Philosophy of Luck imagery from the Gambler's Chest expansion"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/batch-scraped/philosophy-of-death-gatherism.txt",
+      "official-site/shop/batch-scraped/wanderer-aeneas.txt",
+      "official-site/shop/batch-scraped/wanderer-candy.txt",
+      "official-site/shop/batch-scraped/wanderer-death-drifter.txt",
+      "official-site/shop/batch-scraped/wanderer-goth.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/gameplay-expansions/philosophy-gatherism.txt",
+      "official-site/shop/smart-scraped/ambitionism-survivors.txt",
+      "official-site/shop/smart-scraped/basara.txt",
+      "official-site/shop/smart-scraped/philosophy-of-death-gatherism.txt",
+      "official-site/shop/smart-scraped/wanderer-aeneas.txt",
+      "official-site/shop/smart-scraped/wanderer-candy.txt",
+      "official-site/shop/smart-scraped/wanderer-death-drifter.txt",
+      "official-site/shop/smart-scraped/wanderer-goth.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "official-site/shop/special-survivors/survivors-of-death-1.txt",
+      "official-site/shop/wanderers/wanderer-aeneas.txt",
+      "official-site/shop/wanderers/wanderer-candy.txt",
+      "official-site/shop/wanderers/wanderer-death-drifter.txt",
+      "official-site/shop/wanderers/wanderer-goth.txt",
+      "official-site/shop/wanderers/wanderer-preacher.txt",
+      "official-site/shop/gameplay-expansions/philosophy-gatherism.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "official-site/news/2024/kdu-97-august-2024.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "official-site/guides/philosophies-of-death-guide.txt",
+      "official-site/guides/seed-patterns-guide.txt",
+      "existing-research/rules/02-core-rules-ocr.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/gamblers-chest-20220511-philosophy-luck-rank-1-1024x1024.jpg",
+        "caption": "The Gambler - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-20250212-vignette-of-death-screaming-nukealope-monster-crest-1024x1024.png",
+        "caption": "The Gambler - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-arc1-1024x1024.png",
+        "caption": "The Gambler - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-arc2-1024x1024.png",
+        "caption": "The Gambler - Product image"
+      },
+      {
+        "path": "official-site/images/shop/gamblers-chest-arc3-1024x1024.png",
+        "caption": "The Gambler - Product image"
+      }
+    ],
+    "citations": [
+      "[766-770]",
+      "[771-775]",
+      "[776-780]",
+      "[781-785]",
+      "[786-790]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Appears alongside"
+      }
+    ],
+    "confidence": "likely",
+    "id": "pending-1764700867840-s4kf5j",
+    "createdAt": "2025-12-02T18:41:07.840Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925959-9es206",
+    "entityName": "Owen",
+    "content": "# Owen\n\n> *\"Unbreakable.\"*\n\n**Category:** Character\n**Type:** Squire\n**Expansion:** Black Knight\n\n---\n\n## Overview\n\nOwen is one of four dutybound squires who serve within the crumbling confines of the Black Knight's citadel. Known by the epithet \"Unbreakable,\" Owen represents the resilient spirit necessary to endure the brutal existence demanded of those who dwell in the shadow of the restless guardian. His fate, along with that of his fellow squires, can be discovered through the harrowing events of the Squires of the Citadel campaign.\n\nLittle is known of Owen's origins or how he came to serve within the cliffside sanctuary. What is certain is that survival within the citadel demands extraordinary fortitude—a quality Owen embodies completely. While other squires contribute through martial prowess, craftsmanship, or spiritual devotion, Owen's defining characteristic speaks to something more primal: the sheer refusal to yield.\n\n## The Unbreakable\n\nAmong the four squires of the citadel, each bears a title that speaks to their nature and role. Where Cain stands as the stalwart vanguard, Iola crafts as the master artisan, and Elle studies as the novice acolyte, Owen's designation of \"Unbreakable\" suggests a survivor of particular tenacity. In a world where every creature and circumstance conspires toward annihilation, to be unbreakable is perhaps the most essential quality of all.\n\n*[Speculation: The title may indicate exceptional resilience in combat, an unyielding will, or perhaps a body that has endured wounds that would fell lesser survivors. Given Kingdom Death's dark themes, \"Unbreakable\" could also carry more sinister implications—a mind that cannot shatter even when it perhaps should.]*\n\n## Life in the Citadel\n\nOwen exists as part of a secretive order, scurrying through the shadows of the Black Knight's domain. The squires eke out their existence under the watchful auspices of the restless guardian—the feral Black Knight itself. Their lives are ones of duty and desperation, bound to service within the claustrophobic remains of what was once a far greater stronghold.\n\nThe citadel perches upon an inverted mountain, a sanctuary carved into the cliffside where a single misstep can send the unwary careening into the void below. It is within these treacherous confines that Owen and his fellow squires maintain their vigil across five harrowing lantern years.\n\n## Lore Significance\n\nOwen represents one facet of the human experience within Kingdom Death's nightmare world—the stubborn, defiant refusal to break. While the Black Knight expansion focuses primarily on the nemesis monster itself, the Squires of the Citadel campaign offers a rare glimpse into a structured society within the darkness, however precarious. Owen's role as the \"Unbreakable\" suggests that even in service to a feral guardian, individual identity and purpose can persist.\n\nThe fate that awaits Owen at the campaign's conclusion remains to be discovered through play, reinforcing Kingdom Death's themes of inevitable tragedy and the question of whether survival itself constitutes victory.\n\n## Connections\n\n- **The Black Knight** — The restless guardian and nemesis of the citadel; Owen serves under its terrible auspices\n- **Cain** — Fellow squire; the stalwart vanguard of the order\n- **Iola** — Fellow squire; the master artisan whose craft sustains the citadel\n- **Elle** — Fellow squire; the novice acolyte who tends to spiritual matters\n- **The Citadel** — Owen's home, perched upon an inverted mountain in a cliffside sanctuary\n\n## Sources\n\n- black-knight-expansion (shop) — Primary source for squire information and campaign details\n\n---\n\n## Related Entries\n\n- [[The Black Knight]]\n- [[Cain]]\n- [[Iola]]\n- [[Elle]]\n- [[Squires of the Citadel Campaign]]\n- [[The Citadel]]\n\n---",
+    "frontmatter": {
+      "title": "Owen",
+      "category": "character",
+      "type": "squire",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Black Knight",
+      "sources": "[black-knight-expansion (shop)]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "official-site/shop/black-knight-expansion.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/seed-pattern-jackel.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[791-795]",
+      "[791-795]",
+      "[791-795]",
+      "[791-795]",
+      "[796-800]"
+    ],
+    "connections": [],
+    "confidence": "confirmed",
+    "id": "pending-1764700872315-b9cihg",
+    "createdAt": "2025-12-02T18:41:12.315Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925961-stxoie",
+    "entityName": "Godhand",
+    "content": "# Godhand\n\n> *\"Suspiciously observing the settlement, the Godhand's cleansing wrath is the finale of your story.\"*\n\n**Category:** Character / Monster\n**Type:** Finale Monster\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Godhand represents the ultimate culmination of a settlement's struggle—an apocalyptic entity whose very presence signals the end of all things. Described as \"world-shattering,\" this being watches settlements with suspicious vigilance, waiting for the moment to deliver its cleansing wrath upon those who have dared to survive the darkness.\n\nAs a Finale Monster within the Gambler's Chest expansion, the Godhand serves as the terminal challenge for survivors who have walked the path of the People of the Dream Keeper. Where the Gold Smoke Knight stands as the ultimate test for those following the core campaign, the Godhand awaits those who have chosen to gamble with fate itself—a fitting end for those who have danced with The Gambler.\n\nThe name itself suggests a being of divine or transcendent power, its authority embodied in hands capable of remaking—or unmaking—reality. Whether it serves some higher cosmic order or acts upon its own inscrutable judgment, its arrival marks the final chapter of any settlement's story.\n\n## Nature and Purpose\n\nThe Godhand's role as observer is particularly chilling. Unlike many monsters that hunt or wander, this entity *watches*. It studies. It judges. The \"suspicious\" nature of its observation implies intelligence and intent—this is no mindless destroyer but a deliberate arbiter of annihilation. Settlements that draw its attention have, in some unknowable way, warranted its scrutiny.\n\nThe concept of \"cleansing wrath\" positions the Godhand as an almost purifying force—not destruction for destruction's sake, but erasure with purpose. What criteria determine when cleansing becomes necessary? What sins of survival trigger its judgment? These questions hang unanswered over every settlement that grows strong enough to draw divine attention.\n\n## The Path to the Godhand\n\nWithin the People of the Dream Keeper campaign structure, the Godhand represents the apex of a long and brutal journey. Survivors must first overcome:\n\n- The Crimson Crocodile\n- The Smog Singers  \n- The Phoenix\n- The King\n- The Butcher\n- Atnas the Child-Eater\n- The Hand\n- The Gambler\n\nOnly after surviving this gauntlet of horrors does the Godhand descend to deliver its final verdict. The progression from The Hand to The Gambler to Godhand suggests a possible thematic or metaphysical connection—perhaps an ascension or transformation, or perhaps merely a hierarchy of divine executioners.\n\n## Lore Significance\n\nThe Godhand embodies one of Kingdom Death's central themes: that survival itself may be the greatest transgression. In a world of darkness and monsters, those who persist, who build, who hope—they become anomalies requiring correction. The Godhand is that correction made manifest.\n\nIts position parallel to the Gold Smoke Knight as a Finale Monster suggests it occupies a similar tier of cosmic significance. Both represent endpoints, conclusions, final examinations. But where the Gold Smoke Knight emerges from the core mythology, the Godhand belongs to the strange probability-warped reality introduced by the Gambler's Chest—a reality where fate can be wagered and lost.\n\n## Connections\n\n- **The Gambler** - Precedes the Godhand in the campaign progression; thematic connection between gambling with fate and divine judgment\n- **The Hand** - Name similarity suggests possible relationship; encountered before The Gambler in the progression\n- **Gold Smoke Knight** - Fellow Finale Monster from the core game; serves parallel function in different campaign\n- **People of the Dream Keeper** - The survivor strain whose journey culminates in facing the Godhand\n\n## Sources\n\n- gamblers-chest-expansion (shop page)\n- god-hand-t-shirt (merchandise description)\n- monster-nodes-guide (community resource)\n\n---\n\n## Related Entries\n\n- [[The Gambler]]\n- [[The Hand]]\n- [[Gold Smoke Knight]]\n- [[People of the Dream Keeper]]\n- [[Gambler's Chest]]\n- [[Atnas the Child-Eater]]\n- [[The King]]\n\n---\n\n*Note: Much of the Godhand's specific mechanics, appearance, and deeper lore remain unrevealed. This entry is based on confirmed source material; the entity's full nature will become clearer upon the Gambler's Chest expansion's complete release.*",
+    "frontmatter": {
+      "title": "Godhand",
+      "category": "character",
+      "type": "Finale Monster",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[gamblers-chest-expansion, god-hand-t-shirt, monster-nodes-guide]",
+      "images": "",
+      "- path": "/images/godhand-crest.jpg",
+      "caption": "The intricate monster crest of the Godhand, artwork by Lokman Lam"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/smart-scraped/god-hand-t-shirt.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "official-site/guides/monster-nodes-guide.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[801-805]",
+      "[801-805]",
+      "[806-810]",
+      "[801-805]",
+      "[811-815]"
+    ],
+    "connections": [
+      {
+        "name": "Butcher",
+        "relationship": "Related"
+      },
+      {
+        "name": "Phoenix",
+        "relationship": "Related"
+      },
+      {
+        "name": "The Hand",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gold Smoke Knight",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700901851-4il401",
+    "createdAt": "2025-12-02T18:41:41.851Z",
+    "status": "pending"
+  },
+  {
+    "entityId": "entity-1764695925962-vnbpbp",
+    "entityName": "The King",
+    "content": "# The King\n\n> *\"Whether your settlement limps along or flourishes, the awaited one appears to devour reality.\"*\n\n**Category:** Character\n**Type:** Nemesis / Endgame Entity\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe King is a climactic entity introduced in the Gambler's Chest expansion, arriving during the \"golden years\" of a settlement's existence. Unlike other threats that prey upon the weak or test the growing strength of humanity, The King manifests regardless of a settlement's condition—whether the survivors have built a flourishing civilization or desperately cling to existence, this \"awaited one\" comes all the same.\n\nDescribed in apocalyptic terms as an entity that \"devours reality,\" The King represents something beyond mere physical threat. This is not simply a monster to be hunted or a nemesis to be overcome through steel and courage—The King appears to be an existential force, perhaps the ultimate culmination of the dark cosmos pressing against the fragile bubble of survivor civilization.\n\nThe existence of Death King Armor among the Gambler's Chest contents suggests that, despite the entity's reality-consuming nature, survivors may find ways to harvest materials from The King and forge protective gear from its remains—though at what cost to their humanity or sanity remains unclear.\n\n## Nature and Arrival\n\nWhat little is known of The King speaks to inevitability. The language surrounding this entity—\"the awaited one\"—implies that The King's arrival is foretold, expected, perhaps even destined. Settlements in their golden years, those that have survived long enough to reach the later stages of their existence, will face this entity regardless of their preparation or prosperity.\n\nThe phrase \"devour reality\" distinguishes The King from conventional monsters. Where beasts like the White Lion hunt flesh and nemeses like the King's Man enforce a tyrant's will, The King appears to consume the very fabric of existence itself. *[Speculation: This may represent an endgame scenario or ultimate campaign challenge within the Gambler's Chest systems.]*\n\n## Death King Armor\n\nThe Gambler's Chest includes Death King Armor represented by four miniatures, suggesting survivors who face The King may craft a complete armor set from the encounter. The nomenclature—\"Death King\" rather than simply \"King\"—implies a connection to mortality, finality, or perhaps the transformation that occurs when mortal hands work with materials torn from a reality-devouring entity.\n\n*[Note: Specific armor statistics, crafting requirements, and bonuses are not detailed in available sources.]*\n\n## Lore Significance\n\nThe King occupies a unique position in Kingdom Death's mythology as what appears to be an endgame threat. While the King's Man serves as the Golden Entity's enforcer throughout a settlement's existence, The King seems to be something far more fundamental—a force that arrives when all other trials have been weathered, when survival itself has been proven, only to challenge the very nature of reality.\n\nThe entity's title—simply \"The King\"—invites speculation about its relationship to other crowned figures in the Kingdom Death cosmos. Is The King related to the Golden Entity? A rival sovereign of darkness? Or something that transcends even the gods and entities that toy with humanity?\n\n## Connections\n\n- **Death King Armor** - Survivor armor set crafted from The King's remains\n- **King's Man** *(speculative connection)* - The Golden Entity's enforcer; relationship to The King unclear but thematic parallels exist\n- **Gambler's Chest Systems** - The King likely integrates with new campaign systems including the Character System and Wanderer System\n- **Golden Years Settlements** - Late-campaign settlements that have reached the point where The King manifests\n\n## Sources\n\n- gamblers-chest-expansion (shop) - Primary source for entity description and expansion contents\n\n---\n\n## Related Entries\n\n- [[King's Man]] - Core Game nemesis serving the Golden Entity\n- [[Gambler's Chest]] - Parent expansion containing The King\n- [[Death King Armor]] - Armor set associated with The King\n- [[The Golden Entity]] - Potential thematic connection *(speculative)*\n\n---\n\n*Note: Much of The King's nature remains shrouded in mystery. The brief source description emphasizes atmosphere and inevitability over mechanical or detailed lore information. Additional details may emerge from rulebook content not currently available in these sources.*",
+    "frontmatter": {
+      "title": "The King",
+      "category": "character",
+      "type": "nemesis/endgame entity",
+      "confidence": "likely",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/core-game-kingsman-crest-box-sq-1024x1024.png",
+          "caption": "The King - Product image"
+        },
+        {
+          "path": "official-site/images/shop/dragon-king-expansion-crown-and-skull-white2-500x.png",
+          "caption": "The King - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/core-game-kingsman-crest-box-sq-1024x1024.png",
+      "caption": "The King - Product image (Note: May depict related King's Man imagery)"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/batch-scraped/lion-knight-expansion-1-6.txt",
+      "official-site/shop/batch-scraped/red-witches-expansion.txt",
+      "official-site/shop/batch-scraped/slenderman-expansion-1-6.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/lion-knight-expansion-1-6.txt",
+      "official-site/shop/lonely-tree-expansion-1-6.txt",
+      "official-site/shop/nemesis-expansions/lion-knight-expansion-1-6.txt",
+      "official-site/shop/nemesis-expansions/red-witches-expansion.txt",
+      "official-site/shop/nemesis-expansions/slenderman-expansion-1-6.txt",
+      "official-site/shop/red-witches-expansion.txt",
+      "official-site/shop/slenderman-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/kds-spidicules-expansion.txt",
+      "official-site/shop/smart-scraped/lion-knight-expansion-1-6.txt",
+      "official-site/shop/smart-scraped/phobia-the-hunt.txt",
+      "official-site/shop/smart-scraped/pinups-of-death-bundle.txt",
+      "official-site/shop/smart-scraped/pinups-of-death-series-3.txt",
+      "official-site/shop/smart-scraped/red-witches-expansion.txt",
+      "official-site/shop/smart-scraped/slenderman-expansion-1-6.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/lonely-tree-expansion-1-6.txt",
+      "official-site/shop/wanderers/wanderer-death-drifter.txt",
+      "official-site/shop/nemesis-expansions/lion-knight-expansion-1-6.txt",
+      "official-site/shop/nemesis-expansions/red-witches-expansion.txt",
+      "official-site/shop/nemesis-expansions/slenderman-expansion-1-6.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "official-site/news/2025/kdu-104-march-2025.txt",
+      "official-site/news/2025/kdu-106-may-2025.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "existing-research/factions/white-speakers.txt",
+      "existing-research/kdm-designer-notes.txt",
+      "existing-research/locations/the-plane-of-faces.txt",
+      "existing-research/rules/03-story-events-ocr.txt",
+      "existing-research/rules/05-game-variants-glossary-ocr.txt",
+      "existing-research/rules/dragon-king-ocr.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/core-game-kingsman-crest-box-sq-1024x1024.png",
+        "caption": "The King - Product image"
+      },
+      {
+        "path": "official-site/images/shop/dragon-king-expansion-crown-and-skull-white2-500x.png",
+        "caption": "The King - Product image"
+      }
+    ],
+    "citations": [
+      "[816-820]",
+      "[821-825]",
+      "[826-830]",
+      "[831-835]",
+      "[816-820]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "King's Man",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "likely",
+    "id": "pending-1764700912308-rrj6l5",
+    "createdAt": "2025-12-02T18:41:52.308Z",
+    "status": "pending"
   }
 ]
