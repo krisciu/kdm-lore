@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-12-02T16:11:21.581Z",
+  "scrapedAt": "2025-12-02T16:11:38.579Z",
   "products": [
     {
       "slug": "kingdom-death-monster-1-5",
@@ -1647,6 +1647,105 @@
       "contentsCount": 8,
       "hasLoreQuotes": false,
       "isHighValue": false
+    },
+    {
+      "slug": "kds-slenderman-expansion",
+      "title": "KDS - Slenderman Expansion",
+      "filename": "kds-slenderman-expansion.txt",
+      "descLength": 2497,
+      "contentsCount": 11,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "kds-spidicules-expansion",
+      "title": "KDS - Spidicules Expansion",
+      "filename": "kds-spidicules-expansion.txt",
+      "descLength": 2634,
+      "contentsCount": 19,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "kds-sunstalker-expansion",
+      "title": "KDS - Sunstalker Expansion",
+      "filename": "kds-sunstalker-expansion.txt",
+      "descLength": 3019,
+      "contentsCount": 20,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "kds-xell",
+      "title": "KDS - Xell",
+      "filename": "kds-xell.txt",
+      "descLength": 1886,
+      "contentsCount": 0,
+      "hasLoreQuotes": false,
+      "isHighValue": false
+    },
+    {
+      "slug": "killenium-butcher-t-shirt",
+      "title": "Killennium Butcher T-Shirt",
+      "filename": "killenium-butcher-t-shirt.txt",
+      "descLength": 587,
+      "contentsCount": 2,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "phobia-the-hunt",
+      "title": "Kingdom Death Comic: Phobia (The Hunt)",
+      "filename": "phobia-the-hunt.txt",
+      "descLength": 1253,
+      "contentsCount": 0,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "kingdom-death-monster-1-5",
+      "title": "Kingdom Death: Monster 1.6",
+      "filename": "kingdom-death-monster-1-5.txt",
+      "descLength": 1776,
+      "contentsCount": 97,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "kingslayer-twilight-knight",
+      "title": "Kingslayer Twilight Knight - Painters Scale",
+      "filename": "kingslayer-twilight-knight.txt",
+      "descLength": 1070,
+      "contentsCount": 4,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "lagomorph-incubation",
+      "title": "Lagomorph Incubation",
+      "filename": "lagomorph-incubation.txt",
+      "descLength": 1061,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "lagomorph-kit",
+      "title": "Lagomorph Kit",
+      "filename": "lagomorph-kit.txt",
+      "descLength": 1133,
+      "contentsCount": 5,
+      "hasLoreQuotes": true,
+      "isHighValue": false
+    },
+    {
+      "slug": "lagomorph-survivors",
+      "title": "Lagomorph Survivors",
+      "filename": "lagomorph-survivors.txt",
+      "descLength": 854,
+      "contentsCount": 6,
+      "hasLoreQuotes": false,
+      "isHighValue": false
     }
   ],
   "highValueVerified": [
@@ -1735,6 +1834,138 @@
     {
       "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivors-2025-collection-au",
       "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivors-2025-collection-au",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/indomitable-survivors-2025-collection-au",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/investment-sniper-punctual-bride-painters-scale",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/investment-sniper-punctual-bride-painters-scale",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/investment-sniper-punctual-bride-painters-scale",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/investment-sniper-punctual-bride-painters-scale",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/investment-sniper-punctual-bride-painters-scale",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-dung-beetle-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-dung-beetle-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-dung-beetle-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-dung-beetle-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-dung-beetle-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-flower-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-flower-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-flower-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-flower-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-flower-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-green-knight-armor-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-green-knight-armor-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-green-knight-armor-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-green-knight-armor-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-green-knight-armor-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-lion-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-lion-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-lion-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-lion-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-lion-knight-expansion",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-pariah",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-pariah",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-pariah",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-pariah",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kds-pariah",
+      "reason": "404 or error"
+    },
+    {
+      "url": "https://shop.kingdomdeath.com/collections/all/products/kingdom-death-simulator-1",
+      "reason": "Empty description"
     }
   ]
 }

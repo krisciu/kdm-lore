@@ -24,6 +24,10 @@ import {
   BookOpen,
   Search,
   Filter,
+  Layers,
+  GitBranch,
+  Target,
+  Cpu,
 } from 'lucide-react';
 
 interface SchedulerState {
@@ -72,22 +76,61 @@ interface ParsedEntity {
   sourceFile: string;
 }
 
+interface PipelineState {
+  lastRun?: string;
+  stages: {
+    index: { lastRun?: string; sourcesIndexed: number };
+    extract: { lastRun?: string; entitiesExtracted: number };
+    analyze: { lastRun?: string; connectionsFound: number };
+    generate: { lastRun?: string; entriesGenerated: number };
+    review: { pending: number; approved: number; rejected: number };
+  };
+  stats: {
+    totalSources: number;
+    totalEntities: number;
+    byType: Record<string, number>;
+    coverage: {
+      withLoreEntry: number;
+      needsEntry: number;
+      needsExpansion: number;
+    };
+  };
+}
+
+interface ExtractedEntity {
+  id: string;
+  name: string;
+  type: string;
+  description: string;
+  confidence: string;
+  hasLoreEntry: boolean;
+  sources: Array<{ sourcePath: string; sourceType: string }>;
+  tags: string[];
+  node?: string;
+  expansionSource?: string;
+}
+
 export default function AgentDashboard() {
   const [schedulerState, setSchedulerState] = useState<SchedulerState | null>(null);
   const [sourceStats, setSourceStats] = useState<SourceStats | null>(null);
   const [pendingTasks, setPendingTasks] = useState<Task[]>([]);
   const [entities, setEntities] = useState<ParsedEntity[]>([]);
+  const [pipelineState, setPipelineState] = useState<PipelineState | null>(null);
+  const [extractedEntities, setExtractedEntities] = useState<ExtractedEntity[]>([]);
   const [loading, setLoading] = useState(true);
   const [running, setRunning] = useState(false);
-  const [activeTab, setActiveTab] = useState<'overview' | 'queue' | 'sources' | 'settings'>('overview');
+  const [runningStage, setRunningStage] = useState<string | null>(null);
+  const [activeTab, setActiveTab] = useState<'overview' | 'pipeline' | 'entities' | 'queue' | 'settings'>('overview');
   const [searchQuery, setSearchQuery] = useState('');
 
   const fetchData = useCallback(async () => {
     try {
-      const [statusRes, pendingRes, entitiesRes] = await Promise.all([
+      const [statusRes, pendingRes, entitiesRes, pipelineRes, extractedRes] = await Promise.all([
         fetch('/api/agent?action=status'),
         fetch('/api/agent?action=pending'),
         fetch('/api/agent?action=entities&limit=20'),
+        fetch('/api/pipeline?action=status'),
+        fetch('/api/pipeline?action=entities&limit=50'),
       ]);
 
       if (statusRes.ok) {
@@ -104,6 +147,16 @@ export default function AgentDashboard() {
       if (entitiesRes.ok) {
         const data = await entitiesRes.json();
         setEntities(data.entities || []);
+      }
+
+      if (pipelineRes.ok) {
+        const data = await pipelineRes.json();
+        setPipelineState(data.state);
+      }
+
+      if (extractedRes.ok) {
+        const data = await extractedRes.json();
+        setExtractedEntities(data.entities || []);
       }
     } catch (error) {
       console.error('Failed to fetch agent data:', error);
@@ -206,6 +259,46 @@ export default function AgentDashboard() {
       }
     } catch (error) {
       console.error('Failed to generate tasks:', error);
+    }
+  };
+
+  const runPipelineStage = async (stage: 'index' | 'extract' | 'analyze' | 'generate' | 'all') => {
+    setRunningStage(stage);
+    try {
+      const res = await fetch('/api/pipeline', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          action: stage === 'all' ? 'run' : stage,
+          generateLimit: 10,
+        }),
+      });
+      
+      if (res.ok) {
+        const result = await res.json();
+        console.log(`Pipeline ${stage} result:`, result);
+        await fetchData();
+      }
+    } catch (error) {
+      console.error(`Failed to run pipeline ${stage}:`, error);
+    } finally {
+      setRunningStage(null);
+    }
+  };
+
+  const createEntityEntry = async (entityId: string) => {
+    try {
+      const res = await fetch('/api/pipeline', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'create_entry', entityId }),
+      });
+      
+      if (res.ok) {
+        await fetchData();
+      }
+    } catch (error) {
+      console.error('Failed to create entry:', error);
     }
   };
 

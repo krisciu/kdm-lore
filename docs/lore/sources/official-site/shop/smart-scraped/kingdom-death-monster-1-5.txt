@@ -1,6 +1,6 @@
 # Kingdom Death: Monster 1.6
-Source: https://shop.kingdomdeath.com/products/kingdom-death-monster-1-5
-Scraped: 2025-12-02T16:11:40.854Z
+Source: https://shop.kingdomdeath.com/collections/all/products/kingdom-death-monster-1-5
+Scraped: 2025-12-02T16:18:49.122Z
 Price: $444.00
 
 ---

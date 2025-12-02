@@ -1,7 +1,11 @@
 # KDM Lore Sources - Status Tracker
-Last Updated: 2025-12-02 (Updated: Session 2)
+Last Updated: 2025-12-02 (Updated: Session 3 - Image Extraction)
 
-**TOTAL FILES SCRAPED: 236**
+**TOTAL CONTENT COLLECTED:**
+- 📷 **3,055 images** (2,825 rulebook, 141 newsletter, 89 shop)
+- 📄 **569 text files** (277 OCR'd, 255 scraped, 37 curated)
+- 📝 **27 markdown lore entries**
+- 💾 **3.4 GB total size**
 
 ---
 
@@ -111,6 +115,51 @@ Last Updated: 2025-12-02 (Updated: Session 2)
 |--------|------|------|---------|
 | ✅ | kickstarter/kdm-1-5-campaign.txt | Campaign | KS 1.5 overview |
 | ✅ | rulebooks/living-glossary.txt | Rules | Official terms |
+
+---
+
+## 📷 IMAGE EXTRACTION - Unity Assets (NEW!)
+
+Extracted from Kingdom Death Simulator v0.1.250 using UnityPy
+
+### Rulebook Pages (2,825 images)
+| Category | Count | Location | Status |
+|----------|-------|----------|--------|
+| Core Rulebook 1.6 | 246 | `rulebook-pages/` | ✅ Extracted + OCR'd |
+| Gambler's Chest | 695 | `gamblers-chest/` | ✅ Extracted |
+| Expansions of Death | 436 | `expansions-of-death/` | ✅ Extracted |
+| Miscellaneous Expansions | 434 | `miscellaneous/` | ✅ Extracted |
+| Game Content (cards/boards) | 97 | `game-content/` | ✅ Extracted |
+| Other Assets | ~1,000 | Various | ✅ Extracted |
+
+### Expansion Rulebook Pages Extracted
+- **Gorm**: 14+ pages
+- **Spidicules**: 19 pages  
+- **Dragon King**: 31 pages
+- **Sunstalker**: 35 pages
+- **Flower Knight**: 24 pages
+- **Lion Knight**: 19 pages
+- **Slenderman**: 15 pages
+- **Dung Beetle Knight**: 19 pages
+- **Lonely Tree**: 11 pages
+- **Black Knight**: 40 pages (complete book)
+- **Red Witch**: 44 pages (complete book)
+- **Pariah**: 28 pages (May 2025 update)
+- **Frog Dog**: 24 pages (complete book)
+- **White Gigalion**: 12 pages
+- **Killenium Butcher**: 36 pages (vignette)
+
+### Newsletter Images (141 images)
+| Newsletter | Images | Status |
+|------------|--------|--------|
+| KDU #99 | 13 | ✅ Downloaded |
+| KDU #101-109 | 128 | ✅ Downloaded |
+
+### Shop Images (89 images)
+| Page | Images | Status |
+|------|--------|--------|
+| Core Game | 46 | ✅ Downloaded |
+| Various Expansions | 43 | ✅ Downloaded |
 
 ---
 
@@ -224,11 +273,13 @@ docs/lore/sources/
 | Newsletters (2024) | 2 | ~12 | 17% |
 | Newsletters (older) | 0 | ~90 | 0% |
 | Kickstarter | 1 | ~50 | 2% |
-| Rulebooks/Extracted | 150+ | ~200 | 75% |
+| Rulebooks/Extracted | 277 | ~300 | 92% |
+| Rulebook Images | 2,825 | ~3,000 | 94% |
 | Locations | 4 | ~10 | 40% |
 | Factions | 2 | ~5 | 40% |
 | Characters | 5 | ~15 | 33% |
-| **OVERALL** | **~236** | **~400** | **~59%** |
+| **TEXT CONTENT** | **~569** | **~700** | **~81%** |
+| **IMAGE CONTENT** | **~3,055** | **~3,500** | **~87%** |
 
 ---
 
@@ -241,21 +292,27 @@ docs/lore/sources/
 4. ✅ Scrape Campaigns of Death (preorder)
 5. ✅ Scrape Wanderer - Preacher (preorder)
 6. ✅ Scrape Priestess Percival
+7. ✅ **Extract 2,825+ images from Unity game assets**
+8. ✅ **Extract 141 images from newsletters**
+9. ✅ **OCR core rulebook to text (4,679 lines)**
+10. ✅ **Build content indexing system**
 
 ### Immediate (Can do now)
+- ⬜ Install Tesseract and run batch OCR on expansion rulebooks
+- ⬜ Extract more shop page images
 - ⬜ Some newsletter URLs (KDU #100, #97-98) return 404
 - ⬜ Scrape Indomitable Survivor character pages
-- ⬜ Scrape more Vignettes of Death content
 
 ### Short-term
-- ⬜ Scrape Gambler's Chest Kickstarter overview
+- ⬜ Run OCR on all Gambler's Chest pages (695 images)
+- ⬜ Run OCR on expansion rulebook pages (436 images)
 - ⬜ Scrape KDU #80-96 (older 2024 newsletters)
 - ⬜ Process extracted rulebook content into organized lore files
 
 ### Long-term
 - ⬜ Complete newsletter archive (all KDU issues)
 - ⬜ Compile all Kickstarter updates
-- ⬜ Organize 150+ extracted rulebook pages into categories
+- ⬜ OCR and organize all 2,825 rulebook images
 
 ---
 
@@ -297,4 +354,29 @@ docs/lore/sources/
 - **Lucid Frenzy** - Mental state achievable during battle
 - **Tachyon Nodachi** - Weapon channeling Phoenix's Time Stop
 - **Golden Bat** - Creates music from gold sounds
+
+---
+
+## 🛠️ Available Tools
+
+### Content Extraction
+| Script | Purpose | Usage |
+|--------|---------|-------|
+| `extract-images.ts` | Extract images from web pages | `npx ts-node scripts/extract-images.ts newsletters` |
+| `extract_unity_assets.py` | Extract from Unity game files | Python script for .assets files |
+| `batch-scrape-news.ts` | Batch newsletter scraping | `npx ts-node scripts/batch-scrape-news.ts` |
+
+### Content Processing  
+| Script | Purpose | Usage |
+|--------|---------|-------|
+| `batch-ocr.ts` | Tesseract OCR on images | `npx ts-node scripts/batch-ocr.ts status` |
+| `build-content-index.ts` | Generate content manifest | `npx ts-node scripts/build-content-index.ts` |
+| `backfill-images.ts` | Track image capture backlog | `npx ts-node scripts/backfill-images.ts status` |
+
+### Generated Files
+| File | Content |
+|------|---------|
+| `content-index.json` | Full index of 3,055 images + 569 text files |
+| `backfill/backfill-manifest.json` | Tracking for image backfill |
+| `rulebooks/EXTRACTION-SUMMARY.md` | Unity asset extraction details |
 
