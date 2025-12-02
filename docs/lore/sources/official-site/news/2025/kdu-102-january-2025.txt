@@ -1,67 +1,67 @@
-# KDU #102 - January 2025
+# KDU #102 - January 2025 - New Lantern Year
 Source: https://kingdomdeath.com/news/mc-fa567e6a76
 Type: Newsletter
 Date: January 2025
 
 ---
 
-## KDU#102 - A New Lantern Year
+## KDU#102 - New Lantern Year January 2025
 
-**"Another lantern on the hoard fizzles into darkness. A new lantern year begins."**
-
-The **Lunar Twilight Knight** arrives in the first moments of the new year.
-
----
-
-## Lore Details
-
-### The Passage of Time
-"Another lantern on the hoard fizzles into darkness. A new lantern year begins."
-
-**Lore Note:** This poetic description suggests:
-- Time in Kingdom Death is measured in "lantern years"
-- Each year is represented by a lantern that eventually burns out
-- A "hoard" of lanterns represents the passage of multiple years
-- The fizzling out represents the end of a year/era
-
-### Lunar Twilight Knight
-- A variant of the Twilight Knight
-- Associated with lunar/moon themes
-- Arrives at the beginning of a new year
-
-### Frozen Survivor - Camellia
-- A survivor character associated with cold/ice themes
-- Named after the flower Camellia
-
-### Wendy, the Frozen Star
-- A named character associated with cold/ice and stars
-- "Frozen Star" suggests celestial ice themes
-
-### Smog Armor Set
-From community spotlight: "The mask effect on the model's face is very unique. It's giving a chilling Venetian mask effect."
-
-**Lore Note:** The Smog armor set features a distinctive mask with Venetian-style aesthetics, suggesting a connection to theatrical or carnival themes.
-
----
+Another lantern year begins with new releases and community celebrations.
 
 ## January 2025 Releases
 
 ### New Resin Releases
 - **Frozen Survivor - Camellia** - Winter-themed survivor
-- **Lunar Twilight Knight** - Moon-themed knight variant
-- **Sen Variant Painter's Scale**
-- **Wendy, the Frozen Star Painter's Scale** - Named star character
+- **Lunar Twilight Knight** - Moon-themed Twilight Knight variant
+- **Sen Variant** - Painters Scale
+- **Wendy, the Frozen Star** - Painters Scale
+
+---
+
+## Community Spotlight
+
+### CaptainSalty's Smog Armor Set
+"Let's take a beat to appreciate CaptainSalty's unique take on the Smog armor set. The mask effect on the model's face is very unique. It's giving a chilling Venetian mask effect."
+
+**Lore Note:** The Smog armor set (from Smog Singers in Gambler's Chest) creates a distinctive mask-like appearance, connecting to themes of concealment and the strange music of the Smog Singers.
+
+### Texred's Guinevere
+"Born under a lantern eclipse, Guinevere was always hesitant to hunt. She showed her true battle prowess when her settlement was attacked."
+
+**Lore Note:** This provides significant character lore:
+- Guinevere was born during a "lantern eclipse" - a rare celestial event
+- She was naturally hesitant about hunting
+- Her combat skills emerged when defending her settlement
+- This suggests survivors can have different personalities and motivations
+
+---
+
+## Lore Notes
+
+### Lantern Eclipse
+- Rare celestial event in the KDM world
+- Can affect survivors born during it
+- Guinevere born under one
+
+### Character Archetypes
+- **Frozen/Winter Survivors**: Camellia, Wendy (Frozen Star)
+- **Lunar-themed**: Lunar Twilight Knight
+- **Reluctant Hunters**: Guinevere
+
+### Smog Armor
+- Creates mask-like appearance
+- "Venetian mask effect"
+- Connected to Smog Singers
 
 ---
 
 ## Keywords
-- Lantern Year
-- Hoard of Lanterns
-- Lunar Twilight Knight
+- Lantern Eclipse
 - Frozen Survivor
 - Camellia
+- Lunar Twilight Knight
 - Wendy the Frozen Star
-- Smog Armor Set
-- Venetian Mask
-- Time passage in Kingdom Death
-
+- Smog Armor
+- Guinevere
+- Sen

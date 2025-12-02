@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-12-02T00:00:00.000Z",
+  "totalImages": 0,
+  "images": {},
+  "byCategory": {},
+  "bySource": {},
+  "byTag": {},
+  "_readme": "This index tracks all images in the lore collection. Run 'npx ts-node scripts/process-images.ts scan' to populate."
+}
+
