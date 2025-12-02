@@ -1,0 +1,37 @@
+---
+title: "Wanderer - Goth"
+category: characters
+source: wanderer-goth.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# Wanderer - Goth
+
+Wanderers are new to Kingdom Death: Monster with the release of the Gambler's Chest expansion. Any campaign can now add a wanderer, a mysterious stranger that makes your settlement their temporary home.
+As they fight alongside your settlement, their own story unfolds. Secrets, skills, and more are shared by your visitor. Cultivate a relationship as the wanderer fights along with your survivors to protect your settlement. When they leave, as they all inevitably do, they will leave an indelible mark of their life on your campaign.
+Arriving in the settlement, an ailing Goth shares her story with the settlement before it's too late.
+Wanderer - Goth is packaged in a uniquely designed graphical box and includes:
+1 x Goth hard plastic miniature
+1 x Goth scenic base insert
+1 x Kingdom Death 30mm base
+4 x Knowledge cards
+1 x Fighting art card
+5 x Arc survivor record sheets
+1 x Divider
+2 x Rare gear cards
+2 x Innovation cards
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `wanderer-goth.txt`
+- **Category:** characters
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Characters](../_index.md)

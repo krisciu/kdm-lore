@@ -1,0 +1,34 @@
+---
+title: "Entobra the Walker"
+category: concepts
+source: entobra-the-walker.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# Entobra the Walker
+
+Blindly she dangled from the dripping cave ceiling, hoisted by her toes, her brain drowning in her body's pooling blood. Long ago, spidery, grasping fingers had crawled through her hair as she slept. Yanking her through the air, whimpering and struggling through the darkness. The monster capered out of the settlement, gliding strangely on its prehensile toes. Cycles of torment, humiliations and hope, twisted her mind as her body sagged and the bones of her feet warped and splintered under the weight of her. Eventually she tumbled to the ground and lay still.
+She was inexplicably alone. She would pour vengeance for her pain upon the blood cult. In her helmet she stalked the darkness, tracking their bloody scent without sight.
+Art : KyuYong EomSculpture: Team DeathEntobra the Walker is packaged in a hand-stamped kraft box and limited to 500. It includes:
+1 x Photoresin Entobra
+1 x Hard Plastic Kingdom Death 30mm round insert and base
+First run collector's edition: Signed and numbered authenticity note
+Deathgrey edition limited to 250: Deathgrey authenticity note
+Large matte art print
+Character art card
+Limit 2 per customer
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `entobra-the-walker.txt`
+- **Category:** concepts
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Concepts](../_index.md)

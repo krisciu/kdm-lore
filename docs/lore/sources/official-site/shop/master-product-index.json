@@ -1,0 +1,975 @@
+{
+  "generatedAt": "2025-12-02T16:25:28.576Z",
+  "products": [
+    {
+      "slug": "10th-anniversary-survivors",
+      "path": "smart-scraped/10th-anniversary-survivors.txt",
+      "size": 1937
+    },
+    {
+      "slug": "15th-anniversary-survivors",
+      "path": "smart-scraped/15th-anniversary-survivors.txt",
+      "size": 2480
+    },
+    {
+      "slug": "8-5-x-11-art-prints-august-2025",
+      "path": "smart-scraped/8-5-x-11-art-prints-august-2025.txt",
+      "size": 922
+    },
+    {
+      "slug": "8-5-x-11-art-prints-halloween-2025",
+      "path": "smart-scraped/8-5-x-11-art-prints-halloween-2025.txt",
+      "size": 928
+    },
+    {
+      "slug": "8-5-x-11-art-prints-september-2025",
+      "path": "smart-scraped/8-5-x-11-art-prints-september-2025.txt",
+      "size": 928
+    },
+    {
+      "slug": "allison-the-twilight-knight",
+      "path": "smart-scraped/allison-the-twilight-knight.txt",
+      "size": 1409
+    },
+    {
+      "slug": "allison-twilight-knight",
+      "path": "miniatures/allison-twilight-knight.txt",
+      "size": 2800
+    },
+    {
+      "slug": "ambitionism-survivors",
+      "path": "smart-scraped/ambitionism-survivors.txt",
+      "size": 1836
+    },
+    {
+      "slug": "ammo-slave",
+      "path": "smart-scraped/ammo-slave.txt",
+      "size": 1054
+    },
+    {
+      "slug": "ashbloom-bust",
+      "path": "smart-scraped/ashbloom-bust.txt",
+      "size": 1427
+    },
+    {
+      "slug": "ashbloom-of-dedheim",
+      "path": "smart-scraped/ashbloom-of-dedheim.txt",
+      "size": 1835
+    },
+    {
+      "slug": "astri-the-promised",
+      "path": "smart-scraped/astri-the-promised.txt",
+      "size": 1586
+    },
+    {
+      "slug": "basara",
+      "path": "smart-scraped/basara.txt",
+      "size": 2638
+    },
+    {
+      "slug": "before-the-wall",
+      "path": "smart-scraped/before-the-wall.txt",
+      "size": 1251
+    },
+    {
+      "slug": "beyond-the-wall-1a",
+      "path": "smart-scraped/beyond-the-wall-1a.txt",
+      "size": 1068
+    },
+    {
+      "slug": "biomech-butcher",
+      "path": "smart-scraped/biomech-butcher.txt",
+      "size": 2019
+    },
+    {
+      "slug": "bjorn",
+      "path": "smart-scraped/bjorn.txt",
+      "size": 2006
+    },
+    {
+      "slug": "black-and-red-dice",
+      "path": "smart-scraped/black-and-red-dice.txt",
+      "size": 1646
+    },
+    {
+      "slug": "black-friday-death-dice",
+      "path": "smart-scraped/black-friday-death-dice.txt",
+      "size": 919
+    },
+    {
+      "slug": "black-friday-formal-erza-painters-scale",
+      "path": "smart-scraped/black-friday-formal-erza-painters-scale.txt",
+      "size": 1656
+    },
+    {
+      "slug": "black-knight-citadel-board-travel-edition",
+      "path": "smart-scraped/black-knight-citadel-board-travel-edition.txt",
+      "size": 2391
+    },
+    {
+      "slug": "black-knight-expansion",
+      "path": "smart-scraped/black-knight-expansion.txt",
+      "size": 1887
+    },
+    {
+      "slug": "black-out-dice",
+      "path": "smart-scraped/black-out-dice.txt",
+      "size": 1640
+    },
+    {
+      "slug": "blushing-owl-photoresin",
+      "path": "smart-scraped/blushing-owl-photoresin.txt",
+      "size": 1659
+    },
+    {
+      "slug": "bone-eater-t-shirt",
+      "path": "smart-scraped/bone-eater-t-shirt.txt",
+      "size": 1239
+    },
+    {
+      "slug": "brave-hollow",
+      "path": "smart-scraped/brave-hollow.txt",
+      "size": 1665
+    },
+    {
+      "slug": "butcher-bust",
+      "path": "smart-scraped/butcher-bust.txt",
+      "size": 2136
+    },
+    {
+      "slug": "campaigns-of-death",
+      "path": "gameplay-expansions/campaigns-of-death.txt",
+      "size": 1247
+    },
+    {
+      "slug": "caster-hunter",
+      "path": "smart-scraped/caster-hunter.txt",
+      "size": 2632
+    },
+    {
+      "slug": "champion-weaponsmith",
+      "path": "smart-scraped/champion-weaponsmith.txt",
+      "size": 1119
+    },
+    {
+      "slug": "classic-death-die",
+      "path": "smart-scraped/classic-death-die.txt",
+      "size": 1568
+    },
+    {
+      "slug": "court-barrister",
+      "path": "smart-scraped/court-barrister.txt",
+      "size": 1709
+    },
+    {
+      "slug": "court-investigator",
+      "path": "smart-scraped/court-investigator.txt",
+      "size": 1596
+    },
+    {
+      "slug": "crimson-croc-t-shirt",
+      "path": "smart-scraped/crimson-croc-t-shirt.txt",
+      "size": 1233
+    },
+    {
+      "slug": "cupid-lucy",
+      "path": "smart-scraped/cupid-lucy.txt",
+      "size": 1664
+    },
+    {
+      "slug": "cupid-lucy-painters-scale-copy",
+      "path": "smart-scraped/cupid-lucy-painters-scale-copy.txt",
+      "size": 1628
+    },
+    {
+      "slug": "dark-confidant",
+      "path": "smart-scraped/dark-confidant.txt",
+      "size": 2256
+    },
+    {
+      "slug": "dark-of-star",
+      "path": "smart-scraped/dark-of-star.txt",
+      "size": 2266
+    },
+    {
+      "slug": "dark-soldier",
+      "path": "smart-scraped/dark-soldier.txt",
+      "size": 2338
+    },
+    {
+      "slug": "death-high-disciple-of-the-witch-one",
+      "path": "smart-scraped/death-high-disciple-of-the-witch-one.txt",
+      "size": 1216
+    },
+    {
+      "slug": "death-high-disciple-of-the-witch-one-2024",
+      "path": "smart-scraped/death-high-disciple-of-the-witch-one-2024.txt",
+      "size": 1161
+    },
+    {
+      "slug": "death-high-dragon-sacrifice",
+      "path": "smart-scraped/death-high-dragon-sacrifice.txt",
+      "size": 2139
+    },
+    {
+      "slug": "death-high-dung-beetle-knight",
+      "path": "smart-scraped/death-high-dung-beetle-knight.txt",
+      "size": 1710
+    },
+    {
+      "slug": "death-high-enforcer",
+      "path": "smart-scraped/death-high-enforcer.txt",
+      "size": 657
+    },
+    {
+      "slug": "death-high-erza",
+      "path": "smart-scraped/death-high-erza.txt",
+      "size": 1509
+    },
+    {
+      "slug": "death-high-esther",
+      "path": "smart-scraped/death-high-esther.txt",
+      "size": 1657
+    },
+    {
+      "slug": "death-high-herb-gatherer",
+      "path": "smart-scraped/death-high-herb-gatherer.txt",
+      "size": 1746
+    },
+    {
+      "slug": "death-high-intimacy-couple",
+      "path": "smart-scraped/death-high-intimacy-couple.txt",
+      "size": 979
+    },
+    {
+      "slug": "death-high-lucy",
+      "path": "smart-scraped/death-high-lucy.txt",
+      "size": 843
+    },
+    {
+      "slug": "death-high-male-preacher-2024",
+      "path": "smart-scraped/death-high-male-preacher-2024.txt",
+      "size": 1909
+    },
+    {
+      "slug": "death-high-moss",
+      "path": "smart-scraped/death-high-moss.txt",
+      "size": 1832
+    },
+    {
+      "slug": "death-high-necromancer",
+      "path": "smart-scraped/death-high-necromancer.txt",
+      "size": 2058
+    },
+    {
+      "slug": "death-high-satan-twins-painters-scale",
+      "path": "smart-scraped/death-high-satan-twins-painters-scale.txt",
+      "size": 1722
+    },
+    {
+      "slug": "death-high-satan-x",
+      "path": "smart-scraped/death-high-satan-x.txt",
+      "size": 1676
+    },
+    {
+      "slug": "death-high-savior",
+      "path": "smart-scraped/death-high-savior.txt",
+      "size": 721
+    },
+    {
+      "slug": "death-high-senior-allister-painters-scale",
+      "path": "smart-scraped/death-high-senior-allister-painters-scale.txt",
+      "size": 1856
+    },
+    {
+      "slug": "death-high-twilight-knight-2024",
+      "path": "smart-scraped/death-high-twilight-knight-2024.txt",
+      "size": 1134
+    },
+    {
+      "slug": "death-high-white-lion-1",
+      "path": "smart-scraped/death-high-white-lion-1.txt",
+      "size": 1648
+    },
+    {
+      "slug": "death-high-white-speaker",
+      "path": "smart-scraped/death-high-white-speaker.txt",
+      "size": 1561
+    },
+    {
+      "slug": "death-high-white-speaker-2024",
+      "path": "smart-scraped/death-high-white-speaker-2024.txt",
+      "size": 1961
+    },
+    {
+      "slug": "death-high-zachary",
+      "path": "smart-scraped/death-high-zachary.txt",
+      "size": 1638
+    },
+    {
+      "slug": "deathmas-cockroach-queen",
+      "path": "smart-scraped/deathmas-cockroach-queen.txt",
+      "size": 2533
+    },
+    {
+      "slug": "deathmas-cockroach-queen-painters-scale",
+      "path": "smart-scraped/deathmas-cockroach-queen-painters-scale.txt",
+      "size": 1941
+    },
+    {
+      "slug": "deathmas-percival-painters-scale",
+      "path": "smart-scraped/deathmas-percival-painters-scale.txt",
+      "size": 1968
+    },
+    {
+      "slug": "disciple-of-the-witch-one",
+      "path": "smart-scraped/disciple-of-the-witch-one.txt",
+      "size": 1247
+    },
+    {
+      "slug": "disciple-of-the-witch-six",
+      "path": "smart-scraped/disciple-of-the-witch-six.txt",
+      "size": 1007
+    },
+    {
+      "slug": "disciple-of-the-witch-two",
+      "path": "smart-scraped/disciple-of-the-witch-two.txt",
+      "size": 1006
+    },
+    {
+      "slug": "doll",
+      "path": "smart-scraped/doll.txt",
+      "size": 1268
+    },
+    {
+      "slug": "dragon-king-expansion-1-6",
+      "path": "smart-scraped/dragon-king-expansion-1-6.txt",
+      "size": 3552
+    },
+    {
+      "slug": "dragon-king-t-shirt",
+      "path": "smart-scraped/dragon-king-t-shirt.txt",
+      "size": 1268
+    },
+    {
+      "slug": "dragon-slayer",
+      "path": "smart-scraped/dragon-slayer.txt",
+      "size": 2369
+    },
+    {
+      "slug": "dung-beetle-expansion-1-6",
+      "path": "smart-scraped/dung-beetle-expansion-1-6.txt",
+      "size": 2818
+    },
+    {
+      "slug": "dung-beetle-knight-expansion-1-6",
+      "path": "dung-beetle-knight-expansion-1-6.txt",
+      "size": 2076
+    },
+    {
+      "slug": "dungeon-deck-t-shirt",
+      "path": "smart-scraped/dungeon-deck-t-shirt.txt",
+      "size": 1211
+    },
+    {
+      "slug": "early-survivor-zelda",
+      "path": "smart-scraped/early-survivor-zelda.txt",
+      "size": 1962
+    },
+    {
+      "slug": "easter-apotheosis",
+      "path": "smart-scraped/easter-apotheosis.txt",
+      "size": 1837
+    },
+    {
+      "slug": "echoes-of-death-bundle",
+      "path": "smart-scraped/echoes-of-death-bundle.txt",
+      "size": 942
+    },
+    {
+      "slug": "echoes-of-death-four",
+      "path": "smart-scraped/echoes-of-death-four.txt",
+      "size": 1454
+    },
+    {
+      "slug": "echoes-of-death-one",
+      "path": "smart-scraped/echoes-of-death-one.txt",
+      "size": 1379
+    },
+    {
+      "slug": "echoes-of-death-three",
+      "path": "smart-scraped/echoes-of-death-three.txt",
+      "size": 1755
+    },
+    {
+      "slug": "echoes-of-death-two",
+      "path": "smart-scraped/echoes-of-death-two.txt",
+      "size": 1722
+    },
+    {
+      "slug": "edlen",
+      "path": "smart-scraped/edlen.txt",
+      "size": 2202
+    },
+    {
+      "slug": "elsbeth",
+      "path": "smart-scraped/elsbeth.txt",
+      "size": 1341
+    },
+    {
+      "slug": "endemic-life",
+      "path": "smart-scraped/endemic-life.txt",
+      "size": 3144
+    },
+    {
+      "slug": "energy-potion-maker",
+      "path": "smart-scraped/energy-potion-maker.txt",
+      "size": 2471
+    },
+    {
+      "slug": "entobra-the-walker",
+      "path": "smart-scraped/entobra-the-walker.txt",
+      "size": 2024
+    },
+    {
+      "slug": "eod-thief-variant-painter",
+      "path": "smart-scraped/eod-thief-variant-painter.txt",
+      "size": 1838
+    },
+    {
+      "slug": "erza-of-dedheim",
+      "path": "smart-scraped/erza-of-dedheim.txt",
+      "size": 2496
+    },
+    {
+      "slug": "estate-hero",
+      "path": "smart-scraped/estate-hero.txt",
+      "size": 1310
+    },
+    {
+      "slug": "expansion-of-death-vol-1-6",
+      "path": "smart-scraped/expansion-of-death-vol-1-6.txt",
+      "size": 1710
+    },
+    {
+      "slug": "fade-pillar-survivor",
+      "path": "smart-scraped/fade-pillar-survivor.txt",
+      "size": 1558
+    },
+    {
+      "slug": "fall-death-dice",
+      "path": "smart-scraped/fall-death-dice.txt",
+      "size": 989
+    },
+    {
+      "slug": "false-messengers",
+      "path": "smart-scraped/false-messengers.txt",
+      "size": 836
+    },
+    {
+      "slug": "flower-knight-bust",
+      "path": "smart-scraped/flower-knight-bust.txt",
+      "size": 1603
+    },
+    {
+      "slug": "flower-knight-expansion-1-6",
+      "path": "smart-scraped/flower-knight-expansion-1-6.txt",
+      "size": 2507
+    },
+    {
+      "slug": "forgegod-archival-remaster",
+      "path": "smart-scraped/forgegod-archival-remaster.txt",
+      "size": 2049
+    },
+    {
+      "slug": "formal-erza-painters-scale",
+      "path": "miniatures/formal-erza-painters-scale.txt",
+      "size": 1510
+    },
+    {
+      "slug": "forsaker",
+      "path": "smart-scraped/forsaker.txt",
+      "size": 1613
+    },
+    {
+      "slug": "frogdog-expansion",
+      "path": "smart-scraped/frogdog-expansion.txt",
+      "size": 2088
+    },
+    {
+      "slug": "frozen-survivor-camellia",
+      "path": "smart-scraped/frozen-survivor-camellia.txt",
+      "size": 1932
+    },
+    {
+      "slug": "frozen-survivor-galanthus",
+      "path": "smart-scraped/frozen-survivor-galanthus.txt",
+      "size": 2172
+    },
+    {
+      "slug": "gamblers-chest-expansion",
+      "path": "batch-scraped/gamblers-chest-expansion.txt",
+      "size": 2435
+    },
+    {
+      "slug": "generic-male-knight",
+      "path": "smart-scraped/generic-male-knight.txt",
+      "size": 1906
+    },
+    {
+      "slug": "glow",
+      "path": "smart-scraped/glow.txt",
+      "size": 1257
+    },
+    {
+      "slug": "god-hand-t-shirt",
+      "path": "smart-scraped/god-hand-t-shirt.txt",
+      "size": 1228
+    },
+    {
+      "slug": "gold-smoke-knight-bust",
+      "path": "smart-scraped/gold-smoke-knight-bust.txt",
+      "size": 2158
+    },
+    {
+      "slug": "golden-bat",
+      "path": "smart-scraped/golden-bat.txt",
+      "size": 1986
+    },
+    {
+      "slug": "golden-bat-hunter-death-dice",
+      "path": "smart-scraped/golden-bat-hunter-death-dice.txt",
+      "size": 1673
+    },
+    {
+      "slug": "golden-bat-hunter-foltron",
+      "path": "smart-scraped/golden-bat-hunter-foltron.txt",
+      "size": 2286
+    },
+    {
+      "slug": "gorm-expansion-1-6",
+      "path": "smart-scraped/gorm-expansion-1-6.txt",
+      "size": 2593
+    },
+    {
+      "slug": "great-game-hunter-bravado",
+      "path": "smart-scraped/great-game-hunter-bravado.txt",
+      "size": 3487
+    },
+    {
+      "slug": "green-knight-armor-expansion",
+      "path": "smart-scraped/green-knight-armor-expansion.txt",
+      "size": 1463
+    },
+    {
+      "slug": "grimmory",
+      "path": "smart-scraped/grimmory.txt",
+      "size": 2096
+    },
+    {
+      "slug": "guinevere",
+      "path": "smart-scraped/guinevere.txt",
+      "size": 1802
+    },
+    {
+      "slug": "gunborg",
+      "path": "smart-scraped/gunborg.txt",
+      "size": 1632
+    },
+    {
+      "slug": "gunborg-painters-scale",
+      "path": "smart-scraped/gunborg-painters-scale.txt",
+      "size": 1734
+    },
+    {
+      "slug": "halloween-apotheosis",
+      "path": "smart-scraped/halloween-apotheosis.txt",
+      "size": 1803
+    },
+    {
+      "slug": "happy-holidays-t-shirt",
+      "path": "smart-scraped/happy-holidays-t-shirt.txt",
+      "size": 590
+    },
+    {
+      "slug": "hellebore-a-frozen-survivor",
+      "path": "smart-scraped/hellebore-a-frozen-survivor.txt",
+      "size": 2265
+    },
+    {
+      "slug": "holiday-white-speaker-nico-painters-scale",
+      "path": "smart-scraped/holiday-white-speaker-nico-painters-scale.txt",
+      "size": 1949
+    },
+    {
+      "slug": "hollow-bust",
+      "path": "smart-scraped/hollow-bust.txt",
+      "size": 1401
+    },
+    {
+      "slug": "hollowheart-rene-painters-scale",
+      "path": "smart-scraped/hollowheart-rene-painters-scale.txt",
+      "size": 1620
+    },
+    {
+      "slug": "hospitalar",
+      "path": "smart-scraped/hospitalar.txt",
+      "size": 2362
+    },
+    {
+      "slug": "illuminated-lady-2",
+      "path": "smart-scraped/illuminated-lady-2.txt",
+      "size": 2025
+    },
+    {
+      "slug": "indomitable-dashing-reaper-paleun",
+      "path": "smart-scraped/indomitable-dashing-reaper-paleun.txt",
+      "size": 2161
+    },
+    {
+      "slug": "indomitable-survivor-fated-dagger-domino",
+      "path": "smart-scraped/indomitable-survivor-fated-dagger-domino.txt",
+      "size": 2002
+    },
+    {
+      "slug": "indomitable-survivor-poison-partisan-ritika",
+      "path": "smart-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "size": 2473
+    },
+    {
+      "slug": "indomitable-survivor-roaring-harmonica-kale",
+      "path": "smart-scraped/indomitable-survivor-roaring-harmonica-kale.txt",
+      "size": 1879
+    },
+    {
+      "slug": "indomitable-survivor-tachyon-nodachi-rubi",
+      "path": "smart-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "size": 2172
+    },
+    {
+      "slug": "indomitable-survivor-thumping-timpani-ledla",
+      "path": "smart-scraped/indomitable-survivor-thumping-timpani-ledla.txt",
+      "size": 2518
+    },
+    {
+      "slug": "indomitable-survivor-tyrant-slayer-scarlet",
+      "path": "smart-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt",
+      "size": 2062
+    },
+    {
+      "slug": "indomitable-survivors-bundle",
+      "path": "smart-scraped/indomitable-survivors-bundle.txt",
+      "size": 3342
+    },
+    {
+      "slug": "kds-slenderman-expansion",
+      "path": "smart-scraped/kds-slenderman-expansion.txt",
+      "size": 3089
+    },
+    {
+      "slug": "kds-spidicules-expansion",
+      "path": "smart-scraped/kds-spidicules-expansion.txt",
+      "size": 3517
+    },
+    {
+      "slug": "kds-sunstalker-expansion",
+      "path": "smart-scraped/kds-sunstalker-expansion.txt",
+      "size": 3963
+    },
+    {
+      "slug": "kds-xell",
+      "path": "smart-scraped/kds-xell.txt",
+      "size": 2079
+    },
+    {
+      "slug": "killenium-butcher-t-shirt",
+      "path": "smart-scraped/killenium-butcher-t-shirt.txt",
+      "size": 1271
+    },
+    {
+      "slug": "kingdom-death-monster-1-5",
+      "path": "smart-scraped/kingdom-death-monster-1-5.txt",
+      "size": 5689
+    },
+    {
+      "slug": "kingdom-death-monster-1-6",
+      "path": "batch-scraped/kingdom-death-monster-1-6.txt",
+      "size": 6377
+    },
+    {
+      "slug": "kingslayer-twilight-knight",
+      "path": "smart-scraped/kingslayer-twilight-knight.txt",
+      "size": 1997
+    },
+    {
+      "slug": "lagomorph-incubation",
+      "path": "smart-scraped/lagomorph-incubation.txt",
+      "size": 1890
+    },
+    {
+      "slug": "lagomorph-kit",
+      "path": "smart-scraped/lagomorph-kit.txt",
+      "size": 1946
+    },
+    {
+      "slug": "lagomorph-survivors",
+      "path": "smart-scraped/lagomorph-survivors.txt",
+      "size": 1337
+    },
+    {
+      "slug": "lantern-armor-aya",
+      "path": "smart-scraped/lantern-armor-aya.txt",
+      "size": 1873
+    },
+    {
+      "slug": "leather-armor-kit",
+      "path": "batch-scraped/leather-armor-kit.txt",
+      "size": 1473
+    },
+    {
+      "slug": "lion-god-expansion-1-6",
+      "path": "smart-scraped/lion-god-expansion-1-6.txt",
+      "size": 2626
+    },
+    {
+      "slug": "lion-knight-expansion-1-6",
+      "path": "smart-scraped/lion-knight-expansion-1-6.txt",
+      "size": 2491
+    },
+    {
+      "slug": "lonely-tree-expansion-1-6",
+      "path": "smart-scraped/lonely-tree-expansion-1-6.txt",
+      "size": 2286
+    },
+    {
+      "slug": "longclaw-lenore",
+      "path": "smart-scraped/longclaw-lenore.txt",
+      "size": 2209
+    },
+    {
+      "slug": "mox-the-healer",
+      "path": "smart-scraped/mox-the-healer.txt",
+      "size": 2237
+    },
+    {
+      "slug": "naked-cat-doctors",
+      "path": "batch-scraped/naked-cat-doctors.txt",
+      "size": 1596
+    },
+    {
+      "slug": "painters-scale-black-cat",
+      "path": "smart-scraped/painters-scale-black-cat.txt",
+      "size": 1905
+    },
+    {
+      "slug": "pariah-expansion",
+      "path": "smart-scraped/pariah-expansion.txt",
+      "size": 4256
+    },
+    {
+      "slug": "people-of-the-sun-priestess-percival",
+      "path": "batch-scraped/people-of-the-sun-priestess-percival.txt",
+      "size": 2149
+    },
+    {
+      "slug": "philosophy-gatherism",
+      "path": "gameplay-expansions/philosophy-gatherism.txt",
+      "size": 3106
+    },
+    {
+      "slug": "philosophy-of-death-gatherism",
+      "path": "smart-scraped/philosophy-of-death-gatherism.txt",
+      "size": 1756
+    },
+    {
+      "slug": "phobia-the-hunt",
+      "path": "smart-scraped/phobia-the-hunt.txt",
+      "size": 1917
+    },
+    {
+      "slug": "phoenix-hunt-reenactment",
+      "path": "smart-scraped/phoenix-hunt-reenactment.txt",
+      "size": 1885
+    },
+    {
+      "slug": "pillar-fade",
+      "path": "pillar-survivors/pillar-fade.txt",
+      "size": 2857
+    },
+    {
+      "slug": "pillar-percival",
+      "path": "smart-scraped/pillar-percival.txt",
+      "size": 1115
+    },
+    {
+      "slug": "pinup-detective-twilight-knight",
+      "path": "smart-scraped/pinup-detective-twilight-knight.txt",
+      "size": 1512
+    },
+    {
+      "slug": "pinups-of-death-bundle",
+      "path": "smart-scraped/pinups-of-death-bundle.txt",
+      "size": 7918
+    },
+    {
+      "slug": "pinups-of-death-series-2",
+      "path": "smart-scraped/pinups-of-death-series-2.txt",
+      "size": 1762
+    },
+    {
+      "slug": "pinups-of-death-series-3",
+      "path": "smart-scraped/pinups-of-death-series-3.txt",
+      "size": 2443
+    },
+    {
+      "slug": "poison-partisan-ritika",
+      "path": "indomitable-survivors/poison-partisan-ritika.txt",
+      "size": 2107
+    },
+    {
+      "slug": "priestess-percival",
+      "path": "pillar-survivors/priestess-percival.txt",
+      "size": 2346
+    },
+    {
+      "slug": "red-witches-expansion",
+      "path": "smart-scraped/red-witches-expansion.txt",
+      "size": 3840
+    },
+    {
+      "slug": "roaring-harmonica-kale",
+      "path": "indomitable-survivors/roaring-harmonica-kale.txt",
+      "size": 2193
+    },
+    {
+      "slug": "screaming-god-expansion",
+      "path": "special-expansions/screaming-god-expansion.txt",
+      "size": 1086
+    },
+    {
+      "slug": "seed-pattern-jackel",
+      "path": "smart-scraped/seed-pattern-jackel.txt",
+      "size": 1842
+    },
+    {
+      "slug": "slenderman-expansion-1-6",
+      "path": "smart-scraped/slenderman-expansion-1-6.txt",
+      "size": 2414
+    },
+    {
+      "slug": "snow-the-savior",
+      "path": "smart-scraped/snow-the-savior.txt",
+      "size": 2067
+    },
+    {
+      "slug": "spidicules-expansion-1-6",
+      "path": "smart-scraped/spidicules-expansion-1-6.txt",
+      "size": 2693
+    },
+    {
+      "slug": "stampede-glaive-xell",
+      "path": "smart-scraped/stampede-glaive-xell.txt",
+      "size": 2859
+    },
+    {
+      "slug": "sunstalker-expansion",
+      "path": "smart-scraped/sunstalker-expansion.txt",
+      "size": 3597
+    },
+    {
+      "slug": "sunstalker-expansion-1-6",
+      "path": "sunstalker-expansion-1-6.txt",
+      "size": 3003
+    },
+    {
+      "slug": "survivors-of-death-1",
+      "path": "smart-scraped/survivors-of-death-1.txt",
+      "size": 2401
+    },
+    {
+      "slug": "survivors-of-death-2",
+      "path": "smart-scraped/survivors-of-death-2.txt",
+      "size": 3061
+    },
+    {
+      "slug": "tyrant-slayer-scarlet",
+      "path": "indomitable-survivors/tyrant-slayer-scarlet.txt",
+      "size": 1911
+    },
+    {
+      "slug": "us-expansion-bundle",
+      "path": "smart-scraped/us-expansion-bundle.txt",
+      "size": 370
+    },
+    {
+      "slug": "valentines-day-aya",
+      "path": "smart-scraped/valentines-day-aya.txt",
+      "size": 2012
+    },
+    {
+      "slug": "vignette-of-death-killennium-butcher",
+      "path": "smart-scraped/vignette-of-death-killennium-butcher.txt",
+      "size": 978
+    },
+    {
+      "slug": "vignette-of-death-screaming-nukealope",
+      "path": "smart-scraped/vignette-of-death-screaming-nukealope.txt",
+      "size": 956
+    },
+    {
+      "slug": "vignette-of-death-white-gigalion",
+      "path": "smart-scraped/vignette-of-death-white-gigalion.txt",
+      "size": 2602
+    },
+    {
+      "slug": "vignette-screaming-nukealope",
+      "path": "vignettes/vignette-screaming-nukealope.txt",
+      "size": 4309
+    },
+    {
+      "slug": "vignettes-of-death-collection",
+      "path": "special-expansions/vignettes-of-death-collection.txt",
+      "size": 1570
+    },
+    {
+      "slug": "vignettes-of-death-collection-us",
+      "path": "batch-scraped/vignettes-of-death-collection-us.txt",
+      "size": 1305
+    },
+    {
+      "slug": "visionary-female",
+      "path": "smart-scraped/visionary-female.txt",
+      "size": 1007
+    },
+    {
+      "slug": "wanderer-aeneas",
+      "path": "smart-scraped/wanderer-aeneas.txt",
+      "size": 1627
+    },
+    {
+      "slug": "wanderer-candy",
+      "path": "smart-scraped/wanderer-candy.txt",
+      "size": 1522
+    },
+    {
+      "slug": "wanderer-death-drifter",
+      "path": "smart-scraped/wanderer-death-drifter.txt",
+      "size": 1508
+    },
+    {
+      "slug": "wanderer-goth",
+      "path": "smart-scraped/wanderer-goth.txt",
+      "size": 1378
+    },
+    {
+      "slug": "wanderer-preacher",
+      "path": "wanderers/wanderer-preacher.txt",
+      "size": 2409
+    },
+    {
+      "slug": "woe-grimmory",
+      "path": "batch-scraped/woe-grimmory.txt",
+      "size": 2312
+    }
+  ]
+}

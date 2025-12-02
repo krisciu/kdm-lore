@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-12-02T16:25:28.575Z",
+  "totalUniqueProducts": 194,
+  "bySource": {
+    "smart-scraped": 172,
+    "batch-scraped": 7,
+    "root": 2,
+    "subdirectories": 13
+  },
+  "duplicatesFound": [],
+  "largestFiles": [
+    {
+      "slug": "pinups-of-death-bundle",
+      "size": 7918,
+      "path": "smart-scraped/pinups-of-death-bundle.txt"
+    },
+    {
+      "slug": "kingdom-death-monster-1-6",
+      "size": 6377,
+      "path": "batch-scraped/kingdom-death-monster-1-6.txt"
+    },
+    {
+      "slug": "kingdom-death-monster-1-5",
+      "size": 5689,
+      "path": "smart-scraped/kingdom-death-monster-1-5.txt"
+    },
+    {
+      "slug": "vignette-screaming-nukealope",
+      "size": 4309,
+      "path": "vignettes/vignette-screaming-nukealope.txt"
+    },
+    {
+      "slug": "pariah-expansion",
+      "size": 4256,
+      "path": "smart-scraped/pariah-expansion.txt"
+    },
+    {
+      "slug": "kds-sunstalker-expansion",
+      "size": 3963,
+      "path": "smart-scraped/kds-sunstalker-expansion.txt"
+    },
+    {
+      "slug": "red-witches-expansion",
+      "size": 3840,
+      "path": "smart-scraped/red-witches-expansion.txt"
+    },
+    {
+      "slug": "sunstalker-expansion",
+      "size": 3597,
+      "path": "smart-scraped/sunstalker-expansion.txt"
+    },
+    {
+      "slug": "dragon-king-expansion-1-6",
+      "size": 3552,
+      "path": "smart-scraped/dragon-king-expansion-1-6.txt"
+    },
+    {
+      "slug": "kds-spidicules-expansion",
+      "size": 3517,
+      "path": "smart-scraped/kds-spidicules-expansion.txt"
+    }
+  ]
+}

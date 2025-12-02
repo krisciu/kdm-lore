@@ -1,0 +1,56 @@
+---
+title: "KDS - Sunstalker Expansion"
+category: monsters
+source: kds-sunstalker-expansion.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# KDS - Sunstalker Expansion
+
+THIS IS A DIGITAL EXPANSION. THIS IS NOT A PHYSICAL PRODUCT!
+KD: Simulator is required to play. You must log in to your Simulator account to purchase this product. Once your order is complete, your simulator products will be delivered to your Dwelling.
+The Sunstalker drifts into the dwelling!
+The Sunstalker is faithfully digitized and ready for play in the Dwelling. Each digital miniature feature hand-made topology and textures to recreate that authentic Kingdom Death hard plastic look and feel. Each an efficient mastering in its own right, with dynamic LOD so they look amazing from any zoom level.
+The Sunstalker expansion rulebook, game cards, terrain, and panels have all been faithfully recreated and are ready to play.
+Dwelling Status: Still a bit Grumpy!
+We continue to identify and correct errant game and stability issues. With each release we take a few steps a better and better overall experience.Some players may find additional bugs and in game action combinations that make the Dwelling grumpy. We ask for your patience and if you would be so kind as to report anything you find, the team of Dark Architects will busy themselves unto fixing things ASAP. Basically, if things explode, don't worry we will fix it!
+KDS is still an early release project and we are working constantly to improve it. We humbly appreciate your support and thank you in advance for your understanding.
+Digital Sunstalker Expansion
+Once sky had no day. There was a Shadow that was sad, it could only play in small light of a lantern. The Shadow found a hole in the sky and decided to steal enough lanterns to fill it. It took many generations, and when it was done the shadow slept under its big light, dreaming dreams about how it would play. When it awoke, all of the light was gone! At the center of the hole in the sky, was a tiny shinning entity, with a great big mouth. The shadow named the tiny thing the sun and they played forever.
+A showdown with the Sunstalker will test players ability to position their survivors and make coordinated attacks. Making use of their own shadows to turn the tides of the battle. Its rewards grant new long range options and an evasive burst damage armor set, that is low on actual armor levels.
+This expansion is designed to be added to the Kingdom Death: Monster core game. It includes:
+Sunstalker digital monster miniature
+2 x Cycloid Armor digital survivor miniatures
+2 x People of the Sun digital survivor miniatures
+51 x Digital gear cards
+33 x Digital Sunstalker AI cards
+21 x Digital Sunstalker HL cards
+24 x Digital Sunstalker Resource cards
+8 x Digital Suntalker Hunt Event cards
+1 x Digital Terrain card
+2 x Digital Terrain tiles
+1 x Digital Solar Track
+3 x Digital Discorder cards
+5 x Digital Fighting Art cards
+3 x Digital Secret Farting Art cards
+7 x Digital Innovation cards
+2 x Digital Sunstalker card dividers
+7 x Digital Rare Gear
+1 x Digital Katana Specialization/Mastery card
+1 x Digital Cycloid Scale Armor Set card
+3 x Digital Settlement Locations
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `kds-sunstalker-expansion.txt`
+- **Category:** monsters
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Monsters](../_index.md)

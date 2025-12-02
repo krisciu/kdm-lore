@@ -1,0 +1,45 @@
+---
+title: "Survivors of Death I"
+category: characters
+source: survivors-of-death-1.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# Survivors of Death I
+
+This product is best experienced with Gambler's Chest and Frogdog Expansions.
+A celebration of survivors from Kingdom Death: Monster. Featuring four updated sculpts of strangers struggling to survive the darkness. This set includes a range of rules and tools representing the ways survivors might harness the world around them for their own gain. From indomitable resources to carve from the toughest monsters, to seed patterns of inspired design, to the knowledges of the arc survivors, this box celebrates all the advantages to be found in this meager existence.
+Art & Sculpture: Team Death
+The Survivors of Death I custom box includes:
+1 x Azure Fighter plastic miniature
+1 x Bullet Dancer plastic miniature
+1 x Hospitalar plastic miniature
+1 x Investment Sniper plastic miniature
+1 x Load Glossary card
+4 x Hard plastic 30mm insert
+4 x Hard plastic 30mm bases
+4 x Large matte print of the original concept artwork on heavy card stock
+1 x Coated Femur Indomitable resource card
+1 x Bully Hammer pattern card
+1 x Bully Hammer pattern gear card
+4 x Character cards: The Impetuous, Natural Healer, The Unfettered, The Versatile
+1 x Ecstatic Dance Collective Cognition card
+Freeform Dancer I, Freeform Dancer II, Freeform Dancer III knowledge cards
+1 x Sundering Crossbow seed pattern card
+1 x Sundering Crossbow seed pattern gear card
+1 x Agility Fighter strain fighting art
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `survivors-of-death-1.txt`
+- **Category:** characters
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Characters](../_index.md)

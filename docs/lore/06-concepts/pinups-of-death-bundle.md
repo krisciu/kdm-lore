@@ -1,0 +1,109 @@
+---
+title: "Pinups of Death Bundle"
+category: concepts
+source: pinups-of-death-bundle.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# Pinups of Death Bundle
+
+Bundle available only from US WarehouseA bundle collecting all current Pinups of Death Collections - I, II, III, IV, & V.
+This bundle was part of the 1.5 Kickstarter campaign.
+For further details, please view each product's page.
+Pinups of Death I
+Pinup White Speaker
+Pinup Forsaker
+Pinup Savior
+Pinup Great Game Hunter
+Pinup Survivor
+Pinup Preacher
+Pinup Twilight Knight
+Pinup Architect
+8 Hard Plastic Kingdom Death 30mm round bases and inserts
+A stylish black envelope containing 8 art cards, one for each pinup.
+PROMO Optional Kingdom Death Monster settlement event. A special event that can occur in your settlement.
+PROMO Optional Kingdom Death Monster gear. A unique piece of survivor armor gear to commemorate the pinup release.
+Pinups of Death II
+1x Pinup Dragon Sacrifice
+1x Pinup Lantern Festival
+1x Pinup Leather Queen
+1x Pinup Lioness
+1x Pinup Phoenix Dancer
+1x Pinup Primal Huntress
+1x Pinup Rawhide Dame
+1x Pinup Regeneration Suit
+1x Pinup Silk Assassin w/ scenic base insert
+1x Pinup Sunstalker Dancer
+1x Pinup Twilight Witch
+11x Hard Plastic Base Inserts
+12x Hard Plastic Bases
+Optional Kingdom Death Monster Settlement Event Dark Seamstress. A special event that can occur in your settlement.
+4 pieces of optional gear to be used in Kingdom Death Monster: Lantern Brassiere, Leather Bodysuit, Rawhide Corset, and Teeth Bikini.
+Pinups of Death III
+Pinup Kingsman
+Pinup Butcher
+Pinup Male Twilight Knight
+Pinup Twilight Deserter Knight w/ scenic insert
+Pinup Storm Knight Armor
+Pinup Gold Smoke Knight Armor
+Pinup Scout of Death w/ scenic insert
+Pinup Death Armor Painter's Scale
+Pinup Death Armor Game Scale w/ scenic insert
+Pinup Disciple of the Witch Game Scale w/ scenic insert
+Pinup Disciple of the Witch Painter's Scale
+Pinup Visionary w/ scenic insert
+Pinup Male Visionary w/ scenic insert
+11x 30mm Hard plastic bases
+5x 30mm Hard plastic base inserts
+2x 50mm Hard plastic bases and inserts
+3 Monster trait cards with new artwork. These can be used as a fun and illustrative replacement for the trait cards in a monster's respective AI deck. This includes Battle Tempo and Familiar Face for the King's Man and Berserker for the Butcher.
+6 Unique universal cards graced by the art of pinups from this set.
+Large art cards of each pinup
+Pinups of Death IV
+Pinup Frogdog Armor w/ scenic insert
+Pinup Pond Scum Armor   w/ scenic insert
+Pinup Mountain Dungeon Armor w/ scenic insert
+Pinup Nightmare Ram Armor w/ scenic insert
+Pinup Remastered Apotheosis w/ scenic insert
+Pinup Male Nightmare Ram Armor w/ scenic insert
+Pinup Black Knight Armor w/ scenic insert
+Pinup Faceless Survivor w/ scenic insert
+Pinup Honeycomb Weaver w/ scenic insert
+Pinup Percival Painter's Scale w/ scenic insert
+Pinup Ramette
+Pinup Upside Down Survivor
+Pinup Titan Bee Armor w/ scenic insert
+12x Hard plastic bases
+3x Hard plastic base inserts
+1x 50mm Hard plastic base
+6 double-sided survival tokens featuring Pinup Percival. Use these tokens to show available or spent survival actions for your survivors.
+Pinups of Death V
+Pinup Male Manhunter w/ scenic base insert
+Pinup Manhunter w/ scenic base insert
+Pinup 54mm Dung Ball
+Pinup Dung Beetle Dancer
+Pinup 54mm Dung Beetle Knight
+Pinup Male Dung Beetle Dancer
+Pinup Male Screaming God Armor Game Scale
+Pinup Screaming God Armor w/ scenic base insert
+Pinup Male Goblin Dragon
+Pinup Goblin Dragon
+Pinup Male Screaming God Armor Painter's Scale
+3 Monster trait cards with new artwork.   These can be used as a fun and illustrative replacement for the trait cards in a monster's respective AI deck. This includes Baller and Separation Anxiety for the Dung Beetle Knight Expansion and Tombstone for the Manhunter Expansion.
+A double sided 11"x14" poster featuring the Pinup Male Screaming God Armor on one side and the Screaming God Armor on the reverse side.
+now including SATAN model
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `pinups-of-death-bundle.txt`
+- **Category:** concepts
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Concepts](../_index.md)

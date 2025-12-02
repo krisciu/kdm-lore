@@ -1,0 +1,34 @@
+---
+title: "Hospitalar"
+category: concepts
+source: hospitalar.txt
+confidence: confirmed
+updated: 2025-12-02
+---
+
+# Hospitalar
+
+An archival treasure, this miniature is hand-poured one-of-a-kind resin model, a hobbyists delight. This miniature will include imperfections, mold lines, bubbles and minor mold slips typical of the resin casting process. Due to its limited, unique nature, replacements are not available. All sales on this item are final.
+Encore Edition: Limit 2 per customer
+The Hospitalar continues the result of a collaboration between Adam & Lokman, exploring some well established tropes in fantasy art. Originally intended as a small line of Generic Hero Classes, the results were so compelling and un-generic, each hero's appearance told so many exciting stories that we wanted to integrate them into the KD world but so far nothing concrete has emerged.
+Hospitalars are the free knights of the Hospital and consider every land with someone in need to be part of their domain. Often the Hospital, with its vast riches, will coerce its way into a lord’s land so it may setup a fortress for a resident Hospitalar. From there they can offer their advanced surgical and healing services to adventurers as they leave for dungeons or other places of great peril. The Hospital’s power resides the revered Heal Stone, a precious gem that is vomited annually by the Great Oyster Dragon. Each Hospitalar is entrusted with a fragment of the gem as its magical powers fuel their tools.
+Art : Lokman LamSculpture : Team Death
+The Hospitalar is limited to 250 and enclosed in a hand-stamped kraft box that includes:
+1 x Hospitalar resin figure
+1 x Hard plastic 30mm base and insert
+Large matte print of the original concept artwork on heavy card stock
+Character art car
+
+---
+
+## Source
+
+This entry was extracted from official Kingdom Death product descriptions.
+
+- **Source File:** `hospitalar.txt`
+- **Category:** concepts
+- **Confidence:** Confirmed (official product description)
+
+---
+
+[← Back to Concepts](../_index.md)
