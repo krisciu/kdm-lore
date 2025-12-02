@@ -3,7 +3,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
-  GitBranch,
   GitCommit,
   History,
   Bot,
@@ -16,13 +15,12 @@ import {
   RefreshCw,
   Search,
   Plus,
-  Minus,
   Calendar,
   Activity,
-  Eye,
   Sparkles,
   AlertTriangle,
   TrendingUp,
+  X,
 } from 'lucide-react';
 
 interface ChangelogEntry {
@@ -41,7 +39,6 @@ interface ChangelogEntry {
   findings?: string[];
   reviewedBy?: string;
   reviewedAt?: string;
-  reviewNote?: string;
 }
 
 interface ChangelogStats {
@@ -54,9 +51,6 @@ interface ChangelogStats {
     thisWeek: number;
     thisMonth: number;
   };
-  filesModified: number;
-  linesAdded: number;
-  linesRemoved: number;
 }
 
 interface AgentActivity {
@@ -83,34 +77,18 @@ interface GitLogEntry {
   message: string;
 }
 
-const TYPE_ICONS: Record<string, typeof FileText> = {
-  create: Plus,
-  update: FileText,
-  expand: TrendingUp,
-  verify: CheckCircle,
-  delete: Minus,
-  link: GitBranch,
-  citation: FileText,
-  metadata: Activity,
+const TYPE_CONFIG: Record<string, { icon: typeof FileText; color: string; label: string }> = {
+  create: { icon: Plus, color: 'text-emerald-400', label: 'Created' },
+  update: { icon: FileText, color: 'text-sky-400', label: 'Updated' },
+  expand: { icon: TrendingUp, color: 'text-violet-400', label: 'Expanded' },
+  verify: { icon: CheckCircle, color: 'text-green-400', label: 'Verified' },
 };
 
-const TYPE_COLORS: Record<string, string> = {
-  create: 'text-emerald-400',
-  update: 'text-sky-400',
-  expand: 'text-violet-400',
-  verify: 'text-green-400',
-  delete: 'text-red-400',
-  link: 'text-amber-400',
-  citation: 'text-orange-400',
-  metadata: 'text-slate-400',
-};
-
-const STATUS_CONFIG: Record<string, { color: string; icon: typeof CheckCircle }> = {
-  auto_approved: { color: 'text-emerald-400', icon: CheckCircle },
-  approved: { color: 'text-green-400', icon: CheckCircle },
-  pending_review: { color: 'text-amber-400', icon: Clock },
-  rejected: { color: 'text-red-400', icon: XCircle },
-  rolled_back: { color: 'text-slate-400', icon: History },
+const STATUS_CONFIG: Record<string, { color: string; bgColor: string }> = {
+  auto_approved: { color: 'text-emerald-400', bgColor: 'bg-emerald-500/10' },
+  approved: { color: 'text-green-400', bgColor: 'bg-green-500/10' },
+  pending_review: { color: 'text-amber-400', bgColor: 'bg-amber-500/10' },
+  rejected: { color: 'text-red-400', bgColor: 'bg-red-500/10' },
 };
 
 export default function ChangelogPage() {
@@ -120,15 +98,13 @@ export default function ChangelogPage() {
   const [gitLog, setGitLog] = useState<GitLogEntry[]>([]);
   const [loading, setLoading] = useState(true);
   const [expandedEntry, setExpandedEntry] = useState<string | null>(null);
-  const [viewMode, setViewMode] = useState<'changelog' | 'git' | 'combined'>('combined');
+  const [viewMode, setViewMode] = useState<'changelog' | 'git'>('changelog');
   const [searchTerm, setSearchTerm] = useState('');
   const [filterType, setFilterType] = useState<string>('all');
-  const [filterSource, setFilterSource] = useState<string>('all');
 
   const fetchData = useCallback(async () => {
     setLoading(true);
     try {
-      // Fetch changelog entries and stats
       const [changelogRes, activityRes, gitLogRes] = await Promise.all([
         fetch('/api/changelog?action=list&limit=50'),
         fetch('/api/changelog?action=activity'),
@@ -168,12 +144,9 @@ export default function ChangelogPage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'approve', entryId, reviewedBy: 'User' }),
       });
-      
-      if (res.ok) {
-        fetchData();
-      }
+      if (res.ok) fetchData();
     } catch (error) {
-      console.error('Failed to approve entry:', error);
+      console.error('Failed to approve:', error);
     }
   };
 
@@ -184,12 +157,9 @@ export default function ChangelogPage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'reject', entryId, reviewedBy: 'User' }),
       });
-      
-      if (res.ok) {
-        fetchData();
-      }
+      if (res.ok) fetchData();
     } catch (error) {
-      console.error('Failed to reject entry:', error);
+      console.error('Failed to reject:', error);
     }
   };
 
@@ -199,7 +169,6 @@ export default function ChangelogPage() {
       return false;
     }
     if (filterType !== 'all' && entry.type !== filterType) return false;
-    if (filterSource !== 'all' && entry.source !== filterSource) return false;
     return true;
   });
 
@@ -216,184 +185,141 @@ export default function ChangelogPage() {
     return date.toLocaleDateString();
   };
 
-  const renderDiffStats = (added?: number, removed?: number) => {
-    if (!added && !removed) return null;
-    return (
-      <div className="flex items-center gap-2 text-xs">
-        {added ? (
-          <span className="text-emerald-400">+{added}</span>
-        ) : null}
-        {removed ? (
-          <span className="text-red-400">-{removed}</span>
-        ) : null}
-      </div>
-    );
-  };
-
   return (
-    <div className="min-h-screen pt-20">
-      {/* Hero Header */}
-      <div className="relative overflow-hidden border-b border-[var(--border-subtle)]">
-        <div className="absolute inset-0 bg-gradient-to-br from-violet-900/20 via-transparent to-emerald-900/10" />
-        <div className="absolute inset-0" style={{
-          backgroundImage: `radial-gradient(circle at 20% 50%, rgba(139, 92, 246, 0.1) 0%, transparent 50%),
-                           radial-gradient(circle at 80% 50%, rgba(16, 185, 129, 0.1) 0%, transparent 50%)`,
-        }} />
-        
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="flex items-center gap-4 mb-6">
-            <div className="relative">
-              <History className="w-12 h-12 text-violet-400" />
-              <motion.div
-                className="absolute -top-1 -right-1"
-                animate={{ scale: [1, 1.2, 1] }}
-                transition={{ duration: 2, repeat: Infinity }}
-              >
-                <Bot className="w-5 h-5 text-emerald-400" />
-              </motion.div>
+    <div className="min-h-screen pt-24 pb-20">
+      {/* Header */}
+      <div className="border-b border-[var(--border-subtle)]">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 py-10">
+          <div className="flex items-start gap-4 mb-8">
+            <div className="p-4 bg-[var(--shadow)] border border-[var(--border)] rounded-lg">
+              <History className="w-8 h-8 text-violet-400" />
             </div>
             <div>
-              <h1 className="text-3xl font-[var(--font-display)] tracking-wider">
-                AGENT <span className="text-violet-400">CHANGELOG</span>
+              <h1 className="font-[var(--font-display)] text-2xl sm:text-3xl tracking-[0.15em] uppercase mb-1">
+                Agent <span className="text-violet-400">Changelog</span>
               </h1>
-              <p className="text-[var(--text-muted)]">
-                Transparent tracking of all autonomous lore modifications
+              <p className="text-[var(--dust)]">
+                Track all autonomous modifications to the lore compendium
               </p>
             </div>
           </div>
 
-          {/* Stats Cards */}
+          {/* Quick Stats */}
           {(stats || activity) && (
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                className="bg-[var(--black-raised)]/50 backdrop-blur-sm rounded-lg p-4 border border-[var(--border-subtle)]"
-              >
-                <div className="flex items-center gap-2 text-[var(--text-muted)] mb-2">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              <div className="p-4 bg-[var(--shadow)] border border-[var(--border-subtle)] rounded-lg">
+                <div className="flex items-center gap-2 text-[var(--dust)] mb-2">
                   <Activity className="w-4 h-4" />
-                  <span className="text-xs uppercase tracking-wider">Today</span>
+                  <span className="text-[10px] tracking-wider uppercase">Today</span>
                 </div>
-                <div className="text-2xl font-bold text-emerald-400">
+                <div className="font-mono text-2xl text-emerald-400">
                   {activity?.todayStats.changes || 0}
                 </div>
-                <div className="text-xs text-[var(--text-muted)]">changes made</div>
-              </motion.div>
+                <div className="text-xs text-[var(--dust)]">changes</div>
+              </div>
 
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.1 }}
-                className="bg-[var(--black-raised)]/50 backdrop-blur-sm rounded-lg p-4 border border-[var(--border-subtle)]"
-              >
-                <div className="flex items-center gap-2 text-[var(--text-muted)] mb-2">
+              <div className="p-4 bg-[var(--shadow)] border border-[var(--border-subtle)] rounded-lg">
+                <div className="flex items-center gap-2 text-[var(--dust)] mb-2">
                   <Clock className="w-4 h-4" />
-                  <span className="text-xs uppercase tracking-wider">Pending</span>
+                  <span className="text-[10px] tracking-wider uppercase">Pending</span>
                 </div>
-                <div className="text-2xl font-bold text-amber-400">
+                <div className="font-mono text-2xl text-amber-400">
                   {activity?.todayStats.pendingReview || 0}
                 </div>
-                <div className="text-xs text-[var(--text-muted)]">need review</div>
-              </motion.div>
+                <div className="text-xs text-[var(--dust)]">review</div>
+              </div>
 
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.2 }}
-                className="bg-[var(--black-raised)]/50 backdrop-blur-sm rounded-lg p-4 border border-[var(--border-subtle)]"
-              >
-                <div className="flex items-center gap-2 text-[var(--text-muted)] mb-2">
+              <div className="p-4 bg-[var(--shadow)] border border-[var(--border-subtle)] rounded-lg">
+                <div className="flex items-center gap-2 text-[var(--dust)] mb-2">
                   <FileText className="w-4 h-4" />
-                  <span className="text-xs uppercase tracking-wider">This Week</span>
+                  <span className="text-[10px] tracking-wider uppercase">This Week</span>
                 </div>
-                <div className="text-2xl font-bold text-sky-400">
+                <div className="font-mono text-2xl text-sky-400">
                   {activity?.weeklyStats.filesAffected || 0}
                 </div>
-                <div className="text-xs text-[var(--text-muted)]">files affected</div>
-              </motion.div>
+                <div className="text-xs text-[var(--dust)]">files</div>
+              </div>
 
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.3 }}
-                className="bg-[var(--black-raised)]/50 backdrop-blur-sm rounded-lg p-4 border border-[var(--border-subtle)]"
-              >
-                <div className="flex items-center gap-2 text-[var(--text-muted)] mb-2">
+              <div className="p-4 bg-[var(--shadow)] border border-[var(--border-subtle)] rounded-lg">
+                <div className="flex items-center gap-2 text-[var(--dust)] mb-2">
                   <TrendingUp className="w-4 h-4" />
-                  <span className="text-xs uppercase tracking-wider">Total</span>
+                  <span className="text-[10px] tracking-wider uppercase">Total</span>
                 </div>
-                <div className="text-2xl font-bold text-violet-400">
+                <div className="font-mono text-2xl text-violet-400">
                   {stats?.totalChanges || 0}
                 </div>
-                <div className="text-xs text-[var(--text-muted)]">all time changes</div>
-              </motion.div>
+                <div className="text-xs text-[var(--dust)]">all time</div>
+              </div>
             </div>
           )}
         </div>
       </div>
 
       {/* Controls */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6">
         <div className="flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
-          {/* View Mode Toggle */}
-          <div className="flex items-center gap-2 bg-[var(--black-raised)] rounded-lg p-1">
-            {['combined', 'changelog', 'git'].map((mode) => (
-              <button
-                key={mode}
-                onClick={() => setViewMode(mode as typeof viewMode)}
-                className={`px-4 py-2 rounded-md text-sm font-medium transition-all ${
-                  viewMode === mode
-                    ? 'bg-violet-500/20 text-violet-300'
-                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
-                }`}
-              >
-                {mode === 'combined' && <Activity className="w-4 h-4 inline mr-2" />}
-                {mode === 'changelog' && <Bot className="w-4 h-4 inline mr-2" />}
-                {mode === 'git' && <GitCommit className="w-4 h-4 inline mr-2" />}
-                {mode.charAt(0).toUpperCase() + mode.slice(1)}
-              </button>
-            ))}
+          {/* View Toggle */}
+          <div className="flex items-center gap-1 p-1 bg-[var(--shadow)] rounded-lg border border-[var(--border-subtle)]">
+            <button
+              onClick={() => setViewMode('changelog')}
+              className={`flex items-center gap-2 px-4 py-2 rounded text-sm transition-all ${
+                viewMode === 'changelog'
+                  ? 'bg-violet-500/20 text-violet-300'
+                  : 'text-[var(--dust)] hover:text-[var(--bone)]'
+              }`}
+            >
+              <Bot className="w-4 h-4" />
+              <span className="hidden sm:inline">Agent Changes</span>
+            </button>
+            <button
+              onClick={() => setViewMode('git')}
+              className={`flex items-center gap-2 px-4 py-2 rounded text-sm transition-all ${
+                viewMode === 'git'
+                  ? 'bg-violet-500/20 text-violet-300'
+                  : 'text-[var(--dust)] hover:text-[var(--bone)]'
+              }`}
+            >
+              <GitCommit className="w-4 h-4" />
+              <span className="hidden sm:inline">Git History</span>
+            </button>
           </div>
 
           {/* Search & Filter */}
           <div className="flex items-center gap-3 flex-1 md:flex-initial">
-            <div className="relative">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--text-muted)]" />
+            <div className="relative flex-1 md:w-64">
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--dust)]" />
               <input
                 type="text"
                 placeholder="Search changes..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="pl-10 pr-4 py-2 bg-[var(--black-raised)] border border-[var(--border)] rounded-lg text-sm w-full md:w-64"
+                className="w-full pl-10 pr-4 py-2.5 bg-[var(--shadow)] border border-[var(--border)] rounded-lg text-sm"
               />
+              {searchTerm && (
+                <button
+                  onClick={() => setSearchTerm('')}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-[var(--dust)] hover:text-[var(--bone)]"
+                >
+                  <X className="w-4 h-4" />
+                </button>
+              )}
             </div>
 
             <select
               value={filterType}
               onChange={(e) => setFilterType(e.target.value)}
-              className="px-3 py-2 bg-[var(--black-raised)] border border-[var(--border)] rounded-lg text-sm"
+              className="px-3 py-2.5 bg-[var(--shadow)] border border-[var(--border)] rounded-lg text-sm min-w-[120px]"
             >
               <option value="all">All Types</option>
-              <option value="create">Create</option>
-              <option value="update">Update</option>
-              <option value="expand">Expand</option>
-              <option value="verify">Verify</option>
-            </select>
-
-            <select
-              value={filterSource}
-              onChange={(e) => setFilterSource(e.target.value)}
-              className="px-3 py-2 bg-[var(--black-raised)] border border-[var(--border)] rounded-lg text-sm"
-            >
-              <option value="all">All Sources</option>
-              <option value="agent_research">Agent Research</option>
-              <option value="agent_expansion">Agent Expansion</option>
-              <option value="human_edit">Human Edit</option>
+              <option value="create">Created</option>
+              <option value="update">Updated</option>
+              <option value="expand">Expanded</option>
+              <option value="verify">Verified</option>
             </select>
 
             <button
               onClick={fetchData}
-              className="p-2 bg-[var(--black-raised)] border border-[var(--border)] rounded-lg hover:border-violet-500/50 transition-colors"
+              className="p-2.5 bg-[var(--shadow)] border border-[var(--border)] rounded-lg hover:border-violet-500/50 transition-colors"
             >
               <RefreshCw className={`w-4 h-4 ${loading ? 'animate-spin' : ''}`} />
             </button>
@@ -402,71 +328,61 @@ export default function ChangelogPage() {
       </div>
 
       {/* Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+      <div className="max-w-7xl mx-auto px-6 lg:px-8">
         {loading ? (
           <div className="flex items-center justify-center py-20">
-            <motion.div
-              animate={{ rotate: 360 }}
-              transition={{ duration: 1, repeat: Infinity, ease: 'linear' }}
-            >
-              <RefreshCw className="w-8 h-8 text-violet-400" />
-            </motion.div>
+            <div className="loading-spinner" style={{ width: 32, height: 32 }} />
           </div>
         ) : (
           <div className="space-y-3">
             {/* Changelog Entries */}
-            {(viewMode === 'changelog' || viewMode === 'combined') && filteredEntries.length > 0 && (
-              <AnimatePresence>
-                {filteredEntries.map((entry, index) => {
-                  const TypeIcon = TYPE_ICONS[entry.type] || FileText;
-                  const typeColor = TYPE_COLORS[entry.type] || 'text-slate-400';
-                  const statusConfig = STATUS_CONFIG[entry.reviewStatus] || STATUS_CONFIG.pending_review;
-                  const StatusIcon = statusConfig.icon;
-                  const isExpanded = expandedEntry === entry.id;
+            {viewMode === 'changelog' && (
+              filteredEntries.length > 0 ? (
+                <AnimatePresence>
+                  {filteredEntries.map((entry, index) => {
+                    const typeConfig = TYPE_CONFIG[entry.type] || TYPE_CONFIG.update;
+                    const statusConfig = STATUS_CONFIG[entry.reviewStatus] || STATUS_CONFIG.pending_review;
+                    const TypeIcon = typeConfig.icon;
+                    const isExpanded = expandedEntry === entry.id;
+                    const isAgent = entry.source.startsWith('agent_');
 
-                  return (
-                    <motion.div
-                      key={entry.id}
-                      initial={{ opacity: 0, x: -20 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ delay: index * 0.05 }}
-                      className="group"
-                    >
-                      <div
-                        className={`bg-[var(--black-raised)]/50 rounded-lg border transition-all cursor-pointer ${
-                          isExpanded
-                            ? 'border-violet-500/50'
-                            : 'border-[var(--border-subtle)] hover:border-[var(--border)]'
-                        }`}
-                        onClick={() => setExpandedEntry(isExpanded ? null : entry.id)}
+                    return (
+                      <motion.div
+                        key={entry.id}
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: index * 0.03 }}
+                        className="card overflow-hidden"
                       >
-                        <div className="p-4">
+                        <div
+                          className={`p-5 cursor-pointer transition-colors ${
+                            isExpanded ? 'bg-[var(--obsidian)]/50' : 'hover:bg-[var(--obsidian)]/30'
+                          }`}
+                          onClick={() => setExpandedEntry(isExpanded ? null : entry.id)}
+                        >
                           <div className="flex items-start gap-4">
                             {/* Type Icon */}
-                            <div className={`p-2 rounded-lg bg-[var(--black-elevated)] ${typeColor}`}>
+                            <div className={`p-2.5 rounded-lg bg-[var(--darkness)] ${typeConfig.color}`}>
                               <TypeIcon className="w-5 h-5" />
                             </div>
 
                             {/* Content */}
                             <div className="flex-1 min-w-0">
-                              <div className="flex items-center gap-2 mb-1">
-                                <h3 className="font-medium text-[var(--text-primary)] truncate">
+                              <div className="flex items-center gap-3 mb-1.5">
+                                <h3 className="font-medium text-[var(--bone)] truncate">
                                   {entry.title}
                                 </h3>
-                                {entry.source.startsWith('agent_') ? (
-                                  <span className="px-2 py-0.5 text-xs bg-violet-500/20 text-violet-300 rounded-full flex items-center gap-1">
-                                    <Bot className="w-3 h-3" />
-                                    Agent
-                                  </span>
-                                ) : (
-                                  <span className="px-2 py-0.5 text-xs bg-sky-500/20 text-sky-300 rounded-full flex items-center gap-1">
-                                    <User className="w-3 h-3" />
-                                    Human
-                                  </span>
-                                )}
+                                <span className={`flex items-center gap-1 text-[9px] tracking-wider uppercase px-2 py-0.5 rounded-full ${
+                                  isAgent 
+                                    ? 'bg-violet-500/10 text-violet-300' 
+                                    : 'bg-sky-500/10 text-sky-300'
+                                }`}>
+                                  {isAgent ? <Bot className="w-3 h-3" /> : <User className="w-3 h-3" />}
+                                  {isAgent ? 'Agent' : 'Human'}
+                                </span>
                               </div>
 
-                              <div className="flex items-center gap-4 text-sm text-[var(--text-muted)]">
+                              <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-[var(--dust)]">
                                 <span className="flex items-center gap-1">
                                   <Calendar className="w-3 h-3" />
                                   {formatDate(entry.timestamp)}
@@ -475,25 +391,30 @@ export default function ChangelogPage() {
                                   <FileText className="w-3 h-3" />
                                   {entry.files.length} file{entry.files.length !== 1 ? 's' : ''}
                                 </span>
-                                {renderDiffStats(entry.linesAdded, entry.linesRemoved)}
-                                <span className={`flex items-center gap-1 ${statusConfig.color}`}>
-                                  <StatusIcon className="w-3 h-3" />
+                                {(entry.linesAdded || entry.linesRemoved) && (
+                                  <span className="flex items-center gap-2">
+                                    {entry.linesAdded ? <span className="text-emerald-400">+{entry.linesAdded}</span> : null}
+                                    {entry.linesRemoved ? <span className="text-red-400">-{entry.linesRemoved}</span> : null}
+                                  </span>
+                                )}
+                                <span className={`${statusConfig.color}`}>
                                   {entry.reviewStatus.replace('_', ' ')}
                                 </span>
                               </div>
                             </div>
 
-                            {/* Actions */}
-                            <div className="flex items-center gap-2">
+                            {/* Right side */}
+                            <div className="flex items-center gap-3">
                               {entry.gitCommit && (
-                                <span className="px-2 py-1 text-xs bg-[var(--black-elevated)] rounded font-mono text-[var(--text-muted)]">
+                                <span className="hidden sm:block px-2 py-1 text-xs bg-[var(--darkness)] rounded font-mono text-[var(--dust)]">
                                   {entry.gitCommit.slice(0, 7)}
                                 </span>
                               )}
                               <motion.div
                                 animate={{ rotate: isExpanded ? 90 : 0 }}
+                                transition={{ duration: 0.2 }}
                               >
-                                <ChevronRight className="w-5 h-5 text-[var(--text-muted)]" />
+                                <ChevronRight className="w-5 h-5 text-[var(--dust)]" />
                               </motion.div>
                             </div>
                           </div>
@@ -506,156 +427,154 @@ export default function ChangelogPage() {
                               initial={{ height: 0, opacity: 0 }}
                               animate={{ height: 'auto', opacity: 1 }}
                               exit={{ height: 0, opacity: 0 }}
-                              className="overflow-hidden"
+                              transition={{ duration: 0.3 }}
+                              className="border-t border-[var(--border-subtle)]"
                             >
-                              <div className="px-4 pb-4 pt-2 border-t border-[var(--border-subtle)]">
-                                <div className="grid md:grid-cols-2 gap-6">
-                                  {/* Left: Description & Findings */}
-                                  <div>
-                                    <h4 className="text-sm font-medium text-[var(--text-muted)] mb-2">Description</h4>
-                                    <p className="text-sm text-[var(--text-secondary)] mb-4">
-                                      {entry.description}
-                                    </p>
+                              <div className="p-5 grid md:grid-cols-2 gap-6">
+                                {/* Left: Description & Findings */}
+                                <div>
+                                  <h4 className="text-[10px] tracking-wider uppercase text-[var(--dust)] mb-2">
+                                    Description
+                                  </h4>
+                                  <p className="text-sm text-[var(--ash)] mb-4">
+                                    {entry.description}
+                                  </p>
 
-                                    {entry.findings && entry.findings.length > 0 && (
-                                      <>
-                                        <h4 className="text-sm font-medium text-[var(--text-muted)] mb-2">Findings</h4>
-                                        <ul className="space-y-1">
-                                          {entry.findings.map((finding, i) => (
-                                            <li key={i} className="text-sm text-[var(--text-secondary)] flex items-start gap-2">
-                                              <Sparkles className="w-3 h-3 text-amber-400 mt-1 flex-shrink-0" />
-                                              {finding}
-                                            </li>
-                                          ))}
-                                        </ul>
-                                      </>
-                                    )}
-                                  </div>
+                                  {entry.findings && entry.findings.length > 0 && (
+                                    <>
+                                      <h4 className="text-[10px] tracking-wider uppercase text-[var(--dust)] mb-2">
+                                        Key Findings
+                                      </h4>
+                                      <ul className="space-y-2">
+                                        {entry.findings.map((finding, i) => (
+                                          <li key={i} className="text-sm text-[var(--ash)] flex items-start gap-2">
+                                            <Sparkles className="w-3 h-3 text-amber-400 mt-1 flex-shrink-0" />
+                                            {finding}
+                                          </li>
+                                        ))}
+                                      </ul>
+                                    </>
+                                  )}
+                                </div>
 
-                                  {/* Right: Files & Actions */}
-                                  <div>
-                                    <h4 className="text-sm font-medium text-[var(--text-muted)] mb-2">Affected Files</h4>
-                                    <div className="space-y-1 mb-4">
-                                      {entry.files.map((file, i) => (
-                                        <div
-                                          key={i}
-                                          className="text-sm text-[var(--text-secondary)] font-mono bg-[var(--black-elevated)] px-2 py-1 rounded"
-                                        >
-                                          {file.replace('docs/lore/', '')}
-                                        </div>
-                                      ))}
-                                    </div>
-
-                                    <div className="flex items-center gap-2 pt-2 border-t border-[var(--border-subtle)]">
-                                      <span className={`text-sm ${
-                                        entry.confidence === 'confirmed' ? 'text-emerald-400' :
-                                        entry.confidence === 'likely' ? 'text-amber-400' :
-                                        'text-orange-400'
-                                      }`}>
-                                        <AlertTriangle className="w-3 h-3 inline mr-1" />
-                                        {entry.confidence}
-                                      </span>
-                                    </div>
-
-                                    {entry.reviewStatus === 'pending_review' && (
-                                      <div className="flex items-center gap-2 mt-4">
-                                        <button
-                                          onClick={(e) => {
-                                            e.stopPropagation();
-                                            handleApprove(entry.id);
-                                          }}
-                                          className="flex items-center gap-1 px-3 py-1.5 bg-emerald-500/20 text-emerald-300 rounded-lg hover:bg-emerald-500/30 transition-colors text-sm"
-                                        >
-                                          <CheckCircle className="w-4 h-4" />
-                                          Approve
-                                        </button>
-                                        <button
-                                          onClick={(e) => {
-                                            e.stopPropagation();
-                                            handleReject(entry.id);
-                                          }}
-                                          className="flex items-center gap-1 px-3 py-1.5 bg-red-500/20 text-red-300 rounded-lg hover:bg-red-500/30 transition-colors text-sm"
-                                        >
-                                          <XCircle className="w-4 h-4" />
-                                          Reject
-                                        </button>
-                                        <button
-                                          onClick={(e) => e.stopPropagation()}
-                                          className="flex items-center gap-1 px-3 py-1.5 bg-[var(--black-elevated)] text-[var(--text-secondary)] rounded-lg hover:bg-[var(--black-surface)] transition-colors text-sm"
-                                        >
-                                          <Eye className="w-4 h-4" />
-                                          View Diff
-                                        </button>
+                                {/* Right: Files & Actions */}
+                                <div>
+                                  <h4 className="text-[10px] tracking-wider uppercase text-[var(--dust)] mb-2">
+                                    Affected Files
+                                  </h4>
+                                  <div className="space-y-1 mb-4">
+                                    {entry.files.slice(0, 5).map((file, i) => (
+                                      <div
+                                        key={i}
+                                        className="text-sm text-[var(--ash)] font-mono bg-[var(--darkness)] px-2 py-1.5 rounded truncate"
+                                      >
+                                        {file.replace('docs/lore/', '')}
                                       </div>
-                                    )}
-
-                                    {entry.reviewedAt && (
-                                      <div className="text-xs text-[var(--text-muted)] mt-3">
-                                        Reviewed by {entry.reviewedBy || 'Unknown'} on {new Date(entry.reviewedAt).toLocaleString()}
-                                        {entry.reviewNote && (
-                                          <p className="mt-1 italic">&quot;{entry.reviewNote}&quot;</p>
-                                        )}
+                                    ))}
+                                    {entry.files.length > 5 && (
+                                      <div className="text-xs text-[var(--dust)]">
+                                        +{entry.files.length - 5} more files
                                       </div>
                                     )}
                                   </div>
+
+                                  <div className="flex items-center gap-2 pt-3 border-t border-[var(--border-subtle)]">
+                                    <span className={`text-sm flex items-center gap-1 ${
+                                      entry.confidence === 'confirmed' ? 'text-emerald-400' :
+                                      entry.confidence === 'likely' ? 'text-amber-400' :
+                                      'text-orange-400'
+                                    }`}>
+                                      <AlertTriangle className="w-3 h-3" />
+                                      {entry.confidence}
+                                    </span>
+                                  </div>
+
+                                  {entry.reviewStatus === 'pending_review' && (
+                                    <div className="flex items-center gap-2 mt-4">
+                                      <button
+                                        onClick={(e) => {
+                                          e.stopPropagation();
+                                          handleApprove(entry.id);
+                                        }}
+                                        className="btn btn-sm flex-1"
+                                        style={{ background: 'var(--success)', borderColor: 'var(--success-light)' }}
+                                      >
+                                        <CheckCircle className="w-4 h-4" />
+                                        Approve
+                                      </button>
+                                      <button
+                                        onClick={(e) => {
+                                          e.stopPropagation();
+                                          handleReject(entry.id);
+                                        }}
+                                        className="btn btn-sm flex-1"
+                                      >
+                                        <XCircle className="w-4 h-4" />
+                                        Reject
+                                      </button>
+                                    </div>
+                                  )}
+
+                                  {entry.reviewedAt && (
+                                    <div className="text-xs text-[var(--dust)] mt-3">
+                                      Reviewed by {entry.reviewedBy || 'Unknown'} • {formatDate(entry.reviewedAt)}
+                                    </div>
+                                  )}
                                 </div>
                               </div>
                             </motion.div>
                           )}
                         </AnimatePresence>
-                      </div>
-                    </motion.div>
-                  );
-                })}
-              </AnimatePresence>
+                      </motion.div>
+                    );
+                  })}
+                </AnimatePresence>
+              ) : (
+                <div className="empty-state">
+                  <History className="empty-state-icon" />
+                  <p className="empty-state-title">No Changes Yet</p>
+                  <p className="empty-state-description">
+                    The research agent hasn&apos;t made any modifications yet.
+                  </p>
+                </div>
+              )
             )}
 
             {/* Git Log */}
-            {(viewMode === 'git' || viewMode === 'combined') && gitLog.length > 0 && (
-              <div className={viewMode === 'combined' && filteredEntries.length > 0 ? 'mt-8' : ''}>
-                {viewMode === 'combined' && (
-                  <h2 className="text-lg font-[var(--font-display)] tracking-wider text-[var(--text-muted)] mb-4 flex items-center gap-2">
-                    <GitCommit className="w-5 h-5" />
-                    Git History
-                  </h2>
-                )}
+            {viewMode === 'git' && (
+              gitLog.length > 0 ? (
                 <div className="space-y-2">
                   {gitLog.map((commit, index) => (
                     <motion.div
                       key={commit.hash}
-                      initial={{ opacity: 0, x: -20 }}
+                      initial={{ opacity: 0, x: -10 }}
                       animate={{ opacity: 1, x: 0 }}
-                      transition={{ delay: index * 0.03 }}
-                      className="bg-[var(--black-raised)]/30 rounded-lg p-3 border border-[var(--border-subtle)] hover:border-[var(--border)] transition-colors"
+                      transition={{ delay: index * 0.02 }}
+                      className="card p-4 flex items-center gap-4"
                     >
-                      <div className="flex items-center gap-3">
-                        <GitCommit className="w-4 h-4 text-[var(--text-muted)]" />
-                        <span className="font-mono text-xs text-violet-400">{commit.shortHash}</span>
-                        <span className="text-sm text-[var(--text-primary)] flex-1 truncate">
-                          {commit.message}
-                        </span>
-                        <span className="text-xs text-[var(--text-muted)]">
-                          {formatDate(commit.date)}
-                        </span>
-                        <span className="text-xs text-[var(--text-muted)]">
-                          {commit.author.split(' ')[0]}
-                        </span>
-                      </div>
+                      <GitCommit className="w-4 h-4 text-[var(--dust)] flex-shrink-0" />
+                      <span className="font-mono text-xs text-violet-400 flex-shrink-0">
+                        {commit.shortHash}
+                      </span>
+                      <span className="text-sm text-[var(--bone)] flex-1 truncate">
+                        {commit.message}
+                      </span>
+                      <span className="text-xs text-[var(--dust)] flex-shrink-0 hidden sm:block">
+                        {formatDate(commit.date)}
+                      </span>
+                      <span className="text-xs text-[var(--dust)] flex-shrink-0 hidden md:block">
+                        {commit.author.split(' ')[0]}
+                      </span>
                     </motion.div>
                   ))}
                 </div>
-              </div>
-            )}
-
-            {/* Empty State */}
-            {filteredEntries.length === 0 && gitLog.length === 0 && (
-              <div className="text-center py-20">
-                <History className="w-16 h-16 text-[var(--text-muted)] mx-auto mb-4" />
-                <h3 className="text-xl font-[var(--font-display)] tracking-wider mb-2">No Changes Yet</h3>
-                <p className="text-[var(--text-muted)]">
-                  The research agent hasn&apos;t made any modifications yet.
-                </p>
-              </div>
+              ) : (
+                <div className="empty-state">
+                  <GitCommit className="empty-state-icon" />
+                  <p className="empty-state-title">No Commits</p>
+                  <p className="empty-state-description">Git history is empty or unavailable.</p>
+                </div>
+              )
             )}
           </div>
         )}

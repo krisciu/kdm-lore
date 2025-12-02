@@ -1,0 +1,13 @@
+# OCR Result: MEAL GEAR 1.png
+
+Source: rulebooks/extracted/images/miscellaneous/MEAL GEAR 1.png
+Processed: 2025-12-02T18:29:29.369Z
+Tokens: 1579
+
+---
+
+**MEAL GEAR**
+
+[This appears to be a card title or header on what looks like a dark/black card back or cover. No other visible text can be discerned from this image.]
+
+---

@@ -1,0 +1,31 @@
+# OCR Result: Gorm-AI_A---Flatten.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Flatten.png
+Processed: 2025-12-02T18:18:07.027Z
+Tokens: 1678
+
+---
+
+**Flatten**
+
+**Pick Target**
+• random survivor in blind spot
+• closest survivor, in field of view, in range
+• no target: **illuminate**
+
+---
+
+**Move & Attack Target**
+*Turn the Gorm so the target is in the monster's blind spot.*
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 5 | 2+ | 2 | �asterisk **After Damage** |
+
+�asterisk Target suffers **bash** and **knockback 5**.
+
+---
+
+*The Gorm is knocked down.*
+
+---

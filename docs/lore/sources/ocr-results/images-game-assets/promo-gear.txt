@@ -1,0 +1,17 @@
+# OCR Result: promo-gear.png
+
+Source: rulebooks/extracted/images/game-assets/promo-gear.png
+Processed: 2025-12-02T18:23:30.992Z
+Tokens: 596
+
+---
+
+Looking at this image, I can see:
+
+**PR**
+
+Promo
+
+This appears to be a decorative card back or promotional material with ornate white flourishes and designs on a blue gradient background. The only readable text elements are "PR" in the center ornamental design and "Promo" below it.
+
+---

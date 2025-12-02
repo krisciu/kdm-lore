@@ -1,0 +1,22 @@
+# OCR Result: Gorm-AI_B---Wallop.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Wallop.png
+Processed: 2025-12-02T18:19:48.836Z
+Tokens: 1621
+
+---
+
+**Wallop**
+
+**Pick Target**
+• closest threat, in field of view, in range
+• random survivor, in range
+• no target: **illuminate**
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2     | 2+       | 1       |         |
+
+---

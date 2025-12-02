@@ -1,0 +1,17 @@
+# OCR Result: Gorm-AI_S---Gorm's-Den.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_S---Gorm's-Den.png
+Processed: 2025-12-02T18:20:22.541Z
+Tokens: 1587
+
+---
+
+**Gorm's Den**
+
+Trait
+
+*The yawning maw of the Gorm's den belches dizzying fumes.*
+
+Survivors cannot **surge** unless they spend an additional 1 survival.
+
+---

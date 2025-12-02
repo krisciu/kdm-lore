@@ -1,0 +1,17 @@
+# OCR Result: Gear---Roaring-Harmonica.png
+
+Source: rulebooks/extracted/images/miscellaneous/Gear---Roaring-Harmonica.png
+Processed: 2025-12-02T18:28:52.648Z
+Tokens: 602
+
+---
+
+**Roaring Harmonica**
+
+*item, bone, instrument, noisy*
+
+When you **encourage** a survivor, they gain +2 strength tokens until the end of the round.
+
+🔊 **Max volume.** When you encourage, roll 1d10. On a 10+, the monster is knocked down.
+
+---

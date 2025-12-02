@@ -1,0 +1,13 @@
+# OCR Result: gamblers-chest-kd-gce-3-noai-1024x1024.jpg
+
+Source: official-site/images/shop/gamblers-chest-kd-gce-3-noai-1024x1024.jpg
+Processed: 2025-12-02T18:15:27.125Z
+Tokens: 1210
+
+---
+
+Looking at this image of Kingdom Death: Monster game components, I can see numerous miniatures and cards laid out, but the text on the cards is not clearly legible due to the image resolution and angle. The cards appear to have ornate decorative borders in various colors (black, red, green, white), and I can make out what appears to be the Kingdom Death logo/branding on some cards, but I cannot reliably extract the specific text content, card names, rules text, or other details.
+
+[Text not clearly readable due to image resolution and viewing angle]
+
+---

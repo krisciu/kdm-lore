@@ -1,0 +1,387 @@
+# Black Friday 2017 - One Year Later (Lantern Year 2!)
+Post ID: 2051084
+Date: 2017-11-24T00:47:31-05:00
+Source: https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/2051084
+Images: 53
+
+---
+
+[IMAGE]
+
+Summary
+
+- Wave 1 Fulfillment is complete for all regions but ASIA. If you have an issue please contact us here kingdomdeath.com/support
+
+- Kingdom Death: Monster 1.5 is now officially released and available here!
+
+- Wave 2 fulfillment estimated to start end of February 2018.
+
+- Pledges have been re-opened for black friday (check your email for details).
+
+- Pre order bundles are available thru backerkit. (link works now!)
+
+- Armor Kit Painting Contest, winners announced!
+
+- Expect a rolling delay on Wave 3 and 4.
+
+- Oh and we are having a black friday sale!
+
+## WE MADE GAMING HISTORY!
+
+A year ago we launched the Kickstarter campaign for Kingdom Death: Monster 1.5. I had a pretty good idea of what I’d be getting myself and the team into. I recall a distinct feeling of anxious excitement. Trying to balance the unique mixture of creative spirit, physical creation, and practical finances into a careful plan to manage the campaign and its expectations from fans, team members, and vendors is a lot, especially when you’re putting something so close to your heart on public display.
+
+And then...
+
+You guys’ support blasted that careful plan straight out the window where it shattered into a billion little pieces, each of which exploded, metaphorically setting our studio on fire.
+
+Today, I feel confident. No matter the challenge, we will rise to face it. Can’t figure out how to balance the pace mechanic with the scrolling terrain during the Screaming God showdown? No worries, we’ll playtest it all day and night until it feels right. Was your package sent to a distant moon and FedEx denies their access to a rocket ship? It might take us a while to leave the atmosphere safely, but we’ll go get it for you. Has the development of Advanced Kingdom Death: Monster been slowed because I’ve been too busy managing logistics? That’s okay, I’ll just delay it and train a logistics replacement to handle Wave 2 onward. 
+
+We (myself, the team, and you backers) have created a brand that doesn’t pull punches or cut corners. I want to bring you the absolute best I can muster, and I hope that’s a standard for quality that we continue to raise.
+
+I’m both humbled and honored to continue being a part of this.
+
+## Wave 1 Logistics 
+
+Backers in Asia. 
+I owe you guys a huge apology. The onboarding process + time it's taken to move the rewards from the factory in China to the shipping location in Hong Kong has been insane. Ironically, our shipping partner has done a great job shipping out the expansions from our last kickstarter! I don’t have any excuses and I certainly will own up to it. I am just utterly baffled.
+
+Next wave, I will ensure that your inventory leaves the factory first and I will bump up (whenever possible) the shipping service at no additional cost to backers with shipping addresses in the Asia region.
+
+Backers in Russia.
+This turned out to be fairly tricky. We are updating our shipping strategy to reduce issues getting you rewards from future waves. Those with ongoing issues, we will continue to work with you on a case by case basis to resolve them. Please understand that a lot of this simply is not in our control.
+
+Pre Orders shipped Before Backer Fulfillment?
+We had a case that effected 319 EU / ROW backers. Wherein the API garbled their orders and we had to cancel / repopulate them. I was unaware of the issue until after I had pushed preorders for those regions out. We got everyone’s order in a few hours later, but it was too late. They were added to the back of the queue.
+
+Changes to fulfillment.
+
+I worked like crazy for the past month to ensure that the order of shipments was as fair as humanly possible and to resolve any issues that came up near instantly. While it was mostly effective, I have to step down from this role and move back towards development. Next wave, we will be shipping everything at its most early opportunity. Meaning, if one boat comes in unexpectedly early (instead of holding it in active storage and incurring tons of fees) we are going to ship those rewards. To you guys, it might feel a lot more random. But to us, it will avoid long complicated calls and email chains trying to time and coordinate things globally, in partner warehouses. Oh yeah, and as I said before, ASIA gets shipped first next wave, even if it results in them having their stuff weeks before everyone else.
+
+## Wave 2 Status 
+
+Wave 2 production is finished. The factory is currently in the last stages of assembly. These will be loaded onto boats in December which means we are looking at fulfillment towards the end of February 2018.
+
+## Kingdom Death: Monster 1.5 
+
+Now officially released for sale via our webstore! 
+
+I hope everyone is enjoying playing. We have one hot fix for the Lion Knight Expansion, the villain card should read "cannot spend survival" instead of doomed. In 1.5 a doomed survivor cannot do anything! (This and the re-definition of action fixed a few ambiguous spots in regards to when a trap ends attacks).
+
+[IMAGE]
+
+ Download the hotfix here.
+
+Roleplay Survivors
+Here is a closer look at the new hard plastic role-play survivors that's included in the Lion Knight expansion (and of course for those of you that picked them up separately!) Once we had the scans we couldn't help but refine them further and pump up some details to make them more ideal for hard plastic!
+
+[IMAGE]
+
+Progress! 
+Since we wrapped the Core Game, we have been hard at work on the many expansions we pitched during the campaign.
+
+Gambler's Chest
+
+Advanced KDM is my project and sadly it's taken a bit of a back seat the last month as I was heading up managing logistics for Wave 1. The last thing I was working on was the "collective cognition" bar, unsure if that will make it to the final but I will be returning to it at the end of the month! 
+
+I present to you the 3 Narrative Sculpts that weren't quite fleshed out during the Campaign:
+
+[IMAGE]
+
+[IMAGE]
+
+[IMAGE]
+
+And more!
+
+[IMAGE]
+
+For Gencon, we commissioned Elizabeth Beckly to paint a handful of our narrative sculptures. They turned out amazing!
+
+[IMAGE]
+
+[IMAGE]
+
+## Black Knight Expansion
+
+The Showdown with the Black Knight takes place in one of the many ruined sanctuaries that dot the side of the inverted mountain. We've been play testing a pretty awesome showdown where survivors can be smashed thru rows of cloisters, slammed against statues that send them rebounding in a new direction and smashed straight off the side of the mountain. 
+
+During the fight, the survivors may have the chance to peak at the squires below the ruins to gain some insight on how to deal with their foe. 
+
+[IMAGE]
+
+Hard Plastic Dragon Goblin
+
+We had the pleasure of debuting this at Gencon 50 last august. Our largest model to date, spanning 8 sprues. Traditionally sculpted by Thomas David, once we had the scan of the model, Kieran McKay and I couldn't resist further refining and it bringing it even closer to the feeling invoked by its original artwork. The engineering is insane, its a model that truly represents the weight and insanity of our collective team!
+
+[IMAGE]
+
+[IMAGE]
+
+## Red Witch Expansion
+
+Development on the Red Witch expansion has been going well! Clark has taken the lead on their monster programming and created a fast flowing and dangerous multi monster showdown. Version 3.2 is currently in testing, greatly simplified the mechanics behind their cloak to cloak transportation and implemented supporting trait cards (these are used so we can have more flavorful AI card, but still keep all 3 witches active each turn). The Witches share an AI and a HL deck, which is heavily flavored to showcase their cooperation. It's been a lot of fun to work on something so different!
+
+[IMAGE]
+
+## Screaming God Expansion
+
+The Screaming God Armor has been renamed the Alpha Armor!
+
+For higher level armor sets we are pushing for stronger, simpler abilities. Late gameplay can get fairly complex, so were dialing up the STRONG and dialing down the fuss . 
+
+Currently testing the completed helm giving all non deaf survivors on the showdown board "double dash" ( ...so long as the Alpha Armored survivor is alive of course)!
+
+[IMAGE]
+
+[IMAGE]
+
+[IMAGE]
+
+[IMAGE]
+
+Screaming God Resources!
+
+[IMAGE]
+
+[IMAGE]
+
+Oh and perhaps a little Parasite Queen?
+
+[IMAGE]
+
+[IMAGE]
+
+## Frogdog Resources!
+
+[IMAGE]
+
+[IMAGE]
+
+## Pinups!
+
+[IMAGE]
+
+## Gentlemen!
+
+[IMAGE]
+
+[IMAGE]
+
+##  Ladies!
+
+[IMAGE]
+
+[IMAGE]
+
+[IMAGE]
+
+## More Monsters!
+
+[IMAGE]
+
+Titan Bee!?
+
+[IMAGE]
+
+[IMAGE]
+
+[IMAGE]
+
+## Inverted Mountain Expansion
+
+The final challenge of the Inverted Mountain campaign, the Mountain man is all tooled up in hard plastic!
+
+[IMAGE]
+
+[IMAGE]
+
+[IMAGE]
+
+## Crossovers!
+
+[IMAGE]
+
+[IMAGE]
+
+## 
+Armor Kit Painting Contest: Final Results! 
+
+The time for deliberation is over! The judges have cast their votes! At long last, the results of the Kingdom Death Armor Kit Painting Contest are here! And, in a development beyond all predictable possibility, we have not three ranking winners, but six! We received so many submissions of such incredible quality that we've created a whole additional tier of honorable mentions. 
+
+[IMAGE]
+
+To view all the competition's winners and our massive gallery of submissions, check out the Armor Kit Painting Contest: Final Results !
+
+Boundless thanks to everyone who submitted for making the Armor Kit Painting Contest such an incredible success—the community's outpouring of enthusiasm and talent never ceases to amaze us! And be sure to watch this space for future Kingdom Death contests and giveaways! 
+
+## Kingdom Death Community Update
+
+November's a huge month for Kingdom Death! Whether we're working on gigantic projects or sending thousands of games out into the world, this is without a doubt one of our busiest times of year!
+
+In the past weeks, the Kingdom Death Twitter (@KingdomDeath ) has been bombarded by KD players new and old, showing off their copies of Kingdom Death: Monster or starting up fresh campaigns with the 1.5 Update Pack. There's been a flood of new unboxing videos, fantastic reviews, and kick-offs for Let's Play Kingdom Death series—we're totally overwhelmed!
+ 
+This whole frenzy makes it feel like the perfect time to share work from the extremes of the Kingdom Death fandom. On one end, we've got projects designed to ease in new players and kick off new campaigns. At the other, there's lots of work being done by diehards focused on what's to come. So, we figured we'd share just a few snippets from the KD community that caught our attention. 
+
+Back to Basics
+
+Whether it's you or your campaign entering into Lantern Year 1, there are tons of incredible Kingdom Death resources out there to help you on your journey. Here's just a few projects crafted with fresh campaigns in mind. 
+
+Painted Meeple: Starting Survivors &amp; White Lion
+
+Want a personal guide through the earliest steps of your KD experience? Painted Meeple is there for you, having shared their Twitch-based guide to constructing and Painting the Starting Survivors and White Lion [https://www.twitch.tv/videos/184935045]. It's a great place to start, before diving into their work on a host of other KD characters and creatures.
+
+Watch Kingdom Death Monster #1 Building Starting Survivors &amp; White Lion - RPG - Tabletop - Board Game from PaintedMeeple on www.twitch.tv
+
+White Lion Painting Guide from Updog Games 
+
+[IMAGE]
+
+Want your White Lion to really stand out among the murderous masses? Updog Games shares a phenomenal Painting Guide to the White Lion, walking hobbyists through all the steps of assembling quality tools, selecting paints, preparing a model for painting, basing a mini, and more. Whether you're a first timer or a veteran looking to compare processes, the Updog Games rundown is well worth a look!
+
+Boards &amp; Booze: Let's Play Kingdom Death Monster
+
+[IMAGE]
+
+The crew over at Boards &amp; Booze just dove into the first part of their Kingdom Death: Monster Let's Play. Stop over to see how their survivors fared, and to see what beer pairs best with bone fragments through the brain! 
+
+Darker Days Radio 1.5 Unboxing 
+
+[IMAGE]
+
+Haven't seen the 1.5 Update Pack from every angle yet? Well, here's one more vantage, a Walkthrough from Our Friends at Darker Days Radio, who just posted their take on all the minis, tokens, pages, and changes packed into 1.5. Take a look! 
+
+Painting the Gold Smoke Knight
+
+Want a little help on your new Gold Smoke Knight? True to their name, KDM Obsessed dove right into the 1.5 Update Pack and has already posted a stream of their work on KD's new uber-boss.Check out their Gold Smoke Knight and Other Kingdom Death Streams on Twitch.
+
+Watch Attempting NMM on the Gold Smoke Knight come chill :D #kingdomdeath #miniatures #painting from KDMobssesed on www.twitch.tv
+
+Vibrant Lantern
+
+Lastly, a massive shot out to Vibrant Lantern, who have been helping players enjoy Kingdom Death with build guides, advice, tools and tricks since the game's earliest days. If you're a KD fan and you're not familiar with Vibrant Lantern, take a moment and stop on by. On the other hand, if Vibrant Lantern has helped you on your KD journey, tis the season to tweet! Send your thanks with them at @VibrantLantern.
+
+Looking Ahead
+
+With so many campaigns kicking off or getting a fresh injection of content, it's easy to forget that there's more—so much more—to come. Some fans have certainly kept their attentions fixed firmly forward, though! With the resin versions of several monsters already out in the world, you can definitely see who's excited to get their Inverted Mountain campaigns started! Just take a look at the talent of these farsighted KD fanatics! 
+
+Frogdog Paint Guide 
+
+[IMAGE]
+
+The day of the Frogdog is coming! As campaigns' first challenge, the White Lion is a model we see at the heart of many projects, especially step-by-step painting guides. But, the tide's already starting to turn the Frogdog's way. Check out what might be the first, Step-by-Step Guide to Painting the Frogdog by Send the Eight ! You might not have use for this fantastic guide yet, but drop a bookmark here. Your future campaign will appreciate it. 
+
+Black Knight Bonanza
+
+[IMAGE]
+
+With its grim armor and inscrutable anatomy, the Black Knight's become an instant favorite not just among KD fans, but with minis hobbyists at large. Whether you've already got your resin version or you're just eager for what's to come, you can check out Black Knights already getting equipped to take the field. Boing-Boing Shows Off an Impressive Black Knight shows an entirely different take.
+
+ If you've got your own Black Knight (or you're preparing for when you do), Daemonicon's Black Knight Painting Stream takes you through the steps of preparing your own grim champion. Some really fantastic work by all these artful armorers! 
+
+Award-Winning Mountain Man
+
+[IMAGE]
+
+ We haven't had many Mountain Men shared with us (hint—send us your Mountain Man pictures!), but after seeing David Colwell's Award-Winning Mountain Man on Cool Mini or Not, it's clear the bar's been set pretty high. Can't have this monster without his mountain—a feature Colwell works right in. Incredible work! 
+
+Resin-Roundup from Jolly Roger Studio 
+
+[IMAGE]
+
+Need more painted previews of monsters to come? The Jolly Roger Studio's Kingdom Death Collection has you more than covered! There's a Black Knight, Gryphon, Mountain Man, Pariah, and tons more! If you haven't seen some of these figures painted, here's a worthy first chance. This is part two of Jolly Roger's Kingdom Death gallery, so be sure to also take a peek at Part One!
+
+Now Playing
+
+As much excitement as there is swirling around new campaigns or hobbyists looking ahead, there's still plenty of innovative Kingdom Death projects rooted firmly in the here and now. These are just a few that KD fans brought to our attention. If you have your own favorite project, though, be sure to share it with us at the Kingdom Death Twitter, @KingdomDeath.
+
+TechRaptor Interview with Adam Poots
+
+While we've shared a slew of Gen Con interviews over the last few months, Adam's conversation with the TechRaptor crew evaded us. But no longer! Join TechRaptor for a chat with Kingdom Death Creator Adam Poots and learn more about the game's creation, where it's been, where it's going, and what makes Adam say: "Are you kidding me?! That's not fair."
+
+Twist Gaming: Twitch Plays Kingdom Death; Season 5, Year 1
+Twist Gaming is back for a fifth season of slaughter with a new series of Twitch Players Kingdom Death. Whether you've just got KD and want to see how it's done, or you've been playing for years and can't get enough, the crew at Twist is ready to share their strategy, suffering, and success. Check out Twist Gaming both on Twitch and on YouTube.
+
+Light-Up Lonely Tree
+
+[IMAGE]
+
+ Ryan Rubrico's lighting up the lanterns on his Lonely Tree model and the effect's pretty incredible. Take a look at the work in process he's posted of his Light-Up Lonely Tree. Brilliant!
+
+Kolectiv's Dragon King Reveal
+
+It's one thing to pull off an amazing paint job on one of Kingdom Death's most monstrous (not-so) minis, but the crew at Kolectiv gets additional style points for their ominous Dragon King Reveal Video. What's especially cool: it glows in the dark! Check out more modeling videos from Kolectiv on YouTube, including their guides, like this one on Painting Teeth and Bone, staring the Dragon King!
+
+Custom Kingdom Death Case
+
+[IMAGE]
+
+For KD players looking to add further heft to their gaming experience, arod42 shares their process for creating a gorgeous, Custom Wooden Kingdom Death Case. The steps are intense, but the end result is absolutely beautiful! We love it when KD overlaps with our players other passions, so, if you've undertaken a cool KD-related project that you want to share, be sure to send us a tweet!
+
+## 1/8 Scale Pinup Male - Alpha Armor
+
+This turned out too amazing for words. Rest assured we will do EVERYTHING we can to ensure this translates over to miniature scale, capturing and retaining the feeling that makes this sculpture so damn excellent!
+
+[IMAGE]
+
+## THE GAMBLER!!!
+
+[IMAGE]
+
+[IMAGE]
+
+---
+
+## Image URLs
+1. https://ksr-ugc.imgix.net/assets/019/345/629/bd61314c54b3ac1f015ff53975e7a2ff_original.png?w=700&fit=max&v=1511369353&auto=format&lossless=true&s=ceda29eac7d7c6a77917533a04b98e21
+2. https://ksr-ugc.imgix.net/assets/019/328/887/960bfdc4194e0fd8794fab0e08753944_original.jpg?w=700&fit=max&v=1511284702&auto=format&q=92&s=998a82ec0294deab3439523ba41061fb
+3. https://ksr-ugc.imgix.net/assets/019/338/567/07fd96c37ef2ca24b3d7590a4b3b6cf6_original.jpg?w=700&fit=max&v=1511326911&auto=format&q=92&s=d85fe9ffbbd3faa4312bc5f84badb04e
+4. https://ksr-ugc.imgix.net/assets/019/348/006/f1c195218647c23b53a6993da5434b24_original.jpg?w=700&fit=max&v=1511380051&auto=format&q=92&s=31d49e40e9326a40afa94f1705663e48
+5. https://ksr-ugc.imgix.net/assets/019/348/010/abc9b47d0931b9f0b772803b9137f3b1_original.jpg?w=700&fit=max&v=1511380065&auto=format&q=92&s=c2159b93d22dc51e6781f10e6d653f09
+6. https://ksr-ugc.imgix.net/assets/019/348/013/65b1bdb950402c57f9cc29c73d1c1fd4_original.jpg?w=700&fit=max&v=1511380082&auto=format&q=92&s=c7f202abf39b3341c33fcd1daec6b3fa
+7. https://ksr-ugc.imgix.net/assets/019/339/294/68d86d2e010bc55030f1fe4affa517b6_original.jpg?w=700&fit=max&v=1511332432&auto=format&q=92&s=5b3b6b3686e0fb1ea6b69465f7644aac
+8. https://ksr-ugc.imgix.net/assets/019/338/095/103a25850a7752064eea7bc06aae02a0_original.jpg?w=700&fit=max&v=1511323647&auto=format&q=92&s=684b6114f0bc2fd208d7b76afe398936
+9. https://ksr-ugc.imgix.net/assets/019/339/318/7b5bbedc8c3d4e8b279feadca88f345d_original.jpg?w=700&fit=max&v=1511332578&auto=format&q=92&s=16649ad3445a73815d07b56e62729005
+10. https://ksr-ugc.imgix.net/assets/019/349/383/6adb6cdf4db6a27cff48528880a5efac_original.jpg?w=700&fit=max&v=1511386745&auto=format&q=92&s=5c4673fcc27aa08c8fae5c4a4297cc47
+11. https://ksr-ugc.imgix.net/assets/019/339/097/f6a95eb1f36bc255537b703d654877b8_original.jpg?w=700&fit=max&v=1511330933&auto=format&q=92&s=a559e6f2b709c2b9ec284e02c1c127e1
+12. https://ksr-ugc.imgix.net/assets/019/348/724/e17f2fe24c6c29a8d7edd3cccfb8f603_original.jpg?w=700&fit=max&v=1511383689&auto=format&q=92&s=07da1653fc7737f8ea9a7678e183c9d2
+13. https://ksr-ugc.imgix.net/assets/019/345/581/b816b05046046525f55d9dcec5f70032_original.jpg?w=700&fit=max&v=1511369114&auto=format&q=92&s=ef4ecafdac99a624a5ecac6af6c27da6
+14. https://ksr-ugc.imgix.net/assets/019/338/434/bd924adf64bebd68d0e8fb4ea494650c_original.gif?w=700&fit=max&v=1511325965&auto=format&gif-q=50&q=92&s=3b59f34bc06b49c7cce98dd06b1d5f65
+15. https://ksr-ugc.imgix.net/assets/019/338/434/bd924adf64bebd68d0e8fb4ea494650c_original.gif?w=700&fit=max&v=1511325965&auto=format&frame=1&q=92&s=d0926b8f78dc2009888e1baab0b2baff
+16. https://ksr-ugc.imgix.net/assets/019/338/437/97786d8c28b67a175977499d52e5b925_original.jpg?w=700&fit=max&v=1511325984&auto=format&q=92&s=d6975f2b54c401a3dee8a07f189fc762
+17. https://ksr-ugc.imgix.net/assets/019/347/643/8ba71d9d1f40ec4b30ca5ff1c960fb66_original.jpg?w=700&fit=max&v=1511378204&auto=format&q=92&s=c430b966bc6761276cdcab98297a0d72
+18. https://ksr-ugc.imgix.net/assets/019/338/440/9d765bdb986340f6568a130b47e0cc97_original.jpg?w=700&fit=max&v=1511325997&auto=format&q=92&s=2f70e23e1a1c26910125e4a2052e71b3
+19. https://ksr-ugc.imgix.net/assets/019/346/430/2d86105f48a97b3add0b161907f2359c_original.jpg?w=700&fit=max&v=1511372719&auto=format&q=92&s=019226e9e030b83cfa8a39013891aa4d
+20. https://ksr-ugc.imgix.net/assets/019/346/433/5dfedd40255c69e8be2b9c0b7ad63a9a_original.jpg?w=700&fit=max&v=1511372733&auto=format&q=92&s=64bd51768727d2a37a15f5e5c78c37ad
+21. https://ksr-ugc.imgix.net/assets/019/338/532/09f8cd1c1c1b643f8ed8650ac10f2333_original.jpg?w=700&fit=max&v=1511326597&auto=format&q=92&s=f697c4df9c9f655161ed7fe79d1aa5da
+22. https://ksr-ugc.imgix.net/assets/019/346/337/979e3199d9db2736be5478c10130d189_original.jpg?w=700&fit=max&v=1511372360&auto=format&q=92&s=9836c0f8d3750e4b25669b7935313153
+23. https://ksr-ugc.imgix.net/assets/019/346/474/850cb00f08d501333bdb4d5ce7a29300_original.jpg?w=700&fit=max&v=1511373017&auto=format&q=92&s=ba1be161bf29db910b1283ffab4437ab
+24. https://ksr-ugc.imgix.net/assets/019/346/478/2dd59694c87e14eec63cf06d4cf79b19_original.jpg?w=700&fit=max&v=1511373034&auto=format&q=92&s=86a6197204739baf169eea9ea6b550f5
+25. https://ksr-ugc.imgix.net/assets/019/338/709/1a753088c6a7d340d6c57b89c74142cf_original.jpg?w=700&fit=max&v=1511327965&auto=format&q=92&s=5fc187ffcdb0198862a2d5e549b8cf60
+26. https://ksr-ugc.imgix.net/assets/019/345/754/fec39a9c4667053d14e238143c06d8d6_original.jpg?w=700&fit=max&v=1511369754&auto=format&q=92&s=aeca4673f00422325c2dc103d40dd86e
+27. https://ksr-ugc.imgix.net/assets/019/345/862/edfb5cc73cab8a1841cf294b0baf5843_original.jpg?w=700&fit=max&v=1511370291&auto=format&q=92&s=bb587eb60eae7f015a82392bedc6c2f5
+28. https://ksr-ugc.imgix.net/assets/019/345/644/de040105da525c4f4a3d8ce8a4fb85a6_original.jpg?w=700&fit=max&v=1511369369&auto=format&q=92&s=3ed73c2140c8f4a1e7189ed340537ad6
+29. https://ksr-ugc.imgix.net/assets/019/345/653/5bccd1c54c34cd3d02dd3308036df6af_original.jpg?w=700&fit=max&v=1511369404&auto=format&q=92&s=86842fc54cf1059d81c35044da0ac131
+30. https://ksr-ugc.imgix.net/assets/019/348/398/8da1d16df864250df316d74b23852b61_original.jpg?w=700&fit=max&v=1511381933&auto=format&q=92&s=e5fbf608f0c17998b0120fd33105c5e6
+31. https://ksr-ugc.imgix.net/assets/019/338/710/ec9dc0a83a5f521f6bc879bb30576f7c_original.jpg?w=700&fit=max&v=1511327987&auto=format&q=92&s=9ee7d4d7ca93ff0d7000bcf07d0614b2
+32. https://ksr-ugc.imgix.net/assets/019/349/345/769eb8e474e638059d1e1fbff0515f5c_original.jpg?w=700&fit=max&v=1511386614&auto=format&q=92&s=00ce7b19fe62ba24efaf487de9eab239
+33. https://ksr-ugc.imgix.net/assets/019/350/751/a021160781780b131c563843acf76320_original.jpg?w=700&fit=max&v=1511394736&auto=format&q=92&s=8eb2db8b2b2a7605b3bc7eaf03f28647
+34. https://ksr-ugc.imgix.net/assets/019/338/716/5bdc9435d42a644b251234c8bff916eb_original.jpg?w=700&fit=max&v=1511328005&auto=format&q=92&s=be30ee2e835724a72b44f81dd70b693a
+35. https://ksr-ugc.imgix.net/assets/019/349/157/5a100bf39b1de1ccac22031eb17c44ec_original.jpg?w=700&fit=max&v=1511385944&auto=format&q=92&s=0096abbd5ff95629aae90d9fbb32ed95
+36. https://ksr-ugc.imgix.net/assets/019/349/175/d7b13907070a2dd27743c0126924c0ae_original.jpg?w=700&fit=max&v=1511385992&auto=format&q=92&s=270d86eab0ec7863731b79dcf5bfd812
+37. https://ksr-ugc.imgix.net/assets/019/347/998/438577841635e3d8f08e7b711533ee4a_original.jpg?w=700&fit=max&v=1511380020&auto=format&q=92&s=41d5ab27a722cd15d3559234ccc49a8a
+38. https://ksr-ugc.imgix.net/assets/019/345/728/b4348952d294643314149dae35af22e6_original.jpg?w=700&fit=max&v=1511369649&auto=format&q=92&s=ef77d58fd036d70c1969f1edc979b64b
+39. https://ksr-ugc.imgix.net/assets/019/345/733/d5e66ec6bff0d3018a12ae948811a4e1_original.jpg?w=700&fit=max&v=1511369660&auto=format&q=92&s=c0e16d743cef3f06393b2bba42791558
+40. https://ksr-ugc.imgix.net/assets/019/350/256/1a281d6440551335a723a9eff85e5861_original.jpg?w=700&fit=max&v=1511391516&auto=format&q=92&s=3bda0b31353835106774b0b75be760a4
+41. https://ksr-ugc.imgix.net/assets/019/349/598/552017e273990e08e92c7b17562ee1ca_original.jpeg?w=700&fit=max&v=1511388123&auto=format&q=92&s=aabe07ed7b1351128a1b47a0a448464b
+42. https://ksr-ugc.imgix.net/assets/019/349/605/9930ada75013dbe48c1480d7253930fc_original.jpg?w=700&fit=max&v=1511388200&auto=format&q=92&s=0bb77044c571bb241fd8fbdf81636e15
+43. https://ksr-ugc.imgix.net/assets/019/349/616/f02bbbd5a45f2dc8cbbf8ef8076a1907_original.jpg?w=700&fit=max&v=1511388261&auto=format&q=92&s=bf4d49f8f78c3b81aa73f498fb05e928
+44. https://ksr-ugc.imgix.net/assets/019/349/657/778b2fc3985dccd94b1a1b1859915d54_original.jpg?w=700&fit=max&v=1511388471&auto=format&q=92&s=8866442caed613fa64cde046125e4700
+45. https://ksr-ugc.imgix.net/assets/019/349/668/39236a5dd984dfbc28b9464879d3961a_original.jpg?w=700&fit=max&v=1511388530&auto=format&q=92&s=e8a5b8fd4bcc93d27660ec51598b2be6
+46. https://ksr-ugc.imgix.net/assets/019/349/688/f860f5612625c3bee48d436a8fb4b7cf_original.jpg?w=700&fit=max&v=1511388644&auto=format&q=92&s=f4084929375e7e274683c56f14e110f4
+47. https://ksr-ugc.imgix.net/assets/019/349/703/61c62857a2c1a0b92be1f8bddcd04416_original.jpg?w=700&fit=max&v=1511388718&auto=format&q=92&s=8e525487a7b2916d8b2e37cc78068c4c
+48. https://ksr-ugc.imgix.net/assets/019/349/746/f55f9ed36906615d7a6e9b4d5610e192_original.jpg?w=700&fit=max&v=1511388942&auto=format&q=92&s=b70f15b1bdf58b582e20773589c18da1
+49. https://ksr-ugc.imgix.net/assets/019/349/764/03f1f4bf0812510d560324c4273904dd_original.jpg?w=700&fit=max&v=1511389065&auto=format&q=92&s=91d6408bbf004416b89fe1be66807e49
+50. https://ksr-ugc.imgix.net/assets/019/338/393/488bb703c6c1a8cff1e14ff0357dc967_original.jpg?w=700&fit=max&v=1511325603&auto=format&q=92&s=58b8a3eaf5e0409d4e88b2f9e9c513d5
+51. https://ksr-ugc.imgix.net/assets/019/337/665/7256cbd01be19efae905e929d1c2911c_original.jpg?w=700&fit=max&v=1511320692&auto=format&q=92&s=e4c98e8acb6b05f5f0137e445993eb8c
+52. https://ksr-ugc.imgix.net/assets/019/337/659/0e621dd4c6bfbad113a8f4e9f967bd1c_original.gif?w=700&fit=max&v=1511320660&auto=format&gif-q=50&q=92&s=783e22277f95db8d889ebe80a9ada7ff
+53. https://ksr-ugc.imgix.net/assets/019/337/659/0e621dd4c6bfbad113a8f4e9f967bd1c_original.gif?w=700&fit=max&v=1511320660&auto=format&frame=1&q=92&s=d8cc3984981797a6a825f29f29ee58ea

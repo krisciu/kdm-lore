@@ -1,0 +1,30 @@
+# OCR Result: Data Card.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Data Card.png
+Processed: 2025-12-02T18:17:28.123Z
+Tokens: 1791
+
+---
+
+**The Flower Knight**
+
+**Level 1**
+- B: 7, A: 4, L: -
+- Mov: 7, Tgh: 6, Spd: -, Dmg: -
+- Abilities: Bloom, Set Roots
+
+**Level 2**
+- B: 8, A: 4, L: 1
+- Mov: 8, Tgh: 8, Spd: -, Dmg: +1
+- Abilities: Bloom, Set Roots, Razor Bulbs
+
+**Level 3**
+- B: 9, A: 5, L: 2
+- Mov: 9, Tgh: 11, Spd: +1, Dmg: +2
+- Abilities: Bloom, Set Roots, Razor Bulbs, Perfect Aim, Heart of the Woods
+
+**Instinct: Germinate**
+
+*Scattered pollen flows back to the Fairy Ring. Place the Flower Knight in the center of the showdown board. Remove a +1 luck token from all survivors.*
+
+---

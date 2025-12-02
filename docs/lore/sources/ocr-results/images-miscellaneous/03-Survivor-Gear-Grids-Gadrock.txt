@@ -1,0 +1,81 @@
+# OCR Result: 03-Survivor-Gear-Grids-Gadrock.png
+
+Source: rulebooks/extracted/images/miscellaneous/03-Survivor-Gear-Grids-Gadrock.png
+Processed: 2025-12-02T18:27:01.225Z
+Tokens: 2194
+
+---
+
+# **Gadrock**
+
+## **Gorn**
+*Item, Instrument, gormskin*
+
+⚡ All non-deaf knocked down survivors stand and ❤️ to all hit locations.
+Use once per showdown.
+
+---
+
+## **White Lion Boots** 
+*armor, set, fur, heavy*
+**2** 🛡️
+
+🔴🔴 +1 movement
+
+---
+
+## **White Lion Skirt**
+*armor, set, fur, heavy* 
+**2** 🛡️
+
+---
+
+## **White Lion Coat**
+*armor, set, fur, heavy*
+**2** 🛡️
+
+**Pounce:** Spend ⚡ and 🔵 to move 3 spaces in a straight line. Then, if you moved 3 spaces, activate a melee weapon with +1 strength.
+
+---
+
+## **Frenzy Drink**
+*item, consumable, fragile*
+
+⚡ **Consume:** Suffer **Frenzy** brain trauma. Can be used once per showdown.
+
+---
+
+## **Lion Headdress**
+*item, flammable*
+**1** 🛡️
+
+**Accessory:** You may wear this in addition to 1 armor at this hit location.
+
+---
+
+## **White Lion Helm**
+*armor, set, fur, heavy*
+**2** 🛡️
+
+🔴 🔵 and 1 survival: **Roar.** **Non-Deaf Insane** survivors gain +2 strength until end of round. All other survivors gain +1 insanity.
+
+---
+
+## **White Lion Gauntlet**
+*armor, set, fur, heavy*
+**2** 🛡️
+
+When you **Pounce**, gain +1 accuracy for your next attack this turn.
+
+---
+
+## **Beast Knuckle**
+*weapon, melee, katar, bone*
+**2**
+**6+**
+**4**
+
+**Paired**
+When you wound with this weapon, monster gains -1 Toughness until end of the attack.
+
+---

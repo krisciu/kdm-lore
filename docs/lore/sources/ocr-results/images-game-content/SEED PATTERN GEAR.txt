@@ -1,0 +1,13 @@
+# OCR Result: SEED PATTERN GEAR.png
+
+Source: rulebooks/extracted/images/game-content/SEED PATTERN GEAR.png
+Processed: 2025-12-02T18:24:13.734Z
+Tokens: 1583
+
+---
+
+**SEED PATTERN GEAR**
+
+[This appears to be a card back or title page with minimal text content. The image shows only the title "SEED PATTERN GEAR" in white text against a dark background.]
+
+---

@@ -1,0 +1,19 @@
+# OCR Result: (M) Universal Cards.png
+
+Source: rulebooks/extracted/images/game-content/(M) Universal Cards.png
+Processed: 2025-12-02T18:23:57.263Z
+Tokens: 1780
+
+---
+
+Looking at this image, I can see it appears to be a card back or cover page with minimal text content.
+
+The only visible text I can clearly make out is:
+
+**(M) UNIVERSAL CARDS**
+
+This appears to be printed vertically along the right edge of what looks like a black or very dark card back/cover design.
+
+The rest of the image appears to be a solid dark background without any other readable text content.
+
+---

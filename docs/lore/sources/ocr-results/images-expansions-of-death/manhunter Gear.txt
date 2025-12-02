@@ -1,0 +1,13 @@
+# OCR Result: manhunter Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/manhunter Gear.png
+Processed: 2025-12-02T18:21:11.997Z
+Tokens: 1585
+
+---
+
+**Manhunter Gear**
+
+[This appears to be a card back or title page with minimal text content. The image shows only the title "Manhunter Gear" in white text against a black background.]
+
+---

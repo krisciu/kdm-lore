@@ -31,6 +31,7 @@ interface AgentState {
   status: 'idle' | 'running' | 'paused' | 'error';
   lastRun: string | null;
   nextRun: string | null;
+  lastScan: string | null;
   currentTask: string | null;
   error: string | null;
   stats: {
@@ -39,6 +40,7 @@ interface AgentState {
     entriesGenerated: number;
     entriesApproved: number;
     entriesRejected: number;
+    entriesReviewed: number;
   };
 }
 
@@ -65,6 +67,17 @@ interface PendingEntry {
   createdAt: string;
 }
 
+interface ReviewQueueEntry {
+  id: string;
+  filePath: string;
+  entryName: string;
+  category: string;
+  issues: Array<{ type: string; severity: string; description: string }>;
+  priority: number;
+  score: number;
+  status: string;
+}
+
 interface AgentStatus {
   state: AgentState;
   config: {
@@ -76,6 +89,11 @@ interface AgentStatus {
     generating: number;
     pendingReview: number;
   };
+  reviewQueue?: {
+    total: number;
+    queued: number;
+    reviewing: number;
+  };
 }
 
 // =============================================================================
@@ -86,7 +104,8 @@ export default function AgentDashboard() {
   const [status, setStatus] = useState<AgentStatus | null>(null);
   const [queue, setQueue] = useState<QueueEntity[]>([]);
   const [pending, setPending] = useState<PendingEntry[]>([]);
-  const [activeTab, setActiveTab] = useState<'overview' | 'queue' | 'review' | 'history'>('overview');
+  const [reviewQueue, setReviewQueue] = useState<ReviewQueueEntry[]>([]);
+  const [activeTab, setActiveTab] = useState<'overview' | 'queue' | 'review' | 'quality' | 'history'>('overview');
   const [loading, setLoading] = useState(true);
   const [actionLoading, setActionLoading] = useState<string | null>(null);
   const [expandedEntry, setExpandedEntry] = useState<string | null>(null);
@@ -96,10 +115,11 @@ export default function AgentDashboard() {
   // Load data
   const loadData = useCallback(async () => {
     try {
-      const [statusRes, queueRes, pendingRes] = await Promise.all([
+      const [statusRes, queueRes, pendingRes, reviewRes] = await Promise.all([
         fetch('/api/agent?action=status'),
         fetch('/api/agent?action=queue'),
         fetch('/api/agent?action=pending'),
+        fetch('/api/agent?action=review-queue'),
       ]);
 
       if (statusRes.ok) setStatus(await statusRes.json());
@@ -111,8 +131,12 @@ export default function AgentDashboard() {
         const data = await pendingRes.json();
         setPending(data.entries || []);
       }
-    } catch (error) {
-      console.error('Failed to load data:', error);
+      if (reviewRes.ok) {
+        const data = await reviewRes.json();
+        setReviewQueue(data.entries || []);
+      }
+    } catch (err) {
+      console.error('Failed to load data:', err);
     }
     setLoading(false);
   }, []);
@@ -140,13 +164,42 @@ export default function AgentDashboard() {
       });
       const data = await res.json();
       if (data.success) {
-        setMessage({ type: 'success', text: `Discovered ${data.discovered} entities, generated ${data.generated} entries` });
+        const parts = [];
+        if (data.discovered > 0) parts.push(`Discovered ${data.discovered} entities`);
+        if (data.generated > 0) parts.push(`Generated ${data.generated} entries`);
+        if (data.reviewed > 0) parts.push(`Reviewed ${data.reviewed} entries`);
+        setMessage({ type: 'success', text: parts.length > 0 ? parts.join(', ') : 'Completed successfully' });
       } else {
         setMessage({ type: 'error', text: data.error || 'Run failed' });
       }
       loadData();
-    } catch (error) {
+    } catch {
       setMessage({ type: 'error', text: 'Failed to run agent' });
+    }
+    setActionLoading(null);
+  };
+
+  const runScan = async () => {
+    setActionLoading('scan');
+    setMessage(null);
+    try {
+      const res = await fetch('/api/agent', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'scan' }),
+      });
+      const data = await res.json();
+      if (data.success) {
+        setMessage({ 
+          type: 'success', 
+          text: `Scanned ${data.totalScanned} entries, found ${data.entriesWithIssues} with issues, added ${data.addedToQueue} to review queue` 
+        });
+      } else {
+        setMessage({ type: 'error', text: data.error || 'Scan failed' });
+      }
+      loadData();
+    } catch {
+      setMessage({ type: 'error', text: 'Failed to scan entries' });
     }
     setActionLoading(null);
   };
@@ -161,8 +214,8 @@ export default function AgentDashboard() {
         body: JSON.stringify({ action }),
       });
       loadData();
-    } catch (error) {
-      console.error('Failed to toggle pause:', error);
+    } catch (err) {
+      console.error('Failed to toggle pause:', err);
     }
     setActionLoading(null);
   };
@@ -182,7 +235,7 @@ export default function AgentDashboard() {
       } else {
         setMessage({ type: 'error', text: data.error || 'Approval failed' });
       }
-    } catch (error) {
+    } catch {
       setMessage({ type: 'error', text: 'Failed to approve entry' });
     }
     setActionLoading(null);
@@ -197,8 +250,8 @@ export default function AgentDashboard() {
         body: JSON.stringify({ action: 'reject', entryId }),
       });
       loadData();
-    } catch (error) {
-      console.error('Failed to reject entry:', error);
+    } catch (err) {
+      console.error('Failed to reject entry:', err);
     }
     setActionLoading(null);
   };
@@ -232,6 +285,18 @@ export default function AgentDashboard() {
 
           {/* Controls */}
           <div className="flex items-center gap-3">
+            <button
+              onClick={runScan}
+              disabled={actionLoading !== null || isPaused}
+              className="btn"
+            >
+              {actionLoading === 'scan' ? (
+                <RefreshCw className="w-4 h-4 animate-spin" />
+              ) : (
+                <Eye className="w-4 h-4" />
+              )}
+              Scan Quality
+            </button>
             <button
               onClick={togglePause}
               disabled={actionLoading !== null || isRunning}
@@ -316,20 +381,22 @@ export default function AgentDashboard() {
         </AnimatePresence>
 
         {/* Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
+        <div className="grid grid-cols-2 md:grid-cols-6 gap-4 mb-8">
           <StatCard label="Total Runs" value={state?.stats?.totalRuns ?? 0} icon={<Sparkles />} />
           <StatCard label="Discovered" value={state?.stats?.entitiesDiscovered ?? 0} icon={<Database />} />
           <StatCard label="Generated" value={state?.stats?.entriesGenerated ?? 0} icon={<FileText />} />
+          <StatCard label="Reviewed" value={state?.stats?.entriesReviewed ?? 0} icon={<Eye className="text-blue-500" />} />
           <StatCard label="Approved" value={state?.stats?.entriesApproved ?? 0} icon={<CheckCircle className="text-green-500" />} />
-          <StatCard label="Pending" value={pending.length} icon={<Clock className="text-yellow-500" />} highlight />
+          <StatCard label="Pending" value={pending.length + reviewQueue.length} icon={<Clock className="text-yellow-500" />} highlight />
         </div>
 
         {/* Tabs */}
-        <div className="flex gap-2 mb-6 border-b border-[var(--border-subtle)]">
+        <div className="flex gap-2 mb-6 border-b border-[var(--border-subtle)] overflow-x-auto">
           {[
             { id: 'overview', label: 'Overview' },
             { id: 'queue', label: 'Discovery Queue', count: status?.queue?.queued },
             { id: 'review', label: 'Pending Review', count: pending.length },
+            { id: 'quality', label: 'Quality Issues', count: reviewQueue.length },
             { id: 'history', label: 'History' },
           ].map(tab => (
             <button
@@ -354,7 +421,7 @@ export default function AgentDashboard() {
         {/* Tab Content */}
         <AnimatePresence mode="wait">
           {activeTab === 'overview' && (
-            <OverviewTab status={status} queue={queue} pending={pending} />
+            <OverviewTab status={status} queue={queue} pending={pending} reviewQueue={reviewQueue} />
           )}
           {activeTab === 'queue' && (
             <QueueTab queue={queue} />
@@ -369,6 +436,9 @@ export default function AgentDashboard() {
               onPreview={setPreviewEntry}
               actionLoading={actionLoading}
             />
+          )}
+          {activeTab === 'quality' && (
+            <QualityTab reviewQueue={reviewQueue} />
           )}
           {activeTab === 'history' && (
             <HistoryTab />
@@ -431,11 +501,13 @@ function StatCard({
 function OverviewTab({ 
   status, 
   queue, 
-  pending 
+  pending,
+  reviewQueue,
 }: { 
   status: AgentStatus | null;
   queue: QueueEntity[];
   pending: PendingEntry[];
+  reviewQueue: ReviewQueueEntry[];
 }) {
   return (
     <motion.div
@@ -502,27 +574,57 @@ function OverviewTab({
         )}
       </div>
 
+      {/* Quality Issues */}
+      <div className="bg-[var(--black-raised)] border border-[var(--border-subtle)] rounded-lg p-6">
+        <h3 className="font-[var(--font-display)] text-sm tracking-wider uppercase mb-4">
+          Quality Issues
+        </h3>
+        {reviewQueue.length === 0 ? (
+          <p className="text-[var(--text-muted)] text-sm">No quality issues found. Run a scan to check.</p>
+        ) : (
+          <div className="space-y-3">
+            {reviewQueue.slice(0, 5).map(entry => (
+              <div key={entry.id} className="flex items-center justify-between">
+                <div>
+                  <div className="font-medium">{entry.entryName}</div>
+                  <div className="text-xs text-[var(--text-muted)]">
+                    {entry.issues.length} issues • Score: {entry.score}
+                  </div>
+                </div>
+                <span className={`text-xs px-2 py-0.5 rounded ${
+                  entry.score >= 70 ? 'bg-yellow-500/20 text-yellow-400' :
+                  entry.score >= 50 ? 'bg-orange-500/20 text-orange-400' :
+                  'bg-red-500/20 text-red-400'
+                }`}>
+                  {entry.score}%
+                </span>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+
       {/* Config Summary */}
-      <div className="bg-[var(--black-raised)] border border-[var(--border-subtle)] rounded-lg p-6 md:col-span-2">
+      <div className="bg-[var(--black-raised)] border border-[var(--border-subtle)] rounded-lg p-6">
         <h3 className="font-[var(--font-display)] text-sm tracking-wider uppercase mb-4">
           Configuration
         </h3>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+        <div className="grid grid-cols-2 gap-4 text-sm">
           <div>
             <div className="text-[var(--text-muted)]">Run Interval</div>
             <div>{status?.config?.schedule?.intervalMinutes || 60} minutes</div>
           </div>
           <div>
             <div className="text-[var(--text-muted)]">Entries Per Run</div>
-            <div>{status?.config?.schedule?.maxEntriesPerRun || 3}</div>
+            <div>{status?.config?.schedule?.maxEntriesPerRun || 25}</div>
           </div>
           <div>
             <div className="text-[var(--text-muted)]">Queue Size</div>
             <div>{status?.queue?.queued || 0} entities</div>
           </div>
           <div>
-            <div className="text-[var(--text-muted)]">Total Discovered</div>
-            <div>{status?.queue?.discovered || 0}</div>
+            <div className="text-[var(--text-muted)]">Review Queue</div>
+            <div>{status?.reviewQueue?.queued || 0} entries</div>
           </div>
         </div>
       </div>
@@ -737,8 +839,113 @@ function ReviewTab({
   );
 }
 
+function QualityTab({ reviewQueue }: { reviewQueue: ReviewQueueEntry[] }) {
+  const issueTypes = new Map<string, number>();
+  reviewQueue.forEach(entry => {
+    entry.issues.forEach(issue => {
+      issueTypes.set(issue.type, (issueTypes.get(issue.type) || 0) + 1);
+    });
+  });
+
+  const sortedQueue = [...reviewQueue].sort((a, b) => b.priority - a.priority);
+
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      exit={{ opacity: 0, y: -20 }}
+    >
+      {reviewQueue.length === 0 ? (
+        <div className="text-center py-12 text-[var(--text-muted)]">
+          <Eye className="w-12 h-12 mx-auto mb-4 opacity-50" />
+          <p>No quality issues found</p>
+          <p className="text-sm mt-2">Click &quot;Scan Quality&quot; to check existing entries</p>
+        </div>
+      ) : (
+        <div className="space-y-6">
+          {/* Issue Summary */}
+          <div className="bg-[var(--black-raised)] border border-[var(--border-subtle)] rounded-lg p-4">
+            <h3 className="font-[var(--font-display)] text-sm tracking-wider uppercase mb-3">
+              Issue Summary
+            </h3>
+            <div className="flex flex-wrap gap-2">
+              {Array.from(issueTypes.entries()).map(([type, count]) => (
+                <span
+                  key={type}
+                  className="text-xs px-2 py-1 bg-[var(--border)] rounded"
+                >
+                  {type.replace(/_/g, ' ')}: {count}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          {/* Entries */}
+          <div className="space-y-3">
+            {sortedQueue.map((entry, idx) => (
+              <div
+                key={entry.id}
+                className="bg-[var(--black-raised)] border border-[var(--border-subtle)] rounded-lg p-4"
+              >
+                <div className="flex items-start justify-between">
+                  <div className="flex-1">
+                    <div className="flex items-center gap-3">
+                      <span className="text-[var(--text-muted)] text-sm">#{idx + 1}</span>
+                      <h3 className="font-semibold">{entry.entryName}</h3>
+                      <span className={`text-xs px-2 py-0.5 rounded ${
+                        entry.score >= 70 ? 'bg-yellow-500/20 text-yellow-400' :
+                        entry.score >= 50 ? 'bg-orange-500/20 text-orange-400' :
+                        'bg-red-500/20 text-red-400'
+                      }`}>
+                        Score: {entry.score}%
+                      </span>
+                      <span className="text-xs px-2 py-0.5 bg-[var(--border)] rounded">
+                        {entry.category}
+                      </span>
+                    </div>
+                    <div className="mt-3 space-y-1">
+                      {entry.issues.slice(0, 3).map((issue, i) => (
+                        <div key={i} className="flex items-center gap-2 text-sm">
+                          <span className={`w-2 h-2 rounded-full ${
+                            issue.severity === 'high' ? 'bg-red-500' :
+                            issue.severity === 'medium' ? 'bg-yellow-500' :
+                            'bg-blue-500'
+                          }`} />
+                          <span className="text-[var(--text-secondary)]">{issue.description}</span>
+                        </div>
+                      ))}
+                      {entry.issues.length > 3 && (
+                        <div className="text-xs text-[var(--text-muted)]">
+                          +{entry.issues.length - 3} more issues
+                        </div>
+                      )}
+                    </div>
+                    <div className="flex items-center gap-4 mt-3 text-xs text-[var(--text-muted)]">
+                      <span>Priority: {entry.priority}</span>
+                      <span>Status: {entry.status}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </motion.div>
+  );
+}
+
+interface RunHistory {
+  id: string;
+  startedAt: string;
+  status: string;
+  discovered: number;
+  generated: number;
+  reviewed?: number;
+}
+
 function HistoryTab() {
-  const [history, setHistory] = useState<any[]>([]);
+  const [history, setHistory] = useState<RunHistory[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -789,7 +996,7 @@ function HistoryTab() {
                   <div>
                     <div className="font-medium">{formatTime(run.startedAt)}</div>
                     <div className="text-xs text-[var(--text-muted)]">
-                      Discovered {run.discovered}, Generated {run.generated}
+                      Discovered {run.discovered}, Generated {run.generated}{(run.reviewed ?? 0) > 0 ? `, Reviewed ${run.reviewed}` : ''}
                     </div>
                   </div>
                 </div>

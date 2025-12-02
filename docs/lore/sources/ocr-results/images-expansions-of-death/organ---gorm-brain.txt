@@ -1,0 +1,15 @@
+# OCR Result: organ---gorm-brain.png
+
+Source: rulebooks/extracted/images/expansions-of-death/organ---gorm-brain.png
+Processed: 2025-12-02T18:21:15.109Z
+Tokens: 887
+
+---
+
+**Gorm Brain**
+
+organ
+
+*Shockingly small.*
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: campaign.png
+
+Source: rulebooks/extracted/images/system-ui/campaign.png
+Processed: 2025-12-02T18:30:35.527Z
+Tokens: 444
+
+---
+
+[No text found]
+
+The image appears to be completely blank or white with no visible text content to extract.
+
+---

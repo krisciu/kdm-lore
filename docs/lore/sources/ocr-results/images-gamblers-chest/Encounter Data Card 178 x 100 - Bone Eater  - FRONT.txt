@@ -1,0 +1,44 @@
+# OCR Result: Encounter Data Card 178 x 100 - Bone Eater  - FRONT.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Encounter Data Card 178 x 100 - Bone Eater  - FRONT.png
+Processed: 2025-12-02T18:22:03.501Z
+Tokens: 2036
+
+---
+
+**BONE EATERS**
+
+## Basic Action
+
+**Pick Target**
+- closest threat, in range
+- closest survivor
+- no target: attune
+
+## Move & Attack Target
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2     | 3+       | 2       |         |
+
+If the Bone Eater rolled any **Perfect hits** in this attack, draw an opportunity card.
+
+---
+
+⚠️ **Reminder!**
+During the monster's turn, all encounter monsters perform their Basic Action, one at a time, in order of initiative cards.
+
+---
+
+**Counter Condition**
+At the end of your attack, unless you are in the Bone Eater's blind spot, it draws a counter card.
+
+---
+
+**Instinct: Attune**
+
+*The Bone Eater tenses every muscle fiber in its body and emits a loud and pleasant note from deep within its throat.* It becomes **Toned**.
+
+**Toned:** While a Bone Eater is toned, it suffers -3 movement and gains +3 damage. After performing its Basic Action (including any drawn opportunity cards), the Bone Eater is no longer toned. Track this by placing a toned token (black lantern token) under the monster.
+
+---

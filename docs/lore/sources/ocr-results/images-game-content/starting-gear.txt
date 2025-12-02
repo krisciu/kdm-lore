@@ -1,0 +1,15 @@
+# OCR Result: starting-gear.png
+
+Source: rulebooks/extracted/images/game-content/starting-gear.png
+Processed: 2025-12-02T18:25:09.520Z
+Tokens: 609
+
+---
+
+**SG**
+
+**Starting Gear**
+
+[This appears to be a card back or title page with decorative ornamental borders. The main visible text elements are the "SG" monogram in a circular frame and "Starting Gear" as the title below it. The rest of the image consists of ornate decorative flourishes and borders in a grey/silver color scheme.]
+
+---

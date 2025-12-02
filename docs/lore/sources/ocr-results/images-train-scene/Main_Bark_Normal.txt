@@ -1,0 +1,13 @@
+# OCR Result: Main_Bark_Normal.png
+
+Source: rulebooks/extracted/images/train-scene/Main_Bark_Normal.png
+Processed: 2025-12-02T18:31:07.302Z
+Tokens: 1011
+
+---
+
+[No text found]
+
+This appears to be a decorative background or texture image with a blue and purple color scheme. The image shows what looks like a textured or brushed surface pattern, but does not contain any readable text, game mechanics, card information, or other textual content to extract.
+
+---

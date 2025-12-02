@@ -1,0 +1,13 @@
+# OCR Result: terrain.png
+
+Source: rulebooks/extracted/images/game-content/terrain.png
+Processed: 2025-12-02T18:25:14.212Z
+Tokens: 1728
+
+---
+
+**TERRAIN**
+
+[No other text found - this appears to be a mostly black terrain card or game component with only the title "TERRAIN" visible in white text on the right edge]
+
+---

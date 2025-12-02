@@ -1,0 +1,13 @@
+# OCR Result: mailBox_normal.png
+
+Source: rulebooks/extracted/images/heirlooms/mailBox_normal.png
+Processed: 2025-12-02T18:25:22.726Z
+Tokens: 1757
+
+---
+
+[No text found]
+
+This image appears to be a solid pink/rose colored background with very faint or barely visible elements. I cannot make out any readable text, card names, rules, or other game content from this image. The image may be overexposed, faded, or this could be a card back or decorative element.
+
+---

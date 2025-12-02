@@ -1,0 +1,50 @@
+# OCR Result: final-gear-grid.png
+
+Source: rulebooks/extracted/images/game-content/final-gear-grid.png
+Processed: 2025-12-02T18:24:37.122Z
+Tokens: 1977
+
+---
+
+**Survivor's Act**
+
+At the start of your act, gain:
++1⚪ (move)
++1⚪ (activation)
+
+During your act, you may do the following in any order:
+
+**Spend ⚪**
+Move once a number of spaces up to your current movement attribute.
+
+**Spend ⚪**
+Attack, activate gear, terrain, or special rules.
+
+At the end of your act, lose unspent ⚪⚪.
+
+**Survival Actions**
+
+You may spend survival to perform the following survival actions:
+
+**Dodge:** Avoid the damage from a hit.
+**Dash:** Gain +1⚪ and use it immediately.
+**Surge:** Gain +1⚪ and use it immediately.
+**Encourage:** Call out to a fellow survivor. They stand if they are knocked down.
+
+**Unarmed Combat**
+
+A survivor may always fight with their Fist & Tooth. The profile is below:
+
+**Fist & Tooth**
+*weapon, melee, fist & tooth*
+
+⚪
+2
+8+
+0
+
+[Image of a fist and claw illustration]
+
+**Deadly:** +1 luck when you attack with this weapon.
+
+---

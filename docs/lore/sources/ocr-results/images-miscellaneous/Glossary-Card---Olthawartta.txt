@@ -1,0 +1,20 @@
+# OCR Result: Glossary-Card---Olthawartta.png
+
+Source: rulebooks/extracted/images/miscellaneous/Glossary-Card---Olthawartta.png
+Processed: 2025-12-02T18:29:25.032Z
+Tokens: 1701
+
+---
+
+**Olthawartta**
+*- living glossary update -*
+
+**Olthawartta:** At the start of your act, you may declare "Olthawartta X" in a loud, booming voice. If you do, ignore the effects of X special rules until the end of your act among the following:
+
+**Cumbersome, Early Iron, Frail, Sentient, Slow, Unwieldy.** X cannot be more than your total pairs of red and blue affinities. When your act ends, gain +X Hurt XP.
+
+When you trigger your 2nd Hurt XP milestone, gain the **Heart of Olthawartta** secret fighting art.
+
+glossary.kingdomdeath.com
+
+---

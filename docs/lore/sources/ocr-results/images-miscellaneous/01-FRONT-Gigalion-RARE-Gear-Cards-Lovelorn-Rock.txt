@@ -1,0 +1,15 @@
+# OCR Result: 01-FRONT-Gigalion-RARE-Gear-Cards-Lovelorn-Rock.png
+
+Source: rulebooks/extracted/images/miscellaneous/01-FRONT-Gigalion-RARE-Gear-Cards-Lovelorn-Rock.png
+Processed: 2025-12-02T18:25:26.499Z
+Tokens: 553
+
+---
+
+**Lovelorn Rock**
+
+*item, heavy, bone, stone*
+
+*You will never be apart.*
+
+---

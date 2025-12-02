@@ -1,0 +1,13 @@
+# OCR Result: Dragon King Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Dragon King Gear.png
+Processed: 2025-12-02T18:17:33.128Z
+Tokens: 1591
+
+---
+
+**Dragon King Gear**
+
+[This appears to be a card back or title card with minimal text. The image shows only the title "Dragon King Gear" in white text on a black background. No other visible text, rules, or game mechanics are present.]
+
+---

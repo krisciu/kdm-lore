@@ -1,0 +1,13 @@
+# OCR Result: mail.png
+
+Source: rulebooks/extracted/images/system-ui/mail.png
+Processed: 2025-12-02T18:30:57.419Z
+Tokens: 344
+
+---
+
+[No text found]
+
+The image appears to be completely blank or white with no visible text, cards, or game elements to extract from.
+
+---

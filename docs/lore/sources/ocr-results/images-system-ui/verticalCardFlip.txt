@@ -1,0 +1,13 @@
+# OCR Result: verticalCardFlip.png
+
+Source: rulebooks/extracted/images/system-ui/verticalCardFlip.png
+Processed: 2025-12-02T18:31:02.041Z
+Tokens: 599
+
+---
+
+[No text found]
+
+The image appears to be very faded or washed out, making any text that may be present illegible. I can see what appears to be the outline or silhouette of a card layout, but the content is too light or overexposed to read any specific text, titles, descriptions, or game mechanics.
+
+---

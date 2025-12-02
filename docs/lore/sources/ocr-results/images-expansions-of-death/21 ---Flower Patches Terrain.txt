@@ -1,0 +1,22 @@
+# OCR Result: 21 ---Flower Patches Terrain.png
+
+Source: rulebooks/extracted/images/expansions-of-death/21 ---Flower Patches Terrain.png
+Processed: 2025-12-02T18:17:07.834Z
+Tokens: 1677
+
+---
+
+**★ Flower Patches**
+
+⚡: Pick a flower. Archive the terrain tile and roll 1d10. Add +1 to your roll if you have any Sickles in your gear grid.
+
+| Roll | Result |
+|------|--------|
+| 1 | *The flower bursts, overwhelming your senses. You are knocked down and gain 1 bleeding token.* |
+| 2+ | *A glorious bloom! Gain +1 luck token and 1 random Flower resource.* |
+
+---
+
+⬇ **Set up within 2 spaces of a board edge.**
+
+---

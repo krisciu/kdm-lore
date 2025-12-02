@@ -1,0 +1,62 @@
+# OCR Result: 04-Survivor-Gear-Grids-Breccia.png
+
+Source: rulebooks/extracted/images/miscellaneous/04-Survivor-Gear-Grids-Breccia.png
+Processed: 2025-12-02T18:27:28.524Z
+Tokens: 1959
+
+---
+
+**Breccia**
+
+**Leather Cuirass**
+3 
+armor, set, leather
+
+**Leather Mask**
+3
+armor, set, leather
+
+*When you depart, gain +2 insanity.*
+
+**Leather Skirt**
+3
+armor, set, leather
+
+**Hunter Whip**
+weapon, melee, whip, leather
+Speed: 2
+Accuracy: 6
+Strength: 3
+
+On a **Perfect hit**, discard 1 mood in play.
+
+**Lucky Charm**
+item, jewelry
+
++1 luck
+
+**Brain Mint**
+item, consumable
+
+**Consume:** Remove all your tokens and stand up. You may use this while knocked down. Use once per showdown.
+
+**Leather Bracers**
+3
+armor, set, leather
+
+*When you depart, gain +2 survival.*
+
+**Leather Boots**
+3
+armor, set, leather
+
+*At the end of your act, you may move 1 space.*
+
+**Monster Grease**
+item, consumable, soluble, stinky
+
+*Gain +1 evasion.*
+
++1 evasion
+
+---

@@ -20,12 +20,20 @@ import {
   loadPendingEntries,
   updatePendingEntryStatus,
   getNextEntityToProcess,
+  loadReviewQueue,
+  addToReviewQueue,
+  getNextReviewEntry,
+  getReviewQueueStats,
+  shouldRunScan,
+  recordScanComplete,
   AgentConfig,
 } from '@/lib/agent-core';
 import { runDiscovery, getDiscoveryStats } from '@/lib/entity-discovery';
 import { generateEntryForEntity, saveApprovedEntry } from '@/lib/entry-generator';
 import { getImageStats } from '@/lib/image-analyzer';
 import { getCitationStats } from '@/lib/citation-manager';
+import { scanAllEntries, scanEntry, calculateReviewPriority, ScannedEntry } from '@/lib/entry-scanner';
+import { processReviewEntry, saveApprovedReview } from '@/lib/entry-reviewer';
 
 // Helper for consistent error responses
 function errorResponse(message: string, status = 500, details?: string) {
@@ -67,9 +75,10 @@ export async function GET(request: NextRequest) {
     switch (action) {
       case 'status': {
         const status = await safeCall(getAgentStatus, {
-          state: { status: 'idle', lastRun: null, nextRun: null, currentTask: null, error: null, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0 }, history: [] },
-          config: { schedule: { intervalMinutes: 60, maxEntriesPerRun: 3, apiDelayMs: 2000 }, ai: { model: 'claude-opus-4-5-20251101', maxTokens: 4096, temperature: 0.7 }, sources: { priority: ['shop', 'rulebook', 'newsletter', 'community'], imageDirectories: [] } },
+          state: { status: 'idle', lastRun: null, nextRun: null, lastScan: null, currentTask: null, error: null, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0 }, history: [] },
+          config: { schedule: { intervalMinutes: 60, maxEntriesPerRun: 25, apiDelayMs: 1500 }, ai: { model: 'claude-opus-4-5-20251101', maxTokens: 4096, temperature: 0.7 }, sources: { priority: ['shop', 'rulebook', 'newsletter', 'community'], imageDirectories: [] } },
           queue: { discovered: 0, queued: 0, generating: 0, pendingReview: 0 },
+          reviewQueue: { total: 0, queued: 0, reviewing: 0 },
           storageMode: 'file' as const,
         });
         return NextResponse.json(status);
@@ -112,10 +121,30 @@ export async function GET(request: NextRequest) {
       }
 
       case 'history': {
-        const state = await safeCall(loadState, { history: [], stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0 }, status: 'idle', lastRun: null, nextRun: null, currentTask: null, error: null });
+        const state = await safeCall(loadState, { history: [], stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0 }, status: 'idle', lastRun: null, nextRun: null, lastScan: null, currentTask: null, error: null });
         return NextResponse.json({ 
           runs: state.history || [],
           stats: state.stats || {},
+        });
+      }
+
+      case 'review-queue': {
+        const queue = await safeCall(loadReviewQueue, []);
+        const stats = await safeCall(getReviewQueueStats, { total: 0, queued: 0, reviewing: 0, completed: 0, byCategory: {}, byIssueType: {} });
+        return NextResponse.json({ 
+          entries: queue.filter(e => e.status === 'queued' || e.status === 'reviewing'),
+          stats,
+        });
+      }
+
+      case 'scan-status': {
+        const state = await safeCall(loadState, { lastScan: null, status: 'idle', lastRun: null, nextRun: null, currentTask: null, error: null, stats: { totalRuns: 0, entitiesDiscovered: 0, entriesGenerated: 0, entriesApproved: 0, entriesRejected: 0, entriesReviewed: 0 }, history: [] });
+        const needsScan = await shouldRunScan();
+        const reviewStats = await safeCall(getReviewQueueStats, { total: 0, queued: 0, reviewing: 0, completed: 0, byCategory: {}, byIssueType: {} });
+        return NextResponse.json({
+          lastScan: state.lastScan,
+          needsScan,
+          reviewStats,
         });
       }
 
@@ -180,39 +209,97 @@ export async function POST(request: NextRequest) {
 
         const config = await loadConfig();
         const runLog = await startRun();
+        let entriesProcessed = 0;
 
         try {
+          // Stage 0: Check if scan needed
+          const needsScan = await shouldRunScan();
+          if (needsScan) {
+            await updateState({ currentTask: 'Scanning existing entries for quality issues...' });
+            const scanResult = scanAllEntries();
+            
+            // Add entries with issues to review queue
+            for (const entry of scanResult.entries) {
+              if (entry.issues.length > 0 && entry.score < 80) {
+                await addToReviewQueue({
+                  filePath: entry.filePath,
+                  entryName: entry.entryName,
+                  category: entry.category,
+                  issues: entry.issues,
+                  priority: calculateReviewPriority(entry),
+                  score: entry.score,
+                });
+              }
+            }
+            
+            await recordScanComplete();
+          }
+
           // Stage 1: Discovery
           await updateState({ currentTask: 'Discovering entities from sources...' });
           const discoveryResult = await runDiscovery({
             useAI: true,
             apiKey,
-            maxSources: 10,
+            maxSources: 15,
           });
           runLog.discovered = discoveryResult.newEntities;
 
-          // Stage 2: Generate entries
-          await updateState({ currentTask: 'Generating lore entries...' });
-          const entitiesToProcess = Math.min(
-            config.schedule.maxEntriesPerRun,
-            discoveryResult.newEntities
-          );
+          // Stage 2: Process mix of new entries and reviews
+          const maxEntries = config.schedule.maxEntriesPerRun;
+          
+          // Split between new generation and reviews (70% new, 30% reviews)
+          const newEntryQuota = Math.ceil(maxEntries * 0.7);
+          const reviewQuota = Math.floor(maxEntries * 0.3);
 
-          for (let i = 0; i < entitiesToProcess; i++) {
+          // Generate new entries
+          await updateState({ currentTask: 'Generating new lore entries...' });
+          for (let i = 0; i < newEntryQuota && entriesProcessed < maxEntries; i++) {
             const entity = await getNextEntityToProcess();
             if (!entity) break;
 
-            await updateState({ currentTask: `Generating entry for ${entity.name}...` });
+            await updateState({ currentTask: `Generating entry for ${entity.name}... (${entriesProcessed + 1}/${maxEntries})` });
             
             const entry = await generateEntryForEntity(entity, apiKey, {
-              analyzeImages: false, // Skip vision for speed
+              analyzeImages: false,
             });
 
             if (entry) {
               runLog.generated++;
+              entriesProcessed++;
             }
 
-            // Rate limiting
+            await new Promise(resolve => setTimeout(resolve, config.schedule.apiDelayMs));
+          }
+
+          // Review existing entries
+          await updateState({ currentTask: 'Reviewing existing entries...' });
+          for (let i = 0; i < reviewQuota && entriesProcessed < maxEntries; i++) {
+            const reviewEntry = await getNextReviewEntry();
+            if (!reviewEntry) break;
+
+            await updateState({ currentTask: `Reviewing ${reviewEntry.entryName}... (${entriesProcessed + 1}/${maxEntries})` });
+            
+            // Create a scanned entry from the review queue entry
+            const scannedEntry: ScannedEntry = {
+              filePath: reviewEntry.filePath,
+              fileName: reviewEntry.filePath.split('/').pop() || '',
+              entryName: reviewEntry.entryName,
+              category: reviewEntry.category,
+              issues: reviewEntry.issues.map(issue => ({
+                ...issue,
+                type: issue.type as ScannedEntry['issues'][0]['type'],
+              })),
+              score: reviewEntry.score,
+              lastScanned: new Date().toISOString(),
+            };
+            
+            const result = await processReviewEntry(reviewEntry, scannedEntry);
+
+            if (result) {
+              runLog.reviewed++;
+              entriesProcessed++;
+            }
+
             await new Promise(resolve => setTimeout(resolve, config.schedule.apiDelayMs));
           }
 
@@ -222,6 +309,7 @@ export async function POST(request: NextRequest) {
             success: true,
             discovered: runLog.discovered,
             generated: runLog.generated,
+            reviewed: runLog.reviewed,
             duration: Date.now() - new Date(runLog.startedAt).getTime(),
           });
 
@@ -321,43 +409,6 @@ export async function POST(request: NextRequest) {
         }
       }
 
-      case 'approve': {
-        const { entryId } = body;
-        if (!entryId) {
-          return NextResponse.json({ error: 'Entry ID required' }, { status: 400 });
-        }
-
-        const entries = await loadPendingEntries();
-        const entry = entries.find(e => e.id === entryId);
-
-        if (!entry) {
-          return NextResponse.json({ error: 'Entry not found' }, { status: 404 });
-        }
-
-        // Save to lore directory
-        const saveResult = await saveApprovedEntry(entry);
-
-        if (saveResult.success) {
-          // Update entry status
-          await updatePendingEntryStatus(entryId, 'approved');
-
-          // Update stats
-          const state = await loadState();
-          state.stats.entriesApproved++;
-          await updateState({ stats: state.stats });
-
-          return NextResponse.json({
-            success: true,
-            path: saveResult.path,
-          });
-        } else {
-          return NextResponse.json({
-            success: false,
-            error: saveResult.error,
-          }, { status: 500 });
-        }
-      }
-
       case 'reject': {
         const { entryId, reason } = body;
         if (!entryId) {
@@ -401,6 +452,167 @@ export async function POST(request: NextRequest) {
 
         await saveConfig(newConfig);
         return NextResponse.json({ success: true, config: newConfig });
+      }
+
+      case 'scan': {
+        // Force a scan of existing entries
+        await updateState({ 
+          status: 'running', 
+          currentTask: 'Scanning existing entries...' 
+        });
+
+        try {
+          const scanResult = scanAllEntries();
+          let addedToQueue = 0;
+
+          // Add entries with issues to review queue
+          for (const entry of scanResult.entries) {
+            if (entry.issues.length > 0 && entry.score < 80) {
+              await addToReviewQueue({
+                filePath: entry.filePath,
+                entryName: entry.entryName,
+                category: entry.category,
+                issues: entry.issues,
+                priority: calculateReviewPriority(entry),
+                score: entry.score,
+              });
+              addedToQueue++;
+            }
+          }
+
+          await recordScanComplete();
+          await updateState({ status: 'idle', currentTask: null });
+
+          return NextResponse.json({
+            success: true,
+            totalScanned: scanResult.totalScanned,
+            entriesWithIssues: scanResult.entriesWithIssues,
+            addedToQueue,
+            issuesByType: scanResult.issuesByType,
+            duration: scanResult.scanDuration,
+          });
+        } catch (error) {
+          await updateState({ status: 'error', error: String(error) });
+          throw error;
+        }
+      }
+
+      case 'review': {
+        // Review a specific entry
+        if (!apiKey) {
+          return NextResponse.json({
+            error: 'No API key configured',
+          }, { status: 400 });
+        }
+
+        const { entryPath } = body;
+        if (!entryPath) {
+          return NextResponse.json({ error: 'Entry path required' }, { status: 400 });
+        }
+
+        await updateState({ 
+          status: 'running', 
+          currentTask: `Reviewing entry...` 
+        });
+
+        try {
+          // Scan the entry first
+          const scannedEntry = scanEntry(entryPath);
+          
+          if (scannedEntry.issues.length === 0) {
+            await updateState({ status: 'idle', currentTask: null });
+            return NextResponse.json({
+              success: true,
+              message: 'Entry has no issues to review',
+              score: scannedEntry.score,
+            });
+          }
+
+          // Add to review queue
+          const reviewEntry = await addToReviewQueue({
+            filePath: scannedEntry.filePath,
+            entryName: scannedEntry.entryName,
+            category: scannedEntry.category,
+            issues: scannedEntry.issues,
+            priority: calculateReviewPriority(scannedEntry),
+            score: scannedEntry.score,
+          });
+
+          // Process the review
+          const result = await processReviewEntry(reviewEntry, scannedEntry);
+
+          await updateState({ status: 'idle', currentTask: null });
+
+          if (result) {
+            return NextResponse.json({
+              success: true,
+              pendingEntryId: result.id,
+              issues: scannedEntry.issues.length,
+              changes: result.frontmatter.changes,
+            });
+          } else {
+            return NextResponse.json({
+              success: false,
+              error: 'Failed to generate review',
+            });
+          }
+        } catch (error) {
+          await updateState({ status: 'error', error: String(error) });
+          throw error;
+        }
+      }
+
+      case 'approve': {
+        const { entryId } = body;
+        if (!entryId) {
+          return NextResponse.json({ error: 'Entry ID required' }, { status: 400 });
+        }
+
+        const entries = await loadPendingEntries();
+        const entry = entries.find(e => e.id === entryId);
+
+        if (!entry) {
+          return NextResponse.json({ error: 'Entry not found' }, { status: 404 });
+        }
+
+        // Check if this is a review (has originalPath) or new entry
+        const isReview = entry.frontmatter.reviewType === 'improvement';
+        let saveResult;
+
+        if (isReview) {
+          // Save as update to existing file
+          const saved = await saveApprovedReview(entry);
+          saveResult = {
+            success: saved,
+            path: entry.frontmatter.originalPath as string,
+            error: saved ? undefined : 'Failed to save review',
+          };
+        } else {
+          // Save as new entry
+          saveResult = await saveApprovedEntry(entry);
+        }
+
+        if (saveResult.success) {
+          await updatePendingEntryStatus(entryId, 'approved');
+
+          const state = await loadState();
+          state.stats.entriesApproved++;
+          if (isReview) {
+            state.stats.entriesReviewed++;
+          }
+          await updateState({ stats: state.stats });
+
+          return NextResponse.json({
+            success: true,
+            path: saveResult.path,
+            type: isReview ? 'review' : 'new',
+          });
+        } else {
+          return NextResponse.json({
+            success: false,
+            error: saveResult.error,
+          }, { status: 500 });
+        }
       }
 
       default:

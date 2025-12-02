@@ -1,0 +1,23 @@
+# OCR Result: Gorm-AI_B---Thunder-Foot.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Thunder-Foot.png
+Processed: 2025-12-02T18:19:43.349Z
+Tokens: 1633
+
+---
+
+**Thunder Foot**
+
+**Mood**
+
+When this comes into play, draw **A**.
+
+Any survivor that ends their act in the **Stomping Zone** suffers **knockback 5** and is **knocked down**.
+
+**Stomping Zone**
+
+[Grid diagram showing a game board with blue highlighted squares forming a cross pattern around a central dark square with an upward arrow]
+
+When the monster is wounded, discard this card.
+
+---

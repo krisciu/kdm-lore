@@ -1,0 +1,13 @@
+# OCR Result: Art-Card---Dream-of-the-Heart---FRONT.png
+
+Source: rulebooks/extracted/images/miscellaneous/Art-Card---Dream-of-the-Heart---FRONT.png
+Processed: 2025-12-02T18:27:46.342Z
+Tokens: 1803
+
+---
+
+[No text found]
+
+This appears to be a purely artistic illustration showing a robed figure in pink/magenta tones surrounded by white lightning or energy tendrils against a dark purple/blue background with skulls visible in the sky. The image appears to be decorative artwork rather than a game card with readable text elements.
+
+---

@@ -1,0 +1,24 @@
+# OCR Result: Gorm-AI_A---Ifrasonic-Roar.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Ifrasonic-Roar.png
+Processed: 2025-12-02T18:18:31.527Z
+Tokens: 1626
+
+---
+
+**Infrasonic Roar**
+
+**Pick Target**
+• all threats
+• no target: **illuminate**
+
+---
+
+**Intimidate All Targets**
+Roll 1d10 for each target. On result of 3+, the target suffers ★ brain damage and ★ damage to the head location.
+
+---
+
+Full move the Gorm towards the furthest threat.
+
+---

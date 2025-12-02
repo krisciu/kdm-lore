@@ -1,0 +1,125 @@
+# Sacred Backer Time 1.5 Edition #1
+Post ID: 2838196
+Date: 2020-05-15T17:17:12-04:00
+Source: https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/2838196
+Images: 19
+
+---
+
+Hello Everyone! I am capping this little update at around 2 hours, it won’t have edits, massive images or any of the bells and whistles that some of our updates have.
+
+I am committed to doing this for today and the next 3 weeks, so we’ll see how it goes! (After that I will prob move back to updates when we have significant news to share.)
+
+This is not an open question session. I won't be lingering to answer every question, but I will do my best!
+
+## Developments
+
+Pinups of Death
+
+Moving forward ASAP with the Pinups of Death collections. I have finalized the content that will be going in each one and assets are already coming in! For example, set III will come with some new universal numbered cards!
+
+[IMAGE]
+
+And another will have a bikini variation of an armor piece! (Armor rating 0 of course.)
+
+[IMAGE]
+
+Stone Face Base Inserts
+
+I couldn’t find the scan data for the 50mm face base, searched high and low for it! But that’s ok, we are making 5 fresh 50mm bases and a fresh 100mm to go into the Base Insert Pack. I Think we’ll also sneak in a lantern or two onto the sprue for base decorations. 
+
+We are also gonna add a few more 30mm variations just to spice it up a bit. So there will be 16x 30mm bases in the pack instead of 10. Enough to base 4 groups of survivors!
+
+[IMAGE]
+
+I am aiming at finalizing that and moving it into engineering next week. So if we push as hard as possible, it might be ready for tooling… End of May? We’ll see!
+
+Showdown Tracker
+
+The Showdown Tracker continues to make steady progress. I uh… might have slightly tormented one of the dev’s as I was VERY insistent on ensuring the dice manipulation felt much better. I even took 10 mins out of the day to record some videos and create sound effect clips for him to cut up and use.
+
+このコンテンツを表示するにはHTML5対応のブラウザが必要です。
+
+[IMAGE]
+
+動画を再生
+
+音ありでリプレイ
+
+音声ありで 
+ 再生
+
+00:00
+
+00:00
+
+Website
+
+I’ve got someone finally assigned to cleaning up our website a bit. Right now the way it's structured, adding something simple like a link to build.kingdomdeath.com in the main nav was a huge pain in the ass. Pretty silly! All the changes are under the hood, but it will allow us to do things like, quickly deploy a section to show off entries from the fan art contest.
+
+Titan Beeeeeees!
+
+The team has selected, reached out and packed up the Titan Bees for a select few to paint! I CAN'T WAIT TO SEE THEM, THANK YOU!!! TAKE CARE OF MAHBEEE!
+
+Fan Art Contest
+
+Speaking of which, the rules for the contest are come along! It's getting wordy, but that’s just how it has to be to ensure everything stays cool. I was hoping to roll that out today, but looks like it’s not quite ready yet.
+
+Crimson Crockery
+
+The Crimson Crockery came out pretty amazing. Another fantastic piece by Nat Kay Cochran. I am soooo thankful to her! Maybe next week I’ll share with you the endless noodling and long winded challenge that Atnas was. Towards the end it was just Nat Kay and I rapid firing edits back and forth. Im not sure if I mentioned it before, but she is the artist that illustrated the King!
+
+[IMAGE]
+
+And a darker invert version, not sure which I like more yet:
+
+[IMAGE]
+
+Kings Coin
+
+Sculpting on the coin has begun! Here is an early WIP. No final design for the back yet.
+
+[IMAGE]
+
+Blue Collar Survivors / Everyday Heroes
+
+The blue collar / everyday heroes survivors will be a boxed set of plastic survivors + artwork. All profits will be donated to COVID relief program(s). Stay tuned for more details! I have yet to decide on a final name for the set and I am open to ideas. While Everyday Heroes is compelling, not everyone delivering packages, driving public transit or working on the front lines feels heroic. Most of them are just doing their job while many of us do our part and shelter.
+
+To me tho, they are heroic!!! SO THANK YOU!!!
+
+[IMAGE]
+
+Ivory Dragon
+
+Slowly it nears completion!
+
+[IMAGE]
+
+[IMAGE]
+
+Enjoy your weekend!
+
+Indoors of course!!!!
+
+---
+
+## Image URLs
+1. https://ksr-ugc.imgix.net/assets/029/102/966/855398a8ccc0de4fc6a6b1a887a363ab_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1589574597&auto=format&frame=1&q=92&s=2dd2992646e4f1f76694e73ae6463cd9
+2. https://ksr-ugc.imgix.net/assets/029/102/966/855398a8ccc0de4fc6a6b1a887a363ab_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589574597&frame=1&s=6a449fcad7a9835e58a1aab25bda9f7f
+3. https://ksr-ugc.imgix.net/assets/029/102/971/4fabe093cfd739b3229b992d0509dbac_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1589574639&auto=format&frame=1&q=92&s=411f7c2dd6796983fcee2a4efb08ae46
+4. https://ksr-ugc.imgix.net/assets/029/102/971/4fabe093cfd739b3229b992d0509dbac_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589574639&frame=1&s=025f33e99b46ed0c66db4644f6bed066
+5. https://ksr-ugc.imgix.net/assets/029/103/006/fe174ce23e3c3f56efcdac7feaed2042_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1589574814&auto=format&frame=1&lossless=true&s=d97167b81a2c8552b7e51659633617a1
+6. https://ksr-ugc.imgix.net/assets/029/103/006/fe174ce23e3c3f56efcdac7feaed2042_original.png?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589574814&frame=1&s=6e06793374cab31f2d2a21478aea5b19
+7. https://d15chbti7ht62o.cloudfront.net/assets/029/103/191/77acf3bac54d8acb75d84778b6c89696_h264_high.jpg?2020
+8. https://ksr-ugc.imgix.net/assets/029/103/239/79cfbf398191466d1a69adb904448cf5_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1589576242&auto=format&frame=1&lossless=true&s=6e393165a464d9095a5f386b9b7afaf4
+9. https://ksr-ugc.imgix.net/assets/029/103/239/79cfbf398191466d1a69adb904448cf5_original.png?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589576242&frame=1&s=e3d335fe7aef2f8fa7d287ea930b5942
+10. https://ksr-ugc.imgix.net/assets/029/103/251/c784affc27eb139317da88e9642c779f_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1589576285&auto=format&frame=1&lossless=true&s=ae983d30aaf3056497c9bcf1f40d50f8
+11. https://ksr-ugc.imgix.net/assets/029/103/251/c784affc27eb139317da88e9642c779f_original.png?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589576285&frame=1&s=68c8de41d81f7dbc051601198550c2a6
+12. https://ksr-ugc.imgix.net/assets/029/103/361/3bdf9698dd41de89465cb721a32c57bd_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1589576881&auto=format&frame=1&q=92&s=19fb7da53f2e122af9a2bbe84669efce
+13. https://ksr-ugc.imgix.net/assets/029/103/361/3bdf9698dd41de89465cb721a32c57bd_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589576881&frame=1&s=2961cb99946ad340ff6d270d9ac03dd3
+14. https://ksr-ugc.imgix.net/assets/029/103/348/840f5a1123981595d82a3f6b921f8ad2_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1589576810&auto=format&frame=1&q=92&s=c35b607a8c3ea9d516dbe29ba3361344
+15. https://ksr-ugc.imgix.net/assets/029/103/348/840f5a1123981595d82a3f6b921f8ad2_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589576810&frame=1&s=fbbc05497f96c1da787c239a45e6e160
+16. https://ksr-ugc.imgix.net/assets/029/103/258/c03288b37c1fb41863cd77569b92cb5d_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1589576340&auto=format&frame=1&q=92&s=37cfaa297e4526e1f290ac0afa725a0c
+17. https://ksr-ugc.imgix.net/assets/029/103/258/c03288b37c1fb41863cd77569b92cb5d_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589576340&frame=1&s=c61543ffdcc5fba5035c34e6fab3fe2a
+18. https://ksr-ugc.imgix.net/assets/029/103/266/14b159c49e90ea82eea2305fab31f47f_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1589576380&auto=format&frame=1&q=92&s=646e3ddf4943c1f0feefcbb77745eb1c
+19. https://ksr-ugc.imgix.net/assets/029/103/266/14b159c49e90ea82eea2305fab31f47f_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1589576380&frame=1&s=ed99cd47b8f311fcf5eae1dc6ddbfb0d

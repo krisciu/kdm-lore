@@ -63,7 +63,8 @@
     "brief": "A spark of crafting inspiration that accompanies insight gleaned about the world. When survivors reach their insights, they draw a Pattern that describes what to use and how to craft brand new gear.",
     "sourceFiles": [
       "official-site/shop/batch-scraped/10th-anniversary-survivors.txt",
-      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/batch-scraped/frogdog-expansion.txt"
     ],
     "images": [],
     "priority": 2,
@@ -517,7 +518,7 @@
     "priority": 4,
     "id": "entity-1764695925960-4udcjg",
     "discoveredAt": "2025-12-02T17:18:45.960Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Tuskworks",
@@ -559,7 +560,7 @@
     "priority": 4,
     "id": "entity-1764695925961-mzj168",
     "discoveredAt": "2025-12-02T17:18:45.961Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "The Gambler",
@@ -601,7 +602,7 @@
     "priority": 4,
     "id": "entity-1764695925961-8qxwef",
     "discoveredAt": "2025-12-02T17:18:45.961Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Smog Singers",
@@ -615,7 +616,7 @@
     "priority": 4,
     "id": "entity-1764695925961-bc2clw",
     "discoveredAt": "2025-12-02T17:18:45.961Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Bone Eaters",
@@ -629,7 +630,7 @@
     "priority": 4,
     "id": "entity-1764695925961-0q87me",
     "discoveredAt": "2025-12-02T17:18:45.961Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "The King",
@@ -909,7 +910,7 @@
     "priority": 4,
     "id": "entity-1764698885192-08jyiq",
     "discoveredAt": "2025-12-02T18:08:05.192Z",
-    "status": "queued"
+    "status": "pending_review"
   },
   {
     "name": "Citadel",
@@ -951,7 +952,7 @@
     "priority": 4,
     "id": "entity-1764698885195-n0he12",
     "discoveredAt": "2025-12-02T18:08:05.195Z",
-    "status": "queued"
+    "status": "generating"
   },
   {
     "name": "Scout Discovery and Tablet",
@@ -1035,6 +1036,429 @@
     "priority": 3,
     "id": "entity-1764698885199-azkaic",
     "discoveredAt": "2025-12-02T18:08:05.199Z",
+    "status": "queued"
+  },
+  {
+    "name": "Squires of the Citadel",
+    "type": "concept",
+    "subType": null,
+    "brief": "A 5 lantern year campaign exploring the secretive life of squires who scurry in the shadows of the citadel, serving under the restless guardian.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298691-dixv5e",
+    "discoveredAt": "2025-12-02T18:31:38.691Z",
+    "status": "queued"
+  },
+  {
+    "name": "Constellation",
+    "type": "concept",
+    "subType": null,
+    "brief": "A game system unique to the Dragon King expansion, represented by 8 constellation cards that appear to be part of the People of the Stars campaign mechanics.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/dragon-king-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298692-qz1jgj",
+    "discoveredAt": "2025-12-02T18:31:38.692Z",
+    "status": "queued"
+  },
+  {
+    "name": "Crimson Crocodile Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set crafted from Crimson Crocodile resources. Includes 4 miniatures.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298695-r5nfhf",
+    "discoveredAt": "2025-12-02T18:31:38.695Z",
+    "status": "queued"
+  },
+  {
+    "name": "Smog Singer Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set crafted from Smog Singer resources. Includes 4 miniatures.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298695-axp247",
+    "discoveredAt": "2025-12-02T18:31:38.695Z",
+    "status": "queued"
+  },
+  {
+    "name": "Death King Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set associated with The King monster. Includes 4 miniatures.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298696-mu0o7c",
+    "discoveredAt": "2025-12-02T18:31:38.696Z",
+    "status": "queued"
+  },
+  {
+    "name": "Beast Hunter Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set included in the Gambler's Chest expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298696-3mxe68",
+    "discoveredAt": "2025-12-02T18:31:38.696Z",
+    "status": "queued"
+  },
+  {
+    "name": "Sprinter Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set included in the Gambler's Chest expansion.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298696-u9yuis",
+    "discoveredAt": "2025-12-02T18:31:38.696Z",
+    "status": "queued"
+  },
+  {
+    "name": "Imitation Butcher Armor",
+    "type": "item",
+    "subType": null,
+    "brief": "An armor set that imitates the Butcher nemesis monster's appearance.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298697-wxpf0b",
+    "discoveredAt": "2025-12-02T18:31:38.697Z",
+    "status": "queued"
+  },
+  {
+    "name": "Axerman Family",
+    "type": "character",
+    "subType": null,
+    "brief": "A family group of survivors (3 models) including the Last Axeman Standing character.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764700298700-78pxba",
+    "discoveredAt": "2025-12-02T18:31:38.700Z",
+    "status": "queued"
+  },
+  {
+    "name": "Scout System",
+    "type": "concept",
+    "subType": null,
+    "brief": "A gameplay system that adds new difficulty through Scout characters.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298701-unq5y9",
+    "discoveredAt": "2025-12-02T18:31:38.701Z",
+    "status": "queued"
+  },
+  {
+    "name": "Seed Pattern System",
+    "type": "concept",
+    "subType": null,
+    "brief": "A system providing new ways to craft gear using Seed Patterns.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298702-foo4hy",
+    "discoveredAt": "2025-12-02T18:31:38.702Z",
+    "status": "queued"
+  },
+  {
+    "name": "Encounter System",
+    "type": "concept",
+    "subType": null,
+    "brief": "A system that increases the danger of the hunt with Encounter Monsters.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298702-zf53rs",
+    "discoveredAt": "2025-12-02T18:31:38.702Z",
+    "status": "queued"
+  },
+  {
+    "name": "Wanderer System",
+    "type": "concept",
+    "subType": null,
+    "brief": "A system where visitors come to your settlement, their stories intertwining with the survivors'.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298702-l4kzrn",
+    "discoveredAt": "2025-12-02T18:31:38.702Z",
+    "status": "queued"
+  },
+  {
+    "name": "Character System",
+    "type": "concept",
+    "subType": null,
+    "brief": "A system to create new Characters with enduring appeal across campaigns.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298702-tdgqoa",
+    "discoveredAt": "2025-12-02T18:31:38.702Z",
+    "status": "queued"
+  },
+  {
+    "name": "Gorm",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A node 1 quarry monster that travels enormous distances in its life cycle, shaping landscapes with its enormous appetite and extreme bodily functions. Young Gorm roam the darkness devouring anything that moves, older Gorm produce storms of incredible destruction during mating season, and ancient Gorm make a final solitary march to the gormyards to die.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gorm-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764700298703-1ht6ps",
+    "discoveredAt": "2025-12-02T18:31:38.703Z",
+    "status": "queued"
+  },
+  {
+    "name": "Gormyards",
+    "type": "location",
+    "subType": null,
+    "brief": "Fabled locations where ancient Gorm that have lived hundreds of lantern years make their final solitary march to die.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gorm-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298703-yuhey7",
+    "discoveredAt": "2025-12-02T18:31:38.703Z",
+    "status": "queued"
+  },
+  {
+    "name": "Regeneration Suit",
+    "type": "item",
+    "subType": null,
+    "brief": "Survivor gear included in the Gorm expansion sprues, represented as a Pinup miniature variant.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gorm-expansion-1-6.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298703-2m5x13",
+    "discoveredAt": "2025-12-02T18:31:38.703Z",
+    "status": "queued"
+  },
+  {
+    "name": "Ritika",
+    "type": "character",
+    "subType": null,
+    "brief": "An Indomitable Survivor known as the Poison Partisan. She battles a spider-like monster and its swarming brood, ultimately toppling the creature and extracting a florid organ from its corpse after smashing the spiderlings.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764700298703-pf6p0m",
+    "discoveredAt": "2025-12-02T18:31:38.703Z",
+    "status": "queued"
+  },
+  {
+    "name": "Spidicules",
+    "type": "monster",
+    "subType": "quarry",
+    "brief": "A spider-like monster with multiple legs, spindly fingers, and a body that emanates a greasy miasma. It spawns legions of spiderlings that swarm at its phenomenal call and will voraciously devour even their progenitor's corpse.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764700298704-svmrqs",
+    "discoveredAt": "2025-12-02T18:31:38.704Z",
+    "status": "queued"
+  },
+  {
+    "name": "Aggregate Silk Gland",
+    "type": "item",
+    "subType": null,
+    "brief": "An indomitable resource obtained from Spidicules. Likely the 'florid organ' with an oily stench extracted from the monster's corpse.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298704-d0ysxi",
+    "discoveredAt": "2025-12-02T18:31:38.704Z",
+    "status": "queued"
+  },
+  {
+    "name": "Poison Partisan",
+    "type": "item",
+    "subType": null,
+    "brief": "A gear pattern associated with Ritika, consisting of a pattern card and pattern gear card included with the miniature.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298706-qt7caw",
+    "discoveredAt": "2025-12-02T18:31:38.706Z",
+    "status": "queued"
+  },
+  {
+    "name": "Indomitable Survivor",
+    "type": "concept",
+    "subType": null,
+    "brief": "A category of special named survivors in Kingdom Death who have triumphed over specific monsters and come with unique resources and gear patterns.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-poison-partisan-ritika.txt",
+      "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt",
+      "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt",
+      "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt"
+    ],
+    "images": [],
+    "priority": 4,
+    "id": "entity-1764700298706-o2kcjg",
+    "discoveredAt": "2025-12-02T18:31:38.706Z",
+    "status": "queued"
+  },
+  {
+    "name": "Kale",
+    "type": "character",
+    "subType": null,
+    "brief": "An indomitable survivor who, in a final act of defiance against a roaring White Lion, threw himself headlong at the beast's howling maw and slew it with his blade.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764700298706-f3cb48",
+    "discoveredAt": "2025-12-02T18:31:38.706Z",
+    "status": "queued"
+  },
+  {
+    "name": "Roaring Harmonica",
+    "type": "item",
+    "subType": null,
+    "brief": "A piece of gear associated with Kale's victory over the White Lion, available as both a craftable pattern and finished gear card.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298706-jq1f57",
+    "discoveredAt": "2025-12-02T18:31:38.706Z",
+    "status": "queued"
+  },
+  {
+    "name": "Layered Maxilla",
+    "type": "item",
+    "subType": null,
+    "brief": "An indomitable resource obtained from a White Lion, used in crafting special gear.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-roaring-harmonica-kale.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298707-q81o7n",
+    "discoveredAt": "2025-12-02T18:31:38.707Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tachyon Nodachi",
+    "type": "item",
+    "subType": null,
+    "brief": "A weapon with apparent time-manipulation properties, crafted as gear with an associated pattern card for creation.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298707-gh38zm",
+    "discoveredAt": "2025-12-02T18:31:38.707Z",
+    "status": "queued"
+  },
+  {
+    "name": "Neutron Seed",
+    "type": "item",
+    "subType": null,
+    "brief": "A Phoenix resource that blinks in and out of existence, plucked from the monster's shimmering entrails. Classified as an indomitable resource.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-tachyon-nodachi-rubi.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298707-tidcir",
+    "discoveredAt": "2025-12-02T18:31:38.707Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tyrant Slayer Scarlet",
+    "type": "character",
+    "subType": null,
+    "brief": "An indomitable survivor who battles a great monster, gripping its reticulated horns as they rocket into darkness. She falls toward boiling ground with her weapon outstretched in vain hope after her companion's arrow fells the beast.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt"
+    ],
+    "images": [],
+    "priority": 3,
+    "id": "entity-1764700298707-17uc7y",
+    "discoveredAt": "2025-12-02T18:31:38.707Z",
+    "status": "queued"
+  },
+  {
+    "name": "Serpentine Tailbone",
+    "type": "item",
+    "subType": null,
+    "brief": "An indomitable resource derived from the Dragon King, included with indomitable survivor miniature sets.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298708-buvgvu",
+    "discoveredAt": "2025-12-02T18:31:38.708Z",
+    "status": "queued"
+  },
+  {
+    "name": "Tyrant Slayer",
+    "type": "item",
+    "subType": null,
+    "brief": "A gear pattern associated with the indomitable survivor Scarlet, consisting of a pattern card and pattern gear card.",
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/indomitable-survivor-tyrant-slayer-scarlet.txt"
+    ],
+    "images": [],
+    "priority": 1,
+    "id": "entity-1764700298708-moi1wg",
+    "discoveredAt": "2025-12-02T18:31:38.708Z",
     "status": "queued"
   }
 ]

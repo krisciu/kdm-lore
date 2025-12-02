@@ -1,0 +1,61 @@
+# Wave 1 Fulfillment Update - Happy Halloween!
+Post ID: 2031131
+Date: 2017-10-31T19:42:16-04:00
+Source: https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/2031131
+Images: 2
+
+---
+
+Happy Halloween everyone!
+
+We have updated our online build guide with many more models!!!
+
+build.kingdomdeath.com
+
+[IMAGE]
+
+I wanted to chime in with a quick and more detailed status update of where we are with wave 1 fulfillment.
+
+As of now, we have shipped over 15,000 packages around the world! That's not bad considering we started our fulfillment efforts about 2 weeks ago!
+
+Fulfillment Centers Currently Shipping Rewards
+
+USA Warehouses - handling USA and South America
+Canada Warehouse - handling Canada
+Australia Warehouse - handling Australia and New Zealand
+UK Warehouse - handling all of the EU (excluding Germany and Austria) and the entire rest of the world.
+
+Delayed Fulfillment Centers
+
+Hong Kong - handling Asia
+German Warehouse - handling Germany and Austria
+
+Although containers were schedule to be delivered to each center at around the same time for as close to simultaneous fulfillment as we could manage. We ended up with some delays. I am hoping to see these start to fulfill early November.
+
+Failed Credit Card Charges
+We are running cards as often as possible, due to wave shipping being a new feature for backerkit (that they built just for us!) it's a little complicated and it takes their dev team some time to process it. As of now, we have only 500 more people to track down for their shipping fee! That's pretty amazing statistically! If you have updated your card and it hasn't been charged yet, or your card has failed, don't worry we are getting to you.
+
+Late Backers
+Late backers are at the end of the shipping que for each region. So far we have started fulfilling rewards for late backers being shipped from USA warehouses. Each region will follow as orders are processed and I continue to see the successful deliveries of packages to backers!
+
+Pre Orders
+Pre orders will be shipped following late backers. Most likely by region. I suspect this to start late November! Once these start to ship, we will close pre-orders leading up to our full retail release.
+
+Issues?
+If you have an issue, concern or a question. The kickstarter comment section is not the right place to discuss it. Please respect everyone and message us directly, or best yet, submit a ticket here: kingdomdeath.com/support 
+
+We are standing by to do everything we can to help you. However, I will kindly remind everyone that we do not support the sales or transfer of pledges or issues that arise from that. 
+
+If your really stuck, you can escalate your issue with me directly, email me at adam.poots AT kingdomdeath.com. Please use this as a least measure tho!
+
+Thanks in advance for your patience and understanding!
+
+[IMAGE]
+
+ We also had a halloween sale on the webstore!!
+
+---
+
+## Image URLs
+1. https://ksr-ugc.imgix.net/assets/019/006/499/88583881b0da1cfc8c583fe26ad8049d_original.jpg?w=700&fit=max&v=1509493162&auto=format&q=92&s=7e188b7462fc42a7f7b515ac26f9fe80
+2. https://ksr-ugc.imgix.net/assets/019/006/429/5bffad398edb46eb55ab3ba77155d6ae_original.jpg?w=700&fit=max&v=1509492727&auto=format&q=92&s=c3d0d02bd930d76c483fe70a3e82d102

@@ -1,0 +1,19 @@
+# OCR Result: Pattern-Gear.png
+
+Source: rulebooks/extracted/images/game-content/Pattern-Gear.png
+Processed: 2025-12-02T18:24:08.502Z
+Tokens: 660
+
+---
+
+Looking at this image, I can see it appears to be a card back or decorative pattern rather than a game card with readable text content. 
+
+The only visible text elements are:
+- **-008** (appears to be a card number or identifier)
+- **Pattern Gear** (appears to be a category or type designation)
+
+The rest of the image consists of ornate decorative flourishes and baroque-style ornamental patterns in white/silver against a gray background, which appears to be the standard card back design for Kingdom Death: Monster gear cards.
+
+[This appears to be a card back with minimal identifying text]
+
+---

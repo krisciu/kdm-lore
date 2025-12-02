@@ -1,0 +1,18 @@
+# OCR Result: maid-card.png
+
+Source: rulebooks/extracted/images/game-assets/maid-card.png
+Processed: 2025-12-02T18:23:21.416Z
+Tokens: 1589
+
+---
+
+**Thank you**
+
+*Your room has been cleaned up and tidied!*
+*All your belongings have been placed in this storage box.*
+*We apologize for any inconvenience.*
+
+**Lantern Fresh**
+Cleaning Services
+
+---

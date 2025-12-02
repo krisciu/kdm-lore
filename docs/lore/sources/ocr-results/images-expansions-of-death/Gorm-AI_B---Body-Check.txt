@@ -1,0 +1,23 @@
+# OCR Result: Gorm-AI_B---Body-Check.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Body-Check.png
+Processed: 2025-12-02T18:18:59.528Z
+Tokens: 1634
+
+---
+
+**Body Check**
+
+**Pick Target**
+• random survivor, in range
+• no target: **illuminate**
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 1 | 2+ | 1 | ⚙️ **After Damage** |
+
+⚙️ Target suffers **bash and knockback 7**.
+
+---

@@ -1,0 +1,35 @@
+# OCR Result: Gorm-AI_A---Charge.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Charge.png
+Processed: 2025-12-02T18:17:50.861Z
+Tokens: 1676
+
+---
+
+**Charge**
+
+**Pick Target**
+• closest threat, facing, in range
+• random survivor, in field of view
+• no target: **illuminate**
+
+---
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 4 | 2+ | 2 | ⚙ **After Damage** |
+
+⚙ Target suffers **bash and knockback 5**.
+
+---
+
+Full move towards the closest threat.
+
+---
+
+⚙ **Gimped:**
+The Gorm is knocked down.
+
+---

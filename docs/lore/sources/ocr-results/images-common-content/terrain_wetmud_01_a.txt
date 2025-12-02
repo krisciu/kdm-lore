@@ -1,0 +1,13 @@
+# OCR Result: terrain_wetmud_01_a.png
+
+Source: rulebooks/extracted/images/common-content/terrain_wetmud_01_a.png
+Processed: 2025-12-02T18:16:52.632Z
+Tokens: 570
+
+---
+
+[No text found]
+
+This appears to be a terrain texture or background pattern with a mottled brown and dark coloration, but contains no visible text, cards, or game elements with readable content.
+
+---

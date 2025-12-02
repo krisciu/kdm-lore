@@ -1,0 +1,36 @@
+# Kickstarter Post IDs
+# Discovered via browser automation + RSS feed
+# Format: UpdateNumber|PostID|Title
+
+# 2025 Updates (from RSS + browser clicking)
+134|4550627|Black Friday - 2025
+133|4528510|Halloween 2025
+132|4498770|September 2025 (Screaming God)
+131|4471289|August 2025 (GenCon)
+130|4423166|June 2025 (Ships on Boats)
+129|4398287|May 2025 (Revamped Wave 1 Complete)
+128|4374406|April 2025 (Tariffs & Chaos)
+127|4327928|March 2025 (Remastered Wave 1)
+126|4324893|February 2025 (Valentine's Day)
+125|4303789|January 2025 (New Lantern Year)
+
+# 2024 Updates (continue clicking...)
+# 124|???|December 2024
+# 123|???|November 2024
+# ...
+
+# Historical 2016 Campaign updates (from Wayback Machine archive.org/web/20161205id_/)
+# These are the original KS 1.5 campaign updates with massive lore content!
+1755400|$6,666,666 - Secret Unplanned Stretch Goal
+1754792|$6.5M - Lion Knight Return, Gambler's Chest Roll #6
+1753379|$6.25M - Gambler's Chest Roll #5, Cooperative Nightmare Horror
+1752444|OVER $6 MILLION - Surpassed Surpassed Form
+1751597|5.7M - Twitch Fight Phoenix
+1750349|$5.2M - NEW EXPANSION - NIGHTMARE RAM
+1749527|OVER $5 MILLION - Gambler's Chest Roll #2
+1748638|$4.6M - Dragon King Reprint Confirmed
+1748282|$4.3M in 24 hours - Surpassed Surpassed Level
+1747997|[Earlier update]
+
+# Total discovered: 10 recent + 10 historical = 20 updates
+# Remaining: ~114 updates to discover

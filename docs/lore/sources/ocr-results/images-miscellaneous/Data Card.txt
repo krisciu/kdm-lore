@@ -1,0 +1,37 @@
+# OCR Result: Data Card.png
+
+Source: rulebooks/extracted/images/miscellaneous/Data Card.png
+Processed: 2025-12-02T18:28:07.395Z
+Tokens: 1979
+
+---
+
+**Black Knight**
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 1 | 8 | 4 | - | 6 | 10 | - | - |
+
+**S** Smash **S** Sheer Cliffs **S** Spry **S** Red Preference
+Tokens: +4 Toughness
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 2 | 9 | 6 | 1 | 7 | 10 | - | +1 |
+
+**S** Smash **S** Sheer Cliffs **S** Spry **S** Red Preference
+**S** Unsteady Tokens: +6 Toughness, +1 Accuracy
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 3 | 11 | 8 | 3 | 8 | 10 | +1 | +1 |
+
+**S** Smash **S** Sheer Cliffs **S** Spry **S** Red Preference
+**S** Unsteady **S** Seasoned Duelist **S** Indomitable
+Tokens: +8 Toughness, +1 Accuracy
+
+## **Instinct: Seek Out**
+
+Full move towards the closest survivor. If adjacent, they suffer **knockback 4**. The monster cocks its head, pondering its next move. Shuffle the **AI** discard into the **AI** deck. End the monster's turn.
+
+---

@@ -1,0 +1,22 @@
+# OCR Result: Gorm-AI_S---Musth.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_S---Musth.png
+Processed: 2025-12-02T18:20:34.666Z
+Tokens: 1667
+
+---
+
+**Musth**
+*Trait*
+
+All survivors with 3 or less Hunt XP gain -2 accuracy and +2 strength tokens.
+
+At the end of each monster turn, perform **Retch**.
+
+**Retch:** Move the Gorm 2 spaces backwards. Survivors in the **Vomit Zone** suffer ★ damage to a random hit location that ignores armor.
+
+**Vomit Zone**
+
+[The image shows a grid diagram illustrating the Vomit Zone, with blue squares indicating the affected area behind the monster's position]
+
+---

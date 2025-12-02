@@ -1,0 +1,21 @@
+# OCR Result: Gorm-AI_L---Ancient-Light.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_L---Ancient-Light.png
+Processed: 2025-12-02T18:20:08.385Z
+Tokens: 1623
+
+---
+
+**Ancient Light**
+
+*Turn to face the most survivors. Then, target all survivors in the monster's facing.*
+
+**Intimidate All Targets**
+
+Roll 1d10 for each target. On a result of 3+, they suffer a random brain trauma and gain the **Absent Seizures** disorder.
+
+---
+
+*Turn the Gorm to face the opposite board edge.*
+
+---

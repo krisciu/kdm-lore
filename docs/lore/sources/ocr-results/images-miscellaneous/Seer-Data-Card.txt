@@ -1,0 +1,23 @@
+# OCR Result: Seer-Data-Card.png
+
+Source: rulebooks/extracted/images/miscellaneous/Seer-Data-Card.png
+Processed: 2025-12-02T18:29:59.041Z
+Tokens: 1703
+
+---
+
+**Seer**
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 3     | 6 | 2 | 4 | 7   | 17  | -   | -   |
+
+🔹 **Seer's Life (6)** 🔹 **Red Secret** 🔹 **Indomitable**
+
+---
+
+**Instinct: Clairvoyance**
+
+Seer fires a hail of arrows into the darkness. All survivors taking part in the battle that are not on the showdown board are killed. This cannot be avoided for any reason.
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: rare gear.png
+
+Source: rulebooks/extracted/images/game-content/rare gear.png
+Processed: 2025-12-02T18:24:54.661Z
+Tokens: 1731
+
+---
+
+**RARE GEAR**
+
+[This appears to be a card back or title page with minimal text content. The image shows only the title "RARE GEAR" in white text against a dark background.]
+
+---

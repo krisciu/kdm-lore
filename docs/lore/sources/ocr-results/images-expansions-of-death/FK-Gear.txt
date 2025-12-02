@@ -1,0 +1,17 @@
+# OCR Result: FK-Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/FK-Gear.png
+Processed: 2025-12-02T18:17:38.527Z
+Tokens: 637
+
+---
+
+Looking at this image, I can see it appears to be a card back or decorative cover page for Kingdom Death: Monster gear cards. The visible text is:
+
+**Flower Knight Gear**
+
+The rest of the image consists of ornate decorative flourishes and scrollwork in a gothic/baroque style typical of Kingdom Death: Monster's aesthetic, but contains no other readable text content.
+
+This appears to be either a card back design or a section divider/cover page rather than an actual gear card with game mechanics.
+
+---

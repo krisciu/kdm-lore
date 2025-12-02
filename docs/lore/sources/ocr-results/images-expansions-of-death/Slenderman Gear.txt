@@ -1,0 +1,11 @@
+# OCR Result: Slenderman Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Slenderman Gear.png
+Processed: 2025-12-02T18:20:50.222Z
+Tokens: 1546
+
+---
+
+**Slenderman Gear**
+
+---

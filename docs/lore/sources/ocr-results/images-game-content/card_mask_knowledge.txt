@@ -1,0 +1,13 @@
+# OCR Result: card_mask_knowledge.png
+
+Source: rulebooks/extracted/images/game-content/card_mask_knowledge.png
+Processed: 2025-12-02T18:24:17.258Z
+Tokens: 1144
+
+---
+
+[No text found]
+
+The image appears to be a blank or empty card template with only a faint border/frame visible. There is no readable text, numbers, or other content to extract.
+
+---

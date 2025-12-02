@@ -1,0 +1,15 @@
+# OCR Result: Smog Singer - Brain Smog.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Smog Singer - Brain Smog.png
+Processed: 2025-12-02T18:22:17.425Z
+Tokens: 1556
+
+---
+
+**Brain Smog**
+
+*You just cannot focus.*
+
+*You cannot surge or concentrate.*
+
+---

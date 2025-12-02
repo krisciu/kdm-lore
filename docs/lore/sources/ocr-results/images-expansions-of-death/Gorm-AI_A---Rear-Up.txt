@@ -1,0 +1,19 @@
+# OCR Result: Gorm-AI_A---Rear-Up.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Rear-Up.png
+Processed: 2025-12-02T18:18:45.377Z
+Tokens: 1637
+
+---
+
+**Rear Up**
+
+**Duration**
+
+When this card is drawn face down, the Gorm laboriously lifts its front legs and ends its turn. All survivors adjacent to the monster are knocked down.
+
+While this card is in play, the Gorm has +5 toughness tokens.
+
+When this card is drawn face up, the Gorm crashes down. All adjacent survivors suffer a random severe injury and gain the **Megalophobia** disorder.
+
+---

@@ -1,0 +1,32 @@
+# OCR Result: Data-Card.png
+
+Source: rulebooks/extracted/images/miscellaneous/Data-Card.png
+Processed: 2025-12-02T18:28:16.053Z
+Tokens: 1785
+
+---
+
+**Killennium Butcher**
+
+**Level 2**
+- B: 9, A: 6, L: -
+- Mov: 5, Tgh: 13, Spd: +1, Dmg: +1
+
+**S** Self-Aware **S** Scorn **S** Infectious Lunacy
+Tokens: +1 accuracy.
+
+**Level 3** 
+- B: 11, A: 10, L: -
+- Mov: 5, Tgh: 16, Spd: +2, Dmg: +2
+
+**S** Self-Aware **S** Scorn **S** Infectious Lunacy
+**S** Indomitable **S** Invincible **S** Berserker
+Tokens: +2 accuracy, +1 evasion.
+
+---
+
+**Instinct: Menace**
+
+*The monster sweeps its withering gaze across the battlefield. Turn to face the most survivors. Survivors in the monster's facing suffer* ★ *brain damage.*
+
+---

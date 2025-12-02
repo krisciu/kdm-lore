@@ -1,0 +1,19 @@
+# OCR Result: Gear---White-Gigalion-2022-REVISED-Beast-Katar-2.png
+
+Source: rulebooks/extracted/images/miscellaneous/Gear---White-Gigalion-2022-REVISED-Beast-Katar-2.png
+Processed: 2025-12-02T18:29:10.539Z
+Tokens: 608
+
+---
+
+**Oxidized Beast Katar**
+
+*weapon, melee, katar, metal, bone*
+
+**Deadly, Paired, Sharp**
+
+**Barbed 4:** On a Perfect hit, gain +4 strength for the rest of the attack.
+
+[The image shows statistics: Speed 2, Accuracy 7+, Strength 5]
+
+---

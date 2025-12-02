@@ -1,0 +1,13 @@
+# OCR Result: Spidicules Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Spidicules Gear.png
+Processed: 2025-12-02T18:21:00.432Z
+Tokens: 1593
+
+---
+
+**Spidicules Gear**
+
+[This appears to be a title page or section header for Spidicules Gear content. The image shows only the title text on a black background with no other visible text, rules, or game content.]
+
+---

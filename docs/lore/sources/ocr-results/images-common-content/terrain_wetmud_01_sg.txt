@@ -1,0 +1,13 @@
+# OCR Result: terrain_wetmud_01_sg.png
+
+Source: rulebooks/extracted/images/common-content/terrain_wetmud_01_sg.png
+Processed: 2025-12-02T18:17:00.007Z
+Tokens: 1623
+
+---
+
+[No text found]
+
+This appears to be a black and white abstract or artistic image with dark ink-like splotches and stains against a light background. I cannot discern any readable text, card titles, game mechanics, or other textual content in this image. The image appears to be either decorative artwork or possibly a heavily stylized/artistic element from the game rather than a text-bearing game component.
+
+---

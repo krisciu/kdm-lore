@@ -1,0 +1,26 @@
+# OCR Result: Gorm-AI_B---Aggravated-Bite.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Aggravated-Bite.png
+Processed: 2025-12-02T18:18:51.621Z
+Tokens: 1643
+
+---
+
+**Aggravated Bite**
+
+**Pick Target**
+• closest threat, facing, in range
+• closest threat, in field of view
+• no target: **illuminate**
+
+---
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2 | 2+ | 1 | ❅ **After Damage** |
+
+❅ **Bleed 1.**
+
+---

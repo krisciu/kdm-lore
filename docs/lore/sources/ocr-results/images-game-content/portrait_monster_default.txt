@@ -1,0 +1,13 @@
+# OCR Result: portrait_monster_default.png
+
+Source: rulebooks/extracted/images/game-content/portrait_monster_default.png
+Processed: 2025-12-02T18:24:45.908Z
+Tokens: 897
+
+---
+
+[No text found]
+
+This appears to be a decorative circular emblem or logo featuring an ornate skull design with baroque-style flourishes and scrollwork. The image is rendered in grayscale/monochrome and appears to be purely artistic without any visible text content.
+
+---

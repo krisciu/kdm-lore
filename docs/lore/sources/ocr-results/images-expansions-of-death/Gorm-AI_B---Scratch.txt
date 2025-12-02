@@ -1,0 +1,26 @@
+# OCR Result: Gorm-AI_B---Scratch.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Scratch.png
+Processed: 2025-12-02T18:19:31.484Z
+Tokens: 1643
+
+---
+
+**Scratch**
+
+**Pick Target**
+• closest threat, facing, in range
+• closest threat, in field of view
+• no target: **illuminate**
+
+---
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 1 | 2+ | 1 | ❋ Before Damage |
+
+❋ Reduce armor points at all rolled hit locations to 0.
+
+---

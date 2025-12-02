@@ -1,0 +1,29 @@
+# OCR Result: EOD2_rulesCard_albedo 1.png
+
+Source: rulebooks/extracted/images/miscellaneous/EOD2_rulesCard_albedo 1.png
+Processed: 2025-12-02T18:28:31.193Z
+Tokens: 2087
+
+---
+
+# **STRAIN SYSTEM**
+**version 1.1**
+
+The strain system introduces a way for your exploits to permanently alter the future of your Kingdom Death: Monster campaigns.
+
+## **Echoes of Death Series II**
+Echoes of Death includes 4 strain milestone cards. Each one describes a rare milestone event that, if reached, will add unique thematic fighting arts to your fighting art deck forever.
+
+## **Rules**
+Set aside the strain fighting arts in their own section as they must be earned before you can use them! Examine the Milestone Conditions on your strain milestone cards. Keep them in mind as you play.
+
+During the settlement phase, place any unreached strain milestone cards on the settlement board over the Check Milestones step.
+
+During this step, check your strain milestone cards first. If you have reached a card's Milestone Condition, resolve its Permanent Effect. Add any earned strain fighting arts to the fighting arts deck and remove the achieved strain milestone card from your game. They can never be used again.
+
+## **Strain Fighting Art Limit**
+A campaign can have a maximum of 5 strain fighting arts in the fighting arts deck. If you would add a 6th strain fighting art, replace an old strain fighting art (remove it from the deck) with the new one instead. If any survivors have the removed fighting art, they still keep it.
+
+When you start a new campaign, if you have earned more than 5 strain fighting arts, you must randomly determine which 5 to add to your fighting arts deck. Any other earned strain fighting arts should be stored in your game box for later campaigns.
+
+---

@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, X, ArrowRight } from 'lucide-react';
+import { Search, X, ArrowRight, Command, ArrowUp, ArrowDown, CornerDownLeft } from 'lucide-react';
 import { searchLore } from '@/data/lore';
 import { LoreEntry } from '@/types/lore';
 
@@ -11,6 +11,14 @@ interface SearchModalProps {
   isOpen: boolean;
   onClose: () => void;
 }
+
+const QUICK_SEARCHES = [
+  'White Lion',
+  'Butcher', 
+  'Phoenix',
+  'Twilight Knight',
+  'Gold Smoke Knight',
+];
 
 export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
   const [query, setQuery] = useState('');
@@ -31,7 +39,7 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
 
   useEffect(() => {
     if (query.trim().length > 1) {
-      const searchResults = searchLore(query).slice(0, 6);
+      const searchResults = searchLore(query).slice(0, 8);
       setResults(searchResults);
       setSelectedIndex(0);
     } else {
@@ -66,21 +74,31 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
-          className="fixed inset-0 z-[100] bg-black/90 backdrop-blur-sm flex items-start justify-center pt-[20vh]"
+          transition={{ duration: 0.2 }}
+          className="fixed inset-0 z-[100] flex items-start justify-center pt-[15vh] sm:pt-[20vh]"
           onClick={onClose}
         >
+          {/* Backdrop */}
           <motion.div
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="absolute inset-0 bg-[var(--void)]/95 backdrop-blur-md"
+          />
+
+          {/* Modal */}
+          <motion.div
+            initial={{ opacity: 0, y: -20, scale: 0.98 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: -20, scale: 0.98 }}
             transition={{ type: 'spring', damping: 25, stiffness: 300 }}
-            className="w-full max-w-xl mx-4"
+            className="relative w-full max-w-xl mx-4"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="bg-[var(--black-raised)] border border-[var(--border)] overflow-hidden">
+            <div className="bg-[var(--shadow)] border border-[var(--border)] rounded-lg overflow-hidden shadow-2xl">
               {/* Search Input */}
               <div className="flex items-center gap-4 px-5 py-4 border-b border-[var(--border-subtle)]">
-                <Search className="w-4 h-4 text-[var(--text-muted)]" />
+                <Search className="w-5 h-5 text-[var(--dust)]" />
                 <input
                   ref={inputRef}
                   type="text"
@@ -88,20 +106,28 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
                   onChange={(e) => setQuery(e.target.value)}
                   onKeyDown={handleKeyDown}
                   placeholder="Search the compendium..."
-                  className="flex-1 bg-transparent border-none outline-none text-base text-white placeholder:text-[var(--text-muted)]"
+                  className="flex-1 bg-transparent border-none outline-none text-base text-[var(--bone)] placeholder:text-[var(--smoke)]"
                 />
+                {query && (
+                  <button
+                    onClick={() => setQuery('')}
+                    className="p-1 text-[var(--dust)] hover:text-[var(--bone)] transition-colors"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                )}
                 <button
                   onClick={onClose}
-                  className="p-1 text-[var(--text-muted)] hover:text-white transition-colors"
+                  className="p-1.5 text-[var(--dust)] hover:text-[var(--bone)] bg-[var(--obsidian)] rounded transition-colors"
                 >
-                  <X className="w-4 h-4" />
+                  <span className="text-[10px] font-mono">ESC</span>
                 </button>
               </div>
 
               {/* Results */}
               {query.trim().length > 1 ? (
                 results.length > 0 ? (
-                  <div className="py-2">
+                  <div className="py-2 max-h-[400px] overflow-y-auto">
                     {results.map((entry, index) => {
                       const isSelected = index === selectedIndex;
                       const isMonster = entry.category === 'monster';
@@ -111,48 +137,61 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
                           key={entry.id}
                           onClick={() => navigateToResult(entry)}
                           onMouseEnter={() => setSelectedIndex(index)}
-                          className={`w-full flex items-center gap-4 px-5 py-3 text-left transition-colors ${
-                            isSelected ? 'bg-[var(--black-elevated)]' : ''
+                          className={`w-full flex items-center gap-4 px-5 py-3.5 text-left transition-all ${
+                            isSelected ? 'bg-[var(--obsidian)]' : 'hover:bg-[var(--obsidian)]/50'
                           }`}
                         >
+                          {/* Indicator */}
+                          <div className={`w-1 h-10 rounded-full flex-shrink-0 transition-colors ${
+                            isSelected 
+                              ? isMonster ? 'bg-[var(--scarlet)]' : 'bg-[var(--dust)]'
+                              : 'bg-transparent'
+                          }`} />
+                          
                           <div className="flex-1 min-w-0">
-                            <div className="flex items-center gap-2 mb-0.5">
-                              <span className={`font-[var(--font-display)] text-sm tracking-wider uppercase ${
-                                isSelected ? 'text-white' : 'text-[var(--text-secondary)]'
+                            <div className="flex items-center gap-2.5 mb-1">
+                              <span className={`font-[var(--font-display)] text-sm tracking-wider uppercase transition-colors ${
+                                isSelected ? 'text-[var(--bone)]' : 'text-[var(--ash)]'
                               }`}>
                                 {entry.title}
                               </span>
-                              <span className={`text-[10px] tracking-wider uppercase ${
-                                isMonster ? 'text-[var(--red)]' : 'text-[var(--text-muted)]'
+                              <span className={`text-[9px] tracking-[0.15em] uppercase px-1.5 py-0.5 rounded ${
+                                isMonster 
+                                  ? 'text-[var(--scarlet)] bg-[var(--blood)]/20' 
+                                  : 'text-[var(--dust)] bg-[var(--charcoal)]'
                               }`}>
                                 {entry.category}
                               </span>
                             </div>
-                            <p className="text-xs text-[var(--text-muted)] truncate">
+                            <p className="text-xs text-[var(--dust)] truncate">
                               {entry.summary}
                             </p>
                           </div>
+                          
                           {isSelected && (
-                            <ArrowRight className="w-4 h-4 text-[var(--red)]" />
+                            <ArrowRight className="w-4 h-4 text-[var(--scarlet)] flex-shrink-0" />
                           )}
                         </button>
                       );
                     })}
                   </div>
                 ) : (
-                  <div className="px-5 py-10 text-center">
-                    <p className="text-[var(--text-muted)] text-sm">No results for &quot;{query}&quot;</p>
+                  <div className="px-5 py-12 text-center">
+                    <p className="text-[var(--dust)]">No results for &quot;{query}&quot;</p>
+                    <p className="text-xs text-[var(--smoke)] mt-2">Try a different search term</p>
                   </div>
                 )
               ) : (
                 <div className="px-5 py-6">
-                  <p className="text-[10px] tracking-wider uppercase text-[var(--text-muted)] mb-3">Quick Search</p>
+                  <p className="text-[9px] tracking-[0.2em] uppercase text-[var(--smoke)] mb-4">
+                    Quick Search
+                  </p>
                   <div className="flex flex-wrap gap-2">
-                    {['White Lion', 'Butcher', 'Phoenix', 'Twilight Knight', 'The King'].map((term) => (
+                    {QUICK_SEARCHES.map((term) => (
                       <button
                         key={term}
                         onClick={() => setQuery(term)}
-                        className="px-3 py-1.5 text-xs text-[var(--text-secondary)] border border-[var(--border)] hover:border-[var(--gray-dark)] hover:text-white transition-colors"
+                        className="px-3 py-2 text-xs text-[var(--ash)] border border-[var(--border)] rounded hover:border-[var(--border-focus)] hover:text-[var(--bone)] transition-all"
                       >
                         {term}
                       </button>
@@ -163,10 +202,21 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
 
               {/* Footer */}
               {results.length > 0 && (
-                <div className="px-5 py-3 border-t border-[var(--border-subtle)] flex items-center gap-6 text-[10px] text-[var(--text-muted)]">
-                  <span><kbd className="px-1 py-0.5 bg-[var(--black-surface)] mr-1">↑↓</kbd> navigate</span>
-                  <span><kbd className="px-1 py-0.5 bg-[var(--black-surface)] mr-1">↵</kbd> select</span>
-                  <span><kbd className="px-1 py-0.5 bg-[var(--black-surface)] mr-1">esc</kbd> close</span>
+                <div className="px-5 py-3 border-t border-[var(--border-subtle)] flex items-center justify-between text-[10px] text-[var(--smoke)]">
+                  <div className="flex items-center gap-4">
+                    <span className="flex items-center gap-1.5">
+                      <ArrowUp className="w-3 h-3" />
+                      <ArrowDown className="w-3 h-3" />
+                      navigate
+                    </span>
+                    <span className="flex items-center gap-1.5">
+                      <CornerDownLeft className="w-3 h-3" />
+                      select
+                    </span>
+                  </div>
+                  <span className="text-[var(--dust)]">
+                    {results.length} result{results.length !== 1 ? 's' : ''}
+                  </span>
                 </div>
               )}
             </div>

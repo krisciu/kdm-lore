@@ -1,0 +1,13 @@
+# OCR Result: TrailBall6.png
+
+Source: rulebooks/extracted/images/common-content/TrailBall6.png
+Processed: 2025-12-02T18:16:26.750Z
+Tokens: 601
+
+---
+
+[No text found]
+
+This image appears to show a sequence or grid of silhouetted figures against a black background, but the contrast is too low and the text (if any) is not legible enough to extract any readable content. The figures appear to be in various poses but any text that might be present is not visible or clear enough to transcribe.
+
+---

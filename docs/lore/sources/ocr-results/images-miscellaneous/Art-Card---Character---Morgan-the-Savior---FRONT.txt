@@ -1,0 +1,13 @@
+# OCR Result: Art-Card---Character---Morgan-the-Savior---FRONT.png
+
+Source: rulebooks/extracted/images/miscellaneous/Art-Card---Character---Morgan-the-Savior---FRONT.png
+Processed: 2025-12-02T18:27:40.486Z
+Tokens: 1801
+
+---
+
+[No text found]
+
+This appears to be artwork depicting an anime-style female character in a fantasy/horror setting with a lantern, but there is no visible text, card information, game mechanics, or other readable content in the image. The image appears to be purely illustrative artwork without any game text elements.
+
+---

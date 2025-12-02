@@ -1,0 +1,37 @@
+# OCR Result: 02-FRONT-Vignette-Survivor-Cards-Breccia-correct.png
+
+Source: rulebooks/extracted/images/miscellaneous/02-FRONT-Vignette-Survivor-Cards-Breccia-correct.png
+Processed: 2025-12-02T18:26:03.387Z
+Tokens: 1729
+
+---
+
+**Breccia**
+*of Deadrock*
+
+**Actions Available:**
+- Dodge
+- Encourage  
+- Dash
+
+**Insanity:** 2
+
+**Attribute Ratings:** 4 (for multiple attributes shown with icons)
+
+**Survival:** 4
+
+**Stats:**
+- **Mov:** 5
+- **Acc:** 0
+- **Str:** 0
+- **Eva:** 0
+- **Luk:** 0
+- **Spd:** 0
+- **Cou:** 1
+- **Und:** 5
+
+**Character Description:**
+Breccia is a **Whip** specialist (level 3).
+She has **Mighty Strike** and **5 Hunt XP**. Whenever she returns to the settlement, she is compelled to **Tinker**.
+
+---

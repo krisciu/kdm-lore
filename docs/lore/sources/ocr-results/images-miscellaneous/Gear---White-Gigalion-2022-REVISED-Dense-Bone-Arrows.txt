@@ -1,0 +1,18 @@
+# OCR Result: Gear---White-Gigalion-2022-REVISED-Dense-Bone-Arrows.png
+
+Source: rulebooks/extracted/images/miscellaneous/Gear---White-Gigalion-2022-REVISED-Dense-Bone-Arrows.png
+Processed: 2025-12-02T18:29:16.589Z
+Tokens: 594
+
+---
+
+**Dense Bone Arrows**
+
+*item, bone, ammunition, arrow*
+
+**Ammo - Bow, Cumbersome, Sharp**
+*(You depart with enough arrows to last. There is no activation limit.)*
+
+[Numbers visible: 2, 5+, 6]
+
+---

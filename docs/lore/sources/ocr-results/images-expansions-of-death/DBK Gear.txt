@@ -1,0 +1,13 @@
+# OCR Result: DBK Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/DBK Gear.png
+Processed: 2025-12-02T18:17:12.167Z
+Tokens: 1588
+
+---
+
+**Dung Beetle Knight Gear**
+
+[This appears to be a card title or header page with minimal text content. The image shows only the title text on a black background with no additional visible rules text, flavor text, or game mechanics.]
+
+---

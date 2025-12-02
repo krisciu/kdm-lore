@@ -1,0 +1,185 @@
+# Sacred Backer Time #4
+Post ID: 2844648
+Date: 2020-05-29T18:20:43-04:00
+Source: https://www.kickstarter.com/projects/poots/kingdom-death-monster-15/posts/2844648
+Images: 37
+
+---
+
+Welcome to our 3rd Sacred Backer time update. This update won't have any major bells and whistles, massive images, or anyone copy editing it. 
+
+Lockdown continues in NYC. I discovered recently that one of my favorite restaurants has re-opened and is doing curb side takeout! Later today I’ll be throwing on my Death Stranding cosplay (its what we wear here in NYC to stay safe) and picking up 12 of their Meal Kits, which we will be delivering to friends via car.
+
+And then a Zoom / Skype Thai Hot Pot party will commence! 
+
+## Developments
+
+Pinups of Death Collection 2-5
+
+The Dark Seamstress!  
+
+[IMAGE]
+
+Initially she just didn't feel you know... dark enough! So we went back in and adjusted her, here is the final! 
+
+[IMAGE]
+
+This week I received the final Gut Check of the models, seems like everything is accounted for in each set.
+
+[IMAGE]
+
+All of the artwork is finished, including the revisions I asked for. We are still waiting on our printing partner to give us the final sizes for the boxes, but we have the box art all ready.
+
+[IMAGE]
+
+Ok truth be told, we are going to extend the "ballin" image of the DBK Pinup Dung Ball so her art isnt cutoff by a frame.
+
+[IMAGE]
+
+I expect to be delivering everything to the printer next week, and printing can begin!
+
+Oh, and here is one of the pieces of art I had revised:
+
+[IMAGE]
+
+Stone Face Base Inserts
+
+These have gone thru our engineering team and now have been delivered to the factory for tooling. I’ll try my best to get them to fast track and cut the new tool.
+
+Bards, King and Croc Armor
+
+Please note, nothing here is finalized.
+
+Here is a Smog Singer gear exploration:
+
+[IMAGE]
+
+[IMAGE]
+
+Our Croc Armor poses are coming out well. However I feel that the layers of clothing and armor are just too thin, we are gonna go back in and refine it so it feels better in its final miniature form.
+
+このコンテンツを表示するにはHTML5対応のブラウザが必要です。
+
+[IMAGE]
+
+動画を再生
+
+音ありでリプレイ
+
+音声ありで 
+ 再生
+
+00:00
+
+00:00
+
+このコンテンツを表示するにはHTML5対応のブラウザが必要です。
+
+[IMAGE]
+
+動画を再生
+
+音ありでリプレイ
+
+音声ありで 
+ 再生
+
+00:00
+
+00:00
+
+このコンテンツを表示するにはHTML5対応のブラウザが必要です。
+
+[IMAGE]
+
+動画を再生
+
+音ありでリプレイ
+
+音声ありで 
+ 再生
+
+00:00
+
+00:00
+
+Slowly rounding the corner on the Death King armor's gear, started to pick out some favorites to be sculpted and test fit to test poses. Nothing final quite yet.
+
+[IMAGE]
+
+[IMAGE]
+
+Oh and here are some more ideas from Micheal Chang, the artist that I worked with for the Gambler and Oblivion Mosquito.
+
+[IMAGE]
+
+And lastly here is a quick exploration into some of the alternate heads that will come with the Death King Armor set. I’ll prob pick my 2 favorite.
+
+[IMAGE]
+
+Hard Drive Land
+
+So I tracked down hopefully the exact model of HD that failed and I grabbed a cloning station. Ohhh boooy, I can’t wait for all this fun ;_;
+
+[IMAGE]
+
+Show Down Tracker
+
+Low poly Lucy &amp; Allister join the tracker!
+
+[IMAGE]
+
+[IMAGE]
+
+Started to mess around with subtle animation when you move pieces around. Nothing finalized of course. And aiming to get a “path” feature added, this will leave a trail after a model is moved for a little while to help everyone see collisions etc.
+
+[IMAGE]
+
+We’ve also started to add a lot of tools to help us with remote play testing. Unsure which of those may or may not make it into the free public tracker yet.
+
+And laslty, perhaps a character for the Abysaal Woods campaign. It's gonna have a bit of a "fairy tale" flare to it!
+
+[IMAGE]
+
+Ok! I am off to eat this take out hot pot and put in some extra hours on monster dev of the weekend! Have a wonderful time everyone!
+
+---
+
+## Image URLs
+1. https://ksr-ugc.imgix.net/assets/029/274/251/e6197e840ecc7d5054ae831719482fc2_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590780659&auto=format&frame=1&q=92&s=f0151c3ffbd0c77674f7f0425359bdc7
+2. https://ksr-ugc.imgix.net/assets/029/274/251/e6197e840ecc7d5054ae831719482fc2_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590780659&frame=1&s=3882aefff03fa9e9deee79628ca98960
+3. https://ksr-ugc.imgix.net/assets/029/274/276/319acf224eb87f1845fdeda8a576064c_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590780738&auto=format&frame=1&q=92&s=c6b022bf170d453b4a3e357ee1abc08f
+4. https://ksr-ugc.imgix.net/assets/029/274/276/319acf224eb87f1845fdeda8a576064c_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590780738&frame=1&s=df296cb1f162f0c431c75ee5ddd15fd5
+5. https://ksr-ugc.imgix.net/assets/029/276/469/06a2cf7590cb4d04f359d4abe54f3f12_original.jpeg?ixlib=rb-2.1.0&w=700&fit=max&v=1590789119&auto=format&frame=1&q=92&s=092c44ed45b5dc845b7f665d0d9ba411
+6. https://ksr-ugc.imgix.net/assets/029/276/469/06a2cf7590cb4d04f359d4abe54f3f12_original.jpeg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590789119&frame=1&s=f30a9f71ee54f59f1733f8ec313da69e
+7. https://ksr-ugc.imgix.net/assets/029/274/426/567f8f7e6a0f5936421d1631f3272a4d_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781334&auto=format&frame=1&q=92&s=c9d07e5dbb4bde762339e3e5f8617f2c
+8. https://ksr-ugc.imgix.net/assets/029/274/426/567f8f7e6a0f5936421d1631f3272a4d_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781334&frame=1&s=4b4ce0be594aec394a4584d3a77d0ac1
+9. https://ksr-ugc.imgix.net/assets/029/274/445/4725281ed2d976e882dab118fb7c6f74_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781387&auto=format&frame=1&q=92&s=21261b193afdb015b3440173d34b3b0c
+10. https://ksr-ugc.imgix.net/assets/029/274/445/4725281ed2d976e882dab118fb7c6f74_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781387&frame=1&s=0e9112b831fab9aa9445f0b014c14482
+11. https://ksr-ugc.imgix.net/assets/029/274/372/f207bd0f569844adc7995f8f931c1138_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781153&auto=format&frame=1&q=92&s=80def6f7db37b4c8e0cdb00827483524
+12. https://ksr-ugc.imgix.net/assets/029/274/372/f207bd0f569844adc7995f8f931c1138_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781153&frame=1&s=738f736c12ceda2a66107279d336f5db
+13. https://ksr-ugc.imgix.net/assets/029/274/465/a5117586a9630ee6404629f630474cdc_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781468&auto=format&frame=1&q=92&s=51b63278e66efa2584be20cdbd5f8183
+14. https://ksr-ugc.imgix.net/assets/029/274/465/a5117586a9630ee6404629f630474cdc_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781468&frame=1&s=aac98a4f5d55861a1cebf2c543d8fee0
+15. https://ksr-ugc.imgix.net/assets/029/274/473/a5117586a9630ee6404629f630474cdc_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781486&auto=format&frame=1&q=92&s=a5c03cba84ed7a4b740fb86300a76084
+16. https://ksr-ugc.imgix.net/assets/029/274/473/a5117586a9630ee6404629f630474cdc_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781486&frame=1&s=9c11c22e16f80293cfb1e146889e457a
+17. https://d15chbti7ht62o.cloudfront.net/assets/029/274/519/b3d62c898a4d9bc0de311c3b4f1f29f6_h264_base.jpg?2020
+18. https://d15chbti7ht62o.cloudfront.net/assets/029/274/541/6986044e53199f6eb46a4b27236f9043_h264_high.jpg?2020
+19. https://d15chbti7ht62o.cloudfront.net/assets/029/276/482/a366a83b28d599551d65c0bdac5756cc_h264_high.jpg?2020
+20. https://ksr-ugc.imgix.net/assets/029/274/568/be91e175e2a107df3c49f4ce22d5d4f8_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781740&auto=format&frame=1&q=92&s=c10c9b0e9866ca1752d021b31afa3e42
+21. https://ksr-ugc.imgix.net/assets/029/274/568/be91e175e2a107df3c49f4ce22d5d4f8_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781740&frame=1&s=cdff62157c3e3bd077052fd920694b32
+22. https://ksr-ugc.imgix.net/assets/029/274/597/fc670c77771ace6ce62a2abb9db3e0f3_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781847&auto=format&frame=1&q=92&s=11495d49ec4d7b3bd1d4dc35194d6fdb
+23. https://ksr-ugc.imgix.net/assets/029/274/597/fc670c77771ace6ce62a2abb9db3e0f3_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781847&frame=1&s=3a3cf3f76aedd197d3bb832fc5d922f9
+24. https://ksr-ugc.imgix.net/assets/029/274/601/38c64060ccceaf248db48b0d929ae1ad_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1590781858&auto=format&frame=1&lossless=true&s=11f4bfd53c7e6d9ad66955f1cd38e66a
+25. https://ksr-ugc.imgix.net/assets/029/274/601/38c64060ccceaf248db48b0d929ae1ad_original.png?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781858&frame=1&s=69b705e66e209dd331ac7ff6b0d17aa4
+26. https://ksr-ugc.imgix.net/assets/029/274/612/692ec668f1e531983e9c364abf3878cf_original.jpg?ixlib=rb-2.1.0&w=700&fit=max&v=1590781954&auto=format&frame=1&q=92&s=622026e77ea012f0ffaf6072bebb42c5
+27. https://ksr-ugc.imgix.net/assets/029/274/612/692ec668f1e531983e9c364abf3878cf_original.jpg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590781954&frame=1&s=401ea5daacc8cf48bcee7e37911f669e
+28. https://ksr-ugc.imgix.net/assets/029/276/465/c25657a3a3c1ee2e331e63b30650f9b3_original.jpeg?ixlib=rb-2.1.0&w=700&fit=max&v=1590789092&auto=format&frame=1&q=92&s=2c2e195a5295368f3292b95edc48688f
+29. https://ksr-ugc.imgix.net/assets/029/276/465/c25657a3a3c1ee2e331e63b30650f9b3_original.jpeg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590789092&frame=1&s=0eebd5d0eadd4573f55d3395116c0ead
+30. https://ksr-ugc.imgix.net/assets/029/276/633/69b79acccd7b7128a2ec9f660b2038eb_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1590789970&auto=format&frame=1&lossless=true&s=15747074915faaa3dc7bd77b67b2d3be
+31. https://ksr-ugc.imgix.net/assets/029/276/633/69b79acccd7b7128a2ec9f660b2038eb_original.png?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590789970&frame=1&s=560731ba969616445e09b5469e8e6799
+32. https://ksr-ugc.imgix.net/assets/029/276/643/b177b1149f5501bc6e3cc693798c50f7_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1590790028&auto=format&frame=1&lossless=true&s=0eeec8a811dc5be9ade7727ccc716196
+33. https://ksr-ugc.imgix.net/assets/029/276/643/b177b1149f5501bc6e3cc693798c50f7_original.png?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590790028&frame=1&s=20b8ce87258b3bf4a8a1b825ac23b575
+34. https://ksr-ugc.imgix.net/assets/029/276/651/79f6050404d3b867881bf7e7ece34d8e_original.gif?ixlib=rb-2.1.0&w=700&fit=max&v=1590790056&auto=format&gif-q=50&q=92&s=f9a4998aba5462783e05aae5a3d56546
+35. https://ksr-ugc.imgix.net/assets/029/276/651/79f6050404d3b867881bf7e7ece34d8e_original.gif?ixlib=rb-2.1.0&w=700&fit=max&v=1590790056&auto=format&frame=1&q=92&s=9edb783c817012f6b46ad509d6236619
+36. https://ksr-ugc.imgix.net/assets/029/276/754/441e1b3902b50e97a31fa1ecb2916a9c_original.jpeg?ixlib=rb-2.1.0&w=700&fit=max&v=1590790782&auto=format&frame=1&q=92&s=9a66dc2847185125787c40618a1745b8
+37. https://ksr-ugc.imgix.net/assets/029/276/754/441e1b3902b50e97a31fa1ecb2916a9c_original.jpeg?ixlib=rb-2.1.0&auto=compress%2Cformat&q=1&w=700&fit=max&v=1590790782&frame=1&s=78634949d8b440e46655179e252d6804

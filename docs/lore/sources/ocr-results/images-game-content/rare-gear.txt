@@ -1,0 +1,19 @@
+# OCR Result: rare-gear.png
+
+Source: rulebooks/extracted/images/game-content/rare-gear.png
+Processed: 2025-12-02T18:25:00.056Z
+Tokens: 618
+
+---
+
+Looking at this image, I can see this is a decorative card back or cover page with ornate baroque-style flourishes and designs in green/olive tones.
+
+The only visible text is:
+
+**RG**
+
+**Rare Gear**
+
+This appears to be the back of a Rare Gear card from Kingdom Death: Monster, featuring decorative scrollwork and ornamental borders but no gameplay text or mechanics.
+
+---

@@ -1,0 +1,17 @@
+# OCR Result: Gorm-AI_L---Ancient-Indigestion.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_L---Ancient-Indigestion.png
+Processed: 2025-12-02T18:20:02.052Z
+Tokens: 1609
+
+---
+
+**Ancient Indigestion**
+
+**Mood**
+
+Survivors who are damaged by **Retch** gain 1 bleeding token and lose 1 survival.
+
+If the **Gorm** is defeated when this card is in play, the settlement gains +2 **Gorm** resources during the **Aftermath**.
+
+---

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T18:09:43.799Z",
-  "nextNumber": 511,
+  "lastUpdated": "2025-12-02T18:34:40.259Z",
+  "nextNumber": 571,
   "citations": [
     {
       "id": "cit-1764695953428",
@@ -190,6 +190,126 @@
       "path": "official-site/shop/batch-scraped/frogdog-expansion.txt",
       "topic": "Bullfrogdog",
       "dateAdded": "2025-12-02T18:09:43.799Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700325647",
+      "range": "[511-515]",
+      "source": "frogdog-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "topic": "Tusked Horror",
+      "dateAdded": "2025-12-02T18:32:05.647Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700351901",
+      "range": "[516-520]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Atnas the Child-Eater",
+      "dateAdded": "2025-12-02T18:32:31.901Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700384167",
+      "range": "[521-525]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Crimson Crocodile",
+      "dateAdded": "2025-12-02T18:33:04.167Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700384167",
+      "range": "[526-530]",
+      "source": "kdu-108-july-2025",
+      "type": "newsletter",
+      "path": "official-site/news/2025/kdu-108-july-2025.txt",
+      "topic": "Crimson Crocodile",
+      "dateAdded": "2025-12-02T18:33:04.167Z",
+      "quality": "implied"
+    },
+    {
+      "id": "cit-1764700384168",
+      "range": "[531-535]",
+      "source": "monster-nodes-guide",
+      "type": "community",
+      "path": "official-site/guides/monster-nodes-guide.txt",
+      "topic": "Crimson Crocodile",
+      "dateAdded": "2025-12-02T18:33:04.168Z",
+      "quality": "community"
+    },
+    {
+      "id": "cit-1764700417329",
+      "range": "[536-540]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Smog Singers",
+      "dateAdded": "2025-12-02T18:33:37.329Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700417330",
+      "range": "[541-545]",
+      "source": "basara",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/basara.txt",
+      "topic": "Smog Singers",
+      "dateAdded": "2025-12-02T18:33:37.330Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700417331",
+      "range": "[546-550]",
+      "source": "indomitable-survivors-bundle",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "topic": "Smog Singers",
+      "dateAdded": "2025-12-02T18:33:37.331Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700451149",
+      "range": "[551-555]",
+      "source": "gamblers-chest-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "topic": "Bone Eaters",
+      "dateAdded": "2025-12-02T18:34:11.149Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700451150",
+      "range": "[556-560]",
+      "source": "bone-eater-t-shirt",
+      "type": "shop",
+      "path": "official-site/shop/smart-scraped/bone-eater-t-shirt.txt",
+      "topic": "Bone Eaters",
+      "dateAdded": "2025-12-02T18:34:11.150Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700480258",
+      "range": "[561-565]",
+      "source": "black-knight-expansion",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "topic": "The Hand",
+      "dateAdded": "2025-12-02T18:34:40.258Z",
+      "quality": "official"
+    },
+    {
+      "id": "cit-1764700480259",
+      "range": "[566-570]",
+      "source": "kingdom-death-monster-1-6",
+      "type": "shop",
+      "path": "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "topic": "The Hand",
+      "dateAdded": "2025-12-02T18:34:40.259Z",
       "quality": "official"
     }
   ]

@@ -1,0 +1,13 @@
+# OCR Result: liongodgear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/liongodgear.png
+Processed: 2025-12-02T18:21:08.464Z
+Tokens: 1575
+
+---
+
+**Lion God Gear**
+
+[This appears to be a card back or title card with minimal text content - just the title "Lion God Gear" is visible on a black background]
+
+---

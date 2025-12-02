@@ -1,0 +1,13 @@
+# OCR Result: curtains_mat_AO.png
+
+Source: rulebooks/extracted/images/train-scene/curtains_mat_AO.png
+Processed: 2025-12-02T18:31:12.153Z
+Tokens: 1741
+
+---
+
+[No text found]
+
+This appears to be a black and white artistic/decorative image showing what looks like sculptural or ceramic objects with ribbed, curved surfaces. The image appears to be purely visual with no readable text, card information, or game mechanics visible.
+
+---

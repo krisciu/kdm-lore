@@ -1,0 +1,13 @@
+# OCR Result: Terrain_MaskMap.png
+
+Source: rulebooks/extracted/images/common-content/Terrain_MaskMap.png
+Processed: 2025-12-02T18:15:46.703Z
+Tokens: 1590
+
+---
+
+[No text found]
+
+This appears to be a terrain tile or game board section with a textured, paint-splatter or weathered appearance in cyan/turquoise colors on a white background. There is no visible text content to extract from this image.
+
+---

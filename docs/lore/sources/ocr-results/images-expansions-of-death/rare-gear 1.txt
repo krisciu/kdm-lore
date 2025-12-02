@@ -1,0 +1,19 @@
+# OCR Result: rare-gear 1.png
+
+Source: rulebooks/extracted/images/expansions-of-death/rare-gear 1.png
+Processed: 2025-12-02T18:21:25.261Z
+Tokens: 643
+
+---
+
+Looking at this image, I can see it appears to be a card back or decorative cover with an ornate vintage-style design in green/olive tones.
+
+The visible text is:
+
+**RG**
+
+**Rare Gear**
+
+This appears to be the back side of a "Rare Gear" card from Kingdom Death: Monster, with "RG" likely being an abbreviation for "Rare Gear." The design features decorative baroque-style ornamental flourishes but no other readable text or game mechanics are visible.
+
+---

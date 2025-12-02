@@ -1,0 +1,13 @@
+# OCR Result: blackKnight_terrain_statue_albedo.png
+
+Source: rulebooks/extracted/images/miscellaneous/blackKnight_terrain_statue_albedo.png
+Processed: 2025-12-02T18:30:04.933Z
+Tokens: 1607
+
+---
+
+Looking at this black and white image, I can see what appears to be an artistic illustration with organic, flowing forms and various geometric patterns. However, I cannot make out any clear, readable text in this image. The image appears to be primarily decorative artwork rather than containing game text, card information, or rules content.
+
+[No text found]
+
+---

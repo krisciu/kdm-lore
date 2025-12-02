@@ -1,0 +1,19 @@
+# OCR Result: Pattern-Gear.png
+
+Source: rulebooks/extracted/images/game-assets/Pattern-Gear.png
+Processed: 2025-12-02T18:22:44.162Z
+Tokens: 645
+
+---
+
+Looking at this image, I can see:
+
+**-008**
+
+**Pattern Gear**
+
+The image appears to be a decorative card back or template with ornate baroque-style flourishes and scrollwork designs in white/silver against a gray background. The text content is minimal, consisting only of the number "-008" and the title "Pattern Gear" centered in the design.
+
+The decorative elements include elaborate curving ornamental borders at the top and bottom of the card, but these contain no readable text - they are purely decorative flourishes.
+
+---

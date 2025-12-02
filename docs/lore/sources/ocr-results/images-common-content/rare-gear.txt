@@ -1,0 +1,19 @@
+# OCR Result: rare-gear.png
+
+Source: rulebooks/extracted/images/common-content/rare-gear.png
+Processed: 2025-12-02T18:16:48.505Z
+Tokens: 641
+
+---
+
+Looking at this image, I can see it appears to be a card back or decorative cover with an ornate vintage design in green/olive tones.
+
+The only visible text I can identify is:
+
+**RG**
+
+**Rare Gear**
+
+This appears to be a card back or cover page for the "Rare Gear" category in Kingdom Death: Monster, with "RG" likely being an abbreviation. The rest of the image consists of decorative ornamental flourishes and patterns but contains no other readable text.
+
+---

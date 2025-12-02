@@ -1,0 +1,15 @@
+# OCR Result: Trail1.png
+
+Source: rulebooks/extracted/images/common-content/Trail1.png
+Processed: 2025-12-02T18:16:02.330Z
+Tokens: 1668
+
+---
+
+Looking at this image, I can see it appears to be a grid or sheet of repeated elements from Kingdom Death: Monster, but the image quality is very poor - it's extremely faded, low contrast, and appears to be in grayscale. The text is too blurred and faded for me to reliably read any specific words, card names, rules text, or other content.
+
+[No text found - image quality too poor to read text reliably]
+
+The image appears to show a repeated pattern of what might be cards or game components arranged in a grid format, but the contrast and resolution make it impossible to extract any readable text content.
+
+---

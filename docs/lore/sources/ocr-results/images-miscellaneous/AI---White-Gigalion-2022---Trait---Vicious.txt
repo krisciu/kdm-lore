@@ -1,0 +1,19 @@
+# OCR Result: AI---White-Gigalion-2022---Trait---Vicious.png
+
+Source: rulebooks/extracted/images/miscellaneous/AI---White-Gigalion-2022---Trait---Vicious.png
+Processed: 2025-12-02T18:27:35.853Z
+Tokens: 1642
+
+---
+
+**Vicious**
+
+*Trait*
+
+*At the end of each monster turn, the monster gets low to the ground preparing to dash away.*
+
+Target all adjacent survivors. Full move the monster (even if there are no targets) away from all other threats. All targets suffer **Grab**.
+
+**Grab:** Place target knocked down in front of the monster (or in the closest unoccupied space, if impossible). They suffer ⭐ damage to a random hit location.
+
+---

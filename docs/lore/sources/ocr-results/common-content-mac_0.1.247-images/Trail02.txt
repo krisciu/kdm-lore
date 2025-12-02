@@ -1,0 +1,13 @@
+# OCR Result: Trail02.png
+
+Source: rulebooks/extracted/common-content-mac_0.1.247/images/Trail02.png
+Processed: 2025-12-02T18:15:37.027Z
+Tokens: 1588
+
+---
+
+[No text found]
+
+This image appears to be an abstract, artistic black and white design with flowing, curved shapes against a black background. The image is quite blurred or stylized and does not contain any readable text, card information, or game mechanics visible.
+
+---

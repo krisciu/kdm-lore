@@ -1,0 +1,42 @@
+# OCR Result: bullfrog--Data-Card.png
+
+Source: rulebooks/extracted/images/miscellaneous/bullfrog--Data-Card.png
+Processed: 2025-12-02T18:30:14.250Z
+Tokens: 1758
+
+---
+
+**Bullfrogdog**
+
+**Level 3**
+
+**Stats:**
+- B: 9
+- A: 7  
+- L: 2
+- O: 5
+- Mov: 10
+- Tgh: 17
+- Spd: +2
+- Dmg: +2
+
+**Abilities:**
+- S Foul Stench
+- S Gaseous Bloat
+- S Indomitable
+- S Double Sphincter
+- S Mature
+- S Bullish Charge
+- A Indigestion
+
+**Fart deck:** A + L
+
+**Tokens:** +2 Accuracy, +1 Luck
+
+---
+
+**Instinct: Cagey**
+
+Place the monster in the center of the showdown board. A vigorous flourish of its horns heralds a guttural growl from within the titanic sac. The monster gains +1 accuracy and +1 damage tokens.
+
+---

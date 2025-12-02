@@ -1,0 +1,31 @@
+# OCR Result: Gorm-AI_B---Maw-Arm-Toss.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Maw-Arm-Toss.png
+Processed: 2025-12-02T18:19:17.105Z
+Tokens: 1711
+
+---
+
+**Maw-Arm Toss** [B]
+
+**Pick Target**
+• random threat, in range
+• random survivor, in range
+• no target: **illuminate**
+
+---
+
+Full move towards target. Starting with the target, make a separate attack against each survivor adjacent to the Gorm.
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2 | 2+ | 1 | ❋ After Damage |
+
+❋ **Knockback 5.**
+
+---
+
+[A]
+💀 **Jaw Paralysis:** *The Gorm's limp maw-hands caress nearby faces. Any survivors directly in front of the monster gain +3 insanity.*
+
+---

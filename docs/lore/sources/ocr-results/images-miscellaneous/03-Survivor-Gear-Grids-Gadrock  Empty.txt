@@ -1,0 +1,13 @@
+# OCR Result: 03-Survivor-Gear-Grids-Gadrock  Empty.png
+
+Source: rulebooks/extracted/images/miscellaneous/03-Survivor-Gear-Grids-Gadrock  Empty.png
+Processed: 2025-12-02T18:26:43.985Z
+Tokens: 1741
+
+---
+
+**Gadrock**
+
+[This appears to be a 3x3 grid of cards or tiles, each containing only the letter "G". The cards appear to be face-down or blank template cards with just the single letter visible on each one.]
+
+---

@@ -6,7 +6,6 @@
 
 import fs from 'fs';
 import path from 'path';
-import Anthropic from '@anthropic-ai/sdk';
 import {
   loadConfig,
   addPendingEntry,
@@ -221,9 +220,6 @@ export async function reviewEntry(
     ? sources.map(s => `### ${s.file}\n\`\`\`\n${s.content}\n\`\`\``).join('\n\n')
     : 'No specific source files found. Use general Kingdom Death knowledge.';
   
-  // Call Claude
-  const client = new Anthropic();
-  
   const prompt = `You are reviewing an existing Kingdom Death: Monster lore entry for accuracy, citations, and formatting.
 
 ## ORIGINAL ENTRY (${reviewEntry.entryName})
@@ -275,25 +271,46 @@ Generate an improved version of this lore entry that:
 
 IMPORTANT: Return ONLY the improved markdown content, no explanations. The entry should be publication-ready.`;
 
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    console.error('[EntryReviewer] No ANTHROPIC_API_KEY configured');
+    return null;
+  }
+
   try {
-    const response = await client.messages.create({
-      model: config.ai.model,
-      max_tokens: config.ai.maxTokens,
-      thinking: {
-        type: 'enabled',
-        budget_tokens: 8000,
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
       },
-      messages: [
-        {
-          role: 'user',
-          content: prompt,
+      body: JSON.stringify({
+        model: config.ai.model,
+        max_tokens: config.ai.maxTokens,
+        thinking: {
+          type: 'enabled',
+          budget_tokens: 8000,
         },
-      ],
+        messages: [
+          {
+            role: 'user',
+            content: prompt,
+          },
+        ],
+      }),
     });
+
+    if (!response.ok) {
+      console.error('[EntryReviewer] Claude API error:', response.status);
+      return null;
+    }
+
+    const data = await response.json();
     
     // Extract the text response
     let improvedContent = '';
-    for (const block of response.content) {
+    for (const block of data.content) {
       if (block.type === 'text') {
         improvedContent = block.text;
         break;

@@ -1,0 +1,26 @@
+# OCR Result: Gorm-AI_B---Hiccup.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Hiccup.png
+Processed: 2025-12-02T18:19:08.061Z
+Tokens: 1691
+
+---
+
+**Hiccup** [B]
+
+**Pick Target**
+• furthest survivor, in range
+• no target: **illuminate**
+
+Roll 1d10 for each adjacent survivor. On a result of 4+, the survivor is knocked down.
+
+**Perform Retch.**
+
+**Retch:** Move the Gorm 2 spaces backwards. Survivors in the **Vomit Zone** suffer ★ damage to a random hit location that ignores armor.
+
+**Vomit Zone**
+[Grid diagram showing a rectangular area with blue squares indicating the vomit zone pattern, with a black triangle marker in the center]
+
+Place this card on top of the AI deck.
+
+---

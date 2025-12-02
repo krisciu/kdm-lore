@@ -1,0 +1,13 @@
+# OCR Result: card_mask_large.png
+
+Source: rulebooks/extracted/images/game-assets/card_mask_large.png
+Processed: 2025-12-02T18:22:57.452Z
+Tokens: 1781
+
+---
+
+[No text found]
+
+The image appears to be completely blank or white with only a faint rectangular border visible. There is no readable text, game mechanics, titles, or other content that can be extracted from this image.
+
+---

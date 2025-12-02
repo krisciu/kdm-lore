@@ -1,0 +1,92 @@
+# OCR Result: 01-Survivor-Gear-Grids-Rock-Knight.png
+
+Source: rulebooks/extracted/images/miscellaneous/01-Survivor-Gear-Grids-Rock-Knight.png
+Processed: 2025-12-02T18:25:55.456Z
+Tokens: 2192
+
+---
+
+# Rock Knight
+
+## **Lovelorn Rock**
+*item, heavy, bone, stone*
+
+*You will never be apart.*
+
+---
+
+## **Bone Darts**
+*weapon, ranged, thrown, bone*
+
+**Speed:** 1  
+**Accuracy:** 7+  
+**Strength:** 3
+
+**Range:** 6  
+**Frail:** When you attempt to wound a super-dense hit location, this weapon breaks. Archive this card at the end of the attack.
+
+---
+
+## **Armor Spikes**
+*item, bone, heavy*
+
+If adjacent to the monster when you suffer a severe body injury, the monster suffers a wound. **Limit, once per round.**
+
+---
+
+## **Skull Helm**
+*armor, bone, fragile*
+
+**Armor:** 3
+
+When you suffer a severe head injury, the Skull Helm is destroyed. Archive this card.
+
+---
+
+## **Regal Plackart**
+*armor, bone, metal*
+
+**Armor:** 4
+
+**Cursed**  
+At the Aftermath, ☐ **King's Curse.**
+
+---
+
+## **Skullcap Hammer**
+*weapon, melee, club, bone*
+
+**Speed:** 2  
+**Accuracy:** 7+  
+**Strength:** 3
+
+On a **Perfect** hit, the monster is dazed, and gains -1 speed token until the end of its turn. **A Monster can be dazed once per round.**
+
+---
+
+## **Bone Earrings**
+*item, jewelry, bone*
+
+At the start of the showdown, gain +2 speed and +2 strength tokens if insane and all gear in your gear grid has the bone keyword.
+
+---
+
+## **Regal Faulds**
+*armor, bone, metal*
+
+**Armor:** 4
+
+**Cursed**  
+At the Aftermath, ☐ **King's Curse.**
+
+---
+
+## **Regal Greaves**
+*armor, bone, metal*
+
+**Armor:** 4
+
+**Cursed**  
+At the Aftermath, ☐ **King's Curse.**
+
+---

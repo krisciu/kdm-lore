@@ -1,0 +1,34 @@
+# OCR Result: Gorm-AI_S---Ancient-Tusks.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_S---Ancient-Tusks.png
+Processed: 2025-12-02T18:20:17.280Z
+Tokens: 1694
+
+---
+
+# **Ancient Tusks**
+*Trait*
+
+Replace the Gorm's **Basic Action** with Ancient Tusks.
+
+---
+
+At the start of each monster turn, perform **Basic Action** (Ancient Tusks).
+
+## **Pick** Target
+
+• closest threat, facing, in range
+• closest threat, in field of view  
+• no target: **illuminate**
+
+---
+
+## **Move & Attack** Target
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|--------|---------|
+| 3 | 2+ | 4 | ※ **After Damage** |
+
+※ **Knockback 10, bash, bleed 1.**
+
+---

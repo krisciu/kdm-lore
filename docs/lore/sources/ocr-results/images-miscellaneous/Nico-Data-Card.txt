@@ -1,0 +1,38 @@
+# OCR Result: Nico-Data-Card.png
+
+Source: rulebooks/extracted/images/miscellaneous/Nico-Data-Card.png
+Processed: 2025-12-02T18:29:39.566Z
+Tokens: 1783
+
+---
+
+# Nico
+
+## Level 2
+**B** **A** **L**  
+6   4   2
+
+**Mov** **Tgh** **Spd** **Dmg**  
+7     13    -     -
+
+**S** Nico's Life (S)  **S** Witching Cloak  **S** Red Initiate
+
+---
+
+## Level 3
+**B** **A** **L**  
+6   4   2
+
+**Mov** **Tgh** **Spd** **Dmg**  
+7     13   +2    +2
+
+**S** Nico's Life (S)  **S** Witching Cloak  **S** Red Initiate  
+**S** Indomitable
+
+---
+
+## Instinct: Acuminate
+
+A cruel blood arrow pierces the survivor closest to Nico. It flows through them, causing no damage. Recoiling, the survivor is knocked down and loses 2 survival and 1 courage. Full move Nico toward that survivor.
+
+---

@@ -1,0 +1,17 @@
+# OCR Result: Slenderman-Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Slenderman-Gear.png
+Processed: 2025-12-02T18:20:56.113Z
+Tokens: 627
+
+---
+
+Looking at this image, I can see:
+
+**Slenderman Gear**
+
+The image appears to be a card back or decorative design featuring ornate baroque-style flourishes and scrollwork in gray/silver on a black background. There is a circular emblem with the letter "G" in the center, likely indicating this is gear-related content.
+
+This appears to be the back side of a gear card rather than containing readable game text or mechanics.
+
+---

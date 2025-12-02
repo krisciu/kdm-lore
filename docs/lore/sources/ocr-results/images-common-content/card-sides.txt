@@ -1,0 +1,13 @@
+# OCR Result: card-sides.png
+
+Source: rulebooks/extracted/images/common-content/card-sides.png
+Processed: 2025-12-02T18:16:37.792Z
+Tokens: 308
+
+---
+
+[No text found]
+
+The image appears to be a solid pink/coral colored background with horizontal line textures, but does not contain any visible text, card information, or game content to extract.
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: Lion Knight Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Lion Knight Gear.png
+Processed: 2025-12-02T18:20:40.068Z
+Tokens: 1579
+
+---
+
+**Lion Knight Gear**
+
+[This appears to be a card back or title page with minimal text content. The image shows only the title "Lion Knight Gear" in white text against a black background.]
+
+---

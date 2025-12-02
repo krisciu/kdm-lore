@@ -1,0 +1,13 @@
+# OCR Result: Trail3.png
+
+Source: rulebooks/extracted/images/common-content/Trail3.png
+Processed: 2025-12-02T18:16:07.328Z
+Tokens: 577
+
+---
+
+[No text found]
+
+This appears to be a decorative design element showing flowing, translucent gray waves or smoke against a white background. There is no visible text content to extract from this image.
+
+---

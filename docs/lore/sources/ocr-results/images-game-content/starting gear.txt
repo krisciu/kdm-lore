@@ -1,0 +1,13 @@
+# OCR Result: starting gear.png
+
+Source: rulebooks/extracted/images/game-content/starting gear.png
+Processed: 2025-12-02T18:25:04.137Z
+Tokens: 1731
+
+---
+
+**STARTING GEAR**
+
+[This appears to be a title page or section header with minimal text content. The image shows only the title "STARTING GEAR" in white text against a dark background.]
+
+---

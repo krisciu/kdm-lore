@@ -1,0 +1,13 @@
+# OCR Result: (M) Universal Cards.png
+
+Source: rulebooks/extracted/images/gamblers-chest/(M) Universal Cards.png
+Processed: 2025-12-02T18:21:33.423Z
+Tokens: 1730
+
+---
+
+[No text found]
+
+This appears to be a card back or purely decorative image showing only "(M) UNIVERSAL CARDS" text vertically aligned on the right side against a solid black background.
+
+---

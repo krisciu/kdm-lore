@@ -1,0 +1,13 @@
+# OCR Result: 02-Survivor-Gear-Grids-Hungry-Basalt  Empty.png
+
+Source: rulebooks/extracted/images/miscellaneous/02-Survivor-Gear-Grids-Hungry-Basalt  Empty.png
+Processed: 2025-12-02T18:26:10.179Z
+Tokens: 1747
+
+---
+
+**Hungry Basalt**
+
+[This appears to be a game board or grid with 9 squares arranged in a 3x3 pattern. Each square contains only the letter "G" in the center. The squares appear to be dark/gray colored with black borders.]
+
+---

@@ -1,0 +1,13 @@
+# OCR Result: Trail6.png
+
+Source: rulebooks/extracted/images/common-content/Trail6.png
+Processed: 2025-12-02T18:16:20.305Z
+Tokens: 574
+
+---
+
+[No text found]
+
+This image appears to be purely decorative, showing abstract flowing gray and white curved shapes or waves against a light background. There is no visible text content to extract.
+
+---

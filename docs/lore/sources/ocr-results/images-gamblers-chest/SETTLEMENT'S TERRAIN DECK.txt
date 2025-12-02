@@ -1,0 +1,15 @@
+# OCR Result: SETTLEMENT'S TERRAIN DECK.png
+
+Source: rulebooks/extracted/images/gamblers-chest/SETTLEMENT'S TERRAIN DECK.png
+Processed: 2025-12-02T18:22:13.770Z
+Tokens: 1585
+
+---
+
+Looking at this image, I can see text running vertically along the right edge that reads:
+
+**SETTLEMENTS TERRAIN DECK**
+
+The rest of the image appears to be a solid black background with no other visible text or content.
+
+---

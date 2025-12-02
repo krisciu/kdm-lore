@@ -1,0 +1,33 @@
+# OCR Result: 01-FRONT-Vignette-Survivor-Cards-Gadrock-correct.png
+
+Source: rulebooks/extracted/images/miscellaneous/01-FRONT-Vignette-Survivor-Cards-Gadrock-correct.png
+Processed: 2025-12-02T18:25:34.592Z
+Tokens: 1728
+
+---
+
+**Gadrock**
+*of Deadrock*
+
+**Survival** 3
+
+**Stats:**
+- Mov: 5
+- Acc: 0
+- Str: 0
+- Eva: 0
+- Luk: 0
+- Spd: 0
+- Cou: 6
+- Und: 2
+
+**Insanity** 4
+
+**Abilities:**
+- Dodge
+- Encourage 
+- Dash
+
+*The ill-tempered and vocal Gadrock is proficient in* **Katars** *(level 2). He is an* **Orator of Death** *and a* **Hoarder**. *He is* **Stalwart**, *has* **4 Hunt XP** *and, despite his impressive chest scars, has no injuries.*
+
+---

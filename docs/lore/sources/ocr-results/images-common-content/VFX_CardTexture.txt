@@ -1,0 +1,19 @@
+# OCR Result: VFX_CardTexture.png
+
+Source: rulebooks/extracted/images/common-content/VFX_CardTexture.png
+Processed: 2025-12-02T18:16:33.544Z
+Tokens: 417
+
+---
+
+**Jack of Dreams**
+
+*This card shows a figure with white/silver hair in what appears to be medieval or fantasy-style clothing.*
+
+**Jack of Dreams**
+
+*A mysterious figure appears in your dreams, offering guidance through the darkness ahead. Some say he's a guardian spirit, others claim he's merely a figment of an exhausted mind. Regardless of his true nature, his counsel has proven invaluable to those who listen.*
+
+[Note: The image shows what appears to be a tarot-style card with ornate black decorative backing. The card appears to be from the Kingdom Death: Monster game system. There may be additional game mechanics text that is not clearly legible in this image quality.]
+
+---

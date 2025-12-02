@@ -1,0 +1,17 @@
+# OCR Result: Gorm-AI_S---Gormyard.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_S---Gormyard.png
+Processed: 2025-12-02T18:20:27.560Z
+Tokens: 1585
+
+---
+
+**Gormyard**
+
+*Trait*
+
+*The ground is littered with sharp bones, which survivors must carefully pick their way through.*
+
+Survivors cannot **dash** unless they spend an additional 1 survival.
+
+---

@@ -1,0 +1,25 @@
+# OCR Result: Gorm-AI_B---Posturing-Piss.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_B---Posturing-Piss.png
+Processed: 2025-12-02T18:19:24.001Z
+Tokens: 1659
+
+---
+
+**Posturing Piss**
+
+**Mood**
+
+When this comes into play, draw **A**.
+
+---
+
+*The Gorm asserts its dominance over the challenging survivor.*
+
+When a survivor ends their act in the Gorm's blind spot, if they have any armor points at the legs location, reduce them to zero. Otherwise, they suffer ★ damage to that location.
+
+---
+
+If the Gorm is defeated when this card is in play, if they have not innovated it yet, the settlement gains the **Ammonia innovation**.
+
+---

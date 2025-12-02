@@ -1,0 +1,35 @@
+# OCR Result: 04-FRONT-Vignette-Survivor-Cards-Basalt-correct.png
+
+Source: rulebooks/extracted/images/miscellaneous/04-FRONT-Vignette-Survivor-Cards-Basalt-correct.png
+Processed: 2025-12-02T18:27:10.457Z
+Tokens: 1741
+
+---
+
+**Hungry Basalt**
+*of Deadrock*
+
+**Survival:** 3
+
+**Stats:**
+- Mov: 5
+- Acc: 0
+- Str: 0
+- Eva: 0
+- Luk: 0
+- Spd: 0
+- Cou: 3
+- Und: 1
+
+**Keywords:**
+- Dodge
+- Encourage  
+- Dash
+
+**Insanity:** 3
+
+**Disorder Icons:** (5 different disorder symbols showing level 4 each)
+
+*Basalt, with just 1 Hunt XP, is the most promising youth in Deadrock. The community trained him well, as he is* **Prepared** *for the challenges of the hunt. However, the weight of their hopes hangs heavy on his broad shoulders, leading him to a* **Binge Eating** *disorder.*
+
+---

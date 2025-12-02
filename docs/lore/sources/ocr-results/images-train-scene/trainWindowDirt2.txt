@@ -1,0 +1,13 @@
+# OCR Result: trainWindowDirt2.png
+
+Source: rulebooks/extracted/images/train-scene/trainWindowDirt2.png
+Processed: 2025-12-02T18:31:17.571Z
+Tokens: 917
+
+---
+
+[No text found]
+
+This image appears to be heavily distorted, damaged, or corrupted with a black and white grainy texture that makes any text completely illegible. The image quality is too poor to extract any readable text content.
+
+---

@@ -1,0 +1,16 @@
+# OCR Result: gamblers-chest-kd-gce-2-noai-1024x1024.jpg
+
+Source: official-site/images/shop/gamblers-chest-kd-gce-2-noai-1024x1024.jpg
+Processed: 2025-12-02T18:15:20.449Z
+Tokens: 1203
+
+---
+
+Looking at this Kingdom Death: Monster gambler's chest image, I can identify the following visible text:
+
+**DEADISM**
+*PARANOIAC EDITION*
+
+[The rest of the image shows various miniatures, cards, and game components, but the text on most cards and materials is too small or at angles that make it illegible in this photograph. There appear to be card backs with decorative designs and what looks like rulebooks or reference materials, but the specific text content cannot be clearly read from this distance and angle.]
+
+---

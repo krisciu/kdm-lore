@@ -1,0 +1,105 @@
+# OCR Result: 02-Survivor-Gear-Grids-Hungry-Basalt.png
+
+Source: rulebooks/extracted/images/miscellaneous/02-Survivor-Gear-Grids-Hungry-Basalt.png
+Processed: 2025-12-02T18:26:29.119Z
+Tokens: 2279
+
+---
+
+# Hungry Basalt
+
+## **Gorment Boots** 
+*armor, set, gormskin, heavy*
+
+**2** 🛡️
+
+Other survivors may move through but not end movement in a space you occupy.
+
+---
+
+## **Monster Tooth Necklace**
+*item, jewelry, bone*
+
+🔴🔴
+
+Gain +1 strength.
++1 Strength
+
+---
+
+## **Elder Earrings**
+*item, jewelry*
+
+🟢
+
+At start of **showdown**, gain +2 survival.
++1 Hunt XP after a showdown.
+
+---
+
+## **Gorment Sleeves**
+*armor, set, gormskin, heavy*
+
+**2** 🛡️
+
+🟢🟢 You may **Guard** without spending survival.
+
+---
+
+## **Gorment Suit**
+*armor, set, gormskin, heavy*
+
+**2** 🛡️ 💀
+
+🔵 **Guard:** At the end of your attack, if you are standing and have a shield in your gear grid, spend 1 survival to move 3 spaces directly away from the monster and **Block** 1 for free.
+🔴
+
+---
+
+## **Gorment Mask**
+*armor, set, gormskin, heavy*
+
+**2** 🛡️ 💀
+
+🔵 If your courage is higher than ⭐, ignore **Intimidate** actions.
+🟢
+
+🟢🟢
+
+---
+
+## **Boss Mehndi**
+*item, soluble*
+
+🔴
+
+Boss is brave. While adjacent to you, insane survivors gain +1 speed.
+
+---
+
+## **Greater Gaxe**
+*weapon, melee, axe, two-handed, heavy*
+
+⚡ **2**
+**6** ⭐
+**4**
+
+🟢 **Deadly. Reach 2.**
+🔴 On a **Perfect hit**, the edge sharpens. Gain +4 strength for the rest of the attack.
+
+---
+
+## **Round Leather Shield**
+*weapon, melee, shield, leather*
+
+⚡ **1**
+**8** ⭐
+**1**
+
+🟢
+
+Add 🛡️ to all hit locations.
+
+**Block 1:** Spend 🔵 to ignore 1 hit the next time you are attacked. Lasts until your next act. You cannot use block more than once per attack.
+
+---

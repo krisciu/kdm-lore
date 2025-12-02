@@ -1,0 +1,15 @@
+# OCR Result: Manhunter-Gear.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Manhunter-Gear.png
+Processed: 2025-12-02T18:20:46.484Z
+Tokens: 655
+
+---
+
+Looking at this image, I can see ornate decorative baroque-style flourishes and scrollwork in gray/silver against a black background, with a circular "G" logo in the center and "Manhunter Gear" text below it.
+
+**Manhunter Gear**
+
+This appears to be a card back or title card for the Manhunter Gear deck/category, as it contains only the decorative design elements, the "G" logo, and the category name "Manhunter Gear" with no other readable text, rules, or game mechanics visible.
+
+---

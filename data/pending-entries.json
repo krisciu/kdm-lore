@@ -251,5 +251,350 @@
     "id": "pending-1764698983800-cl4bi1",
     "createdAt": "2025-12-02T18:09:43.800Z",
     "status": "approved"
+  },
+  {
+    "entityId": "entity-1764695925960-4udcjg",
+    "entityName": "Tusked Horror",
+    "content": "# Tusked Horror\n\n> *\"As your campaign surpasses even the mightiest Frogdogs a new threat emerges in the dark.\"*\n\n**Category:** Monster\n**Type:** Quarry\n**Expansion:** Frogdog\n\n---\n\n## Overview\n\nThe Tusked Horror, also known as the Bullfrogdog, represents the apex evolution of the Frogdog lineage—a variant lurking at the farthest edges of the darkness where few survivors dare to tread. Where the common Frogdog serves as an early challenge for fledgling settlements, the Tusked Horror emerges only when hunters have proven themselves against lesser specimens, rising as a new threat to test their hard-won skills.\n\nDescribed as a \"powerfully toothy beast,\" the Tusked Horror presents an entirely different showdown experience from its kin. Its unique physiology and combat behaviors require survivors to abandon familiar tactics developed against standard Frogdogs, adapting to face a creature that has grown beyond the mold of its lesser brethren.\n\n## Physical Description\n\nThe Tusked Horror shares the fundamental biology of the Frogdog—an incomprehensible behemoth capable of both barking and croaking, its vocalizations creating plaintive songs in the endless darkness. However, the defining feature that gives this variant its name is its pronounced tusks, weaponized protrusions that mark it as a creature evolved for far greater violence than its untusked kin.\n\n*Speculation: Given the Frogdog's established ability to generate wobbling bubbles of stench that pursue the bioelectric signatures of survivors, it is likely the Tusked Horror possesses enhanced or variant versions of these same biological mechanisms, adapted to its role as a later-campaign predator.*\n\n## Hunting the Tusked Horror\n\nUnlike the standard Frogdog that awaits settlements at the beginning of their journey, the Tusked Horror represents quarry for established survivors seeking to push deeper into the darkness. The resources harvested from this beast yield an entirely new arsenal of gear and armor specifically suited for later stages of a settlement's campaign—equipment forged from a creature that has survived where others perished.\n\nThe Tusked Horror features completely distinct AI and Hit Location cards, meaning survivors cannot rely on patterns learned from hunting common Frogdogs. This beast thinks differently, moves differently, and must be killed differently.\n\n## Lore Significance\n\nThe existence of the Tusked Horror suggests that the creatures of the darkness continue to evolve and adapt at the farthest reaches of the known world. Just as survivors grow stronger through successive hunts, so too do the monsters they pursue. The Bullfrogdog represents what the Frogdog becomes when it survives long enough, grows large enough, and develops weapons terrible enough to threaten even veteran hunters.\n\nIts emergence \"as your campaign surpasses even the mightiest Frogdogs\" implies a dark ecosystem at work—one where the apex specimens of a species lurk beyond their common kin, waiting for prey worthy of their attention.\n\n## Connections\n\n- **Frogdog** — The base creature from which the Tusked Horror evolved or diverged; shares fundamental biology but represents a distinctly more dangerous variant\n- **Settlement Gear** — Provides unique late-game equipment distinct from standard Frogdog resources\n- **The Darkness** — Dwells at the \"farthest edges,\" suggesting it inhabits more remote and dangerous territories than common quarry\n\n## Sources\n\n- frogdog-expansion (shop) — Official product description\n\n---\n\n## Related Entries\n\n- [[Frogdog]]\n- [[Node 1 Quarry Monsters]]\n- [[Monster Variants]]\n\n---",
+    "frontmatter": {
+      "title": "Tusked Horror",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Frogdog",
+      "sources": "[\"frogdog-expansion (shop)\"]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/frogdog-expansion.txt",
+      "official-site/shop/smart-scraped/frogdog-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[511-515]",
+      "[511-515]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700325649-w97szv",
+    "createdAt": "2025-12-02T18:32:05.649Z",
+    "status": "rejected"
+  },
+  {
+    "entityId": "entity-1764695925961-mzj168",
+    "entityName": "Atnas the Child-Eater",
+    "content": "# Atnas the Child-Eater\n\n> *\"The children stopped believing in gifts long ago. Now they believe only in teeth.\"*\n> — *Speculative flavor*\n\n**Category:** Monster\n**Type:** Named Monster\n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nAtnas the Child-Eater is a named monster included in the Gambler's Chest expansion for Kingdom Death: Monster. Listed among the expansion's huntable quarries alongside entities such as The Gambler, Godhand, Crimson Crocodile, and Smog Singers, Atnas represents one of the nightmarish predators that settlements must face in their desperate struggle for survival.\n\nThe creature's epithet—\"the Child-Eater\"—marks it as one of the more explicitly horrific entities in Kingdom Death's already grim bestiary. In a world where human settlements cling to existence against impossible odds, where every newborn represents precious hope for the future, a monster that specifically preys upon children embodies a particularly cruel form of horror.\n\n## Thematic Speculation\n\n*[Note: The following analysis is speculative, based on naming conventions and Kingdom Death's established design philosophy.]*\n\nThe name \"Atnas\" notably reads as \"Santa\" reversed—a detail unlikely to be coincidental given Kingdom Death's penchant for subverting cultural icons and childhood mythology. If this interpretation holds, Atnas represents a grotesque inversion of the gift-giving figure: where one brings joy to children, the other brings annihilation. This would align with Kingdom Death's recurring theme of corrupted innocence and the weaponization of familiar concepts into sources of dread.\n\nSuch inversions are common throughout the game's design—the Flower Knight twists pastoral beauty into violence, the King transforms the concept of benevolent rulership into something terrible, and numerous other entities corrupt recognizable archetypes into instruments of horror.\n\n## Lore Significance\n\nAs a named monster, Atnas likely possesses unique mechanics and narrative significance beyond standard quarries. Named monsters in Kingdom Death typically carry specific hunting conditions, distinctive AI behaviors, and rewards that reflect their particular nature. \n\nThe creature's inclusion in the Gambler's Chest—an expansion focused on alternate systems, wanderers, and encounters—suggests it may interact with the expansion's new mechanics in meaningful ways, though specific details remain unconfirmed.\n\n## Connections\n\n- **The Gambler's Chest Expansion** — Atnas is included as one of the expansion's featured monsters\n- **The Gambler** — Fellow named monster within the same expansion\n- **Godhand** — Fellow named monster within the same expansion\n- **Crimson Crocodile** — Fellow quarry monster within the same expansion\n- **Smog Singers** — Fellow monster within the same expansion\n- **The King** — Fellow named monster within the same expansion\n\n## Sources\n\n- gamblers-chest-expansion (shop page)\n\n---\n\n## Related Entries\n\n- [[The Gambler]]\n- [[Godhand]]\n- [[Crimson Crocodile]]\n- [[Smog Singers]]\n- [[The King]]\n- [[Gambler's Chest Expansion]]\n\n---\n\n*Note: Due to limited source material, much of this entry remains speculative. The confirmed information extends only to Atnas's inclusion as a monster in the Gambler's Chest expansion. Additional details regarding its appearance, mechanics, and narrative role await further source documentation.*",
+    "frontmatter": {
+      "title": "Atnas the Child-Eater",
+      "category": "monster",
+      "type": "named monster",
+      "confidence": "speculative",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\"]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[516-520]",
+      "[516-520]",
+      "[516-520]"
+    ],
+    "connections": [
+      {
+        "name": "Flower Knight",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Crimson Crocodile",
+        "relationship": "Related"
+      },
+      {
+        "name": "Smog Singers",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "speculative",
+    "id": "pending-1764700351902-gbqtk7",
+    "createdAt": "2025-12-02T18:32:31.902Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764695925961-8qxwef",
+    "entityName": "Crimson Crocodile",
+    "content": "# Crimson Crocodile\n\n> *\"The White Lion never stood a chance. Its roar became a whimper, then silence—devoured by something far older, far hungrier. Now that ancient hunger turns toward the survivors, drawn by the stench of their terror.\"*\n\n**Category:** Monster  \n**Type:** Quarry (Node Quarry 1)  \n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Crimson Crocodile is a fearsome predator that serves as an alternative starting quarry for survivor settlements, positioned as a significantly more challenging foe than the White Lion that typically greets newly awakened survivors. Where the White Lion represents a harsh but survivable introduction to the horrors of the darkness, the Crimson Crocodile offers no such mercy—it is a crucible of blood and terror that devours the unprepared.\n\nThis beast occupies the Node Quarry 1 position in the People of the Dream Keeper campaign introduced in the Gambler's Chest expansion, replacing the traditional White Lion hunt. Settlements that face this creature must contend with its deadly defenses and predatory instincts that specifically target the vulnerable and frightened. The Crimson Crocodile does not simply kill—it feeds on fear itself, growing stronger as survivors succumb to panic.\n\nThe expansion includes the Crimson Crocodile Armor set, represented by four survivor miniatures, suggesting that those who successfully harvest the beast's remains can craft protective gear from its formidable hide—turning the predator's deadly defenses into the survivors' own salvation.\n\n## Physical Description\n\n*[Speculative based on naming and described traits]*\n\nThe creature's name suggests a reptilian horror bathed in blood-red coloration—whether from its natural pigmentation or the viscera of countless victims remains unknown. As a crocodilian entity, it likely possesses the armored scales and powerful jaws associated with such primordial predators, though twisted and elevated to nightmarish proportions by the strange forces that govern the Kingdom Death world.\n\nIts \"deadly defenses\" mentioned in official descriptions imply a heavily armored exterior that survivors must learn to overcome before they can harm the beast within. The creature's association with devouring the White Lion—itself a apex predator—establishes the Crimson Crocodile as something truly monstrous in the hierarchy of darkness.\n\n## Behavioral Patterns\n\nThe Crimson Crocodile exhibits a unique and terrifying hunting behavior: it feeds on the feeble fear of vulnerable survivors. This suggests the creature possesses some supernatural ability to sense or consume terror itself, making panicked survivors not just easy prey, but actively more appealing targets. \n\nNewly awakened survivors, still reeling from their emergence into consciousness with no memory and no understanding of the horrors around them, represent an irresistible feast for the Crimson Crocodile. Their inexperience and vulnerability create exactly the conditions the beast craves.\n\n## Lore Significance\n\nThe Crimson Crocodile represents a fundamental escalation in the Kingdom Death experience. By literally devouring the White Lion—the iconic introductory threat that has defined countless survivors' first hunts—the creature symbolically consumes the familiar and replaces it with something far more threatening.\n\nIts placement in the People of the Dream Keeper campaign suggests connections to the Gambler and the philosophical systems introduced in that expansion. The creature's feeding on fear may tie into broader themes of emotional and psychological survival that the Gambler's Chest explores through its Philosophy System.\n\n## Connections\n\n- **White Lion:** Prey to the Crimson Crocodile; devoured in the alternative introduction, establishing the beast's dominance\n- **People of the Dream Keeper:** Campaign strain that features the Crimson Crocodile as its starting quarry\n- **The Gambler:** Potential thematic connections through the Gambler's Chest expansion\n- **Smog Singers:** Fellow Gambler's Chest quarry occupying the NQ2 position in the Dream Keeper campaign\n- **Crimson Crocodile Armor:** Craftable armor set derived from the monster's remains\n\n## Sources\n\n- gamblers-chest-expansion (official shop description)\n- monster-nodes-guide (community compilation)\n- kdu-108-july-2025 (Kingdom Death newsletter)\n\n---\n\n## Related Entries\n\n- [White Lion](/monsters/white-lion)\n- [Smog Singers](/monsters/smog-singers)\n- [The Gambler](/monsters/the-gambler)\n- [People of the Dream Keeper](/campaigns/people-of-the-dream-keeper)\n- [Gambler's Chest](/expansions/gamblers-chest)",
+    "frontmatter": {
+      "title": "Crimson Crocodile",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[gamblers-chest-expansion, monster-nodes-guide, kdu-108-july-2025]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "official-site/news/2025/kdu-108-july-2025.txt",
+      "official-site/guides/monster-nodes-guide.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[521-525]",
+      "[521-525]",
+      "[521-525]",
+      "[526-530]",
+      "[531-535]"
+    ],
+    "connections": [
+      {
+        "name": "White Lion",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Smog Singers",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700384168-qgstyz",
+    "createdAt": "2025-12-02T18:33:04.168Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764695925961-bc2clw",
+    "entityName": "Smog Singers",
+    "content": "# Smog Singers\n\n> *\"Docile creatures that mean no harm but cause massive carnage with their strange music.\"*\n\n**Category:** Monster\n**Type:** Quarry (Node 2)\n**Expansion:** Gambler's Chest Expansion\n\n---\n\n## Overview\n\nThe Smog Singers represent one of the most tragic paradoxes of the darkness—creatures utterly without malice whose very existence brings devastation to those who encounter them. Encountered in territories where the Screaming Antelope might otherwise roam, these entities produce a strange, otherworldly music that wreaks havoc upon all who hear it. Unlike the deliberate cruelty of many monsters that stalk the darkness, the Smog Singers appear genuinely docile, making them all the more dangerous for survivors who might mistake their passivity for safety.\n\nWhat makes a Smog Singer \"sing\" remains poorly understood, but the carnage left in their wake speaks to the terrible power of their sound. Settlements that choose to hunt these creatures as their primary Node 2 quarry must adapt to an entirely different kind of threat—one born not of tooth and claw, but of resonance and vibration that tears at flesh and sanity alike.\n\n## Physical Characteristics\n\nThe Smog Singers appear to be associated with environments where crystalline formations and strange flora intersect. Accounts from survivors describe areas marked by peculiar red weeds that push up between crystals—vegetation that carries potent alchemical properties. Those who consume these weeds experience intense burning sensations followed by the bizarre phenomenon of glittering smoke sizzling from their lips and kaleidoscopic, rainbow-hued perspiration.\n\n*[Speculation: The creatures may produce or be attracted to the same chemical compounds found in these red weeds, which could explain both their name and the hallucinogenic quality of their \"music.\"]*\n\n## Hunting the Smog Singers\n\nSurvivors who successfully hunt Smog Singers gain access to unique resources that can be crafted into specialized armor—the Smog Singer Armor set represents the ingenuity of settlements that have learned to turn the creature's strange properties to their advantage. The resources harvested from these beings also inspire musical instruments of unusual power.\n\nParticularly ancient specimens that have gone unchallenged in the darkness develop unusual features, becoming what survivors term \"Indomitable.\" These elder Smog Singers yield indomitable resources capable of inspiring extraordinary gear configurations, such as the Thumping Timpani—a percussion weapon that turns the creature's own sonic principles against the monsters of the darkness.\n\n## Lore Significance\n\nThe Smog Singers challenge the fundamental assumption that survival in the darkness requires identifying and destroying hostile entities. These creatures demonstrate that danger in this world extends beyond intent—that the very nature of some beings is incompatible with human existence, regardless of disposition. Settlements must weigh the moral complexity of hunting creatures that harbor no ill will, balanced against the practical necessity of harvesting their remains to ensure survival.\n\nThe musical connection suggests deeper mysteries about sound and resonance in the Kingdom Death universe, hinting at fundamental forces that can be harnessed by those brave or desperate enough to face their source.\n\n## Connections\n\n- **Screaming Antelope** — The Smog Singers serve as an alternate quarry, encountered in place of the Screaming Antelope at Node 2\n- **Basara** — A survivor character whose abilities were transformed by consuming flora associated with Smog Singer territories; her instrument gained \"a new sound\" after the encounter\n- **Ledla** — An Indomitable Survivor who wields the Thumping Timpani, a weapon derived from indomitable Smog Singer resources\n- **Gambler's Chest Expansion** — The expansion that introduces the Smog Singers alongside other new quarries and gameplay systems\n\n## Sources\n\n- gamblers-chest-expansion (shop page)\n- basara (shop page)\n- indomitable-survivors-bundle (shop page)\n\n---\n\n## Related Entries\n\n- Screaming Antelope\n- Gambler's Chest Expansion\n- Crimson Crocodile\n- The King\n- Basara\n- Indomitable Survivors",
+    "frontmatter": {
+      "title": "Smog Singers",
+      "category": "monster",
+      "type": "quarry",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest Expansion",
+      "sources": "[gamblers-chest-expansion, basara, indomitable-survivors-bundle]",
+      "images": "[]"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/smart-scraped/basara.txt",
+      "official-site/shop/smart-scraped/indomitable-survivors-bundle.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt",
+      "official-site/shop/special-expansions/screaming-god-expansion.txt",
+      "official-site/news/2025/kdu-102-january-2025.txt",
+      "official-site/guides/monster-nodes-guide.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[536-540]",
+      "[536-540]",
+      "[541-545]",
+      "[546-550]",
+      "[536-540]"
+    ],
+    "connections": [
+      {
+        "name": "Screaming Antelope",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Crimson Crocodile",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700417332-dl4kpa",
+    "createdAt": "2025-12-02T18:33:37.332Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764695925961-0q87me",
+    "entityName": "Bone Eaters",
+    "content": "# Bone Eaters\n\n> *\"Unrelenting. Insatiable.\"*\n\n**Category:** Monster  \n**Type:** Encounter Monster (Quarry)  \n**Expansion:** Gambler's Chest\n\n---\n\n## Overview\n\nThe Bone Eaters represent a terrifying new classification of threat in the darkness: the Encounter Monster. Unlike traditional quarry that survivors deliberately seek out, these creatures are met during the perilous journey of the hunt itself, transforming what was already a dangerous expedition into a desperate fight for survival before the true showdown even begins.\n\nDescribed as \"unrelenting\" and \"insatiable,\" the Bone Eaters hunt in packs, descending upon survivors with a singular, horrifying purpose—to consume the very framework of their prey. Their appearance during a hunt forces survivors into a mini-showdown, a brutal skirmish that carries with it the potential for triumph or utter ruin. Those who fall to the Bone Eaters never reach their intended quarry; their bones stripped clean and devoured in the endless dark.\n\nThe introduction of Encounter Monsters through the Bone Eaters fundamentally changes the rhythm of the hunt, adding layers of danger that survivors must prepare for beyond merely reaching their destination.\n\n## Physical Description\n\n*[Speculative based on name and context]* The Bone Eaters are pack creatures, suggesting a coordinated, predatory intelligence. Their name implies a specialized diet—or perhaps a ritualistic consumption—of skeletal material, making survivors and their accumulated resources alike targets for these insatiable horrors. The \"Bone Eaters crest\" artwork by Lokman Lam depicts the intricate heraldry of these monsters, suggesting they possess a defined, almost regal identity among the creatures of the darkness.\n\n## Hunt Behavior\n\nThe Bone Eaters are unique in their role as obstacles encountered before the primary quarry. When survivors cross paths with a pack of Bone Eaters, they must engage in a variant showdown utilizing new encounter monster mechanics specific to this type of threat. This engagement is not optional—the pack's unrelenting nature ensures that survivors cannot simply flee or avoid confrontation.\n\nVictory against the Bone Eaters may yield rewards or advantages for the hunt ahead. Defeat, however, can spell disaster—survivors may be killed, wounded, or so depleted of resources that continuing to the true quarry becomes impossible.\n\n## Lore Significance\n\nThe existence of Encounter Monsters like the Bone Eaters suggests the darkness between settlements and hunting grounds is far more populated with horrors than previously understood. These creatures occupy an ecological niche as ambush predators, exploiting the vulnerability of survivors who have left the relative safety of their settlement but have not yet reached their destination.\n\nTheir insatiable hunger for bones—the very architecture of living things—speaks to a deeper symbolic horror. In the world of Kingdom Death, bones are resources, crafting materials, and the literal foundation upon which survivors build their desperate existence. The Bone Eaters threaten not just life, but legacy.\n\n## Connections\n\n- **The Gambler's Chest Campaign**: Bone Eaters appear as part of the 30 Lantern Year campaign, representing one of the new threats survivors must face.\n- **Encounter System**: The mechanical framework through which Bone Eaters and other Encounter Monsters function.\n- **Scout System**: Scouts may interact with or provide warnings about Encounter Monster presence during hunts.\n\n## Sources\n\n- gamblers-chest-expansion (shop) - Primary source for mechanical description and campaign context\n- bone-eater-t-shirt (shop) - Description noting \"insatiable\" nature and Lokman Lam's crest artwork\n\n---\n\n## Related Entries\n\n- [[The Gambler's Chest]]\n- [[Encounter System]]\n- [[Scout System]]\n- [[Crimson Crocodile]]\n- [[Smog Singers]]\n- [[The King]]",
+    "frontmatter": {
+      "title": "Bone Eaters",
+      "category": "monster",
+      "type": "quarry (encounter monster)",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Gambler's Chest",
+      "sources": "[\"gamblers-chest-expansion (shop)\", \"bone-eater-t-shirt (shop)\"]",
+      "images": "",
+      "- path": "/images/monsters/bone_eaters_crest.jpg",
+      "caption": "The intricate monster crest of the Bone Eaters by Lokman Lam"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/gamblers-chest-expansion.txt",
+      "official-site/shop/gamblers-chest-expansion.txt",
+      "official-site/shop/smart-scraped/bone-eater-t-shirt.txt",
+      "official-site/shop/special-expansions/gamblers-chest-expansion.txt"
+    ],
+    "images": [],
+    "citations": [
+      "[551-555]",
+      "[551-555]",
+      "[556-560]",
+      "[551-555]"
+    ],
+    "connections": [
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      },
+      {
+        "name": "Crimson Crocodile",
+        "relationship": "Related"
+      },
+      {
+        "name": "Smog Singers",
+        "relationship": "Related"
+      },
+      {
+        "name": "The King",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gambler",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700451151-bs1xd2",
+    "createdAt": "2025-12-02T18:34:11.151Z",
+    "status": "approved"
+  },
+  {
+    "entityId": "entity-1764698885192-08jyiq",
+    "entityName": "The Hand",
+    "content": "# The Hand\n\n> *\"Master Manipulator\"*\n\n**Category:** Monster\n**Type:** Nemesis\n**Expansion:** Core Game\n\n---\n\n## Overview\n\nThe Hand is a nemesis monster that stalks settlements in the Kingdom Death: Monster core game campaign. Bearing the ominous epithet \"Master Manipulator,\" this entity represents the third major nemesis threat that survivors must overcome in their desperate struggle for existence. As a node 3 nemesis, The Hand arrives after settlements have weathered the brutality of both the Butcher and the King's Man, testing whether the fledgling civilization has truly learned to survive or merely delayed its inevitable extinction.\n\nThe Hand occupies a critical position in a settlement's timeline—appearing when survivors have begun to establish themselves but before they face the ultimate terrors that lurk in the darkness. Its title suggests an intelligence beyond mere predatory instinct, hinting at a creature that does not simply hunt but *orchestrates*, pulling at the threads of fate that bind the settlement together.\n\n## Physical Description\n\n*[Limited information available from sources. The Hand's physical appearance is not detailed in the provided materials, though its product imagery suggests a distinctive and imposing figure befitting its role as a major nemesis threat.]*\n\n## Role in the Campaign\n\nThe Hand serves as the third nemesis encounter in the core game's campaign structure. This \"node 3\" position places it as a pivotal challenge—settlements that have survived to face The Hand have already proven their mettle against lesser nemeses, yet the true horrors of the world still await. The \"Master Manipulator\" must be overcome for any hope of reaching the campaign's later stages and confronting what lies beyond.\n\nSettlements seeking alternative paths through the darkness may find themselves facing the Black Knight instead, a different node 3 nemesis that replaces The Hand when that expansion is incorporated into the campaign.\n\n## Lore Significance\n\nThe title \"Master Manipulator\" carries weight in the nightmare realm of Kingdom Death. In a world where survival often depends on understanding the unknowable behaviors of monstrous entities, a creature defined by manipulation represents a uniquely terrifying threat. Where other nemeses may embody raw violence or relentless pursuit, The Hand suggests something more insidious—a horror that works through influence, control, and the corruption of that which survivors hold dear.\n\n*[Speculation: The name \"The Hand\" may imply this entity serves as an extension or instrument of greater powers, reaching into settlements to shape events according to some unfathomable design.]*\n\n## Connections\n\n- **The Butcher** - Predecessor nemesis (node 1) in the core campaign\n- **King's Man** - Predecessor nemesis (node 2) in the core campaign  \n- **Black Knight** - Alternative node 3 nemesis that replaces The Hand when the Black Knight expansion is used\n- **The Watcher** - Subsequent nemesis threat in the core campaign\n- **Gold Smoke Knight** - Late-game nemesis encounter\n\n## Sources\n\n- kingdom-death-monster-1-6 (shop) - Core game product listing\n- black-knight-expansion (shop) - Expansion product description\n\n---\n\n## Related Entries\n\n- [[King's Man]] - The nemesis that precedes The Hand\n- [[Black Knight]] - The expansion nemesis that can replace The Hand\n- [[The Watcher]] - A later nemesis in the campaign progression\n- [[Nemesis Monsters]] - Overview of nemesis encounters",
+    "frontmatter": {
+      "title": "The Hand",
+      "category": "monster",
+      "type": "nemesis",
+      "confidence": "confirmed",
+      "lastUpdated": "2025-12-02",
+      "generatedBy": "agent",
+      "expansion": "Core Game",
+      "sources": "[\"kingdom-death-monster-1-6 (shop)\", \"black-knight-expansion (shop)\"]",
+      "images": [
+        {
+          "path": "official-site/images/shop/core-game-hand-crest-box-sq-1024x1024.png",
+          "caption": "The Hand - Product image"
+        }
+      ],
+      "- path": "official-site/images/shop/core-game-hand-crest-box-sq-1024x1024.png",
+      "caption": "The Hand - Product image"
+    },
+    "sourceFiles": [
+      "official-site/shop/batch-scraped/black-knight-expansion.txt",
+      "official-site/shop/batch-scraped/kingdom-death-monster-1-6.txt",
+      "official-site/shop/black-knight-expansion.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/kingdom-death-monster-1-6.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/black-knight-expansion.txt",
+      "official-site/shop/smart-scraped/hellebore-a-frozen-survivor.txt",
+      "official-site/shop/smart-scraped/kingdom-death-monster-1-5.txt",
+      "official-site/shop/core-game/kingdom-death-monster-1-6.txt",
+      "official-site/shop/nemesis-expansions/black-knight-expansion.txt",
+      "rulebooks/core-1.6/FULL-RULEBOOK.txt",
+      "rulebooks/lore-extracted/story-events.txt",
+      "official-site/guides/monster-nodes-guide.txt",
+      "existing-research/kdm-designer-notes.txt",
+      "existing-research/locations/the-plane-of-faces.txt",
+      "existing-research/rules/02-core-rules-ocr.txt",
+      "existing-research/rules/03-story-events-ocr.txt",
+      "existing-research/rules/dragon-king-ocr.txt"
+    ],
+    "images": [
+      {
+        "path": "official-site/images/shop/core-game-hand-crest-box-sq-1024x1024.png",
+        "caption": "The Hand - Product image"
+      }
+    ],
+    "citations": [
+      "[561-565]",
+      "[566-570]",
+      "[561-565]",
+      "[566-570]",
+      "[566-570]"
+    ],
+    "connections": [
+      {
+        "name": "Butcher",
+        "relationship": "Related"
+      },
+      {
+        "name": "King's Man",
+        "relationship": "Related"
+      },
+      {
+        "name": "Gold Smoke Knight",
+        "relationship": "Related"
+      },
+      {
+        "name": "Watcher",
+        "relationship": "Related"
+      },
+      {
+        "name": "Settlement",
+        "relationship": "Related"
+      }
+    ],
+    "confidence": "confirmed",
+    "id": "pending-1764700480259-08sdoo",
+    "createdAt": "2025-12-02T18:34:40.259Z",
+    "status": "pending"
   }
 ]

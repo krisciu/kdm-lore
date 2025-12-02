@@ -1,0 +1,13 @@
+# OCR Result: 01-Survivor-Gear-Grids-Rock-Knight Empty.png
+
+Source: rulebooks/extracted/images/miscellaneous/01-Survivor-Gear-Grids-Rock-Knight Empty.png
+Processed: 2025-12-02T18:25:39.927Z
+Tokens: 1763
+
+---
+
+**Rock Knight**
+
+[This appears to be a 3x3 grid of identical cards or tiles, each showing only the letter "G" in the center. The cards appear to be face-down or showing only a basic identifier, with no other visible text, rules, or flavor content beyond the title "Rock Knight" at the top of the image.]
+
+---

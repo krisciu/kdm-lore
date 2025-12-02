@@ -1,0 +1,39 @@
+# OCR Result: frogdog-Data-Card.png
+
+Source: rulebooks/extracted/images/miscellaneous/frogdog-Data-Card.png
+Processed: 2025-12-02T18:30:26.862Z
+Tokens: 2005
+
+---
+
+**Frogdog**
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 1     | 8 | 2 | - | 7   | 8   | -   | -   |
+
+**S** Leap **S** Foul Stench **S** Double Sphincter  
+**S** Gaseous Bloat  
+Fart deck: **B**
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 2     | 8 | 6 | - | 9   | 11  | +1  | +1  |
+
+**S** Leap **S** Foul Stench **S** Double Sphincter  
+**S** Gaseous Bloat **S** Mature  
+Fart deck: **B** + **A**
+
+| Level | B | A | L | Mov | Tgh | Spd | Dmg |
+|-------|---|---|---|-----|-----|-----|-----|
+| 3     | 9 | 8 | 2 | 10  | 17  | +2  | +2  |
+
+**S** Leap **S** Foul Stench **S** Double Sphincter  
+**S** Gaseous Bloat **S** Mature **S** Indomitable  
+**A** Indigestion Fart deck: **A** + **L** Tokens: +2 Accuracy
+
+**Instinct: Cagey**
+
+Place the monster in the center of the showdown board. Drawn to the scent of unease, barking dogpoles race out from under the Frogdog. All sane survivors are marked with dog-scent and gain a -1 evasion token and a stink token.
+
+---

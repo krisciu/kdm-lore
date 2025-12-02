@@ -1,0 +1,13 @@
+# OCR Result: 04-Survivor-Gear-Grids-Breccia  Empty.png
+
+Source: rulebooks/extracted/images/miscellaneous/04-Survivor-Gear-Grids-Breccia  Empty.png
+Processed: 2025-12-02T18:27:15.140Z
+Tokens: 1752
+
+---
+
+**Breccia**
+
+[This appears to be a 3x3 grid of identical cards or tiles, each marked with the letter "G". The cards appear to be game components, likely resource or gear cards from Kingdom Death: Monster. No other readable text is visible on the individual cards themselves.]
+
+---

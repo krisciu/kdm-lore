@@ -1,0 +1,17 @@
+# OCR Result: Pillar-Card---Percival-NEW-040825.png
+
+Source: rulebooks/extracted/images/miscellaneous/Pillar-Card---Percival-NEW-040825.png
+Processed: 2025-12-02T18:29:50.672Z
+Tokens: 1581
+
+---
+
+**Percival**
+
+**I**
+
+⚔ LY 13
+
+Replace a random basic hunt event card in your hunt event deck with the **Dead Warrior** pillar hunt event card.
+
+---

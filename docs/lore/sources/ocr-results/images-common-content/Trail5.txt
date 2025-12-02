@@ -1,0 +1,13 @@
+# OCR Result: Trail5.png
+
+Source: rulebooks/extracted/images/common-content/Trail5.png
+Processed: 2025-12-02T18:16:16.415Z
+Tokens: 1604
+
+---
+
+[No text found]
+
+This image appears to show a repeating pattern of what looks like anatomical or skeletal structures (possibly sphenoid bones or similar) arranged in a grid format. The structures are rendered in light gray/white against a white background, appearing to be decorative or reference material rather than containing any readable text content.
+
+---

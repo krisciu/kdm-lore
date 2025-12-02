@@ -1,0 +1,15 @@
+# OCR Result: Natural Cardinal Staff.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Natural Cardinal Staff.png
+Processed: 2025-12-02T18:22:09.923Z
+Tokens: 602
+
+---
+
+**Natural Cardinal Staff**
+*weapon, melee, club, other*
+
+**Reach 2, Surpass 5**
+During the showdown, this gains +1 strength anytime a survivor rolls a 6, but suffers -1 strength anytime a survivor rolls a natural 1. (Track this with strength tokens.)
+
+---

@@ -1,0 +1,29 @@
+# OCR Result: Gorm-AI_A---Headbutt.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Headbutt.png
+Processed: 2025-12-02T18:18:24.411Z
+Tokens: 1729
+
+---
+
+**Headbutt**
+
+**Pick Target**
+• random threat, in field of view, in range
+• no target: **illuminate**
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 1 | 2+ | 1 | ⚙️ **After Damage** |
+
+⚙️ **Perform Retch.**
+
+**Retch:** Move the Gorm 2 spaces backwards. Survivors in the **Vomit Zone** suffer ⭐ damage to a random hit location that ignores armor.
+
+**Vomit Zone**
+
+[Grid diagram showing the Vomit Zone pattern - a 3x3 grid of blue squares to the right of a dark square with a play button symbol in the center]
+
+---

@@ -1,0 +1,26 @@
+# OCR Result: Sparkling Tail Base - FRONT.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Sparkling Tail Base - FRONT.png
+Processed: 2025-12-02T18:22:26.029Z
+Tokens: 1694
+
+---
+
+**Sparkling Tail Base**
+
+*Coagulated*
+
+Unless you attack the highlighted spot, your wound attempt is an automatic failure. See rulebook for extended rules.
+
+*You strike the moist center of a sparkling scab on the monster's chunky tail. Gain +3 strength to wound this location.*
+
+**Critical Wound**
+*You hack the tail clean off!*
+Gain 1 **MR** Crimson Fin.
+
+💀 **Persistent Injury - Lost Tail**
+When the monster rolls left or right, roll 1d10. On a 1 or a 2, it is knocked down instead.
+
+**Persistent Injury | Keep in Play**
+
+---

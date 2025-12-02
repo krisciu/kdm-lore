@@ -1,0 +1,28 @@
+# OCR Result: Gorm-AI_A---Eat-and-Run.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Eat-and-Run.png
+Processed: 2025-12-02T18:17:59.013Z
+Tokens: 1690
+
+---
+
+**Eat and Run**
+
+**Pick Target**
+• random threat, facing, in range
+• closest threat, in field of view
+• no target: **illuminate**
+
+---
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2 | 2+ | 2 | ⚙ **After Damage** |
+
+⚙ If the attack dealt damage more than once, full move the Gorm forward in a straight line and perform **Grab**.
+
+**Grab**: Place the survivor knocked down in front of the monster. They suffer ★ damage to a random hit location.
+
+---

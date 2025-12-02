@@ -1,0 +1,40 @@
+# OCR Result: 03-FRONT-Vignette-Survivor-Cards-Rock-Knight-correct.png
+
+Source: rulebooks/extracted/images/miscellaneous/03-FRONT-Vignette-Survivor-Cards-Rock-Knight-correct.png
+Processed: 2025-12-02T18:26:38.710Z
+Tokens: 1782
+
+---
+
+**Rock Knight**
+*of Deadrock*
+
+**Survival**
+3
+
+**Attributes:**
+- Mov: 5
+- Acc: 0  
+- Str: 1
+- Eva: 0
+- Luk: 0
+- Spd: 0
+- Cou: 0
+- Und: 2
+
+**Abilities:**
+- Dodge
+- Encourage  
+- Dash
+
+**Insanity Conditions:**
+- Brain: 6
+- Head: 3
+- Arms: 0
+- Body: 4
+- Waist: 4
+- Legs: 4
+
+*Knighted by the King's Man, the self-proclaimed Rock Knight never leaves her lovelorn rock. She is* **Squeamish**, *suffers from the* **Post-Traumatic Stress** *disorder, and is a* **Club** *specialist (level 4). With* **6 Hunt XP**, **King's Step** *and* **Clutch Fighter**, *she has an unhinged determination.*
+
+---

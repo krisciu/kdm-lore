@@ -1,0 +1,29 @@
+# OCR Result: Gorm-AI_A---Rampaging.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Rampaging.png
+Processed: 2025-12-02T18:18:38.953Z
+Tokens: 1664
+
+---
+
+**Rampaging**
+
+**Pick Target**
+• closest threat, facing, in range
+• no target: **illuminate**
+
+---
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2 | 2+ | 2 | ⚙ **After Damage** |
+
+⚙ Target suffers **bash**.
+
+---
+
+*Full move towards the closest threat in range. Place this card back on top of the AI Deck and perform* **Basic Action**.
+
+---

@@ -1,0 +1,22 @@
+# OCR Result: Crimson Crocodile - Staircase of Blood.png
+
+Source: rulebooks/extracted/images/gamblers-chest/Crimson Crocodile - Staircase of Blood.png
+Processed: 2025-12-02T18:21:50.067Z
+Tokens: 2118
+
+---
+
+# **Staircase of Blood**
+*- scout discovery, crimson crocodile -*
+
+**Gain the Crimson Crocodile Tablet scout gear.**
+
+*In the sudden silence, the scout follows the sound of heavy dripping. Dread fills the survivors as they approach a staircase of clotted blood spiraling up into the darkness. Start the terrifying ascent. Roll 1d10.*
+
+| Roll | Result |
+|------|---------|
+| 1 - 2 | As they take the ninth step, the scout steps in a teeming nest of hissing cockroaches. All survivors suffer 1 arms event damage as they fall and then scramble away. Mentally broken, they each gain a random disorder. Add 1d5 **Hissing Cockroach** vermin resources to settlement storage. |
+| 3 - 6 | The scout stops at the twenty-first step. Slick rivulets of blood gently lift their feet, guiding them down. Wisely relenting to the gentle nudge, the group turns back. Each survivor may remove a disorder of their choice. |
+| 7+ | At an uncomfortable height, the stairwell forks, revealing a unique set of stairs for each survivor. The group divides and continues their ascent. High above the ground, there is only darkness and the faint footsteps of fellow survivors. Each survivor rolls 1d10. On a 1, they are eaten by a Crimson Crocodile lurking in the sky. Otherwise, they gain +1 permanent strength. Choose a survivor, they gain the **Hostox the Gloaming** rare gear, found embedded in their path. |
+
+---

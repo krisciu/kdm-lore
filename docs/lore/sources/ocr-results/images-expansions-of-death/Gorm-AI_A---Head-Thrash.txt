@@ -1,0 +1,26 @@
+# OCR Result: Gorm-AI_A---Head-Thrash.png
+
+Source: rulebooks/extracted/images/expansions-of-death/Gorm-AI_A---Head-Thrash.png
+Processed: 2025-12-02T18:18:15.806Z
+Tokens: 1694
+
+---
+
+**Head Thrash**
+
+**Pick Target**
+• random knocked down survivor, in range
+• random survivor, in range  
+• no target: **illuminate**
+
+**Move & Attack Target**
+
+| Speed | Accuracy | Damage | Trigger |
+|-------|----------|---------|---------|
+| 2 | 2+ | 2 | ⚙ **After Damage** |
+
+⚙ Target suffers **bash**. Full move the monster away from the closest threat.
+
+**💀 Jaw Paralysis:** *The Gorm's limp maw-hands caress nearby faces. Any survivors directly in front of the monster gain +3 insanity.*
+
+---
