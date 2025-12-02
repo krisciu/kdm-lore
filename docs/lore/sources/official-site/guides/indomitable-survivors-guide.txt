@@ -1,0 +1,107 @@
+# Indomitable Survivors Guide
+
+> Source: https://shop.kingdomdeath.com/pages/indomitable-survivors
+> Scraped: 2025-12-02
+> Category: Official Guide / Game Mechanics
+
+---
+
+## Overview
+
+**Indomitable monsters are the mightiest of their species. Defeating them unlocks exceptionally rare indomitable resources. Settlements that win such trophies can craft dangerous, new gear from familiar foes!**
+
+## What's Included with an Indomitable Survivor
+
+### Indomitable Survivor Miniature
+A miniature of the reckless survivor who felled an indomitable foe. They are depicted with their corresponding indomitable gear (highlighted in gold). Use this survivor miniature to represent any survivor in your campaign. You need not use this miniature to build their indomitable gear.
+
+### Indomitable Resource Card
+A resource earned from defeating an indomitable monster. Obtaining these trophies can inspire patterns for new pieces of gear.
+
+### Pattern Card + Pattern Gear
+A new crafting recipe along with the gear card you can build. When it's time to craft, your settlement may spend the resources on the pattern card to build this new gear. Any survivor may use this gear to face the horrors ahead.
+
+## Indomitable Monsters
+
+**Indomitable** is a unique trait of Level 3+ monsters. This trait card is found among the universal cards in your core game. These monsters are so resilient that they recover almost immediately after they are knocked down, presenting an extra challenge for even the most skilled survivors.
+
+### Defeating Indomitable Monsters
+Defeating indomitable monsters adds an **Additional Reward** to a victorious aftermath. The additional reward is 1 random indomitable resource from that monster in addition to any rewards gained from their showdown.
+
+## Indomitable Resources
+
+When survivors defeat an Indomitable foe, they gain a random indomitable resource from that monster in addition to any other rewards from their showdown.
+
+When an Indomitable resource is gained it may list a pattern, like **Stampede Glaive**, that is also gained alongside this resource. These patterns reveal new crafting recipes for gear using this resource.
+
+### Important Rules
+- Indomitable resources are incredibly rare
+- Effects that allow survivors to gain monster resources **cannot** be used to gain indomitable resources
+- However indomitable resources may be spent like common resources (bone, hide, organ, etc.)
+
+## Pattern Cards Explained
+
+Pattern cards are recipes for gear found outside of settlement locations and story events.
+
+Once your settlement gains a pattern they can craft it during any settlement phase as long as they spend all the resources listed in the gear cost.
+
+### Anatomy of a Pattern Card
+
+1. **Name**: The name of the seed pattern and the corresponding seed pattern gear.
+2. **Keywords**: The keywords that determine which seed patterns belong in your campaign. If a monster's name is present, include this only when your campaign has this monster.
+3. **Crafting limit**: The total quantity of this pattern gear that your settlement can have at any time.
+4. **Gear Name**: Name of the gear card you will build.
+5. **Cost**: Lists the resources that must be spent to build this gear.
+6. **Requirements**: Innovations or other settlement milestones that must be met to craft this.
+
+## Pattern Gear
+
+Pattern gear crafted from indomitable resources offer new paths to power and perfection. Discover each new gear and master their boundless potential!
+
+## Named Indomitable Survivors & Their Monsters
+
+### Core Game Monsters (White Lion & Screaming Antelope)
+- **Roaring Harmonica Kale**
+- **Longclaw Lenore**
+- **Stampede Glaive Xell**
+- **Dashing Reaper Paleun**
+
+### Expansion Monsters
+- **Gusk Knives Grimmory** (Gorm)
+- **Greatest Gaxe Morg** (also Gorm!)
+- **Lordsruin Titus** (Gambler's Chest)
+
+### Other Named Indomitable Survivors
+- Fated Dagger Domino
+- Oblouk Shield Arco
+- Toxicimitar Badar
+- Tyrant Slayer Scarlet
+- Poison Partisan Ritika
+
+## Key Lore Points
+
+1. Indomitable monsters are the "mightiest of their species"
+2. They are Level 3+ variants with enhanced resilience
+3. They recover almost immediately after being knocked down
+4. Their resources are exceptionally rare and cannot be gained through normal resource-gaining effects
+5. Defeating them is considered earning a "trophy"
+6. Named survivors who defeat these monsters become legendary figures
+
+## Themes
+
+- Exceptional achievement through combat
+- Rare and powerful rewards
+- Crafting legacy items from legendary foes
+- Named heroes and their feats
+- The challenge of facing the strongest monsters
+
+## Related Concepts
+
+- Monster Levels (Level 3+)
+- Indomitable trait
+- Pattern Cards
+- Pattern Gear
+- Aftermath rewards
+- Resource types (bone, hide, organ)
+- Settlement crafting
+
